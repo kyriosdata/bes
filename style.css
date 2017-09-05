@@ -3,11 +3,12 @@ article::before {
   content: "REQ" counter(requisitos) " \A";
   color: blue;
   white-space: pre;
+  line-height: 25px;
 }
 
 article {
   font-family: monospace;
-  margin-top: 5px;
+  margin-top: 10px;
   width: 500px;
   padding: 10px;
   background-color: aliceblue;
