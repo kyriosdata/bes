@@ -1,3 +1,4 @@
-p {
-  font-family: monospace
+article {
+  font-family: monospace;
+  margin-top: 20px;
 }
