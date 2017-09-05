@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="description" content="Bacharelado em Engenharia de Software">
     <title>Engenharia de Software</title>
+    <link rel="shortcut icon" href="imagens/favicon.png">
     <link rel="stylesheet" href="style.css">
   </head>
   
@@ -32,6 +33,32 @@
     
     <p>A tela principal e única permitirá acesso aos vários conteúdos. Boa 
     parte será por meio do grafo.</p>
+    
+    <p>Nomes das disciplinas, a ementa, a bibliografia e as condições mínimas
+    são formadas por palavras. Essas palavras deverão ser trabalhadas: (a) filtrar
+    o que não é "relevante", por exemplo, "a", "o", "é", "para" e "similares";
+    (b) eliminar duplicidades; (c) criar dicionário de termos canônicos (muitos 
+    termos distintos são empregados com a mesma acepção, então esses devem ser agrupdados
+    e um deles eleito para representar o grupo.</p>
+    
+    <p>Estabelecer associação do nome da disciplina, da ementa, da bibliografia 
+    e de cada condição mínima com o grupo em questão, representado pela
+    palavra eleita.</p>
+    
+    <p>O grafo das disciplinas, quando estiver exibindo o critério termos,
+    irá apresentar todos os termos e as ligações destes com as disciplinas,
+    onde termo é a palavra eleita de um grupo com o qual o nome da disciplina,
+    ou a ementa ou a bibliografia ou uma das condições mínimas está
+    relacionada.</p>
+    
+    <p>A aresta que liga uma disciplina a um termo é diferente conforme
+    a ligação da disciplina com o termo. Se a ligação for com o nome da
+    disciplina e/ou ementa, então a aresta é de "conteúdo". Se a ligação é
+    de condição mínima, então a aresta é de "condição". Se a ligação é
+    com a bibliografia, então a aresta é "bibliografia".</p>
+    
+    <p>A distinção do tipo da aresta pode ser gráfica e/ou por meio de
+    rótulo.</p>
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.10.0/d3.js"></script>
     <script src="main.js"></script>
