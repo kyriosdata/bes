@@ -18,47 +18,60 @@
       Informática da Universidade Federal de Goiás.</p>
     
     <h2>Como?</h2>
-    <p>Nessa única página (Single Page Application) vou oferecer acesso 
-    às disciplinas, às ementas correspondentes e condições mínimas, dentre
-    outras informações. Será por meio de um grafo onde os nós principais são
-    as disciplinas, conectadas conforme os pré-requisitos, a ordenação temporal
-    sugerida e vários outros critérios. Quando se escolhe um critério, o 
+    
+    <article>Tudo será apresentado em uma única página (SPA).</article>
+    
+    <article>Vou oferecer acesso 
+    às disciplinas, às ementas correspondentes e às condições mínimas, dentre
+      outras informações.</article>
+      
+    <article>Informações estarão disponíveis por meio de um grafo onde os nós 
+      principais são as disciplinas.</article>
+      
+    <article>Nós (disciplinas) estarão conectados conforme os pré-requisitos, 
+      a ordenação temporal sugerida (fluxo) e vários outros critérios.</article>
+      
+    <article>Para cada tipo de conexão (critério) teremos uma visualização
+      diferente da aresta.</article>
+      
+    <article>Quando se escolhe um critério, o 
     grafo se altera para refletir a exibição ou ocultação do critério em 
     questão. Por exemplo, se o grafo está exibindo os pré-requisitos, quando
     esse critério é "desmarcado", então as arestas correspondentes são 
-    "eliminadas" do grafo (tornam-se invisíveis).</p>
+    "eliminadas" do grafo (tornam-se invisíveis).</article>
     
-    <p>Esse é o conteúdo da estratégia de desenvolvimento, que só será
-    exibida quando requisitado pelo usuário.</p>
+    <article>Esse é o conteúdo da estratégia de desenvolvimento, que só será
+    exibida quando requisitado pelo usuário.</article>
     
-    <p>A tela principal e única permitirá acesso aos vários conteúdos. Boa 
-    parte será por meio do grafo.</p>
+    <article>A tela principal exibirá o grafo em sua configuração 
+    padrão, ou seja, disciplinas com pré-requisitos e fluxo
+    sugerido.</article>
     
-    <p>Nomes das disciplinas, a ementa, a bibliografia e as condições mínimas
+    <article>Nomes das disciplinas, a ementa, a bibliografia e as condições mínimas
     são formadas por palavras. Essas palavras deverão ser trabalhadas: (a) filtrar
     o que não é "relevante", por exemplo, "a", "o", "é", "para" e "similares";
     (b) eliminar duplicidades; (c) criar dicionário de termos canônicos (muitos 
     termos distintos são empregados com a mesma acepção, então esses devem ser agrupdados
-    e um deles eleito para representar o grupo.</p>
+    e um deles eleito para representar o grupo.</article>
     
-    <p>Estabelecer associação do nome da disciplina, da ementa, da bibliografia 
+    <article>Estabelecer associação do nome da disciplina, da ementa, da bibliografia 
     e de cada condição mínima com o grupo em questão, representado pela
-    palavra eleita.</p>
+    palavra eleita.</article>
     
-    <p>O grafo das disciplinas, quando estiver exibindo o critério termos,
+    <article>O grafo das disciplinas, quando estiver exibindo o critério termos,
     irá apresentar todos os termos e as ligações destes com as disciplinas,
     onde termo é a palavra eleita de um grupo com o qual o nome da disciplina,
     ou a ementa ou a bibliografia ou uma das condições mínimas está
-    relacionada.</p>
+    relacionada.</article>
     
-    <p>A aresta que liga uma disciplina a um termo é diferente conforme
+    <article>A aresta que liga uma disciplina a um termo é diferente conforme
     a ligação da disciplina com o termo. Se a ligação for com o nome da
     disciplina e/ou ementa, então a aresta é de "conteúdo". Se a ligação é
     de condição mínima, então a aresta é de "condição". Se a ligação é
-    com a bibliografia, então a aresta é "bibliografia".</p>
+    com a bibliografia, então a aresta é "bibliografia".</article>
     
-    <p>A distinção do tipo da aresta pode ser gráfica e/ou por meio de
-    rótulo.</p>
+    <article>A distinção do tipo da aresta pode ser gráfica e/ou por meio de
+    rótulo.</article>
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.10.0/d3.js"></script>
     <script src="main.js"></script>
