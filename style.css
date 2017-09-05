@@ -1,4 +1,20 @@
+article::before {
+  counter-increment: requisitos;
+  content: "REQ" counter(requisitos) " \A";
+  color: blue;
+  white-space: pre;
+}
+
 article {
   font-family: monospace;
-  margin-top: 20px;
+  margin-top: 5px;
+  width: 500px;
+  padding: 10px;
+  background-color: aliceblue;
+}
+
+body { 
+  
+  counter-reset: requisitos;
+
 }
