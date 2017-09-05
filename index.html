@@ -3,11 +3,35 @@
 
   <head>
     <meta charset="utf-8">
+    <meta name="description" content="Bacharelado em Engenharia de Software">
     <title>Engenharia de Software</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   
   <body>
+    <img width="200"
+         src="imagens/es-logo.png" alt="Bacharelado em Engenharia de Software (logo)">
     <h1>Bacharelado em Engenharia de Software</h1>
+    <p>Seja bem-vindo! Minha missão é oferecer um acesso fácil às informações
+      pertinentes ao Bacharelado em Engenharia de Software do Instituto de
+      Informática da Universidade Federal de Goiás.</p>
+    
+    <h2>Como?</h2>
+    <p>Nessa única página (Single Page Application) vou oferecer acesso 
+    às disciplinas, às ementas correspondentes e condições mínimas, dentre
+    outras informações. Será por meio de um grafo onde os nós principais são
+    as disciplinas, conectadas conforme os pré-requisitos, a ordenação temporal
+    sugerida e vários outros critérios. Quando se escolhe um critério, o 
+    grafo se altera para refletir a exibição ou ocultação do critério em 
+    questão. Por exemplo, se o grafo está exibindo os pré-requisitos, quando
+    esse critério é "desmarcado", então as arestas correspondentes são 
+    "eliminadas" do grafo (tornam-se invisíveis).</p>
+    
+    <p>Esse é o conteúdo da estratégia de desenvolvimento, que só será
+    exibida quando requisitado pelo usuário.</p>
+    
+    <p>A tela principal e única permitirá acesso aos vários conteúdos. Boa 
+    parte será por meio do grafo.</p>
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.10.0/d3.js"></script>
     <script src="main.js"></script>
