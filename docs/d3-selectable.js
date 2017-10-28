@@ -109,11 +109,7 @@ function geraGrafo(graph) {
                 return d.id;
             })
             .distance(function (d) {
-                return 30;
-                //var dist = 20 / d.value;
-                //console.log('dist:', dist);
-
-                return dist;
+                return 20;
             })
         )
         .force("charge", d3.forceManyBody())
