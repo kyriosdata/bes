@@ -26,7 +26,12 @@ body {
   font-size: 1.1em;
 }
 
+.disciplina-detalhe {
+  font-size: .9em;
+}
+
 .disciplina-rotulo {
   font-size: .8em;
   font-weight: bold;
+  margin-top: 10px;
 }

@@ -19,7 +19,7 @@
         {{nome}}<br>
       </div>
       <div class="disciplina-detalhe">
-        {{ch}} horas {{sem}} semestre
+        ({{ch}} horas &nbsp;&nbsp;{{sem}}.&ordm; semestre)
       </div>
 
       <div class="disciplina-rotulo">Ementa</div>
@@ -29,14 +29,19 @@
 
       <div class="disciplina-rotulo">Condições mínimas</div>
       <div class="disciplina__condicoes">
-        {{condicoes}}
+        <ul>
+          {{#each condicoes}}
+          <li>{{this}}</li>
+          {{/each}}
+        </ul>
       </div>
 
       <div class="disciplina-rotulo">Bibliografia</div>
       <div class="disciplina__bibliografia">
         <ul>
-          <li>Condição A</li>
-          <li>Condição B</li>
+          {{#each bibliografias}}
+          <li>{{this}}</li>
+          {{/each}}
         </ul>
       </div>
     </article>
@@ -51,7 +56,9 @@
         nome: "Testes",
         ementa: "testes de software",
         ch: 64,
-        sem: 4
+        sem: 4,
+        condicoes: ["c1", "c2"],
+        bibliografias: ["b1", "b2"]
       };
 
       var html = template(disciplina);
