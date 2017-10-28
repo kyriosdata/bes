@@ -97,15 +97,14 @@
   
   <script type="application/javascript" src="./d3-selectable.js"></script>
   <script>
-    var svg = d3.select("#grafo");
-
     d3.json("d3.json", function(error, graph) {
       if (error) {
         alert('houve erro');
         throw error;
       }
 
-      geraGrafo(svg, graph);
+        var svg = d3.select("#grafo");
+        geraGrafo(svg, graph);
 
     });
   </script>
