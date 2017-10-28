@@ -11,20 +11,20 @@ function geraGrafo(svg, graph) {
 
   var svg = d3v4.select("svg")
     .attr("width", parentWidth)
-    .attr("height", parentHeight)
+    .attr("height", parentHeight);
 
   // remove any previous graphs
-  svg.selectAll('.g-main').remove();
+  svg.selectAll(".g-main").remove();
 
-  var gMain = svg.append('g')
-    .classed('g-main', true);
+  var gMain = svg.append("g")
+    .classed("g-main", true);
 
-  var rect = gMain.append('rect')
-    .attr('width', parentWidth)
-    .attr('height', parentHeight)
-    .style('fill', 'white')
+  var rect = gMain.append("rect")
+    .attr("width", parentWidth)
+    .attr("height", parentHeight)
+    .style("fill", "yellow");
 
-  var gDraw = gMain.append('g');
+  var gDraw = gMain.append("g");
 
   var zoom = d3v4.zoom()
     .on("zoom", zoomed)
@@ -61,6 +61,7 @@ function geraGrafo(svg, graph) {
 
   var cores = ["", "lightgray", "green", "blue", "red", "black"];
 
+  /* Fornece detalhe do nó selecionado */
   function detalhe(d) {
     var n = document.getElementById("tipo");
     n.innerHTML = d.group;
@@ -86,7 +87,7 @@ function geraGrafo(svg, graph) {
   function destacaVizinhos(d) {
     var thisNode = d.id
     var connected = graph.links.filter(function (e) {
-      return e.source.id === thisNode || e.target.id === thisNode
+      return e.source.id === thisNode || e.target.id === thisNode;
     });
 
     svg.selectAll("circle").attr("opacity", function (d) {
