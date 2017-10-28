@@ -6,7 +6,7 @@ function geraGrafo(graph) {
         .attr("width", parentWidth)
         .attr("height", parentHeight);
 
-    // remove any previous graphs
+    // remove todos os elementos da classe g-main
     svg.selectAll(".g-main").remove();
 
     var gMain = svg.append("g")
@@ -19,8 +19,7 @@ function geraGrafo(graph) {
 
     var gDraw = gMain.append("g");
 
-    var zoom = d3.zoom()
-        .on("zoom", zoomed)
+    var zoom = d3.zoom().on("zoom", zoomed);
 
     gMain.call(zoom);
 
@@ -62,6 +61,13 @@ function geraGrafo(graph) {
         v.innerHTML = d.h;
     }
 
+    function dragging() {
+        return d3.drag()
+            .on("start", dragstarted)
+            .on("drag", dragged)
+            .on("end", dragended);
+    }
+
     var node = gDraw.append("g")
         .attr("class", "node")
         .selectAll("circle")
@@ -69,10 +75,7 @@ function geraGrafo(graph) {
         .enter().append("circle")
         .attr("r", 5)
         .attr("fill", cor)
-        .call(d3.drag()
-            .on("start", dragstarted)
-            .on("drag", dragged)
-            .on("end", dragended))
+        .call(dragging())
         .on("mouseover", detalhe)
         .on("click", destacaVizinhos);
 
