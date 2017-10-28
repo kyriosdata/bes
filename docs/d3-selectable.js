@@ -3,15 +3,15 @@ function geraGrafo(svg, graph) {
       d3v4 = d3;
   }
 
-  var width = +svg.attr("width"),
-    height = +svg.attr("height");
+  var width = svg.attr("width");
+  var height = svg.attr("height");
 
   let parentWidth = d3v4.select("svg").node().parentNode.clientWidth;
   let parentHeight = d3v4.select("svg").node().parentNode.clientHeight;
 
-  var svg = d3v4.select('svg')
-    .attr('width', parentWidth)
-    .attr('height', parentHeight)
+  var svg = d3v4.select("svg")
+    .attr("width", parentWidth)
+    .attr("height", parentHeight)
 
   // remove any previous graphs
   svg.selectAll('.g-main').remove();
