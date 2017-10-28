@@ -1,4 +1,6 @@
 function geraGrafo(graph) {
+    "use strict";
+
     var parentWidth = d3.select("svg").node().parentNode.clientWidth;
     var parentHeight = d3.select("svg").node().parentNode.clientHeight;
 
@@ -27,8 +29,6 @@ function geraGrafo(graph) {
         gDraw.attr("transform", d3.event.transform);
     }
 
-    var color = d3.scaleOrdinal(d3.schemeCategory20);
-
     var nodes = {};
     var i;
     for (i = 0; i < graph.nodes.length; i++) {
@@ -51,6 +51,10 @@ function geraGrafo(graph) {
         });
 
     var cores = ["", "lightgray", "green", "blue", "red", "black"];
+
+    function cor(d) {
+        return cores[d.group];
+    }
 
     /* Fornece detalhe do nó selecionado */
     function detalhe(d) {
@@ -103,15 +107,14 @@ function geraGrafo(graph) {
             return d.h;
         });
 
+    function forceLink() {
+        return d3.forceLink()
+            .id(d => d.id)
+            .distance(d => 20);
+    }
+
     var simulation = d3.forceSimulation()
-        .force("link", d3.forceLink()
-            .id(function (d) {
-                return d.id;
-            })
-            .distance(function (d) {
-                return 20;
-            })
-        )
+        .force("link", forceLink())
         .force("charge", d3.forceManyBody())
         .force("center", d3.forceCenter(parentWidth / 2, parentHeight / 2))
         .force("x", d3.forceX(parentWidth / 2))
@@ -149,6 +152,9 @@ function geraGrafo(graph) {
     var brushMode = false;
     var brushing = false;
 
+
+
+
     var brush = d3.brush()
         .on("start", brushstarted)
         .on("brush", brushed)
@@ -162,10 +168,6 @@ function geraGrafo(graph) {
         node.each(function (d) {
             d.previouslySelected = shiftKey && d.selected;
         });
-    }
-
-    function cor(d) {
-        return cores[d.group];
     }
 
     rect.on("click", () => {
