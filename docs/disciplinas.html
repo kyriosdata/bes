@@ -1,45 +1,63 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Disciplinas</title>
-    <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
-  </head>
-  <body>
-       <span id="saida">Algum texto aqui.</span>
-    <script id="disciplina-template" type="text/x-handlebars-template">
-      <article class="disciplina disciplina--64 disciplina--sem--3">
-     <section class="disciplina__detalhes">
-       <p class="disciplina__ch">64</p>
-       <p class="disciplina__sem">4</p>
-     </section>
-      <section class="disciplina__nome">
-        Prática de Desenvolvimento de Software
-      </section>
-      <section class="disciplina__ementa">
-        A ementa da disciplina.
-      </section>
-      <section class="disciplina__condicoes">
-      </section>
-      <section class="disciplina__bibliografia">
+  <title>Disciplinas</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
+</head>
+
+<body>
+  <input type="button" value="Refresh" onclick="update()">
+
+  <span id="saida"></span>
+
+  <script id="disciplina-template" type="text/x-handlebars-template">
+    <article class="disciplina">
+      <div class="disciplina-rotulo">Nome</div>
+      <div class="disciplina-nome">
+        {{nome}}<br>
+      </div>
+      <div class="disciplina-detalhe">
+        {{ch}} horas {{sem}} semestre
+      </div>
+
+      <div class="disciplina-rotulo">Ementa</div>
+      <div class="disciplina-ementa">
+        {{ementa}}
+      </div>
+
+      <div class="disciplina-rotulo">Condições mínimas</div>
+      <div class="disciplina__condicoes">
+        {{condicoes}}
+      </div>
+
+      <div class="disciplina-rotulo">Bibliografia</div>
+      <div class="disciplina__bibliografia">
         <ul>
           <li>Condição A</li>
           <li>Condição B</li>
         </ul>
-      </section>
+      </div>
     </article>
-    </script>
-    
-    <script>
+  </script>
+
+  <script>
+    function update() {
       var source = document.getElementById('disciplina-template').innerHTML;
-      
+
       var template = Handlebars.compile(source);
-      var context = { title: "Testes", body: "testes de software"};
-      
-      var html = template(context);
+      var disciplina = {
+        nome: "Testes",
+        ementa: "testes de software",
+        ch: 64,
+        sem: 4
+      };
+
+      var html = template(disciplina);
       document.getElementById('saida').innerHTML = html;
-    </script>
-  
-  </body>
+    }
+  </script>
+
+</body>
 </html>

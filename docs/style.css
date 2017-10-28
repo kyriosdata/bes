@@ -22,34 +22,11 @@ body {
   margin: 20px;
 }
 
-.disciplina__nome {
+.disciplina-nome {
+  font-size: 1.1em;
+}
+
+.disciplina-rotulo {
+  font-size: .8em;
   font-weight: bold;
-  margin-bottom: 10px;
-}
-
-.disciplina__nome::before {
-  font-weight: normal;
-  font-size: .8em;
-  content: "Nome \A";
-  white-space: pre;
-}
-
-.disciplina__ementa {
-  margin-bottom: 10px;
-}
-
-.disciplina__ementa::before {
-  font-size: .8em;
-  content: "Ementa \A";
-  white-space: pre;
-}
-
-.disciplina__condicoes {
-  margin-bottom: 10px;
-}
-
-.disciplina__condicoes::before {
-  font-size: .8em;
-  content: "Condições \A";
-  white-space: pre;
 }
