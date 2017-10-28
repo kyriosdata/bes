@@ -6,8 +6,8 @@ function geraGrafo(svg, graph) {
   var width = svg.attr("width");
   var height = svg.attr("height");
 
-  let parentWidth = d3v4.select("svg").node().parentNode.clientWidth;
-  let parentHeight = d3v4.select("svg").node().parentNode.clientHeight;
+  var parentWidth = d3v4.select("svg").node().parentNode.clientWidth;
+  var parentHeight = d3v4.select("svg").node().parentNode.clientHeight;
 
   var svg = d3v4.select("svg")
     .attr("width", parentWidth)
