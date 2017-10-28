@@ -1,12 +1,13 @@
 function geraGrafo(svg, graph) {
-  if (typeof d3v4 == 'undefined')
-    d3v4 = d3;
+  if (typeof d3v4 === "undefined") {
+      d3v4 = d3;
+  }
 
   var width = +svg.attr("width"),
     height = +svg.attr("height");
 
-  let parentWidth = d3v4.select('svg').node().parentNode.clientWidth;
-  let parentHeight = d3v4.select('svg').node().parentNode.clientHeight;
+  let parentWidth = d3v4.select("svg").node().parentNode.clientWidth;
+  let parentHeight = d3v4.select("svg").node().parentNode.clientHeight;
 
   var svg = d3v4.select('svg')
     .attr('width', parentWidth)
@@ -58,13 +59,13 @@ function geraGrafo(svg, graph) {
       return Math.sqrt(d.value);
     });
 
-  var cores = ['', 'lightgray', 'green', 'blue', 'red', 'black'];
+  var cores = ["", "lightgray", "green", "blue", "red", "black"];
 
   function detalhe(d) {
-    var n = document.getElementById('tipo');
+    var n = document.getElementById("tipo");
     n.innerHTML = d.group;
 
-    var v = document.getElementById('tipo-valor');
+    var v = document.getElementById("tipo-valor");
     v.innerHTML = d.h;
   }
 
@@ -86,9 +87,9 @@ function geraGrafo(svg, graph) {
     var thisNode = d.id
     var connected = graph.links.filter(function (e) {
       return e.source.id === thisNode || e.target.id === thisNode
-    });    
+    });
 
-    svg.selectAll('circle').attr("opacity", function (d) {
+    svg.selectAll("circle").attr("opacity", function (d) {
       return (connected.map(d => d.source.id).indexOf(d.id) > -1 || connected.map(d => d.target.id).indexOf(d.id) > -1) ? 1 : 0.1
     });
 
