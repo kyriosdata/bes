@@ -27,13 +27,13 @@ function geraGrafo(svg, graph) {
   var gDraw = gMain.append('g');
 
   var zoom = d3v4.zoom()
-    .on('zoom', zoomed)
+    .on("zoom", zoomed)
 
   gMain.call(zoom);
 
 
   function zoomed() {
-    gDraw.attr('transform', d3v4.event.transform);
+    gDraw.attr("transform", d3v4.event.transform);
   }
 
   var color = d3v4.scaleOrdinal(d3v4.schemeCategory20);
@@ -47,7 +47,7 @@ function geraGrafo(svg, graph) {
 
   // the brush needs to go before the nodes so that it doesn't
   // get called when the mouse is over a node
-  var gBrushHolder = gDraw.append('g');
+  var gBrushHolder = gDraw.append("g");
   var gBrush = null;
 
   var link = gDraw.append("g")
@@ -95,8 +95,8 @@ function geraGrafo(svg, graph) {
 
     var origens = connected.map(d => d.source.id);
     var destinos = connected.map(d => d.target.id);
-    
-    svg.selectAll('line').attr("opacity", function (d) {
+
+    svg.selectAll("line").attr("opacity", function (d) {
       return origens.indexOf(d.source.id) > -1 || destinos.indexOf(d.target.id) > -1 ? 1 : 0;
     });
   }
@@ -133,8 +133,6 @@ function geraGrafo(svg, graph) {
     .links(graph.links);
 
   function ticked() {
-    // update node and line positions at every step of 
-    // the force simulation
     link.attr("x1", function (d) {
         return d.source.x;
       })
@@ -178,7 +176,7 @@ function geraGrafo(svg, graph) {
     return cores[d.group];
   }
 
-  rect.on('click', () => {
+  rect.on("click", () => {
     node.each(function (d) {
       d.selected = false;
       d.previouslySelected = false;
@@ -215,8 +213,8 @@ function geraGrafo(svg, graph) {
     brushing = false;
   }
 
-  d3v4.select('body').on('keydown', keydown);
-  d3v4.select('body').on('keyup', keyup);
+  d3v4.select("body").on("keydown", keydown);
+  d3v4.select("body").on("keyup", keyup);
 
   var shiftKey;
 
@@ -231,7 +229,7 @@ function geraGrafo(svg, graph) {
       brushMode = true;
 
       if (!gBrush) {
-        gBrush = gBrushHolder.append('g');
+        gBrush = gBrushHolder.append("g");
         gBrush.call(brush);
       }
     }
@@ -293,7 +291,7 @@ function geraGrafo(svg, graph) {
     node.filter(function (d) {
         return d.selected;
       })
-      .each(function (d) { //d.fixed &= ~6; 
+      .each(function (d) {
         d.fx = null;
         d.fy = null;
       })
