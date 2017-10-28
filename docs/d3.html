@@ -3,111 +3,120 @@
 <html>
 
 <head>
-  <link href="https://fonts.googleapis.com/css?family=Merriweather|Nunito" rel="stylesheet">
-  <style>
-    section.header {
-      width: 80%;
-      margin: auto;
-    }
-    
-    section.tarefas {
-      margin-top: 50px;
-      border: 1px solid red;
-      margin-bottom: 10px;
-    }
-    
-    h1 {
-      font-family: 'Merriweather', serif;
-      font-size: 2.5em;
-    }
-    
-    p {
-      font-family: 'Nunito', sans-serif;
-      font-size: 1.3em
-    }
-    
-    #grafo {
-      width: 80%;
-      height: 500px;
-      margin-bottom: 12px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-    
-    #grafo svg {
-      border: 1px solid;
-      font: 13px sans-serif;
-      text-anchor: end;
-    }
-    
-    #grafo .node {
-      stroke: #fff;
-      stroke-width: 1.5px;
-    }
-    
-    .node .selected {
-      stroke: black;
-    }
-    
-    .link {
-      stroke: #999;
-    }
-  </style>
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Nunito" rel="stylesheet">
+    <style>
+        section.header {
+            width: 80%;
+            margin: auto;
+        }
+
+        section.tarefas {
+            margin-top: 50px;
+            border: 1px solid red;
+            margin-bottom: 10px;
+        }
+
+        h1 {
+            font-family: 'Merriweather', serif;
+            font-size: 2.5em;
+        }
+
+        p {
+            font-family: 'Nunito', sans-serif;
+            font-size: 1.3em
+        }
+
+        #grafo {
+            width: 80%;
+            height: 500px;
+            margin-bottom: 12px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #grafo svg {
+            border: 1px solid;
+            font: 13px sans-serif;
+            text-anchor: end;
+        }
+
+        #grafo .node {
+            stroke: #fff;
+            stroke-width: 1.5px;
+        }
+
+        .node .selected {
+            stroke: black;
+        }
+
+        .link {
+            stroke: #999;
+        }
+    </style>
 </head>
 
 <body>
-  <section class="header">
+<section class="header">
     <h1>Bacharelado em Engenharia de Software</h1>
     <h2>Instituto de Informática (UFG)</h2>
-    <p>Se você deseja conhecer um pouco mais o Bacharelado em Engenharia de Software do Instituto de Informática (UFG), então essa é uma ferramenta para você. </p>
-  </section>
+    <p>Se você deseja conhecer um pouco mais o Bacharelado em Engenharia de Software do Instituto de Informática (UFG),
+        então essa é uma ferramenta para você. </p>
+</section>
 
-  <div id="grafo">
+<div id="grafo">
     <div class="opcoes">
-      <input type="checkbox" id="opcoes-disciplinas" checked>
-      <label for="opcoes-disciplinas">Disciplinas</label>
-      <input type="checkbox" id="opcoes-termos" checked>
-      <label for="opcoes-disciplinas">termos</label>
-      <input type="checkbox" id="opcoes-condicoes" checked>
-      <label for="opcoes-disciplinas">Condições mínimas</label>
-      <input type="checkbox" id="opcoes-habilidades" checked>
-      <label for="opcoes-disciplinas">Habilidades</label>
-      <input type="checkbox" id="opcoes-conteudo" checked>
-      <label for="opcoes-disciplinas">Conteúdo</label>
+        <input type="checkbox" id="opcoes-disciplinas" checked>
+        <label for="opcoes-disciplinas">Disciplinas</label>
+        <input type="checkbox" id="opcoes-termos" checked>
+        <label for="opcoes-disciplinas">termos</label>
+        <input type="checkbox" id="opcoes-condicoes" checked>
+        <label for="opcoes-disciplinas">Condições mínimas</label>
+        <input type="checkbox" id="opcoes-habilidades" checked>
+        <label for="opcoes-disciplinas">Habilidades</label>
+        <input type="checkbox" id="opcoes-conteudo" checked>
+        <label for="opcoes-disciplinas">Conteúdo</label>
     </div>
     <svg></svg>
-  </div>
+</div>
 
-  <div class="detalhes">
+<div class="detalhes">
     <span id="tipo" class="tipo">o tipo</span>
     <span id="tipo-valor" class="tipo-valor">o valor do nó</span>
-  </div>
+</div>
 
-  <section class="tarefas">
+<section class="tarefas">
     Lista de user stories a serem implementadas, se houver ...
     <ul>
-      <li>Como usuário eu quero que seja indicado o nóme do nó sob o mouse e as relações desse com os demais, em área própria, para que facilite a minha navegação pelo ppc.</li>
-      <li>Como usuário eu quero selecionar um nó e restringir a visualização apenas ao subgrafo formado pelo nó selecionado e os adjacentes para eu compreender melhor a relação do nó selecionado.</li>
-      <li>Como usuário eu quero digitar uma palavra e visualizar quais os nós que contém a palavra digitada para facilitar a localização de informação de interesse.</li>
-      <li>Como usuário eu desejo selecionar o tipo de nó e o tipo de aresta exibido e, dessa forma, visualizar apenas o subgrafo resultante da união dos elementos selecionados.</li>
+        <li>Como usuário eu quero que seja indicado o nóme do nó sob o mouse e as relações desse com os demais, em área
+            própria, para que facilite a minha navegação pelo ppc.
+        </li>
+        <li>Como usuário eu quero selecionar um nó e restringir a visualização apenas ao subgrafo formado pelo nó
+            selecionado e os adjacentes para eu compreender melhor a relação do nó selecionado.
+        </li>
+        <li>Como usuário eu quero digitar uma palavra e visualizar quais os nós que contém a palavra digitada para
+            facilitar a localização de informação de interesse.
+        </li>
+        <li>Como usuário eu desejo selecionar o tipo de nó e o tipo de aresta exibido e, dessa forma, visualizar apenas
+            o subgrafo resultante da união dos elementos selecionados.
+        </li>
     </ul>
-  </section>
+</section>
 
-  <script type="application/javascript" src="https://d3js.org/d3.v4.min.js"></script>
-  
-  <script type="application/javascript" src="./d3-selectable.js"></script>
-  <script>
-    d3.json("d3.json", function(error, graph) {
-      if (error) {
-        alert('houve erro');
-        throw error;
-      }
+<script type="application/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+<script type="application/javascript" src="./d3-selectable.js"></script>
 
-        var svg = d3.select("#grafo");
-        geraGrafo(svg, graph);
+<script>
+    function carrega(error, graph) {
+        if (error) {
+            alert('Ocorreu um erro ao carregar dados...');
+            throw error;
+        }
 
-    });
-  </script>
+        geraGrafo(graph);
+    }
+
+    d3.json("d3.json", carrega);
+</script>
 </body>
 
 </html>
