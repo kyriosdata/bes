@@ -3,12 +3,14 @@ function geraGrafo(graph) {
 
     var parentWidth = d3.select("svg").node().parentNode.clientWidth;
     var parentHeight = d3.select("svg").node().parentNode.clientHeight;
+    var centerWidth = parentWidth / 2;
+    var centerHeight = parentHeight / 2;
 
     var svg = d3.select("svg")
         .attr("width", parentWidth)
         .attr("height", parentHeight);
 
-    // remove todos os elementos da classe g-main
+    // remove todos os elementos de classe g-main
     svg.selectAll(".g-main").remove();
 
     var gMain = svg.append("g")
@@ -30,10 +32,12 @@ function geraGrafo(graph) {
     }
 
     var nodes = {};
+    var corrente;
     var i;
     for (i = 0; i < graph.nodes.length; i++) {
-        nodes[graph.nodes[i].id] = graph.nodes[i];
-        graph.nodes[i].weight = 1.01;
+        corrente = graph.nodes[i];
+        nodes[corrente.id] = corrente;
+        corrente.weight = 300.01 - (corrente.group * 15);
     }
 
     // the brush needs to go before the nodes so that it doesn't
@@ -47,7 +51,7 @@ function geraGrafo(graph) {
         .data(graph.links)
         .enter().append("line")
         .attr("stroke-width", function (d) {
-            return Math.sqrt(d.value);
+            return d.value;
         });
 
     var cores = ["", "lightgray", "green", "blue", "red", "black"];
@@ -116,9 +120,9 @@ function geraGrafo(graph) {
     var simulation = d3.forceSimulation()
         .force("link", forceLink())
         .force("charge", d3.forceManyBody())
-        .force("center", d3.forceCenter(parentWidth / 2, parentHeight / 2))
-        .force("x", d3.forceX(parentWidth / 2))
-        .force("y", d3.forceY(parentHeight / 2));
+        .force("center", d3.forceCenter(centerWidth, centerHeight))
+        .force("x", d3.forceX(centerWidth))
+        .force("y", d3.forceY(centerHeight));
 
     simulation
         .nodes(graph.nodes)
@@ -152,9 +156,6 @@ function geraGrafo(graph) {
     var brushMode = false;
     var brushing = false;
 
-
-
-
     var brush = d3.brush()
         .on("start", brushstarted)
         .on("brush", brushed)
@@ -169,14 +170,6 @@ function geraGrafo(graph) {
             d.previouslySelected = shiftKey && d.selected;
         });
     }
-
-    rect.on("click", () => {
-        node.each(function (d) {
-            d.selected = false;
-            d.previouslySelected = false;
-        });
-        node.classed("selected", false);
-    });
 
     function brushed() {
         if (!d3.event.sourceEvent) return;
@@ -206,6 +199,14 @@ function geraGrafo(graph) {
 
         brushing = false;
     }
+
+    rect.on("click", () => {
+        node.each(function (d) {
+            d.selected = false;
+            d.previouslySelected = false;
+        });
+        node.classed("selected", false);
+    });
 
     d3.select("body").on("keydown", keydown);
     d3.select("body").on("keyup", keyup);
