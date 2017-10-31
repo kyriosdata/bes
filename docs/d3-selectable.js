@@ -40,7 +40,7 @@ function opcoesConteudo(checkbox) {
   }
 }
 
-function geraGrafo(graph) {
+function exibeGrafo(graph) {
     var parentWidth = d3.select("svg").node().parentNode.clientWidth;
     var parentHeight = d3.select("svg").node().parentNode.clientHeight;
     var centerWidth = parentWidth / 2;
@@ -105,6 +105,14 @@ function geraGrafo(graph) {
         return cores[d.group];
     }
 
+    function raioNo(d) {
+        if (d.group === 1) {
+            return 10;
+        }
+
+        return 5;
+    }
+
     /* Fornece detalhe do nó selecionado */
     function detalhe(d) {
         var n = document.getElementById("tipo");
@@ -126,7 +134,7 @@ function geraGrafo(graph) {
         .selectAll("circle")
         .data(graph.nodes)
         .enter().append("circle")
-        .attr("r", 5)
+        .attr("r", raioNo)
         .attr("fill", corNo)
         .call(dragging())
         .on("mouseover", detalhe)
@@ -169,12 +177,9 @@ function geraGrafo(graph) {
         .force("x", d3.forceX(centerWidth))
         .force("y", d3.forceY(centerHeight));
 
-    simulation
-        .nodes(graph.nodes)
-        .on("tick", ticked);
+    simulation.nodes(graph.nodes).on("tick", ticked);
 
-    simulation.force("link")
-        .links(graph.links);
+    simulation.force("link").links(graph.links);
 
     function ticked() {
         link.attr("x1", function (d) {
