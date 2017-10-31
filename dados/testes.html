@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>QUnit basic example</title>
+    <link rel="stylesheet" href="qunit-2.4.1.css">
+</head>
+<body>
+<div id="qunit"></div>
+<div id="qunit-fixture"></div>
+<script src="qunit-2.4.1.js"></script>
+<script src="dados.js"></script>
+<script>
+    var entrada = [
+        {
+            "source": "C1",
+            "target": "U67",
+            "tipo": 1,
+            "nivel": ""
+        },
+        {
+            "source": "C1",
+            "target": "U67",
+            "tipo": 2,
+            "nivel": ""
+        }
+    ];
+
+    QUnit.test("verifica filtro", function(assert) {
+        var resposta = entrada.filter(function(x) { return x.tipo == 2;});
+       assert.equal(resposta.length, 1, "ambos são do mesmo tipo 1");
+    });
+
+    QUnit.test("verifica valores", function(assert) {
+        assert.equal(entrada[0].source, "C1", "source deve ser C1");
+    })
+</script>
+</body>
+</html>
