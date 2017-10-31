@@ -25561,8 +25561,6 @@ var edges = [
     }
 ];
 
-var preRequisitos = edges.filter(function(x) { return x.tipo === 6});
-
 // Apenas arestas relevantes de conteúdo para unidades
 var entrada = edges.filter(function(x) {return x.tipo === 1; });
 
@@ -25673,6 +25671,10 @@ function fase2(mapa) {
 
 var parcial = fase1(entrada);
 var final = fase2(parcial);
-final.forEach(function(o) {
-    console.log(o);
-});
+console.log("[");
+console.log(final[0]);
+for (var i = 1; i < final.length; i++) {
+    console.log(",");
+    console.log(final[i]);
+}
+console.log("]");
