@@ -101,7 +101,7 @@ function geraGrafo(graph) {
 
     var cores = ["", "lightgray", "green", "blue", "red", "black"];
 
-    function cor(d) {
+    function corNo(d) {
         return cores[d.group];
     }
 
@@ -127,7 +127,7 @@ function geraGrafo(graph) {
         .data(graph.nodes)
         .enter().append("circle")
         .attr("r", 5)
-        .attr("fill", cor)
+        .attr("fill", corNo)
         .call(dragging())
         .on("mouseover", detalhe)
         .on("click", destacaVizinhos);
