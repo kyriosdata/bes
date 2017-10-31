@@ -1,3 +1,43 @@
+function opcoesDisciplinas(checkbox) {
+  if (checkbox.checked) {
+    alert("ADD disciplinas");
+  } else {
+    alert("DELETE disciplinas");
+  }
+}
+
+function opcoesTermos(checkbox) {
+  if (checkbox.checked) {
+    alert("ADD termos");
+  } else {
+    alert("DELETE termos");
+  }
+}
+
+function opcoesCondicoes(checkbox) {
+  if (checkbox.checked) {
+    alert("ADD condicoes");
+  } else {
+    alert("DELETE condicoes");
+  }
+}
+
+function opcoesHabilidades(checkbox) {
+  if (checkbox.checked) {
+    alert("ADD habilidades");
+  } else {
+    alert("DELETE habilidades");
+  }
+}
+
+function opcoesConteudo(checkbox) {
+  if (checkbox.checked) {
+    alert("ADD conteudo");
+  } else {
+    alert("DELETE conteudo");
+  }
+}
+
 function geraGrafo(graph) {
     "use strict";
 

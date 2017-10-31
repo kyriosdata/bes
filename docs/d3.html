@@ -65,16 +65,20 @@
 
 <div id="grafo">
     <div class="opcoes">
-        <input type="checkbox" id="opcoes-disciplinas" checked>
+        <input type="checkbox" id="opcoes-disciplinas" checked onchange="opcoesDisciplinas(this)">
         <label for="opcoes-disciplinas">Disciplinas</label>
-        <input type="checkbox" id="opcoes-termos" checked>
-        <label for="opcoes-disciplinas">termos</label>
-        <input type="checkbox" id="opcoes-condicoes" checked>
-        <label for="opcoes-disciplinas">Condições mínimas</label>
-        <input type="checkbox" id="opcoes-habilidades" checked>
-        <label for="opcoes-disciplinas">Habilidades</label>
-        <input type="checkbox" id="opcoes-conteudo" checked>
-        <label for="opcoes-disciplinas">Conteúdo</label>
+        
+        <input type="checkbox" id="opcoes-termos" checked onchange="opcoesTermos(this)">
+        <label for="opcoes-termos">termos</label>
+        
+        <input type="checkbox" id="opcoes-condicoes" checked onchange="opcoesCondicoes(this)">
+        <label for="opcoes-condicoes">Condições mínimas</label>
+        
+        <input type="checkbox" id="opcoes-habilidades" checked onchange="opcoesHabilidades(this)">
+        <label for="opcoes-habilidades">Habilidades</label>
+        
+        <input type="checkbox" id="opcoes-conteudo" checked onchange="opcoesConteudo(this)">
+        <label for="opcoes-conteudo">Conteúdo</label>
     </div>
     <svg></svg>
 </div>
