@@ -25615,18 +25615,14 @@ function fase2(mapa) {
     // são arestas que tem a chave como origem
     var arestasPorOrigem = new Map();
 
-    function adicionaAresta(v, i, j) {
-        var source;
-        var target;
+    function adicionaAresta(source, target) {
 
         // Aresta a ser criada não é orientada (dirigida).
         // A ordem abaixo apenas agiliza montagem dos pesos.
-        if (v[i] < v[j]) {
-            source = v[i];
-            target = v[j];
-        } else {
-            source = v[j];
-            target = v[i];
+        if (source > target) {
+            var tmp = source;
+            source = target;
+            target = tmp;
         }
 
         // Arestas cuja origem é source
@@ -25668,21 +25664,18 @@ function fase2(mapa) {
         // Gerar aresta para (i, j)
         for (var i = 0; i < tamanho; i++) {
             for (var j = i + 1; j < tamanho; j++) {
-                var msg = v[i] + ' ' + v[j];
-                adicionaAresta(v, i, j);
+                adicionaAresta(v[i], v[j]);
             }
         }
     }
 
     mapa.forEach(porEntrada);
 
-    var iterator = arestasPorOrigem.values();
-    var parcial = iterator.next();
     var resultado = [];
-    while (!parcial.done) {
-        resultado = resultado.concat(parcial.value);
-        parcial = iterator.next();
-    }
+
+    arestasPorOrigem.forEach(function(v, k, m) {
+        resultado = resultado.concat(v);
+    });
 
     return resultado;
 }
