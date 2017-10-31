@@ -25562,7 +25562,7 @@ var edges = [
 ];
 
 // Apenas arestas relevantes de conteúdo para unidades
-var entrada = edges.filter(function(x) {return x.tipo === 1; });
+var entrada = edges.filter(function(x) {return x.tipo === 5; });
 
 /* Produz dicionário onde as chaves são os targets de todas
    as arestas do conjunto de entrada. O valor é definido pelo
