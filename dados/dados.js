@@ -25682,7 +25682,9 @@ function fase2(mapa) {
 
 var parcial = fase1(entrada);
 var final = fase2(parcial);
-console.log(final);
+final.forEach(function(o) {
+    console.log(o);
+})
 
 /*
 Algoritmo.
