@@ -25561,19 +25561,10 @@ var edges = [
     }
 ];
 
-var preRequisitos = edges.filter(function(x) { return x.tipo == 6});
-
-function showPre() {
-    preRequisitos.forEach(function (x) {
-        console.log(x.source + ' => ' + x.target);
-    });
-}
+var preRequisitos = edges.filter(function(x) { return x.tipo === 6});
 
 // Apenas arestas relevantes de conteúdo para unidades
-var entrada = edges.filter(function(x) {return x.tipo == 1; });
-
-// Vetor de arestas (a, b, p) onde a tem relação com b de peso p.
-var saida = [];
+var entrada = edges.filter(function(x) {return x.tipo === 1; });
 
 /* Produz dicionário onde as chaves são os targets de todas
    as arestas do conjunto de entrada. O valor é definido pelo
@@ -25652,7 +25643,7 @@ function fase2(mapa) {
         }
     }
 
-    function porEntrada(v, k, m) {
+    function geraArestas(v) {
         var tamanho = v.length;
 
         // Uma única origem chega a este destino, ou seja, origens
@@ -25669,11 +25660,11 @@ function fase2(mapa) {
         }
     }
 
-    mapa.forEach(porEntrada);
+    mapa.forEach(geraArestas);
 
     var resultado = [];
 
-    arestasPorOrigem.forEach(function(v, k, m) {
+    arestasPorOrigem.forEach(function(v) {
         resultado = resultado.concat(v);
     });
 
@@ -25684,26 +25675,4 @@ var parcial = fase1(entrada);
 var final = fase2(parcial);
 final.forEach(function(o) {
     console.log(o);
-})
-
-/*
-Algoritmo.
-1. Identifique todos os sources para um dado target. Todas as
-   arestas que possuem um dado target. 
-2. Se length(sources) == 1, então não há o que fazer. Ou seja,
-   o target em questão não conecta sources distintos. 
-3. Se length(sources) = n (n > 1), então os sources estão 
-   conectados via target. Nesse caso, crie uma aresta ligando
-   cada um dos sources a todos os demais (aresta não orientada).
-   Seja este conjunto de arestas denominado de conjunto parcial.
-4. Acrescente cada uma das arestas do conjunto parcial ao conjunto
-  final da seguinte forma. Se a aresta parcial (a, b) não existe no
-  conjunto final, ou seja, nem existe (a,b) nem tampouco (b,a), 
-  então simplesmente acrescente (a,b) ao conjunto final com peso 1.
-  Se a aresta (a,b) ou (b,a) já existe no conjunto final, então
-  acrescente o peso da aresta final de 1 unidade. 
-4. Remova o target do conjunto.
-5. Repita os passos anteriores até que o conjunto de targets esteja
-   vazio. 
-
-*/
+});
