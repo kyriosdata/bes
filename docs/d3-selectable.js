@@ -1,3 +1,5 @@
+"use strict";
+
 function opcoesDisciplinas(checkbox) {
   if (checkbox.checked) {
     alert("ADD disciplinas");
@@ -39,8 +41,6 @@ function opcoesConteudo(checkbox) {
 }
 
 function geraGrafo(graph) {
-    "use strict";
-
     var parentWidth = d3.select("svg").node().parentNode.clientWidth;
     var parentHeight = d3.select("svg").node().parentNode.clientHeight;
     var centerWidth = parentWidth / 2;
@@ -63,36 +63,41 @@ function geraGrafo(graph) {
 
     var gDraw = gMain.append("g");
 
-    var zoom = d3.zoom().on("zoom", zoomed);
-
-    gMain.call(zoom);
-
     function zoomed() {
         gDraw.attr("transform", d3.event.transform);
     }
 
+    // Habilita zoom (in and out)
+    gMain.call(d3.zoom().on("zoom", zoomed));
+
     var nodes = {};
-    var corrente;
-    var i;
-    for (i = 0; i < graph.nodes.length; i++) {
-        corrente = graph.nodes[i];
-        nodes[corrente.id] = corrente;
-        corrente.weight = 300.01 - (corrente.group * 15);
-    }
+    graph.nodes.forEach(function(no) {
+        nodes[no.id] = no;
+        no.weight = 300.01 - (no.group * 15);
+    });
 
     // the brush needs to go before the nodes so that it doesn't
     // get called when the mouse is over a node
     var gBrushHolder = gDraw.append("g");
     var gBrush = null;
 
+    // Retorna campo 'value' de uma aresta
+    // (usado para indicar espessura da aresta)
+    function espessuraAresta(a) {
+        return a.value;
+    }
+
+    function corAresta() {
+        return "gray";
+    }
+
     var link = gDraw.append("g")
         .attr("class", "link")
         .selectAll("line")
         .data(graph.links)
         .enter().append("line")
-        .attr("stroke-width", function (d) {
-            return d.value;
-        });
+        .attr("stroke-width", espessuraAresta)
+        .attr("stroke", corAresta);
 
     var cores = ["", "lightgray", "green", "blue", "red", "black"];
 
@@ -128,7 +133,7 @@ function geraGrafo(graph) {
         .on("click", destacaVizinhos);
 
     function destacaVizinhos(d) {
-        var thisNode = d.id
+        var thisNode = d.id;
         var connected = graph.links.filter(function (e) {
             return e.source.id === thisNode || e.target.id === thisNode;
         });
