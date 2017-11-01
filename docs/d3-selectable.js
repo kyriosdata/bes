@@ -53,6 +53,18 @@ function opcoesDisciplinaDisciplina(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 6);
 }
 
+function opcoesEntreCondicoes(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 7);
+}
+
+function opcoesEntreConteudos(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 8);
+}
+
+function opcoesEntreHabilidades(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 9);
+}
+
 /**
  * Atualiza o conjunto de nós desmarcados. Um nó
  * faz parte deste conjunto se não estiver marcado.
