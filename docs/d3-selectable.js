@@ -84,7 +84,7 @@ function atualizaNosDesmarcados(marcado, valor) {
  * @param checkbox
  */
 function opcoesDisciplinas(checkbox) {
-  atualizaNosDesmarcados(checkbox.checked, 1);
+    atualizaNosDesmarcados(checkbox.checked, 1);
 }
 
 function opcoesTermos(checkbox) {
@@ -96,11 +96,11 @@ function opcoesCondicoes(checkbox) {
 }
 
 function opcoesHabilidades(checkbox) {
-  atualizaNosDesmarcados(checkbox.checked, 4);
+    atualizaNosDesmarcados(checkbox.checked, 4);
 }
 
 function opcoesConteudo(checkbox) {
-    atualizaNosDesmarcados(checkbox.checked, "C");
+    atualizaNosDesmarcados(checkbox.checked, 2);
 }
 
 function exibeGrafo(graph) {
@@ -134,7 +134,7 @@ function exibeGrafo(graph) {
     gMain.call(d3.zoom().on("zoom", zoomed));
 
     var nodes = {};
-    graph.nodes.forEach(function(no) {
+    graph.nodes.forEach(function (no) {
         nodes[no.id] = no;
         no.weight = 300.01 - (no.tipo * 15);
     });
