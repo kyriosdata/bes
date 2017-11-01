@@ -5,51 +5,44 @@
  * Ou seja, nós desmarcados é uma lista vazia.
  * @type {Array}
  */
-var nosDesmarcados = [];
+var nosDesmarcados = new Set();
+
+/**
+ * Atualiza o conjunto de nós desmarcados. Um nó
+ * faz parte deste conjunto se não estiver marcado.
+ * @param marcado Indica se o nó está marcado ou não.
+ * @param valor Identificador do nó que foi marcado ou desmarcado.
+ */
+function atualizaDesmarcados(marcado, valor) {
+    if (marcado) {
+        nosDesmarcados.delete(valor);
+    } else {
+        nosDesmarcados.add(valor);
+    }
+}
 
 /**
  * Se desmarcado, remove nós do tipo disciplina.
  * @param checkbox
  */
 function opcoesDisciplinas(checkbox) {
-  if (checkbox.checked) {
-    alert("ADD disciplinas");
-    
-  } else {
-    alert("DELETE disciplinas");
-  }
+  atualizaDesmarcados(checkbox.checked, "D");
 }
 
 function opcoesTermos(checkbox) {
-  if (checkbox.checked) {
-    alert("ADD termos");
-  } else {
-    alert("DELETE termos");
-  }
+    atualizaDesmarcados(checkbox.checked, "U");
 }
 
 function opcoesCondicoes(checkbox) {
-  if (checkbox.checked) {
-    alert("ADD condicoes");
-  } else {
-    alert("DELETE condicoes");
-  }
+    atualizaDesmarcados(checkbox.checked, "M");
 }
 
 function opcoesHabilidades(checkbox) {
-  if (checkbox.checked) {
-    alert("ADD habilidades");
-  } else {
-    alert("DELETE habilidades");
-  }
+  atualizaDesmarcados(checkbox.checked, "H");
 }
 
 function opcoesConteudo(checkbox) {
-  if (checkbox.checked) {
-    alert("ADD conteudo");
-  } else {
-    alert("DELETE conteudo");
-  }
+    atualizaDesmarcados(checkbox.checked, "C");
 }
 
 function exibeGrafo(graph) {
