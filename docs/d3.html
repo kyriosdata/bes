@@ -83,6 +83,8 @@
     <svg></svg>
 </div>
 
+<button type="button" onclick="redesenha()">Redesenha</button>
+
 <div class="detalhes">
     <span id="tipo" class="tipo">o tipo</span>
     <span id="tipo-valor" class="tipo-valor">o valor do nó</span>
@@ -110,16 +112,29 @@
 <script type="application/javascript" src="./d3-selectable.js"></script>
 
 <script>
+    var grafo;
+
     function carrega(error, graph) {
         if (error) {
             alert('Ocorreu um erro ao carregar dados...');
             throw error;
         }
 
+        grafo = graph;
         exibeGrafo(graph);
     }
 
+    /*
+       Ilustra estratégia para desenhar grafo apenas com os elementos selecionados.
+     */
+    function redesenha() {
+        grafo.nodes = grafo.nodes.filter(function(n) { return n.group === 1;});
+        grafo.links = grafo.links.filter(function(l) { return l.tipo == 6;});
+        exibeGrafo(grafo);
+    }
+
     d3.json("d3.json", carrega);
+
 </script>
 </body>
 
