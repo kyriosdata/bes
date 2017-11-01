@@ -90,6 +90,7 @@ function opcoesEntreHabilidades(checkbox) {
 
 function opcoesExcluirNosSemArestas(checkbox) {
     excluirNosSemArestas = checkbox.checked;
+    redesenha(grafo);
 }
 
 /**
