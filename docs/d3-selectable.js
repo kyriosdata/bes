@@ -248,9 +248,11 @@ function exibeGrafo(graph) {
             .distance(d => 100);
     }
 
+    var repulsao = d3.forceManyBody().strength(-200);
+
     var simulation = d3.forceSimulation()
         .force("link", forceLink())
-        .force("charge", d3.forceManyBody())
+        .force("charge", repulsao)
         .force("center", d3.forceCenter(centerWidth, centerHeight))
         .force("x", d3.forceX(centerWidth))
         .force("y", d3.forceY(centerHeight));
@@ -281,8 +283,6 @@ function exibeGrafo(graph) {
             });
     }
 
-    var brushing = false;
-
     rect.on("click", () => {
         node.each(function (d) {
             d.selected = false;
@@ -310,6 +310,8 @@ function exibeGrafo(graph) {
             }
         }
     }
+
+    var brushing = false;
 
     function keyup() {
         shiftKey = false;
