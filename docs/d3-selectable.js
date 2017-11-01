@@ -284,50 +284,6 @@ function exibeGrafo(graph) {
     var brushMode = false;
     var brushing = false;
 
-    var brush = d3.brush()
-        .on("start", brushstarted)
-        .on("brush", brushed)
-        .on("end", brushended);
-
-    function brushstarted() {
-        // keep track of whether we're actively brushing so that we
-        // don't remove the brush on keyup in the middle of a selection
-        brushing = true;
-
-        node.each(function (d) {
-            d.previouslySelected = shiftKey && d.selected;
-        });
-    }
-
-    function brushed() {
-        if (!d3.event.sourceEvent) return;
-        if (!d3.event.selection) return;
-
-        var extent = d3.event.selection;
-
-        node.classed("selected", function (d) {
-            return d.selected = d.previouslySelected ^
-                (extent[0][0] <= d.x && d.x < extent[1][0] &&
-                    extent[0][1] <= d.y && d.y < extent[1][1]);
-        });
-    }
-
-    function brushended() {
-        if (!d3.event.sourceEvent) return;
-        if (!d3.event.selection) return;
-        if (!gBrush) return;
-
-        gBrush.call(brush.move, null);
-
-        if (!brushMode) {
-            // the shift key has been release before we ended our brushing
-            gBrush.remove();
-            gBrush = null;
-        }
-
-        brushing = false;
-    }
-
     rect.on("click", () => {
         node.each(function (d) {
             d.selected = false;
