@@ -3,7 +3,7 @@
 /**
  * Inicialmente todos os tipos de nós são exibidos.
  * Ou seja, nós desmarcados é uma lista vazia.
- * @type {Array}
+ * @type {Set}
  */
 var nosDesmarcados = new Set();
 
@@ -84,19 +84,19 @@ function atualizaNosDesmarcados(marcado, valor) {
  * @param checkbox
  */
 function opcoesDisciplinas(checkbox) {
-  atualizaNosDesmarcados(checkbox.checked, "D");
+  atualizaNosDesmarcados(checkbox.checked, 1);
 }
 
 function opcoesTermos(checkbox) {
-    atualizaNosDesmarcados(checkbox.checked, "U");
+    atualizaNosDesmarcados(checkbox.checked, 5);
 }
 
 function opcoesCondicoes(checkbox) {
-    atualizaNosDesmarcados(checkbox.checked, "M");
+    atualizaNosDesmarcados(checkbox.checked, 3);
 }
 
 function opcoesHabilidades(checkbox) {
-  atualizaNosDesmarcados(checkbox.checked, "H");
+  atualizaNosDesmarcados(checkbox.checked, 4);
 }
 
 function opcoesConteudo(checkbox) {
@@ -136,7 +136,7 @@ function exibeGrafo(graph) {
     var nodes = {};
     graph.nodes.forEach(function(no) {
         nodes[no.id] = no;
-        no.weight = 300.01 - (no.group * 15);
+        no.weight = 300.01 - (no.tipo * 15);
     });
 
     // the brush needs to go before the nodes so that it doesn't
@@ -165,24 +165,27 @@ function exibeGrafo(graph) {
     var cores = ["", "lightgray", "green", "blue", "red", "black"];
 
     function corNo(d) {
-        return cores[d.group];
+        return cores[d.tipo];
     }
 
     function raioNo(d) {
-        if (d.group === 1) {
+        if (d.tipo === 1) {
             return 10;
         }
 
         return 5;
     }
 
-    /* Fornece detalhe do nó selecionado */
+    /**
+     * Apresenta detalhes do nó fornecido.
+     * @param d O nó cujos detalhes serão exibidos.
+     */
     function detalhe(d) {
         var n = document.getElementById("tipo");
-        n.innerHTML = d.group;
+        n.innerHTML = d.tipo;
 
         var v = document.getElementById("tipo-valor");
-        v.innerHTML = d.h;
+        v.innerHTML = d.descricao;
     }
 
     function dragging() {
@@ -224,7 +227,7 @@ function exibeGrafo(graph) {
     // add titles for mouseover blurbs
     node.append("title")
         .text(function (d) {
-            return d.h;
+            return d.descricao;
         });
 
     function forceLink() {
