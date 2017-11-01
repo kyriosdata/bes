@@ -408,10 +408,10 @@ function exibeGrafo(graph) {
             })
     }
 
-    var texts = ["Nós: ", "Arestas" ];
+    var info = ["Nós: ", "Arestas" ];
 
     svg.selectAll("text")
-        .data(texts)
+        .data(info)
         .enter()
         .append("text")
         .attr("x", 47)
