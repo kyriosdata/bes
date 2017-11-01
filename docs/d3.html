@@ -3,11 +3,13 @@
 <html>
 
 <head>
-    <link href="https://fonts.googleapis.com/css?family=Merriweather|Nunito" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Nunito"
+          rel="stylesheet">
     <style>
-        section.header {
+        body {
             width: 80%;
-            margin: auto;
+            margin-left: auto;
+            margin-right: auto;
         }
 
         section.tarefas {
@@ -27,11 +29,8 @@
         }
 
         #grafo {
-            width: 80%;
             height: 600px;
             margin-bottom: 12px;
-            margin-left: auto;
-            margin-right: auto;
         }
 
         #grafo svg {
@@ -52,6 +51,10 @@
         .link {
             stroke: #999;
         }
+
+        .detalhes {
+            margin-top: 20px;
+        }
     </style>
 </head>
 
@@ -59,29 +62,72 @@
 <section class="header">
     <h1>Bacharelado em Engenharia de Software</h1>
     <h2>Instituto de Informática (UFG)</h2>
-    <p>Se você deseja conhecer um pouco mais o Bacharelado em Engenharia de Software do Instituto de Informática (UFG),
+    <p>Se você deseja conhecer um pouco mais o Bacharelado em Engenharia de
+        Software do Instituto de Informática (UFG),
         então essa é uma ferramenta para você. </p>
 </section>
 
 <button type="button" onclick="redesenha()">Redesenha</button>
 
-<div id="grafo">
-    <div class="opcoes">
-        <input type="checkbox" id="opcoes-disciplinas" checked onchange="opcoesDisciplinas(this)">
+<div class="restricoes">
+    <div class="opcoes-nos">
+        <span>Nós:&nbsp;</span>
+        <input type="checkbox" id="opcoes-disciplinas" checked
+               onchange="opcoesDisciplinas(this)">
         <label for="opcoes-disciplinas">Disciplinas</label>
-        
-        <input type="checkbox" id="opcoes-termos" checked onchange="opcoesTermos(this)">
+
+        <input type="checkbox" id="opcoes-termos" checked
+               onchange="opcoesTermos(this)">
         <label for="opcoes-termos">termos</label>
-        
-        <input type="checkbox" id="opcoes-condicoes" checked onchange="opcoesCondicoes(this)">
+
+        <input type="checkbox" id="opcoes-condicoes" checked
+               onchange="opcoesCondicoes(this)">
         <label for="opcoes-condicoes">Condições mínimas</label>
-        
-        <input type="checkbox" id="opcoes-habilidades" checked onchange="opcoesHabilidades(this)">
+
+        <input type="checkbox" id="opcoes-habilidades" checked
+               onchange="opcoesHabilidades(this)">
         <label for="opcoes-habilidades">Habilidades</label>
-        
-        <input type="checkbox" id="opcoes-conteudo" checked onchange="opcoesConteudo(this)">
+
+        <input type="checkbox" id="opcoes-conteudo" checked
+               onchange="opcoesConteudo(this)">
         <label for="opcoes-conteudo">Conteúdo</label>
     </div>
+    <div class="opcoes-arestas">
+        <span>Arestas:&nbsp;</span>
+        <input type="checkbox" id="opcoes-arestas-1" checked
+               onchange="opcoesConteudoUnidade(this)">
+        <label for="opcoes-arestas-1">Conteúdo>termos</label>
+
+        <input type="checkbox" id="opcoes-arestas-3" checked
+               onchange="opcoesDisciplinaConteudo(this)">
+        <label for="opcoes-arestas-3">Disciplinas>conteúdo</label>
+
+        <input type="checkbox" id="opcoes-arestas-2" checked
+               onchange="opcoesDisciplinaCondicaoMinima(this)">
+        <label for="opcoes-arestas-2">Disciplinas>condição mínima</label>
+
+        <input type="checkbox" id="opcoes-arestas-4" checked
+               onchange="opcoesHabilidadeUnidade(this)">
+        <label for="opcoes-arestas-4">Habilidade>termos</label>
+
+        <input type="checkbox" id="opcoes-arestas-5" checked
+               onchange="opcoesCondicoesUnidades(this)">
+        <label for="opcoes-arestas-5">Condições mínimas>termos</label>
+
+        <input type="checkbox" id="opcoes-arestas-6" checked
+               onchange="opcoesDisciplinaDisciplina(this)">
+        <label for="opcoes-arestas-6">Pré-requisitos</label>
+    </div>
+    <div class="opcoes-extras">
+        <input type="checkbox" id="nos-sem-arestas" checked
+               onchange="opcoesDisciplinaDisciplina(this)">
+        <label for="nos-sem-arestas">Excluir nós sem arestas</label><br>
+
+        <label for="palavras-exigidas">Palavras exigidas:</label>
+        <input type="text" id="palavras-exigidas">
+    </div>
+</div>
+<div id="grafo">
     <svg></svg>
 </div>
 
@@ -93,16 +139,21 @@
 <section class="tarefas">
     Lista de user stories a serem implementadas, se houver ...
     <ul>
-        <li>Como usuário eu quero que seja indicado o nóme do nó sob o mouse e as relações desse com os demais, em área
+        <li>Como usuário eu quero que seja indicado o nóme do nó sob o mouse e
+            as relações desse com os demais, em área
             própria, para que facilite a minha navegação pelo ppc.
         </li>
-        <li>Como usuário eu quero selecionar um nó e restringir a visualização apenas ao subgrafo formado pelo nó
-            selecionado e os adjacentes para eu compreender melhor a relação do nó selecionado.
+        <li>Como usuário eu quero selecionar um nó e restringir a visualização
+            apenas ao subgrafo formado pelo nó
+            selecionado e os adjacentes para eu compreender melhor a relação do
+            nó selecionado.
         </li>
-        <li>Como usuário eu quero digitar uma palavra e visualizar quais os nós que contém a palavra digitada para
+        <li>Como usuário eu quero digitar uma palavra e visualizar quais os nós
+            que contém a palavra digitada para
             facilitar a localização de informação de interesse.
         </li>
-        <li>Como usuário eu desejo selecionar o tipo de nó e o tipo de aresta exibido e, dessa forma, visualizar apenas
+        <li>Como usuário eu desejo selecionar o tipo de nó e o tipo de aresta
+            exibido e, dessa forma, visualizar apenas
             o subgrafo resultante da união dos elementos selecionados.
         </li>
     </ul>
@@ -128,8 +179,12 @@
        Ilustra estratégia para desenhar grafo apenas com os elementos selecionados.
      */
     function redesenha() {
-        grafo.nodes = grafo.nodes.filter(function(n) { return n.group === 1;});
-        grafo.links = grafo.links.filter(function(l) { return l.tipo === 6;});
+        grafo.nodes = grafo.nodes.filter(function (n) {
+            return n.group === 1;
+        });
+        grafo.links = grafo.links.filter(function (l) {
+            return l.tipo === 6;
+        });
         exibeGrafo(grafo);
     }
 

@@ -8,12 +8,58 @@
 var nosDesmarcados = new Set();
 
 /**
+ * Inicialmente todos os tipos de arestas são marcados para
+ * exibição. Este conjunto permite acompanhar alterações
+ * nesse conjunto por parte do usuário.
+ * @type {Set}
+ */
+var arestasDesmarcadas = new Set();
+
+/**
+ * Atualiza o conjunto de arestas desmarcadas. Uma aresta faz
+ * parte desse conjunto se não estiver marcada.
+ * @param marcada Indica se a aresta está marcada ou não.
+ * @param valor O identificador do tipo de aresta.
+ */
+function atualizaArestasDesmarcadas(marcada, valor) {
+    if (marcada) {
+        arestasDesmarcadas.delete(valor);
+    } else {
+        arestasDesmarcadas.add(valor);
+    }
+}
+
+function opcoesConteudoUnidade(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 1);
+}
+
+function opcoesDisciplinaConteudo(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 3);
+}
+
+function opcoesDisciplinaCondicaoMinima(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 2);
+}
+
+function opcoesHabilidadeUnidade(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 4);
+}
+
+function opcoesCondicoesUnidades(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 5);
+}
+
+function opcoesDisciplinaDisciplina(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 6);
+}
+
+/**
  * Atualiza o conjunto de nós desmarcados. Um nó
  * faz parte deste conjunto se não estiver marcado.
  * @param marcado Indica se o nó está marcado ou não.
  * @param valor Identificador do nó que foi marcado ou desmarcado.
  */
-function atualizaDesmarcados(marcado, valor) {
+function atualizaNosDesmarcados(marcado, valor) {
     if (marcado) {
         nosDesmarcados.delete(valor);
     } else {
@@ -26,23 +72,23 @@ function atualizaDesmarcados(marcado, valor) {
  * @param checkbox
  */
 function opcoesDisciplinas(checkbox) {
-  atualizaDesmarcados(checkbox.checked, "D");
+  atualizaNosDesmarcados(checkbox.checked, "D");
 }
 
 function opcoesTermos(checkbox) {
-    atualizaDesmarcados(checkbox.checked, "U");
+    atualizaNosDesmarcados(checkbox.checked, "U");
 }
 
 function opcoesCondicoes(checkbox) {
-    atualizaDesmarcados(checkbox.checked, "M");
+    atualizaNosDesmarcados(checkbox.checked, "M");
 }
 
 function opcoesHabilidades(checkbox) {
-  atualizaDesmarcados(checkbox.checked, "H");
+  atualizaNosDesmarcados(checkbox.checked, "H");
 }
 
 function opcoesConteudo(checkbox) {
-    atualizaDesmarcados(checkbox.checked, "C");
+    atualizaNosDesmarcados(checkbox.checked, "C");
 }
 
 function exibeGrafo(graph) {
