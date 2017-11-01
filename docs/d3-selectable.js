@@ -408,5 +408,15 @@ function exibeGrafo(graph) {
             })
     }
 
+    var texts = ["Nós: ", "Arestas" ];
+
+    svg.selectAll("text")
+        .data(texts)
+        .enter()
+        .append("text")
+        .attr("x", 47)
+        .attr("y", function(d,i) { return 12 + i * 18; })
+        .text(function(d) { return d; });
+
     return graph;
 }
