@@ -17,9 +17,10 @@ var arestasDesmarcadas = new Set();
 
 /**
  * Indica se nós que não estão conectados a outros devem ser
- * removidos da apresentação.
+ * removidos da apresentação. Inicialmente esta opção está
+ * marcada, ou seja, nós isolados não devem ser exibidos.
  */
-var excluirNosSemArestas;
+var excluirNosSemArestas = true;
 
 /**
  * Atualiza o conjunto de arestas desmarcadas. Uma aresta faz
@@ -146,7 +147,7 @@ function exibeGrafo(graph) {
     var nodes = {};
     graph.nodes.forEach(function (no) {
         nodes[no.id] = no;
-        no.weight = 300.01 - (no.tipo * 15);
+        no.weight = 30 - (no.tipo * 15);
     });
 
     // the brush needs to go before the nodes so that it doesn't
@@ -244,7 +245,7 @@ function exibeGrafo(graph) {
     function forceLink() {
         return d3.forceLink()
             .id(d => d.id)
-            .distance(d => 20);
+            .distance(d => 100);
     }
 
     var simulation = d3.forceSimulation()
