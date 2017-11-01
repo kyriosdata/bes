@@ -281,7 +281,6 @@ function exibeGrafo(graph) {
             });
     }
 
-    var brushMode = false;
     var brushing = false;
 
     rect.on("click", () => {
@@ -305,8 +304,6 @@ function exibeGrafo(graph) {
             if (gBrush)
                 return;
 
-            brushMode = true;
-
             if (!gBrush) {
                 gBrush = gBrushHolder.append("g");
                 gBrush.call(brush);
@@ -316,7 +313,6 @@ function exibeGrafo(graph) {
 
     function keyup() {
         shiftKey = false;
-        brushMode = false;
 
         if (!gBrush)
             return;
