@@ -23,6 +23,20 @@ var arestasDesmarcadas = new Set();
 var excluirNosSemArestas = true;
 
 /**
+ * Grafo original carregado a partir dos dados.
+ * Esse grafo é reutilizado.
+ */
+var grafo;
+
+/**
+ * Persiste grafo originalmente carregado a partir de dados.
+ * @param g Grafo original.
+ */
+function gravaGrafoOriginal(g) {
+    grafo = g;
+}
+
+/**
  * Atualiza o conjunto de arestas desmarcadas. Uma aresta faz
  * parte desse conjunto se não estiver marcada.
  * @param marcada Indica se a aresta está marcada ou não.
@@ -34,6 +48,8 @@ function atualizaArestasDesmarcadas(marcada, valor) {
     } else {
         arestasDesmarcadas.add(valor);
     }
+
+    redesenha(grafo);
 }
 
 function opcoesConteudoUnidade(checkbox) {
@@ -88,6 +104,8 @@ function atualizaNosDesmarcados(marcado, valor) {
     } else {
         nosDesmarcados.add(valor);
     }
+
+    redesenha(grafo);
 }
 
 /**
@@ -112,6 +130,53 @@ function opcoesHabilidades(checkbox) {
 
 function opcoesConteudo(checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 2);
+}
+
+/**
+ * Função que gera grafo conforme opções de seleção do usuário
+ * e requisita a reapresentação do grafo.
+ */
+function redesenha(g) {
+    var filtrado = {};
+
+    // Remove links desmarcados
+    filtrado.links = g.links.filter(function (l) {
+        return !arestasDesmarcadas.has(l.tipo);
+    });
+
+    // Remove links para os quais pelo menos um dos nós foi desmarcado
+    filtrado.links = filtrado.links.filter(function (l) {
+        if (nosDesmarcados.has(l.source.tipo)) {
+            return false;
+        }
+
+        if (nosDesmarcados.has(l.target.tipo)) {
+            return false;
+        }
+
+        return true;
+    });
+
+    // Se nós sem arestas devem ser excluídos, então apenas
+    // nós ligados a arestas devem ser exibidos. Lembrar que
+    // as arestas estão restritas àquelas cujos nós não foram
+    // excluídos.
+    if (excluirNosSemArestas) {
+        var nos = new Set();
+        filtrado.links.forEach(function (l) {
+            nos.add(l.source);
+            nos.add(l.target);
+        });
+
+        filtrado.nodes = [...nos];
+    } else {
+        // Remove nós desmarcados
+        filtrado.nodes = g.nodes.filter(function (n) {
+            return !nosDesmarcados.has(n.tipo);
+        });
+    }
+
+    exibeGrafo(filtrado);
 }
 
 function exibeGrafo(graph) {
@@ -245,7 +310,8 @@ function exibeGrafo(graph) {
     function forceLink() {
         return d3.forceLink()
             .id(d => d.id)
-            .distance(d => 100);
+            .distance(d => 100)
+            .strength(2);
     }
 
     var repulsao = d3.forceManyBody().strength(-200);
