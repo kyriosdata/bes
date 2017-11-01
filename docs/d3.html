@@ -135,7 +135,7 @@
     </div>
     <div class="opcoes-extras">
         <input type="checkbox" id="nos-sem-arestas" checked
-               onchange="opcoesDisciplinaDisciplina(this)">
+               onchange="opcoesExcluirNosSemArestas(this)">
         <label for="nos-sem-arestas">Excluir nós sem arestas</label><br>
 
         <label for="palavras-exigidas">Palavras exigidas:</label>
@@ -197,11 +197,6 @@
     function redesenha() {
         var filtrado = {};
 
-        // Remove nós desmarcados
-        filtrado.nodes = grafo.nodes.filter(function (n) {
-            return !nosDesmarcados.has(n.tipo);
-        });
-
         // Remove links desmarcados
         filtrado.links = grafo.links.filter(function (l) {
             return !arestasDesmarcadas.has(l.tipo);
@@ -219,6 +214,25 @@
 
             return true;
         });
+
+        // Se nós sem arestas devem ser excluídos, então apenas
+        // nós ligados a arestas devem ser exibidos. Lembrar que
+        // as arestas estão restritas àquelas cujos nós não foram
+        // excluídos.
+        if (excluirNosSemArestas) {
+            var nos = new Set();
+            filtrado.links.forEach(function (l) {
+                nos.add(l.source);
+                nos.add(l.target);
+            });
+
+            filtrado.nodes = [...nos];
+        } else {
+            // Remove nós desmarcados
+            filtrado.nodes = grafo.nodes.filter(function (n) {
+                return !nosDesmarcados.has(n.tipo);
+            });
+        }
 
         exibeGrafo(filtrado);
     }

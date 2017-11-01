@@ -16,6 +16,12 @@ var nosDesmarcados = new Set();
 var arestasDesmarcadas = new Set();
 
 /**
+ * Indica se nós que não estão conectados a outros devem ser
+ * removidos da apresentação.
+ */
+var excluirNosSemArestas;
+
+/**
  * Atualiza o conjunto de arestas desmarcadas. Uma aresta faz
  * parte desse conjunto se não estiver marcada.
  * @param marcada Indica se a aresta está marcada ou não.
@@ -63,6 +69,10 @@ function opcoesEntreConteudos(checkbox) {
 
 function opcoesEntreHabilidades(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 9);
+}
+
+function opcoesExcluirNosSemArestas(checkbox) {
+    excluirNosSemArestas = checkbox.checked;
 }
 
 /**
@@ -224,11 +234,12 @@ function exibeGrafo(graph) {
         });
     }
 
+    function getDescricao(d) {
+        return d.descricao;
+    }
+
     // add titles for mouseover blurbs
-    node.append("title")
-        .text(function (d) {
-            return d.descricao;
-        });
+    node.append("title").text(getDescricao);
 
     function forceLink() {
         return d3.forceLink()
