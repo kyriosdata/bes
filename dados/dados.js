@@ -25669,12 +25669,14 @@ function fase2(mapa) {
     return resultado;
 }
 
-var parcial = fase1(entrada);
-var final = fase2(parcial);
-console.log("[");
-console.log(final[0]);
-for (var i = 1; i < final.length; i++) {
-    console.log(",");
-    console.log(final[i]);
+function geradorDeArestas() {
+    var parcial = fase1(entrada);
+    var final = fase2(parcial);
+    console.log("[");
+    console.log(final[0]);
+    for (var i = 1; i < final.length; i++) {
+        console.log(",");
+        console.log(final[i]);
+    }
+    console.log("]");
 }
-console.log("]");

@@ -14,6 +14,7 @@ var nosDesmarcados = [];
 function opcoesDisciplinas(checkbox) {
   if (checkbox.checked) {
     alert("ADD disciplinas");
+    
   } else {
     alert("DELETE disciplinas");
   }
