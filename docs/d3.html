@@ -20,7 +20,7 @@
 
         h1 {
             font-family: 'Merriweather', serif;
-            font-size: 2.5em;
+            font-size: 2em;
         }
 
         p {
@@ -48,8 +48,13 @@
             stroke: black;
         }
 
-        .link {
-            stroke: #999;
+        .node circle {
+            stroke: #fff;
+            stroke-width: 1.5px;
+        }
+
+        .link line {
+            stroke: gray;
         }
 
         .detalhes {
@@ -187,17 +192,22 @@
         exibeGrafo(graph);
     }
 
-    /*
-       Ilustra estratégia para desenhar grafo apenas com os elementos selecionados.
+    /**
+     * Função que gera grafo conforme opções de seleção do usuário
+     * e requisita a reapresentação do grafo.
      */
     function redesenha() {
-        grafo.nodes = grafo.nodes.filter(function (n) {
-            return n.group === 1;
+        var filtrado = {};
+
+        filtrado.nodes = grafo.nodes.filter(function (n) {
+            return n.tipo === 1;
         });
-        grafo.links = grafo.links.filter(function (l) {
+
+        filtrado.links = grafo.links.filter(function (l) {
             return l.tipo === 6;
         });
-        exibeGrafo(grafo);
+
+        exibeGrafo(filtrado);
     }
 
     d3.json("d3.json", carrega);
