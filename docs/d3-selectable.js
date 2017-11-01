@@ -1,5 +1,16 @@
 "use strict";
 
+/**
+ * Inicialmente todos os tipos de nós são exibidos.
+ * Ou seja, nós desmarcados é uma lista vazia.
+ * @type {Array}
+ */
+var nosDesmarcados = [];
+
+/**
+ * Se desmarcado, remove nós do tipo disciplina.
+ * @param checkbox
+ */
 function opcoesDisciplinas(checkbox) {
   if (checkbox.checked) {
     alert("ADD disciplinas");

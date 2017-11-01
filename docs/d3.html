@@ -63,6 +63,8 @@
         então essa é uma ferramenta para você. </p>
 </section>
 
+<button type="button" onclick="redesenha()">Redesenha</button>
+
 <div id="grafo">
     <div class="opcoes">
         <input type="checkbox" id="opcoes-disciplinas" checked onchange="opcoesDisciplinas(this)">
@@ -82,8 +84,6 @@
     </div>
     <svg></svg>
 </div>
-
-<button type="button" onclick="redesenha()">Redesenha</button>
 
 <div class="detalhes">
     <span id="tipo" class="tipo">o tipo</span>
@@ -108,11 +108,11 @@
     </ul>
 </section>
 
-<script type="application/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+<script type="application/javascript" src="d3.js"></script>
 <script type="application/javascript" src="./d3-selectable.js"></script>
 
 <script>
-    var grafo;
+    let grafo;
 
     function carrega(error, graph) {
         if (error) {
@@ -129,7 +129,7 @@
      */
     function redesenha() {
         grafo.nodes = grafo.nodes.filter(function(n) { return n.group === 1;});
-        grafo.links = grafo.links.filter(function(l) { return l.tipo == 6;});
+        grafo.links = grafo.links.filter(function(l) { return l.tipo === 6;});
         exibeGrafo(grafo);
     }
 
