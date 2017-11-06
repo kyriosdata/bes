@@ -16,15 +16,19 @@
     <article class="disciplina">
       <div class="disciplina-rotulo">Nome</div>
       <div class="disciplina-nome">
-        {{nome}}<br>
+        {{dados.nome}}<br>
       </div>
       <div class="disciplina-detalhe">
-        ({{ch}} horas &nbsp;&nbsp;{{sem}}.&ordm; semestre, pág. {{pag}}, núcleo {{#if nc}}comum{{else}}específico{{/if}}, {{eixo}}, {{#if obr}}obrigatória{{else}}opcional{{/if}})
+        ({{dados.ch}} horas &nbsp;&nbsp;{{dados.sem}}.&ordm; semestre, pág. {{dados.pag}}, núcleo {{#if dados.nc}}comum{{else}}específico{{/if}}, {{dados.eixo}}, {{#if dados.obr}}obrigatória{{else}}opcional{{/if}})
       </div>
 
       <div class="disciplina-rotulo">Ementa</div>
       <div class="disciplina-ementa">
-        {{ementa}}
+        <ul>
+          {{#each ementa}}
+            <li>{{this}}</li>
+          {{/each}}
+        </ul>
       </div>
 
       <div class="disciplina-rotulo">Condições mínimas</div>
@@ -55,18 +59,42 @@
     window.onload = function() {
       baseDados = getDados("d3.json");
       disciplinas = getDados("disciplinas.json").disciplinas;
-      
+
       var source = document.getElementById('disciplina-template').innerHTML;
 
       template = Handlebars.compile(source);
-      
+
       update();
+    }
+
+    function ementa(id, dados) {
+      var arestas = dados.links;
+      var origem = "D" + id;
+      var conteudos = new Set();
+      arestas.forEach(function(i) {
+        if (i.tipo === 3 && i.source === origem) {
+          conteudos.add(i.target);
+        }
+      });
+      
+      var descricoes = [];
+      dados.nodes.forEach(function(n) {
+        if (conteudos.has(n.id)) {
+          descricoes.push(n.descricao);
+        }
+      });
+      return descricoes;
     }
 
     function update() {
       var idx = Math.floor(Math.random() * 44);
-      var html = template(disciplinas[idx]);
-      document.getElementById('saida').innerHTML = html;      
+      var conteudo = ementa(idx, baseDados);
+      var disciplina = {
+        dados: disciplinas[idx],
+        ementa: conteudo
+      };
+      var html = template(disciplina);
+      document.getElementById('saida').innerHTML = html;
     }
 
     function getDados(arquivo) {
@@ -79,7 +107,7 @@
       };
       xhttp.open("GET", arquivo, false);
       xhttp.send();
-      
+
       return dados;
     }
   </script>
