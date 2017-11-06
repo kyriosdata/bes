@@ -19,7 +19,8 @@
         {{nome}}<br>
       </div>
       <div class="disciplina-detalhe">
-        ({{ch}} horas &nbsp;&nbsp;{{sem}}.&ordm; semestre)
+        ({{ch}} horas &nbsp;&nbsp;{{sem}}.&ordm; semestre, pág. {{pag}}, núcleo 
+        {{#if nc}}comum{{else}}específico{{/if}}, {{eixo}}, {{#if obr}}obrigatória{{else}}opcional{{/if}})
       </div>
 
       <div class="disciplina-rotulo">Ementa</div>
@@ -53,12 +54,17 @@
 
       var template = Handlebars.compile(source);
       var disciplina = {
-        nome: "Testes",
+        num: 34,
+        nome: "Testes de Software",
         ementa: "testes de software",
         ch: 64,
-        sem: 4,
+        sem: 9,
         condicoes: ["c1", "c2"],
-        bibliografias: ["b1", "b2"]
+        bibliografias: ["b1", "b2"],
+        obr: true,
+        pag: 45,
+        nc: false,
+        eixo: "processos"
       };
 
       var html = template(disciplina);
