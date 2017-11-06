@@ -64,25 +64,9 @@
     }
 
     function update() {
-      var disciplina = {
-        num: 34,
-        nome: "Testes de Software",
-        ementa: "testes de software",
-        ch: 64,
-        sem: 9,
-        condicoes: ["c1", "c2"],
-        bibliografias: ["b1", "b2"],
-        obr: true,
-        pag: 45,
-        nc: false,
-        eixo: "processos"
-      };
-
       var idx = Math.floor(Math.random() * 44);
       var html = template(disciplinas[idx]);
-      document.getElementById('saida').innerHTML = html;
-      
-      alert(disciplinas.disciplinas.length);
+      document.getElementById('saida').innerHTML = html;      
     }
 
     function getDados(arquivo) {
