@@ -10793,5857 +10793,5857 @@
   {
     "id": "D1",
     "descricao": "Computação e Sociedade",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D2",
     "descricao": "Introdução à Programação",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D3",
     "descricao": "Cálculo 1A",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D4",
     "descricao": "Fundamentos de Matemática para Computação",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D5",
     "descricao": "Arquitetura de Computadores",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D6",
     "descricao": "Algoritmos e Estruturas de Dados 1",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D7",
     "descricao": "Probabilidade e Estatística A",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D8",
     "descricao": "Álgebra Linear",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D9",
     "descricao": "Lógica Matemática",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D10",
     "descricao": "Programação Orientada a Objetos",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D11",
     "descricao": "Algoritmos e Estruturas de Dados 2",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D12",
     "descricao": "Linguagens e Paradigmas de Programação",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D13",
     "descricao": "Engenharia de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D14",
     "descricao": "Análise e Projeto de Algoritmos",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D15",
     "descricao": "Interação Humano-Computador",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D16",
     "descricao": "Banco de Dados",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D17",
     "descricao": "Projeto de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D18",
     "descricao": "Construção de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D19",
     "descricao": "Modelagem de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D20",
     "descricao": "Processos de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D21",
     "descricao": "Engenharia de Sistemas",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D22",
     "descricao": "Design de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D23",
     "descricao": "Domínios de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D24",
     "descricao": "Processos de Qualidade de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D25",
     "descricao": "Gerência de Projeto de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D26",
     "descricao": "Software Concorrente e Distribuído",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D27",
     "descricao": "Experiência do Usuário de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D28",
     "descricao": "Arquitetura de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D29",
     "descricao": "Requisitos de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D30",
     "descricao": "Governança e Gestão de Serviços de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D31",
     "descricao": "Software para Sistemas Ubíquos",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D32",
     "descricao": "Software para Persistência de Dados",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D33",
     "descricao": "Padrões de Arquitetura de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D34",
     "descricao": "Testes de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D35",
     "descricao": "Prática em Engenharia de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D36",
     "descricao": "Pesquisa Operacional",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D37",
     "descricao": "Linguagens Formais e Autômatos",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D38",
     "descricao": "Sistemas Operacionais",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D39",
     "descricao": "Compiladores",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D40",
     "descricao": "Redes de Computadores",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D41",
     "descricao": "Introdução à Lingua Brasileira de Sinais",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D42",
     "descricao": "Sistemas Distribuídos",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D43",
     "descricao": "Metodologia e Experimentação em Engenharia de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "D44",
     "descricao": "Mercado e Economia de Software",
-    "tipo": "D"
+    "tipo": 1
   },
   {
     "id": "C1",
     "descricao": "História da computação; Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente; Subáreas da computação e áreas interdisciplinares; Importância e desafios da computação no Brasil e no mundo; Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão; Leis e normas relacionadas à Informática; Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação; Ética na Computação; Empresas de tecnologia da informação; Incubadoras de empresas.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C2",
     "descricao": "Introdução a algoritmos; Conceitos básicos de programas: constantes; tipos de dados primitivos; variáveis; atribuição; entrada e saída de dados; expressões; estruturas de decisão; estruturas de repetição; Ponteiro; Estruturas de dados homogêneas e heterogêneas: vetores, matrizes, cadeias de caracteres, registros. Subprogramas: funções; passagens de parâmetros por valor e por referência, recursividade; Manipulação de arquivos: abertura, fechamento, leitura e gravação; Tipos de acesso a arquivos: sequencial e indexado; Tipos de arquivos (texto e binário); Transcrição de algoritmos para uma linguagem de programação; Domínio de uma linguagem de programação: sintaxe e semântica; interpretação e compilação de programas; ambiente de desenvolvimento de programas; estilo de codificação; documentação de código; técnicas de depuração e técnicas de profiling; desenvolvimento e uso de bibliotecas.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C3",
     "descricao": "Números reais. Funções reais de uma variável real e suas inversas; Noções sobre cônicas; Limite e continuidade; Derivadas e aplicações; Polinômio de Taylor; Integrais. Técnicas de Integração. Integrais impróprias; Aplicações.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C4",
     "descricao": "Noções de lógica; Introdução a demonstrações; Indução matemática, Recursividade e Relações de Recorrência, Conjuntos e Combinatória; Séries e sequências; Relações e Funções; Representações numéricas e Mudança de base numérica.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C5",
     "descricao": "Visão geral dos computadores modernos; Evolução da arquitetura dos computadores; Memória e representação de dados e instruções; Processador, ciclo de instrução, formato e endereçamento; Noções básicas de programação em linguagem de montagem; Dispositivos de entrada e saída; Sistemas de interconexão (barramentos); Interfaceamento e técnicas de entrada e saída; Hierarquia de memória; Introdução a arquiteturas paralelas e métricas de desempenho.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C6",
     "descricao": "Noções de complexidade de algoritmos (notações de complexidade); Algoritmos de pesquisa: pesquisa sequencial e binária; Algoritmos de ordenação; Tipos abstratos de dados; Estruturas de dados utilizando vetores: pilhas, filas, listas (simples e circulares); Estruturas de dados com alocação dinâmica de memória: pilhas, filas, listas (simplesmente encadeadas, duplamente encadeadas e circulares).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C7",
     "descricao": "Estatística descritiva. Noções sobre amostragem; Introdução à teoria de conjuntos; Introdução à teoria de probabilidade: espaço amostral, eventos, frequência relativa, fundamentos de probabilidade, probabilidade condicional, eventos independentes e teorema de Bayes; Variáveis aleatórias: conceitos básicos, esperança e variância; Distribuições discretas de probabilidade: uniforme, binomial e Poisson; Distribuições contínuas de probabilidade: uniforme, exponencial, normal e t-Student; Estimação pontual e intervalar para uma população: média e proporção; Teste de hipóteses para uma população: média e proporção; Correlação linear e regressão linear simples.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C8",
     "descricao": "Sistemas lineares e matrizes; Espaços vetoriais; Transformações lineares; Autovalores e autovetores; Espaços com produto interno.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C9",
     "descricao": "Noções básicas: linguagem natural vs linguagens formais; verdade, validade, satisfatibilidade; lógica proposicional (sintaxe e semântica, propriedades e relações semânticas, consequência lógica, simplificação de fórmulas); lógica de primeira ordem (sintaxe e semântica, propriedades e relações semânticas, formas normais); Métodos de validação: métodos diretos de prova; métodos de prova por contradição; indução estrutural; Linguagem para experimentação; Aplicações básicas.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C10",
     "descricao": "Abstração e tipos abstratos de dados; Classes, métodos, encapsulamento, interface. Mensagens, instâncias e inicialização. Herança e composição. Polimorfismo; Uso de uma linguagem orientada a objetos; Noções de UML; Noções de padrões de projeto orientado a objetos.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C11",
     "descricao": "Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, árvores balanceadas (AVL e rubro-negras); Filas de prioridades. Heaps, Heapsort. Hashing: tipos de funções de hashing; tratamento de colisões; Definições de Grafos; Estruturas de Dados para representação de grafos; Algoritmos básicos em grafos.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C12",
     "descricao": "Estudo dos conceitos de linguagens de programação e dos paradigmas de programação: procedural, funcional, lógico, orientado a objeto e script; Reflexão sobre as características desejáveis em uma linguagem de programação e os critérios de seleção de linguagens de acordo com as especificidades dos domínios de aplicação; Descrição de sintaxe e semântica; Estudo sobre tipos de dados, estruturas de controle, ambientes de execução, variáveis, expressões e subprogramas em linguagens de programação.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C13",
     "descricao": "Requisitos de software; Projeto (design) de software; Construção de software; Teste de software; Manutenção de software; Gerência de configuração de software; Gerência de projeto de software; Processo de engenharia de software; Modelos e métodos de engenharia de software; Qualidade de software; Prática profissional de engenharia de software; Economia para engenharia de software; Fundamentos de engenharia.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C14",
     "descricao": "Medidas de complexidade, análise assintótica de limites de complexidade para algoritmos iterativos e recursivos, técnicas de prova de cotas inferiores; Corretude de Algoritmos; Exemplos de análise de algoritmos; Técnicas de projeto de algoritmos: dividir para conquistar, programação dinâmica, algoritmos gulosos; Introdução à NP-Completude.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C15",
     "descricao": "Aspectos gerais sobre interação humano-computador; Características humanísticas e biológicas, envolvendo questões sobre genealogia, gênero, aspectos étnicos, raciais e culturais, direitos e aspectos políticos, deficiências, limitações e capacidades, dentre outros; Ciclo da interação e principais problemas. Metas de usabilidade e experiência do usuário; Fatores humanos em software interativo: teoria, princípios e regras básicas. Modelos conceituais e metáforas; Estilos de interação. Elementos de interação (menus, formulários, manipulação direta e outros). Voz, linguagem natural, sons, páginas Web. Padrões para interface; Localização e internacionalização; Princípios de projeto de interfaces humano-\u001fcomputador. Métodos de projeto de interação. Projeto visual (cores, ícones, fontes e outros). Tempo de resposta e retroalimentação; Dispositivos de interação; Métodos de avaliação de interfaces: avaliação heurística, abordagens para testes realizados com apoio de usuários, técnicas de testes para páginas Web, entre outros; Visão geral de ferramentas de desenvolvimento de interfaces humano-computador.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C16",
     "descricao": "Conceitos básicos de Banco de Dados; Modelo relacional; Linguagens para Banco de Dados: álgebra relacional, cálculo relacional e SQL; Modelo Entidade-Relacionamento e extensões; Mapeamento ER-relacional; Normalização.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C17",
     "descricao": "Fundamentos de design de software; Questões básicas de design de software: concorrência, controle e tratamento de eventos, persistência de dados, distribuição, tratamento de erro e exceção, tolerância a falhas, interação e apresentação, e segurança. Estrutura e arquitetura de software; Projeto de interface de usuário; Análise de qualidade e avaliação de design de software; Notação de design de software; Métodos e estratégias de design de software; Ferramentas de design de software.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C18",
     "descricao": "Visão geral (4h): construção (minimizar complexidade, antecipação de mudança, verificação, padrões), projeto de software (software design), qualidade de produto.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C19",
     "descricao": "Planejamento (8h): linguagens de programação e processos de construção.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C20",
     "descricao": "Gerência de construção (16h): controle de versão, inspeção e revisão de código.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C21",
     "descricao": "Fundamentos de codificação (32h): estratégias recomendadas para criar código, variáveis, classes, interfaces, polimorfismo, rotinas, recursão, condições, laços, tratamento de exceção, reflexão, programação defensiva, padrão de codificação (leiaute e estilo), documentação, ferramentas de programação.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C22",
     "descricao": "Projeto (design) detalhado e codificação (32h): noções de projeto detalhado, especificação de projeto, análise sintática (parsing), expressões regulares, parametrização (generics), closure, logging, configuração de software em tempo de execução. Internacionalização. Técnicas de construção baseadas em estado e tabelas.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C23",
     "descricao": "Refatoração (8h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C24",
     "descricao": "Testes de unidade (16h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C25",
     "descricao": "Detecção e remoção de defeitos (debugging) (8h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C26",
     "descricao": "Integração (4h): integração contínua.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C27",
     "descricao": "Conceitos (4h): software, qualidade de software, requisitos de software, projeto de software.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C28",
     "descricao": "Processo de projeto de software (4h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C29",
     "descricao": "Notações para registro de modelos orientados a objetos (16h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C30",
     "descricao": "Modelagem de software orientado a objetos (40h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C31",
     "descricao": "Visão geral (8h): processo, método e modelo.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C32",
     "descricao": "Processos específicos de software: processos de implementação (12h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C33",
     "descricao": "Processos específicos de software: processos de suporte (12h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C34",
     "descricao": "Processos específicos de software: processos de reutilização (2h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C35",
     "descricao": "Qualidade de Processo: modelos de qualidade de processos (12h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C36",
     "descricao": "Qualidade de Processo: avaliação da qualidade do processo (12h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C37",
     "descricao": "Qualidade de Processo: abordagens de implementação de processo (6h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C38",
     "descricao": "Fundamentos de engenharia (16h): métodos empíricos e técnicas experimentais; análise estatística; medição; design; modelagem, prototipação e simulação; normas e padrões; análise de causa raiz.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C39",
     "descricao": "Fundamentos de sistema (16h): taxonomias de sistema; sistemas de engenharia (sistemas produzidos por engenharia - engineered systems); sistemas intensivos em software (software-intensive systems); sistemas de sistemas; complexidade de sistemas; propriedades emergentes; princípios do pensamento sistêmico; representação de sistemas por modelos.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C40",
     "descricao": "Engenharia de Sistemas (32h): abordagens e metodologias; partes interessadas (stakeholders) e suas necessidades; ciclo de vida de sistemas de engenharia (concepção, conceitos operacionais, design, validação de design, construção, validação de construção, implantação, sustentação e descontinuação); processos do ciclo de vida de sistemas (negociação, preparação para projeto organizacional, gestão técnica, processos técnicos); qualidade de processo.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C41",
     "descricao": "Conceitos (8h): design, software, qualidade de software, requisitos de software, arquitetura de software e projeto detalhado.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C42",
     "descricao": "Contexto de projeto de software (4h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C43",
     "descricao": "Processos e artefatos de projeto de software (8h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C44",
     "descricao": "Notações de projeto de software (8h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C45",
     "descricao": "Princípios e fundamentos de projeto de software (16h): abstração, acoplamento, coesão, decomposição, encapsulamento, separar interface e implementação, suficiência, completitude, simplicidade e separation of concerns.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C46",
     "descricao": "Aspectos de projeto de software (16h): concorrência, controle e tratamento de eventos, tratamento de exceção, persistência, distribuição, interação (apresentação).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C47",
     "descricao": "Qualidade de projeto de software (8h): técnicas de avaliação, medidas, ferramentas.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C48",
     "descricao": "Métodos e estratégias de projeto (4h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C49",
     "descricao": "Método para projeto orientado a objetos (4h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C50",
     "descricao": "Padrões de projeto orientado a objetos (16h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C51",
     "descricao": "Prática de projeto de software orientado a objetos (36h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C52",
     "descricao": "Visão ampla de domínios de desenvolvimento (4h): sistemas, componentes e a relação entre eles.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C53",
     "descricao": "Especificidades de alguns domínios de desenvolvimento (8h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C54",
     "descricao": "Especificidades de um domínio (12h): requisitos, projeto, construção.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C55",
     "descricao": "Desenvolvimento de software em um domínio (ênfase na construção) (40h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C56",
     "descricao": "Visão Geral de Qualidade de Software (4h): custos e impactos da qualidade de software, questões éticas e culturais da qualidade de software.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C57",
     "descricao": "Processo de garantia da qualidade de software (10h): garantia do produto e garantia do processo.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C58",
     "descricao": "Processo de Verificação e Validação de Software (36h): requisito, projeto (design), código, integração, documentação.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C59",
     "descricao": "Processos de Revisão e Auditoria de Software (14h): revisões gerenciais e revisões técnicas.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C60",
     "descricao": "Projeto e gerência de projeto (4h): ciclo de vida de produto, serviço e projeto; partes interessadas (stakeholders); correlação entre projetos, operações e programas; gerência de portfólio de projetos; escritório de projetos (PMO).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C61",
     "descricao": "Tipos de projeto de software (4h): aquisição, desenvolvimento, refatoração, descontinuação.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C62",
     "descricao": "Tipos de ciclo de vida de projeto de software (4h): preditivo, iterativo, adaptativo; processos empíricos e processos definidos e sua relação com métodos ágeis e métodos planejados para gerência de projeto de software.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C63",
     "descricao": "Modelos de qualidade de processo de gerência de projeto de software (4h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C64",
     "descricao": "Áreas de conhecimento da gerência de projetos aplicadas a projetos de software (48h): escopo, tempo, custo, qualidade, recursos humanos, comunicações, riscos, aquisições, integração e partes interessadas.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C65",
     "descricao": "Qualidade de produto (4h): escalabilidade, tolerância a falhas, disponibilidade, desempenho.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C66",
     "descricao": "Conceitos (4h): middleware, distribuição, paralelismo, concorrência, RESTful, web, internet das coisas, contêineres, troca de mensagens, micro-serviços, serviços web.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C67",
     "descricao": "Métodos para construção de software distribuído e para construção de software concorrente (8h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C68",
     "descricao": "Concorrência (16h): paralelismo, aplicações IO-intensive e CPU-intensive, thread safe, memória compartilhada, Software Transactional Memory, atores, abordagens para explorar concorrência.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C69",
     "descricao": "Distribuição (24h): projeto, implementação e uso de interface de programação, RESTful, serviços web e micro-serviços (microservices).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C70",
     "descricao": "Troca de mensagens (messaging) (8h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C71",
     "descricao": "Qualidade em uso (4h): usabilidade, acessibilidade.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C72",
     "descricao": "Design centrado no usuário (8h): diretrizes, pesquisa, personas, jornadas de usuário, modelagem (especificação) e ferramentas.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C73",
     "descricao": "Projeto de interação (16h): diretrizes, criação, modelagem (especificação) e ferramentas.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C74",
     "descricao": "Design de software e interfaces gráficas (8): padrões arquiteturais para design da camada de apresentação (MVC, MVP, MVVM e outros).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C75",
     "descricao": "Implementação de interfaces (20h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C76",
     "descricao": "Modelos de validação de experiência (8h): modelos, métodos e técnicas para validação de experiência do usuário.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C77",
     "descricao": "Conceitos (4h): software, qualidade de software, requisitos de software, arquitetura de software e projeto detalhado.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C78",
     "descricao": "Requisitos funcionais e requisitos de qualidade (8h): conceituação e identificação de requisitos relevantes para a arquitetura.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C79",
     "descricao": "Documentação de arquitetura de software (8h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C80",
     "descricao": "Fundamentos de arquitetura de software (4h): importância, contexto, estilos.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C81",
     "descricao": "Método de desenvolvimento de arquitetura de software (8h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C82",
     "descricao": "Técnicas para satisfazer requisitos de qualidade (16h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C83",
     "descricao": "Criação de arquiteturas de software (16h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C84",
     "descricao": "Processo de requisitos (16h): definições básicas, eliciação de requisitos, análise de requisitos, especificação de requisitos, verificação e validação de requisitos.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C85",
     "descricao": "Modelos e métodos da engenharia de requisitos (32).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C86",
     "descricao": "Gerência de projetos de engenharia de requisitos (8).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C87",
     "descricao": "Processo de projeto arquitetural (8h): relação com requisitos.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C88",
     "descricao": "Governança (8h): governança corporativa; governança de TI (GTI); governança de Software (GS); princípios da GS; conformidade (compliance); alinhamento dos serviços de software ao negócio da organização; normas, frameworks, padrões, modelos de qualidade e de maturidade de GS.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C89",
     "descricao": "Abordagens para GS (8h): aplicação de abordagens de GS em um contexto organizacional. Objetivos de controle para GS; indicadores e avaliação de desempenho de software; direcionamento, avaliação e controle do uso de serviços de software para apoiar os objetivos de uma organização.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C90",
     "descricao": "Planejamento e controle estratégico de software (8h): alinhamento entre objetivos organizacionais e objetivos relacionados a software; avaliação, direcionamento e monitoramento de processos de software; diagnóstico de maturidade de processos de software; alinhamento de políticas de software ao plano diretor de TI de uma organização. Gestão de riscos de software; riscos organizacionais; riscos relacionados à segurança física e lógica de software.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C91",
     "descricao": "Governança de dados (8h): Segurança da informação em uma organização; Segurança de software.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C92",
     "descricao": "Software como um serviço (SaaS) (8h): serviços de Software (SS); gestão de Serviços de Software (GSS); Estratégia organizacional para SS; Modelos, normas e padrões relacionados à GSS.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C93",
     "descricao": "Ciclo de vida de SS (8h): planejamento; desenvolvimento; implantação e sustentação; Operação de SS e apoio (suporte) à operação de SS; Descontinuação de SS.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C94",
     "descricao": "Manutenção de SS (8h): correção, adaptação e evolução de SS; gestão de incidentes e problemas em SS; controle de mudança e de configuração; controle de qualidade.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C95",
     "descricao": "Gerência de processos de negócio (BPM – Business Process Management) aplicada à GSS (8h): representação de SS como processos de negócio; notação para modelagem de processos de negócio (BPMN); análise, validação e evolução de processos de negócio e de SS.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C96",
     "descricao": "Sistemas de informação que fazem uso de dispositivos (ubíquos) (16h): smartphones, sensores, internet das coisas (IoT), stream analytics e aspectos de segurança (vulnerabilidades, criptografia, certificados digitais).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C97",
     "descricao": "Definição de arquiteturas para soluções móveis (16): conectar serviços, possivelmente de grande volume, fluxo e em tempo real, com a necessidade de analisá-los.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C98",
     "descricao": "Desenvolvimento de código para smartphone, sensor ou outro dispositivo capaz de alimentar/receber informações de sistema de informação (32h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C99",
     "descricao": "Visão geral de persistência (12h): arquivos em formato texto/binário. Serialização de objetos. Documentos XML. JSON. Bancos de dados relacionais. Bancos NoSql.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C100",
     "descricao": "Modelagem e implementação de bancos de dados (28h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C101",
     "descricao": "Mapeamento entre OO e relacional (8h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C102",
     "descricao": "Refatoração de bancos de dados (8h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C103",
     "descricao": "Integração de bancos de dados (8h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C104",
     "descricao": "Conceitos (12h): arquitetura de software e padrões de arquitetura (blackboard, microservices, invocação implícita, arquitetura orientada a serviços, multitier, arquitetura orienta a eventos, plugin, filtros e pipes, MVC.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C105",
     "descricao": "Norma ISO/IEC/IEEE 42010:2011 (8h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C106",
     "descricao": "Análise (avaliação) de arquiteturas de software (12h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C107",
     "descricao": "Criação de arquiteturas de software (32h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C108",
     "descricao": "Processo de construção (8h): definições básicas, atividades e documentação.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C109",
     "descricao": "Processo de Teste de Software (56): definições básicas, técnicas de teste, teste baseado em intuição e experiência do engenheiro de software, atividades do processo, documentação e ferramentas.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C110",
     "descricao": "Aplicação do corpo de conhecimento da Engenharia de Software no contexto de projetos realizados em uma Fábrica de Software (320h): emprego de processos de Engenharia de Software em abrangência e profundidade; seleção e utilização de normas, métodos, técnicas e ferramentas de Engenharia de Software para atingir objetivos estabelecidos no projeto; integração e consolidação de conhecimentos e habilidades esperadas do profissional de Engenharia de Software; exercício de práticas e atitudes profissionais embasadas no código de ética e na postura profissional da Engenharia de Software; prática em processos técnicos de Engenharia de Software; prática em Gestão de Engenharia de Software; prática em Tecnologias de Engenharia de Software.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C111",
     "descricao": "Modelagem; Problema de Programação Linear (PL). Resolução gráfica de PL; Algoritmo Simplex. Dualidade. Algoritmo Simplex-Dual; Pós-otimização e Análise de Sensibilidade.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C112",
     "descricao": "Conceitos básicos de linguagens; Mecanismos geradores (gramáticas) e reconhecedores (determinísticos e não determinísticos) de linguagens regulares, livres de contexto e sensíveis ao contexto; relação entre estas classes de linguagens e suas principais propriedades; Hierarquia de Chomsky.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C113",
     "descricao": "Conceitos de Hardware e Software; Tipos de Sistemas Operacionais. Organização da Estrutura Interna do Sistema Operacional. Gerência de Processos. Gerência do Processador. Gerência de Memória. Gerência de Dispositivos de Entrada e Saída. Sistemas de Arquivos; Estudos de casos de sistemas operacionais atuais.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C114",
     "descricao": "A estrutura de um compilador; Análises léxica e sintática; Definições dirigidas por sintaxe e análise semântica; Organização da tabela de símbolos; Representação intermediária do programa-fonte; Geração do código-objeto da compilação; Introdução à otimização do código-objeto; Implementação de um compilador.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C115",
     "descricao": "Fundamentos; Arquitetura de Redes TCP/IP (Internet); Camadas de Aplicação, Transporte, Rede, Enlace e Física; Gerenciamento de Redes; Redes Sem Fio e Mobilidade; Estudo de Caso de Tópicos Emergentes em Redes.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C116",
     "descricao": "Introdução às práticas de compreensão e produção em LIBRAS através do uso de estruturas e funções comunicativas elementares; Concepções sobre a Língua de Sinais; O surdo e a sociedade.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C117",
     "descricao": "Introdução a Sistemas Distribuídos; Invocação Remota; Objetos Distribuídos; Arquiteturas Orientadas a Serviços e utilização de serviços Web; Computação Móvel e Ubíqua. Estudo de Casos de Tópicos Emergentes em Sistemas Distribuídos.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C118",
     "descricao": "Metodologia Científica (16h): aplicação de metodologia científica em atividades de Engenharia de Software.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C119",
     "descricao": "Fundamentos da Engenharia de Software Experimental (16h): contexto da experimentação na Engenharia de Software; principais tipos de experimentos aplicados à Engenharia de Software; estudos primários e secundários; revisão e mapeamento sistemático da literatura.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C120",
     "descricao": "Realização de Experimentos em Engenharia de Software (32h).",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "C121",
     "descricao": "Modelos de negócio para software (aluguel, serviço, código aberto); Leis, normas, impostos e legislação brasileira para o mercado local e para a exportação de software; Programas de incentivo à exportação e à produção de software; Características e exigências do mercado interno e externo; Identificação de oportunidades de inovação em software; Planos de negócio de software para o mercado nacional e global; Engenharia Econômica. Fornecimento, demanda e produção. Lucro produzido por capital (interest). Análise custo-benefício. Análise breakeven. Retorno de investimento. Avaliação de alternativas. Economia aplicada ao desenvolvimento de software.",
-    "tipo": "C"
+    "tipo": 2
   },
   {
     "id": "M1",
     "descricao": "Explicar a construção de software, a relação dessa área de conhecimento com as demais da engenharia de software e a relação com o conceito de sistema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M2",
     "descricao": "Usar e configurar ferramentas para edição, documentação, compilação, depuração (debugging), build, teste, controle de versão, coleta de medidas (desempenho, consumo de memória, análise estática e cobertura), integração contínua, e aplicativos fundamentais de linha de comandos.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M3",
     "descricao": "Criar código orientado a objetos em conformidade com o projeto (design) detalhado seguindo estratégias recomendadas.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M4",
     "descricao": "Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M5",
     "descricao": "Detalhar projeto (design) em conformidade com requisitos de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M6",
     "descricao": "Depurar (debugging) código.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M7",
     "descricao": "Criar testes de unidade básicos empregando estratégias recomendadas.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M8",
     "descricao": "Localizar e reutilizar código (bibliotecas e frameworks).",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M9",
     "descricao": "Colaborar com a construção de código em equipe.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M10",
     "descricao": "Avaliar a qualidade interna de código e, quando apropriado, aplicar estratégias recomendadas de refatoração.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M11",
     "descricao": "Explicar o que é software, qualidade de software, requisitos de software e a relação entre eles.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M12",
     "descricao": "Empregar notações para registro de projeto de software orientado a objetos.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M13",
     "descricao": "Criar modelos de projeto de software orientado a objetos.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M14",
     "descricao": "Explicar processos de software, a relação dessa área de conhecimento com as demais da engenharia de software e a relação com o conceito de sistema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M15",
     "descricao": "Correlacionar os conceitos de processo de software, método de software, modelo de software, modelo de processo e modelo de qualidade de processo.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M16",
     "descricao": "Explicar quais são os processos específicos de software: objetivo de cada processo e principais resultados.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M17",
     "descricao": "Explicar o uso de modelos de qualidade de processo: implementação e avaliação.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M18",
     "descricao": "Obter resultados de processo usando métodos e modelos.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M19",
     "descricao": "Modelar o ciclo de vida de um sistema intensivo em software, considerando as implicações e perspectivas dos processos do ciclo de vida de sistemas.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M20",
     "descricao": "Definir o conceito do sistema proposto (propósito desejado, contexto operacional, partes interessadas e conceito de uso do sistema).",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M21",
     "descricao": "Selecionar um modelo de ciclo de vida de software adequado ao modelo de ciclo de vida de engenharia de sistemas e integrar os dois modelos.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M22",
     "descricao": "Desenvolver conceitos operacionais do sistema (ambientes operacionais, características priorizadas, atributos de qualidade, cenários operacionais, suposições, dependências, limitações e exclusões).",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M23",
     "descricao": "Explicar o que é software, qualidade de software, requisitos de software, arquitetura de software, projeto detalhado, design, e a relação entre eles.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M24",
     "descricao": "Aplicar princípios de projeto de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M25",
     "descricao": "Empregar aspectos de projeto de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M26",
     "descricao": "Fazer uso de medidas de qualidade de projeto de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M27",
     "descricao": "Criar projeto de software a partir de um problema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M28",
     "descricao": "Explicar a construção de software, a relação dessa área de conhecimento com as demais da engenharia de software e a relação com o conceito de sistema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M31",
     "descricao": "Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M33",
     "descricao": "Colaborar com a construção de código em equipe.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M34",
     "descricao": "Explicar domínios de desenvolvimento (categorias) e as especificidades correspondentes.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M35",
     "descricao": "Explicar um domínio de software e as estratégias de desenvolvimento correspondentes.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M36",
     "descricao": "Explicar processos de qualidade de software, a relação dessa área de conhecimento com as demais da engenharia de software e a relação com o conceito de sistema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M37",
     "descricao": "Explicar a diferença e a relação entre a garantia do produto e a garantia do processo.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M38",
     "descricao": "Usar um processo da garantia da qualidade de software",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M39",
     "descricao": "Usar um processo para a verificação e validação de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M40",
     "descricao": "Usar um processo para a revisão e auditoria de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M41",
     "descricao": "Colaborar em uma equipe na execução de um processo de qualidade.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M42",
     "descricao": "Documentar resultados dos processos de qualidade de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M43",
     "descricao": "Identificar e utilizar ferramentas de apoio ao controle de qualidade de artefatos de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M44",
     "descricao": "Usar normas, modelos e ferramentas de gerência de projeto para planejamento e acompanhamento de projeto de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M45",
     "descricao": "Selecionar e implementar o tipo de modelo de processo (dirigido por plano, incremental ou adaptativo) de acordo com as características do contexto do projeto de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M46",
     "descricao": "Selecionar e implementar o tipo de ciclo de vida de software (ou paradigma de engenharia de software - cascata, espiral, iterativo, baseado em modelo de maturidade, etc.) de acordo com as características do contexto do projeto de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M47",
     "descricao": "Explicar a construção de software, concorrência/distribuição e a relação desses com a engenharia de software e de sistema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M50",
     "descricao": "Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M52",
     "descricao": "Localizar e reutilizar código (bibliotecas e frameworks).",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M53",
     "descricao": "Colaborar com a construção de código em equipe.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M54",
     "descricao": "Avaliar a qualidade interna de código e, quando apropriado, aplicar estratégias recomendadas de refatoração.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M55",
     "descricao": "Explicar conceitos de concorrência e distribuição.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M56",
     "descricao": "Criar código que faz uso de concorrência, distribuição e ferramentas correlatas.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M57",
     "descricao": "Explicar a construção de software, experiência do usuário e a relação com a Engenharia de Software e a noção se sistema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M59",
     "descricao": "Criar código orientado a objetos em conformidade com o projeto (design) detalhado seguindo estratégias recomendadas.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M60",
     "descricao": "Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M62",
     "descricao": "Colaborar com a construção de código em equipe.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M63",
     "descricao": "Auxiliar na criação de requisitos de usabilidade.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M64",
     "descricao": "Criar e registrar projeto de interação que atende requisitos de usabilidade.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M65",
     "descricao": "Usar ferramentas e bibliotecas para o desenvolvimento de código de interfaces.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M66",
     "descricao": "Criar código em conformidade com o projeto de interação correspondente.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M67",
     "descricao": "Explicar o que é software, qualidade de software, requisitos de software, arquitetura de software, projeto detalhado, e a relação entre eles.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M68",
     "descricao": "Compreender a documentação de arquitetura de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M69",
     "descricao": "Documentar arquitetura de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M70",
     "descricao": "Criar arquitetura de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M71",
     "descricao": "Explicar requisitos de software, a relação dessa área de conhecimento com as demais da engenharia de software, arquitetura de software em especial, e a relação com o conceito de sistema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M72",
     "descricao": "Usar um processo de requisitos de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M73",
     "descricao": "Eliciar de requisitos de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M74",
     "descricao": "Construir modelos conceituais de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M75",
     "descricao": "Especificar requisitos de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M76",
     "descricao": "Verificar e validar requisitos de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M77",
     "descricao": "Identificar e utilizar ferramentas de requisitos de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M78",
     "descricao": "Colaborar em uma equipe na execução de um processo de requisitos.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M79",
     "descricao": "Planejar a estratégia de software para uma organização, considerando a pouca disponibilidade de informações de longo prazo, a escassez de recursos para implementação dessa estratégia e a necessidade de alinhamento entre a GS e a governança corporativa.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M80",
     "descricao": "Controlar o uso atual e futuro de software, otimizando o seu valor agregado para o negócio da organização.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M81",
     "descricao": "Planejar e implementar (projetar, desenvolver, implantar, monitorar, medir, controlar e sustentar) uma estratégia organizacional para GSS em conformidade com o plano estratégico da organização.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M82",
     "descricao": "Modelar SS e processos de negócio, usando BPMN, em conformidade com os requisitos organizacionais dos processos e serviços.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M83",
     "descricao": "Explicar a construção de software, dispositivos e a relação desses com a engenharia de software e de sistema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M84",
     "descricao": "Explicar a construção de software e a relação dessa área de conhecimento com as demais da engenharia de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M87",
     "descricao": "Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M89",
     "descricao": "Detalhar projeto de interação (design) em conformidade com requisitos de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M90",
     "descricao": "Localizar e reutilizar código (bibliotecas e frameworks).",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M91",
     "descricao": "Colaborar com a construção de código em equipe.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M92",
     "descricao": "Explicar a construção de software, segurança e a relação desses com a engenharia de software e de sistema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M93",
     "descricao": "Auxiliar na criação de modelo de ameaça.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M94",
     "descricao": "Criar código que faz uso de recursos de segurança (criptografia de dados, assinatura e verificação de assinatura digital).",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M95",
     "descricao": "Explicar a construção de software, persistência e a relação desses com a engenharia de software e de sistema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M96",
     "descricao": "Identificar e usar estratégia adequada de persistência de dados para um dado problema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M97",
     "descricao": "Usar ferramentas para definição e manipulação de bancos de dados.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M98",
     "descricao": "Criar código que cria, busca, atualiza e remove dados em bancos de dados.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M99",
     "descricao": "Refatorar (refactoring) bases de dados.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M100",
     "descricao": "Compreender a documentação de arquitetura de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M101",
     "descricao": "Explicar padrões de arquitetura e ilustrar o uso.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M102",
     "descricao": "Documentar arquitetura de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M103",
     "descricao": "Realizar análise de arquitetura de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M104",
     "descricao": "Criar arquitetura de software que se beneficia de padrões de arquitetura.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M105",
     "descricao": "Explicar o teste de software, a relação dessa área de conhecimento com as demais da engenharia de software e a relação com o conceito de sistema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M106",
     "descricao": "Usar um processo de teste de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M107",
     "descricao": "Desenvolver planos de teste para o teste de unidade.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M108",
     "descricao": "Propor casos de teste segundo algum critério da técnica de teste funcional para o teste de unidade.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M109",
     "descricao": "Propor casos de teste segundo algum critério da técnica de teste estrutural para o teste de unidade.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M110",
     "descricao": "Construir código para automação do teste de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M111",
     "descricao": "Aplicar teste exploratório no teste de sistema.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M112",
     "descricao": "Executar casos de teste.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M113",
     "descricao": "Citar e explicar métricas de teste de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M114",
     "descricao": "Realizar medições pertinentes a teste de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M115",
     "descricao": "Documentar atividades do teste de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M116",
     "descricao": "Identificar e utilizar ferramentas de teste de software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M117",
     "descricao": "Realizar pacotes de trabalho, desenvolvendo produtos ou serviços dentro de um projeto na Fábrica de Software, aplicando as disciplinas que formam o corpo de conhecimento da Engenharia de Software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M118",
     "descricao": "Planejar, realizar e modificar de forma apropriada produtos e serviços pertinentes a processos organizacionais da Engenharia de Software, dentro do contexto da Fábrica de Software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M119",
     "descricao": "Atuar individualmente e nas equipes de trabalho segundo o código de ética e a postura profissional da Engenharia de Software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M120",
     "descricao": "Explicar a relação entre decisões técnicas e o alinhamento com objetivos de negócio no qual software está inserido.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M121",
     "descricao": "Explicar as principais leis e normas pertinentes à indústria de software no Brasil.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M122",
     "descricao": "Elaborar plano de negócio para software inovador.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M123",
     "descricao": "Aplicar princípios científicos da Engenharia de Software Experimental na realização de experimentos com software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "M124",
     "descricao": "Realizar estudo secundário sistemático em Engenharia de Software.",
-    "tipo": "M"
+    "tipo": 3
   },
   {
     "id": "H1",
     "descricao": "Participar de forma harmoniosa, profissional e ética durante a elaboração de produtos de software atribuídos a equipes.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H2",
     "descricao": "Liderar ação contínua de formação de sua própria reputação na área.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H3",
     "descricao": "Participar da comunicação de ideias com clareza, seja na forma verbal ou escrita.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H4",
     "descricao": "Participar de atividades para eliciar, analisar, especificar, validar e gerenciar requisitos de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H5",
     "descricao": "Participar da definição da solução de software que atende requisitos, ou seja, da definição da arquitetura e do projeto detalhado desse software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H6",
     "descricao": "Participar da elaboração de modelos de análise e de projeto (design) de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H7",
     "descricao": "Participar da aplicação de técnicas de projeto ao desenvolver softwares concorrentes, distribuídos, orientados a objetos, orientados a eventos e que implementam a persistência de dados.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H8",
     "descricao": "Participar da avaliação de design de software considerando, dentre outros quesitos: abstração, coesão, acoplamento e encapsulamento.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H9",
     "descricao": "Participar da aplicação de técnicas de tratamento de exceção e tolerância a falhas.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H10",
     "descricao": "Auxiliar a escolha de processo e de metodologia de design de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H11",
     "descricao": "Auxiliar a revisão de design de software",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H12",
     "descricao": "Participar do emprego de estilos, visões, modelos e padrões de arquitetura de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H13",
     "descricao": "Participar do projeto de componentes e módulos de software usando modelos, padrões de projeto e notações.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H14",
     "descricao": "Auxiliar a execução de análise estática.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H15",
     "descricao": "Auxiliar a escolha de processos e modelos apropriados para a construção de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H16",
     "descricao": "Auxiliar a escolha de linguagens e ferramentas apropriadas para a construção de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H17",
     "descricao": "Auxiliar a escolha de frameworks, plataformas e ambientes de construção de construção de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H18",
     "descricao": "Participar da construção de software seguindo padrões de gerência de configuração e controle de versão.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H19",
     "descricao": "Participar da coleta e do monitoramento de medidas de qualidade de código.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H20",
     "descricao": "Participar da criação de design detalhado que minimiza a complexidade e melhora a qualidade.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H21",
     "descricao": "Participar da criação de código que implementa projetos detalhados.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H22",
     "descricao": "Indicar o uso de padrões de projeto.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H23",
     "descricao": "Participar da refatoração (refactoring) de código.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H24",
     "descricao": "Participar da construção de software que segue padrões de código.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H25",
     "descricao": "Participar da construção de software que faz uso de técnicas de codificação defensiva.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H26",
     "descricao": "Participar da geração de código a partir de modelos de projeto.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H27",
     "descricao": "Participar do uso apropriado de ferramentas e técnicas de depuração.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H28",
     "descricao": "Participar da criação de testes de unidade.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H29",
     "descricao": "Participar da construção de software que satisfaz objetivos de cobertura de testes.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H30",
     "descricao": "Participar da construção de software que segue estratégias e processos de integração e implantação.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H31",
     "descricao": "Participar da construção e realização de testes de integração.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H32",
     "descricao": "Participar da construção de software em equipe ao colaborar com outros membros da equipe.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H33",
     "descricao": "Participar de revisões e inspeções.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H34",
     "descricao": "Participar da elaboração e implementação de planos de testes.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H35",
     "descricao": "Participar da definição de um ambiente de teste e da correspondente implementação.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H36",
     "descricao": "Participar da identificação, design e implementação de testes.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H37",
     "descricao": "Participar da elaboração de relatórios de testes.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H38",
     "descricao": "Auxiliar a elaboração e execução de plano de transição de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H39",
     "descricao": "Auxiliar a elaboração e execução de planos de manutenção de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H40",
     "descricao": "Auxiliar a execução de atividades de processos de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H41",
     "descricao": "Auxiliar a definição e personalização de processos de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H42",
     "descricao": "Auxiliar a implementação e execução de processos de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H43",
     "descricao": "Auxiliar a coleta de dados para avaliação de processos de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H44",
     "descricao": "Auxiliar a definição e o desenvolvimento de software que satisfaz objetivos e atributos de qualidade.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H45",
     "descricao": "Auxiliar a identificação de medidas de qualidade apropriadas.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H46",
     "descricao": "Auxiliar a elaboração de planos e revisões de qualidade.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H47",
     "descricao": "Participar da construção de software que segue princípios recomendados para segurança de código.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H48",
     "descricao": "Participar da construção de software que segue um plano de gerência de configuração de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "H49",
     "descricao": "Participar da documentação de software.",
-    "tipo": "H"
+    "tipo": 4
   },
   {
     "id": "U1",
     "descricao": "abordagens de implementação de processo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U2",
     "descricao": "abordagens e metodologias",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U3",
     "descricao": "abstração",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U4",
     "descricao": "acessibilidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U5",
     "descricao": "acesso indexado a arquivos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U6",
     "descricao": "acesso sequencial a arquivos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U7",
     "descricao": "acompanhamento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U8",
     "descricao": "acoplamento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U9",
     "descricao": "adaptativo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U10",
     "descricao": "adaptação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U11",
     "descricao": "algoritmo simplex",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U12",
     "descricao": "algoritmo simplex-dual",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U13",
     "descricao": "algoritmos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U14",
     "descricao": "algoritmos básicos em grafos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U15",
     "descricao": "algoritmos de ordenação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U16",
     "descricao": "algoritmos de pesquisa",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U17",
     "descricao": "algoritmos gulosos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U18",
     "descricao": "alinhamento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U19",
     "descricao": "alinhamento entre objetivos organizacionais e objetivos relacionados a software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U20",
     "descricao": "alocação dinâmica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U21",
     "descricao": "aluguel",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U22",
     "descricao": "ambiente",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U23",
     "descricao": "ambiente integrado de desenvolvimento (ide)",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U24",
     "descricao": "ambientes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U25",
     "descricao": "ambientes de execução",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U26",
     "descricao": "ambientes operacionais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U27",
     "descricao": "amostragem",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U28",
     "descricao": "analisar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U29",
     "descricao": "antecipação de mudança",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U30",
     "descricao": "análise",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U31",
     "descricao": "análise assintótica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U32",
     "descricao": "análise de algoritmos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U33",
     "descricao": "análise de arquiteturas de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U34",
     "descricao": "análise de causa raiz",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U35",
     "descricao": "análise de requisitos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U36",
     "descricao": "análise de sensibilidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U37",
     "descricao": "análise estatística",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U38",
     "descricao": "análise estática",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U39",
     "descricao": "análise léxica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U40",
     "descricao": "análise semântica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U41",
     "descricao": "análise sintática",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U42",
     "descricao": "aplicar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U43",
     "descricao": "aplicação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U44",
     "descricao": "aplicação de metodologia científica em atividades de engenharia de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U45",
     "descricao": "aplicações cpu-intensive",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U46",
     "descricao": "aplicações io-intensive",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U47",
     "descricao": "apresentar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U48",
     "descricao": "aquisição",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U49",
     "descricao": "aquisições",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U50",
     "descricao": "armazenamento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U51",
     "descricao": "arquitetura",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U52",
     "descricao": "arquitetura de redes tcp/ip (internet)",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U53",
     "descricao": "arquitetura de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U54",
     "descricao": "arquitetura dos computadores",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U55",
     "descricao": "arquitetura orienta a eventos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U56",
     "descricao": "arquitetura orientada a serviços",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U57",
     "descricao": "arquiteturas de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U58",
     "descricao": "arquiteturas orientadas a serviços",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U59",
     "descricao": "arquiteturas paralelas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U60",
     "descricao": "arquivo binário",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U61",
     "descricao": "arquivo texto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U62",
     "descricao": "artefatos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U63",
     "descricao": "artefatos de projeto de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U64",
     "descricao": "aspectos de projeto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U65",
     "descricao": "aspectos étnicos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U66",
     "descricao": "assinatura digital",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U67",
     "descricao": "associações",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U68",
     "descricao": "atender",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U69",
     "descricao": "atitude",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U70",
     "descricao": "atividades",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U71",
     "descricao": "atividades do processo de teste de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U72",
     "descricao": "atores",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U73",
     "descricao": "atribuição",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U74",
     "descricao": "atualizar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U75",
     "descricao": "atuar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U76",
     "descricao": "auditoria",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U77",
     "descricao": "automação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U78",
     "descricao": "autovalores",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U79",
     "descricao": "autovetores",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U80",
     "descricao": "auxiliar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U81",
     "descricao": "avaliar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U82",
     "descricao": "avaliação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U83",
     "descricao": "avaliação da qualidade do processo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U84",
     "descricao": "avaliação de alternativas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U85",
     "descricao": "avaliação de arquitetura de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U86",
     "descricao": "avaliação de desempenho de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U87",
     "descricao": "avaliação de design de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U88",
     "descricao": "banco de dados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U89",
     "descricao": "bancos de dados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U90",
     "descricao": "bancos de dados relacionais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U91",
     "descricao": "bases de dados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U92",
     "descricao": "biblioteca",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U93",
     "descricao": "bibliotecas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U94",
     "descricao": "big data",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U95",
     "descricao": "blackboard",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U96",
     "descricao": "bpm",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U97",
     "descricao": "bpmn",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U98",
     "descricao": "breakeven",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U99",
     "descricao": "build",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U100",
     "descricao": "buscar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U101",
     "descricao": "cadeias de caracteres",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U102",
     "descricao": "camada de apresentação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U103",
     "descricao": "camada de enlace",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U104",
     "descricao": "camada de rede",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U105",
     "descricao": "camada de transporte",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U106",
     "descricao": "camada física",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U107",
     "descricao": "camadas de aplicação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U108",
     "descricao": "características",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U109",
     "descricao": "características humanísticas e biológicas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U110",
     "descricao": "cascata",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U111",
     "descricao": "casos de teste",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U112",
     "descricao": "categorias",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U113",
     "descricao": "cenários operacionais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U114",
     "descricao": "certificados digitais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U115",
     "descricao": "ciclo de instrução",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U116",
     "descricao": "ciclo de vida",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U117",
     "descricao": "ciclo de vida de produto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U118",
     "descricao": "ciclo de vida de projeto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U119",
     "descricao": "ciclo de vida de serviço",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U120",
     "descricao": "ciclo de vida de sistemas de engenharia",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U121",
     "descricao": "citar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U122",
     "descricao": "clareza",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U123",
     "descricao": "classes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U124",
     "descricao": "closure",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U125",
     "descricao": "cobertura",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U126",
     "descricao": "codificação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U127",
     "descricao": "codificação defensiva",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U128",
     "descricao": "coesão",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U129",
     "descricao": "colaborar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U130",
     "descricao": "coleta",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U131",
     "descricao": "combinatória",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U132",
     "descricao": "compilador",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U133",
     "descricao": "compilação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U134",
     "descricao": "compilação de programas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U135",
     "descricao": "completitude",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U136",
     "descricao": "complexidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U137",
     "descricao": "complexidade de algoritmos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U138",
     "descricao": "complexidade de sistemas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U139",
     "descricao": "componentes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U140",
     "descricao": "composição",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U141",
     "descricao": "compreender",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U142",
     "descricao": "computadores modernos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U143",
     "descricao": "computação móvel",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U144",
     "descricao": "computação ubíqua",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U145",
     "descricao": "comunicar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U146",
     "descricao": "comunicação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U147",
     "descricao": "comunicações",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U148",
     "descricao": "conceitos básicos de linguagens",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U149",
     "descricao": "conceitos operacionais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U150",
     "descricao": "concepção",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U151",
     "descricao": "concorrência",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U152",
     "descricao": "condições",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U153",
     "descricao": "configurar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U154",
     "descricao": "configuração de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U155",
     "descricao": "conformidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U156",
     "descricao": "conjuntos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U157",
     "descricao": "consequência lógica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U158",
     "descricao": "constantes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U159",
     "descricao": "construir",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U160",
     "descricao": "construção",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U161",
     "descricao": "contexto operacional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U162",
     "descricao": "contexto organizacional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U163",
     "descricao": "contribuir",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U164",
     "descricao": "controlar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U165",
     "descricao": "controle de configuração",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U166",
     "descricao": "controle de mudança",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U167",
     "descricao": "controle de qualidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U168",
     "descricao": "controle de versão",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U169",
     "descricao": "controle estratégico de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U170",
     "descricao": "contêineres",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U171",
     "descricao": "cooperar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U172",
     "descricao": "corporativa",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U173",
     "descricao": "correlacionar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U174",
     "descricao": "correlação entre projetos, operações e programas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U175",
     "descricao": "correlação linear",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U176",
     "descricao": "corretude",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U177",
     "descricao": "correção",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U178",
     "descricao": "criar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U179",
     "descricao": "criação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U180",
     "descricao": "criação de arquiteturas de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U181",
     "descricao": "criação de código",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U182",
     "descricao": "criptografia",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U183",
     "descricao": "cultura",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U184",
     "descricao": "cursos de computação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U185",
     "descricao": "custo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U186",
     "descricao": "custo-benefício",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U187",
     "descricao": "custos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U188",
     "descricao": "cálculo relacional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U189",
     "descricao": "código",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U190",
     "descricao": "código aberto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U191",
     "descricao": "código de interfaces",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U192",
     "descricao": "cônicas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U193",
     "descricao": "dados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U194",
     "descricao": "debugging",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U195",
     "descricao": "decomposição",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U196",
     "descricao": "deficiências",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U197",
     "descricao": "definir",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U198",
     "descricao": "definição",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U199",
     "descricao": "definições básicas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U200",
     "descricao": "definições dirigidas por sintaxe",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U201",
     "descricao": "demanda",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U202",
     "descricao": "demanda do mercado",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U203",
     "descricao": "dependências",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U204",
     "descricao": "depurar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U205",
     "descricao": "depuração",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U206",
     "descricao": "derivadas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U207",
     "descricao": "desafios da computação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U208",
     "descricao": "descontinuação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U209",
     "descricao": "desempenho",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U210",
     "descricao": "desenvolver",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U211",
     "descricao": "desenvolvimento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U212",
     "descricao": "desenvolvimento de bibliotecas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U213",
     "descricao": "design",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U214",
     "descricao": "detalhar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U215",
     "descricao": "diagnóstico de maturidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U216",
     "descricao": "direcionamento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U217",
     "descricao": "direitos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U218",
     "descricao": "diretrizes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U219",
     "descricao": "disponibilidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U220",
     "descricao": "dispositivos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U221",
     "descricao": "dispositivos de entrada",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U222",
     "descricao": "dispositivos de interação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U223",
     "descricao": "dispositivos de saída",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U224",
     "descricao": "dispositivos ubíquos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U225",
     "descricao": "distribuição",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U226",
     "descricao": "distribuições contínuas de probabilidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U227",
     "descricao": "distribuições discretas de probabilidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U228",
     "descricao": "dividir para conquistar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U229",
     "descricao": "documentar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U230",
     "descricao": "documentação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U231",
     "descricao": "domain engineering",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U232",
     "descricao": "domínio",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U233",
     "descricao": "domínios",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U234",
     "descricao": "dualidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U235",
     "descricao": "economia",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U236",
     "descricao": "economia para engenharia de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U237",
     "descricao": "edição",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U238",
     "descricao": "elaborar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U239",
     "descricao": "elementos de interação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U240",
     "descricao": "eliciar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U241",
     "descricao": "eliciação de requisitos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U242",
     "descricao": "empregar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U243",
     "descricao": "empresas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U244",
     "descricao": "encapsulamento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U245",
     "descricao": "endereçamento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U246",
     "descricao": "engenharia de sistemas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U247",
     "descricao": "engenharia de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U248",
     "descricao": "engenharia de software experimental",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U249",
     "descricao": "engenharia econômica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U250",
     "descricao": "entrada e saída de dados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U251",
     "descricao": "equipe",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U252",
     "descricao": "equipes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U253",
     "descricao": "escalabilidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U254",
     "descricao": "escolha",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U255",
     "descricao": "escolher",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U256",
     "descricao": "escopo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U257",
     "descricao": "escrever",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U258",
     "descricao": "escritório de projetos (pmo)",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U259",
     "descricao": "espaços vetoriais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U260",
     "descricao": "especificar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U261",
     "descricao": "especificação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U262",
     "descricao": "especificação de projeto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U263",
     "descricao": "especificação de requisitos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U264",
     "descricao": "espiral",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U265",
     "descricao": "estatística",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U266",
     "descricao": "estilo de codificação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U267",
     "descricao": "estilos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U268",
     "descricao": "estilos arquiteturais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U269",
     "descricao": "estilos de interação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U270",
     "descricao": "estimação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U271",
     "descricao": "estratégia",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U272",
     "descricao": "estratégia organizacional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U273",
     "descricao": "estratégia organizacional para serviços de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U274",
     "descricao": "estratégias",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U275",
     "descricao": "estratégias de projeto (design) de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U276",
     "descricao": "estruturas de controle",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U277",
     "descricao": "estruturas de dados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U278",
     "descricao": "estruturas de dados heterogêneas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U279",
     "descricao": "estruturas de dados homogêneas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U280",
     "descricao": "estruturas de decisão",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U281",
     "descricao": "estruturas de repetição",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U282",
     "descricao": "estudo de caso de tópicos emergentes em redes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U283",
     "descricao": "estudo de casos de tópicos emergentes em sistemas distribuídos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U284",
     "descricao": "estudos primários e secundários",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U285",
     "descricao": "eventos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U286",
     "descricao": "eventos independentes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U287",
     "descricao": "evolução",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U288",
     "descricao": "exceção",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U289",
     "descricao": "exclusões",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U290",
     "descricao": "executar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U291",
     "descricao": "execução",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U292",
     "descricao": "experimentos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U293",
     "descricao": "experiência do usuário",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U294",
     "descricao": "explicar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U295",
     "descricao": "exportação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U296",
     "descricao": "expressões",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U297",
     "descricao": "expressões regulares",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U298",
     "descricao": "fatores humanos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U299",
     "descricao": "ferramentas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U300",
     "descricao": "ferramentas de teste",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U301",
     "descricao": "filas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U302",
     "descricao": "filas de prioridades",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U303",
     "descricao": "filtros",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U304",
     "descricao": "formato de instrução",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U305",
     "descricao": "formação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U306",
     "descricao": "fornecimento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U307",
     "descricao": "frameworks",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U308",
     "descricao": "fundamentos de redes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U309",
     "descricao": "fundamentos de design de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U310",
     "descricao": "fundamentos de engenharia",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U311",
     "descricao": "fundamentos de sistema",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U312",
     "descricao": "funções",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U313",
     "descricao": "futuro",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U314",
     "descricao": "fábrica de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U315",
     "descricao": "garantia de processo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U316",
     "descricao": "garantia de produto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U317",
     "descricao": "garantia de qualidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U318",
     "descricao": "garantia do processo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U319",
     "descricao": "garantia do produto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U320",
     "descricao": "genealogia",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U321",
     "descricao": "geração do código-objeto da compilação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U322",
     "descricao": "gerenciamento de redes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U323",
     "descricao": "gerenciar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U324",
     "descricao": "gerência de configuração",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U325",
     "descricao": "gerência de configuração de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U326",
     "descricao": "gerência de dispositivos de entrada e saída",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U327",
     "descricao": "gerência de memória",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U328",
     "descricao": "gerência de portfólio de projetos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U329",
     "descricao": "gerência de processos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U330",
     "descricao": "gerência de processos de negócio",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U331",
     "descricao": "gerência de projeto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U332",
     "descricao": "gerência de projeto de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U333",
     "descricao": "gerência de projetos de engenharia de requisitos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U334",
     "descricao": "gerência do processador",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U335",
     "descricao": "gestão de engenharia de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U336",
     "descricao": "gestão de incidentes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U337",
     "descricao": "gestão de serviços de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U338",
     "descricao": "gestão técnica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U339",
     "descricao": "governança",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U340",
     "descricao": "governança corporativa",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U341",
     "descricao": "governança de dados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U342",
     "descricao": "governança de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U343",
     "descricao": "governança de ti",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U344",
     "descricao": "grafos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U345",
     "descricao": "gramáticas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U346",
     "descricao": "gênero",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U347",
     "descricao": "hardware",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U348",
     "descricao": "harmonia",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U349",
     "descricao": "hashing",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U350",
     "descricao": "heaps",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U351",
     "descricao": "heapsort",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U352",
     "descricao": "herança",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U353",
     "descricao": "hierarquia de chomsky",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U354",
     "descricao": "hierarquia de memória",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U355",
     "descricao": "história da computação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U356",
     "descricao": "ideias",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U357",
     "descricao": "identificar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U358",
     "descricao": "ilustrar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U359",
     "descricao": "impactos da qualidade de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U360",
     "descricao": "implantar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U361",
     "descricao": "implantação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U362",
     "descricao": "implementar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U363",
     "descricao": "implementação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U364",
     "descricao": "implementação de bancos de dados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U365",
     "descricao": "importância da computação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U366",
     "descricao": "impostos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U367",
     "descricao": "inclusão digital",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U368",
     "descricao": "incremental",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U369",
     "descricao": "incubadoras",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U370",
     "descricao": "indicadores",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U371",
     "descricao": "indicar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U372",
     "descricao": "individualmente",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U373",
     "descricao": "indução matemática",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U374",
     "descricao": "inicialização",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U375",
     "descricao": "inovação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U376",
     "descricao": "inspeção",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U377",
     "descricao": "instâncias",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U378",
     "descricao": "integrais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U379",
     "descricao": "integrais impróprias",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U380",
     "descricao": "integrar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U381",
     "descricao": "integração",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U382",
     "descricao": "integração contínua",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U383",
     "descricao": "interação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U384",
     "descricao": "interação humano-computador",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U385",
     "descricao": "interdisciplinaridade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U386",
     "descricao": "interface",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U387",
     "descricao": "interfaceamento e técnicas de entrada e saída",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U388",
     "descricao": "interfaces",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U389",
     "descricao": "interfaces gráficas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U390",
     "descricao": "interfaces humano-computador",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U391",
     "descricao": "internacionalização",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U392",
     "descricao": "internet das coisas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U394",
     "descricao": "interpretação de programa",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U395",
     "descricao": "introdução a demonstrações",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U396",
     "descricao": "introdução a sistemas distribuídos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U397",
     "descricao": "inversas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U398",
     "descricao": "invocação implícita",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U399",
     "descricao": "invocação remota",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U400",
     "descricao": "iso/iec/ieee 42010:2011",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U401",
     "descricao": "iterativo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U402",
     "descricao": "jornadas de usuário",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U403",
     "descricao": "json",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U404",
     "descricao": "laços",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U405",
     "descricao": "legislação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U406",
     "descricao": "leis",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U407",
     "descricao": "libras",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U408",
     "descricao": "liderar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U409",
     "descricao": "limitações",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U410",
     "descricao": "limitações e capacidades",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U411",
     "descricao": "limite e continuidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U412",
     "descricao": "linguagem",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U413",
     "descricao": "linguagem de montagem",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U414",
     "descricao": "linguagem de programação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U415",
     "descricao": "linguagem formal",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U416",
     "descricao": "linguagem natural",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U417",
     "descricao": "linguagem orientada a objetos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U418",
     "descricao": "linguagem para experimentação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U419",
     "descricao": "linguagens de programação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U420",
     "descricao": "linguagens livres de contexto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U421",
     "descricao": "linguagens regulares",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U422",
     "descricao": "linguagens sensíveis ao contexto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U423",
     "descricao": "linha de comandos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U424",
     "descricao": "listas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U425",
     "descricao": "localizar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U426",
     "descricao": "localização e internacionalização",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U427",
     "descricao": "logging",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U428",
     "descricao": "lucro",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U429",
     "descricao": "lógica de primeira ordem",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U430",
     "descricao": "lógica proposicional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U431",
     "descricao": "manipulação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U432",
     "descricao": "manipulação de arquivos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U433",
     "descricao": "manutenção",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U434",
     "descricao": "manutenção de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U435",
     "descricao": "mapeamento entre oo e relacional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U436",
     "descricao": "mapeamento er-relacional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U437",
     "descricao": "mapeamento sistemático da literatura",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U438",
     "descricao": "matrizes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U439",
     "descricao": "medida",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U440",
     "descricao": "medidas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U441",
     "descricao": "medir",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U442",
     "descricao": "medição",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U443",
     "descricao": "meio ambiente",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U444",
     "descricao": "memória",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U445",
     "descricao": "memória compartilhada",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U446",
     "descricao": "mensagens",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U447",
     "descricao": "mercado externo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U448",
     "descricao": "mercado interno",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U449",
     "descricao": "metodologia",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U450",
     "descricao": "metodologia científica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U451",
     "descricao": "micro-serviços",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U452",
     "descricao": "microservices",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U453",
     "descricao": "middleware",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U454",
     "descricao": "minimizar complexidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U455",
     "descricao": "mobilidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U456",
     "descricao": "modelagem",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U457",
     "descricao": "modelagem de bancos de dados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U458",
     "descricao": "modelagem de software orientado a objetos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U459",
     "descricao": "modelar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U460",
     "descricao": "modelo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U461",
     "descricao": "modelo (visão geral)",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U462",
     "descricao": "modelo de ameaça",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U463",
     "descricao": "modelo de maturidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U464",
     "descricao": "modelo entidade-relacionamento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U465",
     "descricao": "modelo relacional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U466",
     "descricao": "modelos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U467",
     "descricao": "modelos conceituais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U468",
     "descricao": "modelos de maturidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U469",
     "descricao": "modelos de negócio",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U470",
     "descricao": "modelos de qualidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U471",
     "descricao": "modelos de qualidade de processo de gerência de projeto de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U472",
     "descricao": "modelos de qualidade de processos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U473",
     "descricao": "modelos de validação de experiência",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U474",
     "descricao": "modelos e métodos da engenharia de requisitos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U475",
     "descricao": "modelos e métodos de engenharia de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U476",
     "descricao": "modificar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U477",
     "descricao": "monitoramento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U478",
     "descricao": "monitoramento de processos de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U479",
     "descricao": "monitorar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U480",
     "descricao": "mudança de base numérica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U481",
     "descricao": "multitier",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U482",
     "descricao": "mvc",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U483",
     "descricao": "método",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U484",
     "descricao": "método (visão geral)",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U485",
     "descricao": "método de desenvolvimento de arquitetura de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U486",
     "descricao": "método para projeto orientado a objetos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U487",
     "descricao": "métodos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U488",
     "descricao": "métodos de avaliação de interfaces",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U489",
     "descricao": "métodos de projeto (design) de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U490",
     "descricao": "métodos de projeto de interação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U491",
     "descricao": "métodos de validação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U492",
     "descricao": "métodos diretos de prova",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U493",
     "descricao": "métodos e estratégias de design de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U494",
     "descricao": "métodos empíricos e técnicas experimentais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U495",
     "descricao": "métodos planejados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U496",
     "descricao": "métodos ágeis",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U497",
     "descricao": "métrica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U498",
     "descricao": "métricas de desempenho",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U499",
     "descricao": "métricas de teste",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U500",
     "descricao": "módulos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U501",
     "descricao": "necessidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U502",
     "descricao": "negociação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U503",
     "descricao": "negócio",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U504",
     "descricao": "norma",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U505",
     "descricao": "normalização",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U506",
     "descricao": "normas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U507",
     "descricao": "normas e padrões",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U508",
     "descricao": "nosql",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U509",
     "descricao": "notação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U510",
     "descricao": "notação de design de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U511",
     "descricao": "notações",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U512",
     "descricao": "notações de projeto de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U513",
     "descricao": "notações para registro de modelos orientados a objetos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U514",
     "descricao": "noções de lógica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U515",
     "descricao": "noções de projeto detalhado",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U516",
     "descricao": "np-completude",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U517",
     "descricao": "números reais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U518",
     "descricao": "objetivos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U519",
     "descricao": "objetos distribuídos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U520",
     "descricao": "obter",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U521",
     "descricao": "operação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U522",
     "descricao": "oportunidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U523",
     "descricao": "organização",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U524",
     "descricao": "organização da estrutura interna do sistema operacional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U525",
     "descricao": "organizações",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U526",
     "descricao": "orientação a objetos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U527",
     "descricao": "orm",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U528",
     "descricao": "otimizar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U529",
     "descricao": "otimização de código-objeto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U530",
     "descricao": "pacotes de trabalho",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U531",
     "descricao": "padrão de codificação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U532",
     "descricao": "padrão de projeto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U533",
     "descricao": "padrões",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U534",
     "descricao": "padrões arquiteturais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U535",
     "descricao": "padrões de arquitetura",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U536",
     "descricao": "padrões de código",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U538",
     "descricao": "padrões para interface",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U539",
     "descricao": "paralelismo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U540",
     "descricao": "parametrização (generics)",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U541",
     "descricao": "partes interessadas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U542",
     "descricao": "partes interessadas (stakeholders)",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U543",
     "descricao": "participar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U544",
     "descricao": "passagem por referência",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U545",
     "descricao": "passagem por valor",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U546",
     "descricao": "pensamento sistêmico",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U547",
     "descricao": "perfil profissional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U548",
     "descricao": "persistência",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U549",
     "descricao": "persistência de dados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U550",
     "descricao": "personalizar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U551",
     "descricao": "personas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U552",
     "descricao": "pesquisa",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U553",
     "descricao": "pesquisa binária",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U554",
     "descricao": "pesquisa sequencial",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U555",
     "descricao": "pilhas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U556",
     "descricao": "pipes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U557",
     "descricao": "planejado",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U558",
     "descricao": "planejamento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U559",
     "descricao": "planejar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U560",
     "descricao": "plano",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U561",
     "descricao": "plano de teste",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U562",
     "descricao": "plano estratégico da organização",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U563",
     "descricao": "planos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U564",
     "descricao": "planos de negócio",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U565",
     "descricao": "planos de teste",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U566",
     "descricao": "plataformas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U567",
     "descricao": "plugin",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U568",
     "descricao": "polimorfismo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U569",
     "descricao": "polinômio de taylor",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U570",
     "descricao": "política",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U571",
     "descricao": "ponteiro",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U572",
     "descricao": "porjeto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U573",
     "descricao": "postura",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U574",
     "descricao": "postura profissional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U575",
     "descricao": "preditivo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U576",
     "descricao": "princípios",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U577",
     "descricao": "princípios de projeto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U578",
     "descricao": "princípios e fundamentos de projeto (design) de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U579",
     "descricao": "probabilidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U580",
     "descricao": "problema",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U581",
     "descricao": "problema de programação linear (pl)",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U582",
     "descricao": "processador",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U583",
     "descricao": "processo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U584",
     "descricao": "processo (visão geral)",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U585",
     "descricao": "processo de engenharia de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U586",
     "descricao": "processo de garantia da qualidade de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U587",
     "descricao": "processo de projeto (design) de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U588",
     "descricao": "processo de projeto arquitetural",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U589",
     "descricao": "processo de requisitos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U590",
     "descricao": "processo de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U591",
     "descricao": "processo de teste de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U592",
     "descricao": "processo de verificação e validação de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U593",
     "descricao": "processos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U594",
     "descricao": "processos de construção",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U595",
     "descricao": "processos de implementação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U596",
     "descricao": "processos de negócio",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U597",
     "descricao": "processos de projeto de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U598",
     "descricao": "processos de reutilização",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U599",
     "descricao": "processos de revisão e auditoria de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U600",
     "descricao": "processos de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U601",
     "descricao": "processos de suporte",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U602",
     "descricao": "processos definidos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U603",
     "descricao": "processos do ciclo de vida de sistemas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U604",
     "descricao": "processos empíricos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U605",
     "descricao": "processos organizacionais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U606",
     "descricao": "processos técnicos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U607",
     "descricao": "produto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U608",
     "descricao": "produtos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U609",
     "descricao": "produção",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U610",
     "descricao": "profissional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U611",
     "descricao": "profissão: tipos de cursos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U612",
     "descricao": "programa",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U613",
     "descricao": "programas de incentivo à exportação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U614",
     "descricao": "programas de incentivo à produção de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U615",
     "descricao": "programação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U616",
     "descricao": "programação defensiva",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U617",
     "descricao": "programação dinâmica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U618",
     "descricao": "programação funcional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U619",
     "descricao": "programação lógica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U620",
     "descricao": "programação orientada a objeto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U621",
     "descricao": "programação procedural",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U622",
     "descricao": "projetar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U623",
     "descricao": "projeto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U624",
     "descricao": "projeto (design)",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U625",
     "descricao": "projeto (design) de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U626",
     "descricao": "projeto (design) detalhado",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U627",
     "descricao": "projeto de algoritmos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U628",
     "descricao": "projeto de componentes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U629",
     "descricao": "projeto de interação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U630",
     "descricao": "projeto de interface humano-computador",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U631",
     "descricao": "projeto de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U632",
     "descricao": "projeto detalhado",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U633",
     "descricao": "projeto e gerência de projeto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U634",
     "descricao": "projeto organizacional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U635",
     "descricao": "projeto visual",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U636",
     "descricao": "propor",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U637",
     "descricao": "propriedades emergentes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U638",
     "descricao": "propósito",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U639",
     "descricao": "prototipação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U640",
     "descricao": "prova por contradição",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U641",
     "descricao": "prova por indução",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U642",
     "descricao": "prática",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U643",
     "descricao": "prática de projeto de software orientado a objetos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U644",
     "descricao": "prática profissional de engenharia de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U645",
     "descricao": "páginas web",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U646",
     "descricao": "pós-otimização",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U647",
     "descricao": "qualidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U648",
     "descricao": "qualidade de código",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U649",
     "descricao": "qualidade de processo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U650",
     "descricao": "qualidade de produto",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U651",
     "descricao": "qualidade de projeto (design) de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U652",
     "descricao": "qualidade de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U653",
     "descricao": "qualidade em uso",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U654",
     "descricao": "qualidade interna",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U655",
     "descricao": "questões culturais da qualidade de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U656",
     "descricao": "questões éticas da qualidade de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U657",
     "descricao": "raça",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U658",
     "descricao": "realizar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U659",
     "descricao": "reconhecedores",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U660",
     "descricao": "recursividade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U661",
     "descricao": "recursos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U662",
     "descricao": "recursos humanos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U663",
     "descricao": "recursão",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U664",
     "descricao": "redes sem fio",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U665",
     "descricao": "refactoring",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U666",
     "descricao": "refatorar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U667",
     "descricao": "refatoração",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U668",
     "descricao": "reflexão",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U669",
     "descricao": "registrar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U670",
     "descricao": "registro",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U671",
     "descricao": "registros",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U672",
     "descricao": "regressão linear simples",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U673",
     "descricao": "regulamentação da profissão",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U674",
     "descricao": "relatório",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U675",
     "descricao": "relação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U676",
     "descricao": "relação com requisitos.",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U677",
     "descricao": "relação entre componentes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U678",
     "descricao": "relações",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U679",
     "descricao": "relações de recorrência",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U680",
     "descricao": "relações semânticas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U681",
     "descricao": "remover",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U682",
     "descricao": "representação de dados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U683",
     "descricao": "representação de instruções",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U684",
     "descricao": "representação de sistemas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U685",
     "descricao": "representação intermediária",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U686",
     "descricao": "representações numéricas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U687",
     "descricao": "reputação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U688",
     "descricao": "requisito",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U689",
     "descricao": "requisitos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U690",
     "descricao": "requisitos arquiteturalmente relevantes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U691",
     "descricao": "requisitos de qualidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U692",
     "descricao": "requisitos de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U693",
     "descricao": "requisitos de usabilidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U694",
     "descricao": "requisitos funcionais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U695",
     "descricao": "requisitos organizacionais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U696",
     "descricao": "resolução gráfica de pl",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U697",
     "descricao": "restful",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U698",
     "descricao": "retorno de investimento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U699",
     "descricao": "retroalimentação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U700",
     "descricao": "reutilizar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U701",
     "descricao": "revisão",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U702",
     "descricao": "revisão de código",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U703",
     "descricao": "revisão sistemática",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U704",
     "descricao": "revisões",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U705",
     "descricao": "revisões gerenciais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U706",
     "descricao": "revisões técnicas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U707",
     "descricao": "riscos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U708",
     "descricao": "riscos organizacionais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U709",
     "descricao": "rotinas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U710",
     "descricao": "saas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U711",
     "descricao": "satisfatibilidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U712",
     "descricao": "saúde",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U713",
     "descricao": "script",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U714",
     "descricao": "segurança",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U715",
     "descricao": "segurança da informação em uma organização",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U716",
     "descricao": "segurança de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U717",
     "descricao": "segurança física de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U718",
     "descricao": "segurança lógica de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U719",
     "descricao": "selecionar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U720",
     "descricao": "seleção",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U721",
     "descricao": "seleção de linguagem de programação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U722",
     "descricao": "semântica",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U723",
     "descricao": "sensor",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U724",
     "descricao": "sensores",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U725",
     "descricao": "sentenças",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U726",
     "descricao": "separar interface e implementação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U727",
     "descricao": "separation of concerns",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U728",
     "descricao": "sequências",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U729",
     "descricao": "serialização",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U730",
     "descricao": "serviço",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U731",
     "descricao": "serviços",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U732",
     "descricao": "serviços de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U733",
     "descricao": "serviços web",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U734",
     "descricao": "simplicidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U735",
     "descricao": "simplificação de fórmulas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U736",
     "descricao": "simulação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U737",
     "descricao": "sintaxe",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U738",
     "descricao": "sistema",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U739",
     "descricao": "sistema intensivo em software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U740",
     "descricao": "sistemas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U741",
     "descricao": "sistemas de arquivos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U742",
     "descricao": "sistemas de engenharia",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U743",
     "descricao": "sistemas de interconexão (barramentos)",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U744",
     "descricao": "sistemas de sistemas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U745",
     "descricao": "sistemas intensivos em software (software-intensive systems)",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U746",
     "descricao": "sistemas lineares",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U747",
     "descricao": "sistemas operacionais",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U748",
     "descricao": "smartphones",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U749",
     "descricao": "sociedade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U750",
     "descricao": "software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U751",
     "descricao": "software como um serviço",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U752",
     "descricao": "software concorrente",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U753",
     "descricao": "software design",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U754",
     "descricao": "software distribuído",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U755",
     "descricao": "software transactional memory",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U756",
     "descricao": "solução",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U757",
     "descricao": "sons",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U758",
     "descricao": "sql",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U759",
     "descricao": "stakeholder",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U760",
     "descricao": "stakeholders",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U761",
     "descricao": "stream analytics",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U762",
     "descricao": "subprogramas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U763",
     "descricao": "subáreas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U764",
     "descricao": "suficiência",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U765",
     "descricao": "suporte",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U766",
     "descricao": "suposições",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U767",
     "descricao": "surdo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U768",
     "descricao": "sustentar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U769",
     "descricao": "sustentação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U770",
     "descricao": "séries",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U771",
     "descricao": "tabela de símbolos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U772",
     "descricao": "taxonomias de sistema",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U773",
     "descricao": "tempo",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U774",
     "descricao": "tempo de resposta",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U775",
     "descricao": "teoria de conjuntos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U776",
     "descricao": "teste",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U777",
     "descricao": "teste baseado em intuição",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U778",
     "descricao": "teste baseado na experiência do engenheiro de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U779",
     "descricao": "teste de hipóteses",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U780",
     "descricao": "teste de sistema",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U781",
     "descricao": "teste de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U782",
     "descricao": "teste de unidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U783",
     "descricao": "teste estrutural",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U784",
     "descricao": "teste exploratório",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U785",
     "descricao": "teste funcional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U786",
     "descricao": "testes",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U787",
     "descricao": "testes de integração",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U788",
     "descricao": "testes de unidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U789",
     "descricao": "thread safe",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U790",
     "descricao": "ti alinhada aos objetivos de negócio",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U791",
     "descricao": "tipos abstratos de dados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U792",
     "descricao": "tipos de ciclo de vida de projeto de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U793",
     "descricao": "tipos de dados",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U794",
     "descricao": "tipos de dados primitivos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U795",
     "descricao": "tipos de experimentos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U796",
     "descricao": "tipos de projeto de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U797",
     "descricao": "tolerância a falhas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U798",
     "descricao": "transformações lineares",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U799",
     "descricao": "transição",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U800",
     "descricao": "tratamento de erro",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U801",
     "descricao": "tratamento de eventos",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U802",
     "descricao": "tratamento de exceção",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U803",
     "descricao": "troca de mensagens",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U804",
     "descricao": "troca de mensagens (messaging)",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U806",
     "descricao": "técnica de teste",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U807",
     "descricao": "técnicas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U808",
     "descricao": "técnicas de avaliação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U809",
     "descricao": "técnicas de construção baseadas em estado e tabelas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U810",
     "descricao": "técnicas de depuração",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U811",
     "descricao": "técnicas de integração",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U812",
     "descricao": "técnicas de profiling",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U813",
     "descricao": "técnicas de prova de cotas inferiores",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U814",
     "descricao": "técnicas de teste",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U815",
     "descricao": "técnicas de testes para páginas web",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U817",
     "descricao": "técnicas para validação de experiência do usuário",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U818",
     "descricao": "uml",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U819",
     "descricao": "usabilidade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U820",
     "descricao": "usar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U821",
     "descricao": "uso",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U822",
     "descricao": "uso de bibliotecas",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U823",
     "descricao": "uso de interface de programação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U824",
     "descricao": "uso de sistema",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U825",
     "descricao": "utilizar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U826",
     "descricao": "utilização de serviços web",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U827",
     "descricao": "validade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U828",
     "descricao": "validar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U829",
     "descricao": "validação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U830",
     "descricao": "validação de construção",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U831",
     "descricao": "validação de design",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U832",
     "descricao": "variáveis",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U833",
     "descricao": "variáveis aleatórias",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U834",
     "descricao": "variância",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U835",
     "descricao": "verdade",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U836",
     "descricao": "verificar",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U837",
     "descricao": "verificação",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U838",
     "descricao": "vetores",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U839",
     "descricao": "visão ampla de domínios de desenvolvimento",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U840",
     "descricao": "visões",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U841",
     "descricao": "voz",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U842",
     "descricao": "vulnerabilidades",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U843",
     "descricao": "web",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U844",
     "descricao": "xml",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U845",
     "descricao": "álgebra relacional",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U846",
     "descricao": "áreas de conhecimento da gerência de projetos aplicadas a projetos de software",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U847",
     "descricao": "árvores",
-    "tipo": "U"
+    "tipo": 5
   },
   {
     "id": "U848",
     "descricao": "ética",
-    "tipo": "U"
+    "tipo": 5
   }
 ]
 }

@@ -228,7 +228,7 @@ function exibeGrafo(graph) {
     }
 
     function corAresta() {
-        return "red";
+        return "gray";
     }
 
     var link = gDraw.append("g")
