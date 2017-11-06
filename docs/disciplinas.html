@@ -19,14 +19,14 @@
         {{dados.nome}}<br>
       </div>
       <div class="disciplina-detalhe">
-        ({{dados.ch}} horas &nbsp;&nbsp;{{dados.sem}}.&ordm; semestre, pág. {{dados.pag}}, núcleo {{#if dados.nc}}comum{{else}}específico{{/if}}, {{dados.eixo}}, {{#if dados.obr}}obrigatória{{else}}opcional{{/if}})
+        ({{dados.Id}} {{dados.ch}} horas &nbsp;&nbsp;{{dados.sem}}.&ordm; semestre, pág. {{dados.pag}}, núcleo {{#if dados.nc}}comum{{else}}específico{{/if}}, {{dados.eixo}}, {{#if dados.obr}}obrigatória{{else}}opcional{{/if}})
       </div>
 
       <div class="disciplina-rotulo">Ementa</div>
       <div class="disciplina-ementa">
         <ul>
           {{#each ementa}}
-            <li>{{this}}</li>
+          <li>{{this}}</li>
           {{/each}}
         </ul>
       </div>
@@ -34,9 +34,10 @@
       <div class="disciplina-rotulo">Condições mínimas</div>
       <div class="disciplina__condicoes">
         <ul>
-          {{#each condicoes}}
+          {{#if dados.nc}}
+          <span>Não definidas para disciplinas do núcleo comum.</span> {{else}} {{#each condicoes}}
           <li>{{this}}</li>
-          {{/each}}
+          {{/each}} {{/if}}
         </ul>
       </div>
 
@@ -69,14 +70,14 @@
 
     function ementa(id, dados) {
       var arestas = dados.links;
-      var origem = "D" + id;
+      var origem = "D" + (id + 1);
       var conteudos = new Set();
       arestas.forEach(function(i) {
         if (i.tipo === 3 && i.source === origem) {
           conteudos.add(i.target);
         }
       });
-      
+
       var descricoes = [];
       dados.nodes.forEach(function(n) {
         if (conteudos.has(n.id)) {
@@ -86,15 +87,39 @@
       return descricoes;
     }
 
+    function condicoesMinimas(id, dados) {
+      var arestas = dados.links;
+      var origem = "D" + (id + 1);
+      var conteudos = new Set();
+      arestas.forEach(function(i) {
+        if (i.tipo === 2 && i.source === origem) {
+          conteudos.add(i.target);
+        }
+      });
+
+      var condicoes = [];
+      dados.nodes.forEach(function(n) {
+        if (conteudos.has(n.id)) {
+          condicoes.push(n.descricao);
+        }
+      });
+      return condicoes;
+    }
+
     function update() {
-      var idx = Math.floor(Math.random() * 44);
-      var conteudo = ementa(idx, baseDados);
-      var disciplina = {
-        dados: disciplinas[idx],
-        ementa: conteudo
-      };
-      var html = template(disciplina);
-      document.getElementById('saida').innerHTML = html;
+      var html = "";
+      for (var idx = 0; idx < 44; idx++) {
+        var disciplina = {
+          dados: disciplinas[idx],
+          ementa: ementa(idx, baseDados),
+          condicoes: condicoesMinimas(idx, baseDados)
+        };
+        
+        html = html + template(disciplina);
+      }
+
+      var saida = document.getElementById('saida');
+      saida.innerHTML = html;
     }
 
     function getDados(arquivo) {

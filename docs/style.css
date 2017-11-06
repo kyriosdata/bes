@@ -20,6 +20,7 @@ body {
 
 .disciplina {
   border: 1px solid green;
+  margin: 10px 0 10px 0;
 }
 
 .disciplina-nome {
