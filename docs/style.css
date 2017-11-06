@@ -19,11 +19,11 @@ body {
 }
 
 .disciplina {
-  margin: 20px;
+  border: 1px solid green;
 }
 
 .disciplina-nome {
-  font-size: 1.1em;
+  font-size: 1.2em;
 }
 
 .disciplina-detalhe {
@@ -31,7 +31,8 @@ body {
 }
 
 .disciplina-rotulo {
-  font-size: .8em;
-  font-weight: bold;
+  font-family: 'Arial';
+  font-size: .7em;
+  font-weight: normal;
   margin-top: 10px;
 }

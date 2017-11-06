@@ -19,8 +19,7 @@
         {{nome}}<br>
       </div>
       <div class="disciplina-detalhe">
-        ({{ch}} horas &nbsp;&nbsp;{{sem}}.&ordm; semestre, pág. {{pag}}, núcleo 
-        {{#if nc}}comum{{else}}específico{{/if}}, {{eixo}}, {{#if obr}}obrigatória{{else}}opcional{{/if}})
+        ({{ch}} horas &nbsp;&nbsp;{{sem}}.&ordm; semestre, pág. {{pag}}, núcleo {{#if nc}}comum{{else}}específico{{/if}}, {{eixo}}, {{#if obr}}obrigatória{{else}}opcional{{/if}})
       </div>
 
       <div class="disciplina-rotulo">Ementa</div>
@@ -49,10 +48,15 @@
   </script>
 
   <script>
-    function update() {
+    var template;
+
+    window.onload = function() {
       var source = document.getElementById('disciplina-template').innerHTML;
 
-      var template = Handlebars.compile(source);
+      template = Handlebars.compile(source);
+    }
+
+    function update() {
       var disciplina = {
         num: 34,
         nome: "Testes de Software",
