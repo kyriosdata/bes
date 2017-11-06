@@ -48,12 +48,17 @@
   </script>
 
   <script>
+    var baseDados;
     var template;
 
     window.onload = function() {
+      getBasedados();
+      
       var source = document.getElementById('disciplina-template').innerHTML;
 
       template = Handlebars.compile(source);
+      
+      update();
     }
 
     function update() {
@@ -73,6 +78,17 @@
 
       var html = template(disciplina);
       document.getElementById('saida').innerHTML = html;
+    }
+
+    function getBasedados() {
+      var xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+          baseDados = JSON.parse(this.responseText);
+        }
+      };
+      xhttp.open("GET", "d3.json", true);
+      xhttp.send();
     }
   </script>
 
