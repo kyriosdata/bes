@@ -214,10 +214,6 @@ function exibeGrafo(graph) {
     // Habilita zoom (in and out)
     gMain.call(d3.zoom().on("zoom", zoomed));
 
-    // the brush needs to go before the nodes so that it doesn't
-    // get called when the mouse is over a node
-    var gBrush = null;
-
     // Retorna campo 'value' de uma aresta
     // (usado para indicar espessura da aresta)
     function espessuraAresta(a) {
@@ -287,11 +283,33 @@ function exibeGrafo(graph) {
         });
 
         svg.selectAll("circle").attr("opacity", function (d) {
-            return (connected.map(d => d.source.id).indexOf(d.id) > -1 || connected.map(d => d.target.id).indexOf(d.id) > -1) ? 1 : 0.1
+            function hasSource() {
+                return connected.map(getSourceId).indexOf(d.id) > -1;
+            }
+
+            function hasTarget() {
+                return connected.map(getTargetId).indexOf(d.id) > -1;
+            }
+
+            function getTargetId(d) {
+
+                return d.target.id;
+            }
+            function getSourceId(d) {
+
+                return d.source.id;
+            }
+
+            return (hasSource() || hasTarget());
         });
 
-        var origens = connected.map(d => d.source.id);
-        var destinos = connected.map(d => d.target.id);
+        var origens = connected.map(function (d) {
+            return d.source.id;
+        });
+
+        var destinos = connected.map(function (d) {
+            return d.target.id;
+        });
 
         svg.selectAll("line").attr("opacity", function (d) {
             return origens.indexOf(d.source.id) > -1 || destinos.indexOf(d.target.id) > -1 ? 1 : 0;
@@ -312,9 +330,9 @@ function exibeGrafo(graph) {
             .strength(2);
     }
 
-    var repulsao = d3.forceManyBody().strength(-200);
+    let repulsao = d3.forceManyBody().strength(-200);
 
-    var simulation = d3.forceSimulation()
+    let simulation = d3.forceSimulation()
         .force("link", forceLink())
         .force("charge", repulsao)
         .force("center", d3.forceCenter(centerWidth, centerHeight))
@@ -358,7 +376,7 @@ function exibeGrafo(graph) {
     d3.select("body").on("keydown", keydown);
     d3.select("body").on("keyup", keyup);
 
-    var shiftKey;
+    let shiftKey;
 
     function keydown() {
         if (d3.event.key === "h") {
@@ -366,20 +384,7 @@ function exibeGrafo(graph) {
         }
     }
 
-    var brushing = false;
-
     function keyup() {
-        shiftKey = false;
-
-        if (!gBrush)
-            return;
-
-        if (!brushing) {
-            // only remove the brush if we're not actively brushing
-            // otherwise it'll be removed when the brushing ends
-            gBrush.remove();
-            gBrush = null;
-        }
     }
 
     function dragstarted(d) {
@@ -429,7 +434,7 @@ function exibeGrafo(graph) {
             })
     }
 
-    var info = ["Nós: " + graph.nodes.length, "Arestas: " + graph.links.length ];
+    let info = ["Nós: " + graph.nodes.length, "Arestas: " + graph.links.length];
 
     svg.selectAll("text").remove();
 
