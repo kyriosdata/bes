@@ -214,12 +214,6 @@ function exibeGrafo(graph) {
     // Habilita zoom (in and out)
     gMain.call(d3.zoom().on("zoom", zoomed));
 
-    var nodes = {};
-    graph.nodes.forEach(function (no) {
-        nodes[no.id] = no;
-        no.weight = 30 - (no.tipo * 15);
-    });
-
     // the brush needs to go before the nodes so that it doesn't
     // get called when the mouse is over a node
     var gBrush = null;
