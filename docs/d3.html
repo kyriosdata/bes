@@ -179,17 +179,7 @@
 <script type="application/javascript" src="./d3-desenha.js"></script>
 
 <script>
-    function carrega(error, graph) {
-        if (error) {
-            alert('Ocorreu um erro ao carregar dados...');
-            throw error;
-        }
 
-        gravaGrafoOriginal(graph);
-        exibeGrafo(graph);
-    }
-
-    d3.json("d3.json", carrega);
 
 </script>
 </body>

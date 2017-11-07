@@ -36,6 +36,18 @@ function gravaGrafoOriginal(g) {
     grafo = g;
 }
 
+function carrega(error, graph) {
+    if (error) {
+        alert('Ocorreu um erro ao carregar dados...');
+        throw error;
+    }
+
+    gravaGrafoOriginal(graph);
+    exibeGrafo(graph);
+}
+
+d3.json("d3.json", carrega);
+
 /**
  * Função que monta subgrafo do grafo original conforme opções
  * de seleção do usuário.
