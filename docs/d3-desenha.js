@@ -224,7 +224,7 @@ function exibeGrafo(graph) {
         return "gray";
     }
 
-    var link = gDraw.append("g")
+    const link = gDraw.append("g")
         .attr("class", "link")
         .selectAll("line")
         .data(graph.links)
@@ -232,7 +232,7 @@ function exibeGrafo(graph) {
         .attr("stroke-width", espessuraAresta)
         .attr("stroke", corAresta);
 
-    var cores = ["", "lightgray", "green", "blue", "red", "black"];
+    const cores = ["", "lightgray", "green", "blue", "red", "black"];
 
     function corNo(d) {
         return cores[d.tipo];
@@ -251,11 +251,8 @@ function exibeGrafo(graph) {
      * @param d O nó cujos detalhes serão exibidos.
      */
     function detalhe(d) {
-        var n = document.getElementById("tipo");
-        n.innerHTML = d.tipo;
-
-        var v = document.getElementById("tipo-valor");
-        v.innerHTML = d.descricao;
+        document.getElementById("tipo").innerHTML = d.tipo;
+        document.getElementById("tipo-valor").innerHTML = d.descricao;
     }
 
     function dragging() {
