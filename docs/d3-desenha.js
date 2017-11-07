@@ -214,7 +214,7 @@ function exibeGrafo(graph) {
             });
     }
 
-    function dragged(d) {
+    function dragged() {
         node.filter(function (d) {
             return d.selected;
         })
