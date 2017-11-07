@@ -44,7 +44,7 @@ function gravaGrafoOriginal(g) {
  * @param g.links.tipo O tipo de uma aresta.
  * @returns {{}}
  */
-export function filtra(g) {
+function filtra(g) {
     let filtrado = {};
 
     // Remove links desmarcados
@@ -87,7 +87,7 @@ export function filtra(g) {
  * Função que exibe o grafo fornecido.
  * @param graph O grafo a ser exibido.
  */
-export function exibeGrafo(graph) {
+function exibeGrafo(graph) {
     const parentWidth = d3.select("svg").node().parentNode.clientWidth;
     const parentHeight = d3.select("svg").node().parentNode.clientHeight;
     const centerWidth = parentWidth / 2;
