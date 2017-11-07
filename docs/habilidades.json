@@ -1,0 +1,296 @@
+[
+  {
+    "id": "H1",
+    "descricao": "Participar de forma harmoniosa, profissional e ética durante a elaboração de produtos de software atribuídos a equipes.",
+    "tipo": 4,
+    "categoria": "Relações pessoais"
+  },
+  {
+    "id": "H2",
+    "descricao": "Liderar ação contínua de formação de sua própria reputação na área.",
+    "tipo": 4,
+    "categoria": "Relações pessoais"
+  },
+  {
+    "id": "H3",
+    "descricao": "Participar da comunicação de ideias com clareza, seja na forma verbal ou escrita.",
+    "tipo": 4,
+    "categoria": "Relações pessoais"
+  },
+  {
+    "id": "H4",
+    "descricao": "Participar de atividades para eliciar, analisar, especificar, validar e gerenciar requisitos de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H5",
+    "descricao": "Participar da definição da solução de software que atende requisitos, ou seja, da definição da arquitetura e do projeto detalhado desse software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H6",
+    "descricao": "Participar da elaboração de modelos de análise e de projeto (design) de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H7",
+    "descricao": "Participar da aplicação de técnicas de projeto ao desenvolver softwares concorrentes, distribuídos, orientados a objetos, orientados a eventos e que implementam a persistência de dados.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H8",
+    "descricao": "Participar da avaliação de design de software considerando, dentre outros quesitos: abstração, coesão, acoplamento e encapsulamento.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H9",
+    "descricao": "Participar da aplicação de técnicas de tratamento de exceção e tolerância a falhas.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H10",
+    "descricao": "Auxiliar a escolha de processo e de metodologia de design de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H11",
+    "descricao": "Auxiliar a revisão de design de software",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H12",
+    "descricao": "Participar do emprego de estilos, visões, modelos e padrões de arquitetura de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H13",
+    "descricao": "Participar do projeto de componentes e módulos de software usando modelos, padrões de projeto e notações.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H14",
+    "descricao": "Auxiliar a execução de análise estática.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H15",
+    "descricao": "Auxiliar a escolha de processos e modelos apropriados para a construção de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H16",
+    "descricao": "Auxiliar a escolha de linguagens e ferramentas apropriadas para a construção de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H17",
+    "descricao": "Auxiliar a escolha de frameworks, plataformas e ambientes de construção de construção de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H18",
+    "descricao": "Participar da construção de software seguindo padrões de gerência de configuração e controle de versão.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H19",
+    "descricao": "Participar da coleta e do monitoramento de medidas de qualidade de código.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H20",
+    "descricao": "Participar da criação de design detalhado que minimiza a complexidade e melhora a qualidade.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H21",
+    "descricao": "Participar da criação de código que implementa projetos detalhados.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H22",
+    "descricao": "Indicar o uso de padrões de projeto.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H23",
+    "descricao": "Participar da refatoração (refactoring) de código.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H24",
+    "descricao": "Participar da construção de software que segue padrões de código.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H25",
+    "descricao": "Participar da construção de software que faz uso de técnicas de codificação defensiva.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H26",
+    "descricao": "Participar da geração de código a partir de modelos de projeto.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H27",
+    "descricao": "Participar do uso apropriado de ferramentas e técnicas de depuração.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H28",
+    "descricao": "Participar da criação de testes de unidade.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H29",
+    "descricao": "Participar da construção de software que satisfaz objetivos de cobertura de testes.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H30",
+    "descricao": "Participar da construção de software que segue estratégias e processos de integração e implantação.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H31",
+    "descricao": "Participar da construção e realização de testes de integração.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H32",
+    "descricao": "Participar da construção de software em equipe ao colaborar com outros membros da equipe.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H33",
+    "descricao": "Participar de revisões e inspeções.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H34",
+    "descricao": "Participar da elaboração e implementação de planos de testes.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H35",
+    "descricao": "Participar da definição de um ambiente de teste e da correspondente implementação.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H36",
+    "descricao": "Participar da identificação, design e implementação de testes.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H37",
+    "descricao": "Participar da elaboração de relatórios de testes.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H38",
+    "descricao": "Auxiliar a elaboração e execução de plano de transição de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H39",
+    "descricao": "Auxiliar a elaboração e execução de planos de manutenção de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H40",
+    "descricao": "Auxiliar a execução de atividades de processos de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H41",
+    "descricao": "Auxiliar a definição e personalização de processos de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H42",
+    "descricao": "Auxiliar a implementação e execução de processos de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H43",
+    "descricao": "Auxiliar a coleta de dados para avaliação de processos de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H44",
+    "descricao": "Auxiliar a definição e o desenvolvimento de software que satisfaz objetivos e atributos de qualidade.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H45",
+    "descricao": "Auxiliar a identificação de medidas de qualidade apropriadas.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H46",
+    "descricao": "Auxiliar a elaboração de planos e revisões de qualidade.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H47",
+    "descricao": "Participar da construção de software que segue princípios recomendados para segurança de código.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H48",
+    "descricao": "Participar da construção de software que segue um plano de gerência de configuração de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  },
+  {
+    "id": "H49",
+    "descricao": "Participar da documentação de software.",
+    "tipo": 4,
+    "categoria": "Técnicas"
+  }
+]
