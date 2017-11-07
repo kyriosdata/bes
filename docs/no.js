@@ -21,6 +21,11 @@ export function tipo(n) {
 
 const cores = ["", "lightgray", "green", "blue", "red", "black"];
 
+/**
+ * Estabelece a cor a ser utilizado por um dado nó.
+ * @param d Nó para o qual a cor é estabelecida.
+ * @returns {string} A cor a ser utilizada para "pintar" o nó.
+ */
 export function cor(d) {
     return cores[d.tipo];
 }
