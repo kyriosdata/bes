@@ -255,6 +255,79 @@ function exibeGrafo(graph) {
         document.getElementById("tipo-valor").innerHTML = d.descricao;
     }
 
+    function forceLink() {
+        return d3.forceLink()
+            .id(function (d) {
+                return d.id;
+            })
+            .distance(function (d) {
+                return 100;
+            })
+            .strength(2);
+    }
+
+    const repulsao = d3.forceManyBody().strength(-200);
+
+    const simulation = d3.forceSimulation()
+        .force("link", forceLink())
+        .force("charge", repulsao)
+        .force("center", d3.forceCenter(centerWidth, centerHeight))
+        .force("x", d3.forceX(centerWidth))
+        .force("y", d3.forceY(centerHeight));
+
+    function dragstarted(d) {
+        if (!d3.event.active) {
+            simulation.alphaTarget(0.9).restart();
+        }
+
+        if (!d.selected) {
+            node.classed("selected", function (p) {
+                p.selected = false;
+                p.previouslySelected = false;
+                return false;
+            });
+        }
+
+        d3.select(this).classed("selected", function (p) {
+            p.previouslySelected = p.selected;
+            p.selected = true
+            return true;
+        });
+
+        node.filter(function (d) {
+            return d.selected;
+        })
+            .each(function (d) { //d.fixed |= 2;
+                d.fx = d.x;
+                d.fy = d.y;
+            });
+    }
+
+    function dragged(d) {
+        node.filter(function (d) {
+            return d.selected;
+        })
+            .each(function (d) {
+                d.fx += d3.event.dx;
+                d.fy += d3.event.dy;
+            });
+    }
+
+    function dragended(d) {
+        if (!d3.event.active) {
+            simulation.alphaTarget(0);
+        }
+
+        d.fx = null;
+        d.fy = null;
+        node.filter(function (d) {
+            return d.selected;
+        }).each(function (d) {
+            d.fx = null;
+            d.fy = null;
+        });
+    }
+
     function dragging() {
         return d3.drag()
             .on("start", dragstarted)
@@ -280,14 +353,6 @@ function exibeGrafo(graph) {
         });
 
         svg.selectAll("circle").attr("opacity", function (d) {
-            function hasSource() {
-                return connected.map(getSourceId).indexOf(d.id) > -1;
-            }
-
-            function hasTarget() {
-                return connected.map(getTargetId).indexOf(d.id) > -1;
-            }
-
             function getTargetId(d) {
 
                 return d.target.id;
@@ -296,6 +361,14 @@ function exibeGrafo(graph) {
             function getSourceId(d) {
 
                 return d.source.id;
+            }
+
+            function hasSource() {
+                return connected.map(getSourceId).indexOf(d.id) > -1;
+            }
+
+            function hasTarget() {
+                return connected.map(getTargetId).indexOf(d.id) > -1;
             }
 
             return (hasSource() || hasTarget());
@@ -328,26 +401,6 @@ function exibeGrafo(graph) {
 
     // add titles for mouseover blurbs
     node.append("title").text(getDescricao);
-
-    function forceLink() {
-        return d3.forceLink()
-            .id(function (d) {
-                return d.id;
-            })
-            .distance(function (d) {
-                return 100;
-            })
-            .strength(2);
-    }
-
-    const repulsao = d3.forceManyBody().strength(-200);
-
-    const simulation = d3.forceSimulation()
-        .force("link", forceLink())
-        .force("charge", repulsao)
-        .force("center", d3.forceCenter(centerWidth, centerHeight))
-        .force("x", d3.forceX(centerWidth))
-        .force("y", d3.forceY(centerHeight));
 
     simulation.nodes(graph.nodes).on("tick", ticked);
 
@@ -396,58 +449,6 @@ function exibeGrafo(graph) {
     d3.select("body").on("keydown", keydown);
     d3.select("body").on("keyup", keyup);
 
-    function dragstarted(d) {
-        if (!d3.event.active) {
-            simulation.alphaTarget(0.9).restart();
-        }
-
-        if (!d.selected) {
-            node.classed("selected", function (p) {
-                p.selected = false;
-                p.previouslySelected = false;
-                return false;
-            });
-        }
-
-        d3.select(this).classed("selected", function (p) {
-            d.previouslySelected = d.selected;
-            return d.selected = true;
-        });
-
-        node.filter(function (d) {
-            return d.selected;
-        })
-            .each(function (d) { //d.fixed |= 2;
-                d.fx = d.x;
-                d.fy = d.y;
-            });
-    }
-
-    function dragged(d) {
-        node.filter(function (d) {
-            return d.selected;
-        })
-            .each(function (d) {
-                d.fx += d3.event.dx;
-                d.fy += d3.event.dy;
-            });
-    }
-
-    function dragended(d) {
-        if (!d3.event.active) {
-            simulation.alphaTarget(0);
-        }
-
-        d.fx = null;
-        d.fy = null;
-        node.filter(function (d) {
-            return d.selected;
-        }).each(function (d) {
-            d.fx = null;
-            d.fy = null;
-        });
-    }
-
     const info = [
         "Nós: " + graph.nodes.length,
         "Arestas: " + graph.links.length
@@ -461,7 +462,7 @@ function exibeGrafo(graph) {
         .append("text")
         .attr("x", 82)
         .attr("y", function (d, i) {
-            return 12 + i * 18;
+            return 12 + (i * 18);
         })
         .text(function (d) {
             return d;
