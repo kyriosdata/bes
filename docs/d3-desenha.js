@@ -374,6 +374,9 @@ function carrega(error, graph) {
     exibeGrafo(graph);
 }
 
+/**
+ * Ponto de entrada da aplicação.
+ */
 d3.json("d3.json", carrega);
 
 /**
