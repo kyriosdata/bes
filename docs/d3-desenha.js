@@ -295,6 +295,7 @@ function exibeGrafo(graph) {
 
                 return d.target.id;
             }
+
             function getSourceId(d) {
 
                 return d.source.id;
@@ -312,7 +313,15 @@ function exibeGrafo(graph) {
         });
 
         svg.selectAll("line").attr("opacity", function (d) {
-            return origens.indexOf(d.source.id) > -1 || destinos.indexOf(d.target.id) > -1 ? 1 : 0;
+            function hasOrigem() {
+                return origens.indexOf(d.source.id) > -1;
+            }
+
+            function hasDestino() {
+                return destinos.indexOf(d.target.id) > -1;
+            }
+
+            return hasOrigem() || hasDestino() ? 1 : 0;
         });
     }
 
@@ -325,14 +334,18 @@ function exibeGrafo(graph) {
 
     function forceLink() {
         return d3.forceLink()
-            .id(d => d.id)
-            .distance(d => 100)
+            .id(function (d) {
+                return d.id;
+            })
+            .distance(function (d) {
+                return 100;
+            })
             .strength(2);
     }
 
-    let repulsao = d3.forceManyBody().strength(-200);
+    const repulsao = d3.forceManyBody().strength(-200);
 
-    let simulation = d3.forceSimulation()
+    const simulation = d3.forceSimulation()
         .force("link", forceLink())
         .force("charge", repulsao)
         .force("center", d3.forceCenter(centerWidth, centerHeight))
@@ -365,7 +378,7 @@ function exibeGrafo(graph) {
             });
     }
 
-    rect.on("click", () => {
+    rect.on("click", function () {
         node.each(function (d) {
             d.selected = false;
             d.previouslySelected = false;
@@ -376,8 +389,6 @@ function exibeGrafo(graph) {
     d3.select("body").on("keydown", keydown);
     d3.select("body").on("keyup", keyup);
 
-    let shiftKey;
-
     function keydown() {
         if (d3.event.key === "h") {
             alert("h");
@@ -385,14 +396,19 @@ function exibeGrafo(graph) {
     }
 
     function keyup() {
+        alert("keyUp");
     }
 
     function dragstarted(d) {
-        if (!d3.event.active) simulation.alphaTarget(0.9).restart();
+        if (!d3.event.active) {
+            simulation.alphaTarget(0.9).restart();
+        }
 
-        if (!d.selected && !shiftKey) {
+        if (!d.selected) {
             node.classed("selected", function (p) {
-                return p.selected = p.previouslySelected = false;
+                p.selected = false;
+                p.previouslySelected = false;
+                return false;
             });
         }
 
@@ -407,8 +423,7 @@ function exibeGrafo(graph) {
             .each(function (d) { //d.fixed |= 2;
                 d.fx = d.x;
                 d.fy = d.y;
-            })
-
+            });
     }
 
     function dragged(d) {
@@ -418,7 +433,7 @@ function exibeGrafo(graph) {
             .each(function (d) {
                 d.fx += d3.event.dx;
                 d.fy += d3.event.dy;
-            })
+            });
     }
 
     function dragended(d) {
@@ -443,6 +458,10 @@ function exibeGrafo(graph) {
         .enter()
         .append("text")
         .attr("x", 82)
-        .attr("y", function(d,i) { return 12 + i * 18; })
-        .text(function(d) { return d; });
+        .attr("y", function (d, i) {
+            return 12 + i * 18;
+        })
+        .text(function (d) {
+            return d;
+        });
 }
