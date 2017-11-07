@@ -183,7 +183,6 @@ function filtra(g) {
 /**
  * Função que exibe o grafo fornecido.
  * @param graph O grafo a ser exibido.
- * @returns {*}
  */
 function exibeGrafo(graph) {
     var parentWidth = d3.select("svg").node().parentNode.clientWidth;
