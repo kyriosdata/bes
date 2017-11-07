@@ -1,0 +1,728 @@
+[
+  {
+    "id": "E1",
+    "descricao": "História da computação; Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente; Subáreas da computação e áreas interdisciplinares; Importância e desafios da computação no Brasil e no mundo; Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão; Leis e normas relacionadas à Informática; Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação; Ética na Computação; Empresas de tecnologia da informação; Incubadoras de empresas.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E2",
+    "descricao": "Introdução a algoritmos; Conceitos básicos de programas: constantes; tipos de dados primitivos; variáveis; atribuição; entrada e saída de dados; expressões; estruturas de decisão; estruturas de repetição; Ponteiro; Estruturas de dados homogêneas e heterogêneas: vetores, matrizes, cadeias de caracteres, registros. Subprogramas: funções; passagens de parâmetros por valor e por referência, recursividade; Manipulação de arquivos: abertura, fechamento, leitura e gravação; Tipos de acesso a arquivos: sequencial e indexado; Tipos de arquivos (texto e binário); Transcrição de algoritmos para uma linguagem de programação; Domínio de uma linguagem de programação: sintaxe e semântica; interpretação e compilação de programas; ambiente de desenvolvimento de programas; estilo de codificação; documentação de código; técnicas de depuração e técnicas de profiling; desenvolvimento e uso de bibliotecas.",
+    "tipo": 2,
+    "ch": 128
+  },
+  {
+    "id": "E3",
+    "descricao": "Números reais. Funções reais de uma variável real e suas inversas; Noções sobre cônicas; Limite e continuidade; Derivadas e aplicações; Polinômio de Taylor; Integrais. Técnicas de Integração. Integrais impróprias; Aplicações.",
+    "tipo": 2,
+    "ch": 96
+  },
+  {
+    "id": "E4",
+    "descricao": "Noções de lógica; Introdução a demonstrações; Indução matemática, Recursividade e Relações de Recorrência, Conjuntos e Combinatória; Séries e sequências; Relações e Funções; Representações numéricas e Mudança de base numérica.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E5",
+    "descricao": "Visão geral dos computadores modernos; Evolução da arquitetura dos computadores; Memória e representação de dados e instruções; Processador, ciclo de instrução, formato e endereçamento; Noções básicas de programação em linguagem de montagem; Dispositivos de entrada e saída; Sistemas de interconexão (barramentos); Interfaceamento e técnicas de entrada e saída; Hierarquia de memória; Introdução a arquiteturas paralelas e métricas de desempenho.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E6",
+    "descricao": "Noções de complexidade de algoritmos (notações de complexidade); Algoritmos de pesquisa: pesquisa sequencial e binária; Algoritmos de ordenação; Tipos abstratos de dados; Estruturas de dados utilizando vetores: pilhas, filas, listas (simples e circulares); Estruturas de dados com alocação dinâmica de memória: pilhas, filas, listas (simplesmente encadeadas, duplamente encadeadas e circulares).",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E7",
+    "descricao": "Estatística descritiva. Noções sobre amostragem; Introdução à teoria de conjuntos; Introdução à teoria de probabilidade: espaço amostral, eventos, frequência relativa, fundamentos de probabilidade, probabilidade condicional, eventos independentes e teorema de Bayes; Variáveis aleatórias: conceitos básicos, esperança e variância; Distribuições discretas de probabilidade: uniforme, binomial e Poisson; Distribuições contínuas de probabilidade: uniforme, exponencial, normal e t-Student; Estimação pontual e intervalar para uma população: média e proporção; Teste de hipóteses para uma população: média e proporção; Correlação linear e regressão linear simples.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E8",
+    "descricao": "Sistemas lineares e matrizes; Espaços vetoriais; Transformações lineares; Autovalores e autovetores; Espaços com produto interno.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E9",
+    "descricao": "Noções básicas: linguagem natural vs linguagens formais; verdade, validade, satisfatibilidade; lógica proposicional (sintaxe e semântica, propriedades e relações semânticas, consequência lógica, simplificação de fórmulas); lógica de primeira ordem (sintaxe e semântica, propriedades e relações semânticas, formas normais); Métodos de validação: métodos diretos de prova; métodos de prova por contradição; indução estrutural; Linguagem para experimentação; Aplicações básicas.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E10",
+    "descricao": "Abstração e tipos abstratos de dados; Classes, métodos, encapsulamento, interface. Mensagens, instâncias e inicialização. Herança e composição. Polimorfismo; Uso de uma linguagem orientada a objetos; Noções de UML; Noções de padrões de projeto orientado a objetos.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E11",
+    "descricao": "Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, árvores balanceadas (AVL e rubro-negras); Filas de prioridades. Heaps, Heapsort. Hashing: tipos de funções de hashing; tratamento de colisões; Definições de Grafos; Estruturas de Dados para representação de grafos; Algoritmos básicos em grafos.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E12",
+    "descricao": "Estudo dos conceitos de linguagens de programação e dos paradigmas de programação: procedural, funcional, lógico, orientado a objeto e script; Reflexão sobre as características desejáveis em uma linguagem de programação e os critérios de seleção de linguagens de acordo com as especificidades dos domínios de aplicação; Descrição de sintaxe e semântica; Estudo sobre tipos de dados, estruturas de controle, ambientes de execução, variáveis, expressões e subprogramas em linguagens de programação.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E13",
+    "descricao": "Requisitos de software; Projeto (design) de software; Construção de software; Teste de software; Manutenção de software; Gerência de configuração de software; Gerência de projeto de software; Processo de engenharia de software; Modelos e métodos de engenharia de software; Qualidade de software; Prática profissional de engenharia de software; Economia para engenharia de software; Fundamentos de engenharia.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E14",
+    "descricao": "Medidas de complexidade, análise assintótica de limites de complexidade para algoritmos iterativos e recursivos, técnicas de prova de cotas inferiores; Corretude de Algoritmos; Exemplos de análise de algoritmos; Técnicas de projeto de algoritmos: dividir para conquistar, programação dinâmica, algoritmos gulosos; Introdução à NP-Completude.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E15",
+    "descricao": "Aspectos gerais sobre interação humano\u001f-computador; Características humanísticas e biológicas, envolvendo questões sobre genealogia, gênero, aspectos étnicos, raciais e culturais, direitos e aspectos políticos, deficiências, limitações e capacidades, dentre outros; Ciclo da interação e principais problemas. Metas de usabilidade e experiência do usuário; Fatores humanos em software interativo: teoria, princípios e regras básicas. Modelos conceituais e metáforas; Estilos de interação. Elementos de interação (menus, formulários, manipulação direta e outros). Voz, linguagem natural, sons, páginas Web. Padrões para interface; Localização e internacionalização; Princípios de projeto de interfaces humano-\u001fcomputador. Métodos de projeto de interação. Projeto visual (cores, ícones, fontes e outros). Tempo de resposta e retroalimentação; Dispositivos de interação; Métodos de avaliação de interfaces: avaliação heurística, abordagens para testes realizados com apoio de usuários, técnicas de testes para páginas Web, entre outros; Visão geral de ferramentas de desenvolvimento de interfaces humano\u001f-computador.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E16",
+    "descricao": "Conceitos básicos de Banco de Dados; Modelo relacional; Linguagens para Banco de Dados: álgebra relacional, cálculo relacional e SQL; Modelo Entidade-Relacionamento e extensões; Mapeamento ER-relacional; Normalização.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E17",
+    "descricao": "Fundamentos de design de software; Questões básicas de design de software: concorrência, controle e tratamento de eventos, persistência de dados, distribuição, tratamento de erro e exceção, tolerância a falhas, interação e apresentação, e segurança. Estrutura e arquitetura de software; Projeto de interface de usuário; Análise de qualidade e avaliação de design de software; Notação de design de software; Métodos e estratégias de design de software; Ferramentas de design de software.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E18",
+    "descricao": "Visão geral (4h): construção (minimizar complexidade, antecipação de mudança, verificação, padrões), projeto de software (software design), qualidade de produto.",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E19",
+    "descricao": "Planejamento (8h): linguagens de programação e processos de construção.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E20",
+    "descricao": "Gerência de construção (16h): controle de versão, inspeção e revisão de código.",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E21",
+    "descricao": "Fundamentos de codificação (32h): estratégias recomendadas para criar código, variáveis, classes, interfaces, polimorfismo, rotinas, recursão, condições, laços, tratamento de exceção, reflexão, programação defensiva, padrão de codificação (leiaute e estilo), documentação, ferramentas de programação.",
+    "tipo": 2,
+    "ch": 32
+  },
+  {
+    "id": "E22",
+    "descricao": "Projeto (design) detalhado e codificação (32h): noções de projeto detalhado, especificação de projeto, análise sintática (parsing), expressões regulares, parametrização (generics), closure, logging, configuração de software em tempo de execução. Internacionalização. Técnicas de construção baseadas em estado e tabelas.",
+    "tipo": 2,
+    "ch": 32
+  },
+  {
+    "id": "E23",
+    "descricao": "Refatoração (8h).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E24",
+    "descricao": "Testes de unidade (16h).",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E25",
+    "descricao": "Detecção e remoção de defeitos (debugging) (8h).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E26",
+    "descricao": "Integração (4h): integração contínua.",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E27",
+    "descricao": "Conceitos (4h): software, qualidade de software, requisitos de software, projeto de software.",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E28",
+    "descricao": "Processo de projeto de software (4h).",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E29",
+    "descricao": "Notações para registro de modelos orientados a objetos (16h).",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E30",
+    "descricao": "Modelagem de software orientado a objetos (40h).",
+    "tipo": 2,
+    "ch": 40
+  },
+  {
+    "id": "E31",
+    "descricao": "Visão geral (8h): processo, método e modelo.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E32",
+    "descricao": "Processos específicos de software: processos de implementação (12h).",
+    "tipo": 2,
+    "ch": 12
+  },
+  {
+    "id": "E33",
+    "descricao": "Processos específicos de software: processos de suporte (12h).",
+    "tipo": 2,
+    "ch": 12
+  },
+  {
+    "id": "E34",
+    "descricao": "Processos específicos de software: processos de reutilização (2h).",
+    "tipo": 2,
+    "ch": 2
+  },
+  {
+    "id": "E35",
+    "descricao": "Qualidade de Processo: modelos de qualidade de processos (12h).",
+    "tipo": 2,
+    "ch": 12
+  },
+  {
+    "id": "E36",
+    "descricao": "Qualidade de Processo: avaliação da qualidade do processo (12h).",
+    "tipo": 2,
+    "ch": 12
+  },
+  {
+    "id": "E37",
+    "descricao": "Qualidade de Processo: abordagens de implementação de processo (6h).",
+    "tipo": 2,
+    "ch": 6
+  },
+  {
+    "id": "E38",
+    "descricao": "Fundamentos de engenharia (16h): métodos empíricos e técnicas experimentais; análise estatística; medição; design; modelagem, prototipação e simulação; normas e padrões; análise de causa raiz.",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E39",
+    "descricao": "Fundamentos de sistema (16h): taxonomias de sistema; sistemas de engenharia (sistemas produzidos por engenharia - engineered systems); sistemas intensivos em software (software-intensive systems); sistemas de sistemas; complexidade de sistemas; propriedades emergentes; princípios do pensamento sistêmico; representação de sistemas por modelos.",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E40",
+    "descricao": "Engenharia de Sistemas (32h): abordagens e metodologias; partes interessadas (stakeholders) e suas necessidades; ciclo de vida de sistemas de engenharia (concepção, conceitos operacionais, design, validação de design, construção, validação de construção, implantação, sustentação e descontinuação); processos do ciclo de vida de sistemas (negociação, preparação para projeto organizacional, gestão técnica, processos técnicos); qualidade de processo.",
+    "tipo": 2,
+    "ch": 32
+  },
+  {
+    "id": "E41",
+    "descricao": "Conceitos (8h): design, software, qualidade de software, requisitos de software, arquitetura de software e projeto detalhado.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E42",
+    "descricao": "Contexto de projeto de software (4h).",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E43",
+    "descricao": "Processos e artefatos de projeto de software (8h).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E44",
+    "descricao": "Notações de projeto de software (8h).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E45",
+    "descricao": "Princípios e fundamentos de projeto de software (16h): abstração, acoplamento, coesão, decomposição, encapsulamento, separar interface e implementação, suficiência, completitude, simplicidade e separation of concerns.",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E46",
+    "descricao": "Aspectos de projeto de software (16h): concorrência, controle e tratamento de eventos, tratamento de exceção, persistência, distribuição, interação (apresentação).",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E47",
+    "descricao": "Qualidade de projeto de software (8h): técnicas de avaliação, medidas, ferramentas.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E48",
+    "descricao": "Métodos e estratégias de projeto (4h).",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E49",
+    "descricao": "Método para projeto orientado a objetos (4h).",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E50",
+    "descricao": "Padrões de projeto orientado a objetos (16h).",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E51",
+    "descricao": "Prática de projeto de software orientado a objetos (36h).",
+    "tipo": 2,
+    "ch": 36
+  },
+  {
+    "id": "E52",
+    "descricao": "Visão ampla de domínios de desenvolvimento (4h): sistemas, componentes e a relação entre eles.",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E53",
+    "descricao": "Especificidades de alguns domínios de desenvolvimento (8h).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E54",
+    "descricao": "Especificidades de um domínio (12h): requisitos, projeto, construção.",
+    "tipo": 2,
+    "ch": 12
+  },
+  {
+    "id": "E55",
+    "descricao": "Desenvolvimento de software em um domínio (ênfase na construção) (40h).",
+    "tipo": 2,
+    "ch": 40
+  },
+  {
+    "id": "E56",
+    "descricao": "Visão Geral de Qualidade de Software (4h): custos e impactos da qualidade de software, questões éticas e culturais da qualidade de software.",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E57",
+    "descricao": "Processo de garantia da qualidade de software (10h): garantia do produto e garantia do processo.",
+    "tipo": 2,
+    "ch": 10
+  },
+  {
+    "id": "E58",
+    "descricao": "Processo de Verificação e Validação de Software (36h): requisito, projeto (design), código, integração, documentação.",
+    "tipo": 2,
+    "ch": 36
+  },
+  {
+    "id": "E59",
+    "descricao": "Processos de Revisão e Auditoria de Software (14h): revisões gerenciais e revisões técnicas.",
+    "tipo": 2,
+    "ch": 14
+  },
+  {
+    "id": "E60",
+    "descricao": "Projeto e gerência de projeto (4h): ciclo de vida de produto, serviço e projeto; partes interessadas (stakeholders); correlação entre projetos, operações e programas; gerência de portfólio de projetos; escritório de projetos (PMO).",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E61",
+    "descricao": "Tipos de projeto de software (4h): aquisição, desenvolvimento, refatoração, descontinuação.",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E62",
+    "descricao": "Tipos de ciclo de vida de projeto de software (4h): preditivo, iterativo, adaptativo; processos empíricos e processos definidos e sua relação com métodos ágeis e métodos planejados para gerência de projeto de software.",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E63",
+    "descricao": "Modelos de qualidade de processo de gerência de projeto de software (4h).",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E64",
+    "descricao": "Áreas de conhecimento da gerência de projetos aplicadas a projetos de software (48h): escopo, tempo, custo, qualidade, recursos humanos, comunicações, riscos, aquisições, integração e partes interessadas.",
+    "tipo": 2,
+    "ch": 48
+  },
+  {
+    "id": "E65",
+    "descricao": "Qualidade de produto (4h): escalabilidade, tolerância a falhas, disponibilidade, desempenho.",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E66",
+    "descricao": "Conceitos (4h): middleware, distribuição, paralelismo, concorrência, RESTful, web, internet das coisas, contêineres, troca de mensagens, micro-serviços, serviços web.",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E67",
+    "descricao": "Métodos para construção de software distribuído e para construção de software concorrente (8h).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E68",
+    "descricao": "Concorrência (16h): paralelismo, aplicações IO-intensive e CPU-intensive, thread safe, memória compartilhada, Software Transactional Memory, atores, abordagens para explorar concorrência.",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E69",
+    "descricao": "Distribuição (24h): projeto, implementação e uso de interface de programação, RESTful, serviços web e micro-serviços (microservices).",
+    "tipo": 2,
+    "ch": 24
+  },
+  {
+    "id": "E70",
+    "descricao": "Troca de mensagens (messaging) (8h).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E71",
+    "descricao": "Qualidade em uso (4h): usabilidade, acessibilidade.",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E72",
+    "descricao": "Design centrado no usuário (8h): diretrizes, pesquisa, personas, jornadas de usuário, modelagem (especificação) e ferramentas.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E73",
+    "descricao": "Projeto de interação (16h): diretrizes, criação, modelagem (especificação) e ferramentas.",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E74",
+    "descricao": "Design de software e interfaces gráficas (8): padrões arquiteturais para design da camada de apresentação (MVC, MVP, MVVM e outros).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E75",
+    "descricao": "Implementação de interfaces (20h).",
+    "tipo": 2,
+    "ch": 20
+  },
+  {
+    "id": "E76",
+    "descricao": "Modelos de validação de experiência (8h): modelos, métodos e técnicas para validação de experiência do usuário.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E77",
+    "descricao": "Conceitos (4h): software, qualidade de software, requisitos de software, arquitetura de software e projeto detalhado.",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E78",
+    "descricao": "Requisitos funcionais e requisitos de qualidade (8h): conceituação e identificação de requisitos relevantes para a arquitetura.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E79",
+    "descricao": "Documentação de arquitetura de software (8h).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E80",
+    "descricao": "Fundamentos de arquitetura de software (4h): importância, contexto, estilos.",
+    "tipo": 2,
+    "ch": 4
+  },
+  {
+    "id": "E81",
+    "descricao": "Método de desenvolvimento de arquitetura de software (8h).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E82",
+    "descricao": "Técnicas para satisfazer requisitos de qualidade (16h).",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E83",
+    "descricao": "Criação de arquiteturas de software (16h).",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E84",
+    "descricao": "Processo de requisitos (16h): definições básicas, eliciação de requisitos, análise de requisitos, especificação de requisitos, verificação e validação de requisitos.",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E85",
+    "descricao": "Modelos e métodos da engenharia de requisitos (32).",
+    "tipo": 2,
+    "ch": 32
+  },
+  {
+    "id": "E86",
+    "descricao": "Gerência de projetos de engenharia de requisitos (8).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E87",
+    "descricao": "Processo de projeto arquitetural (8h): relação com requisitos.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E88",
+    "descricao": "Governança (8h): governança corporativa; governança de TI (GTI); governança de Software (GS); princípios da GS; conformidade (compliance); alinhamento dos serviços de software ao negócio da organização; normas, frameworks, padrões, modelos de qualidade e de maturidade de GS.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E89",
+    "descricao": "Abordagens para GS (8h): aplicação de abordagens de GS em um contexto organizacional. Objetivos de controle para GS; indicadores e avaliação de desempenho de software; direcionamento, avaliação e controle do uso de serviços de software para apoiar os objetivos de uma organização.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E90",
+    "descricao": "Planejamento e controle estratégico de software (8h): alinhamento entre objetivos organizacionais e objetivos relacionados a software; avaliação, direcionamento e monitoramento de processos de software; diagnóstico de maturidade de processos de software; alinhamento de políticas de software ao plano diretor de TI de uma organização. Gestão de riscos de software; riscos organizacionais; riscos relacionados à segurança física e lógica de software.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E91",
+    "descricao": "Governança de dados (8h): Segurança da informação em uma organização; Segurança de software.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E92",
+    "descricao": "Software como um serviço (SaaS) (8h): serviços de Software (SS); gestão de Serviços de Software (GSS); Estratégia organizacional para SS; Modelos, normas e padrões relacionados à GSS.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E93",
+    "descricao": "Ciclo de vida de SS (8h): planejamento; desenvolvimento; implantação e sustentação; Operação de SS e apoio (suporte) à operação de SS; Descontinuação de SS.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E94",
+    "descricao": "Manutenção de SS (8h): correção, adaptação e evolução de SS; gestão de incidentes e problemas em SS; controle de mudança e de configuração; controle de qualidade.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E95",
+    "descricao": "Gerência de processos de negócio (BPM – Business Process Management) aplicada à GSS (8h): representação de SS como processos de negócio; notação para modelagem de processos de negócio (BPMN); análise, validação e evolução de processos de negócio e de SS.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E96",
+    "descricao": "Sistemas de informação que fazem uso de dispositivos (ubíquos) (16h): smartphones, sensores, internet das coisas (IoT), stream analytics e aspectos de segurança (vulnerabilidades, criptografia, certificados digitais).",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E97",
+    "descricao": "Definição de arquiteturas para soluções móveis (16): conectar serviços, possivelmente de grande volume, fluxo e em tempo real, com a necessidade de analisá-los.",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E98",
+    "descricao": "Desenvolvimento de código para smartphone, sensor ou outro dispositivo capaz de alimentar/receber informações de sistema de informação (32h).",
+    "tipo": 2,
+    "ch": 32
+  },
+  {
+    "id": "E99",
+    "descricao": "Visão geral de persistência (12h): arquivos em formato texto/binário. Serialização de objetos. Documentos XML. JSON. Bancos de dados relacionais. Bancos NoSql.",
+    "tipo": 2,
+    "ch": 12
+  },
+  {
+    "id": "E100",
+    "descricao": "Modelagem e implementação de bancos de dados (28h).",
+    "tipo": 2,
+    "ch": 28
+  },
+  {
+    "id": "E101",
+    "descricao": "Mapeamento entre OO e relacional (8h).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E102",
+    "descricao": "Refatoração de bancos de dados (8h).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E103",
+    "descricao": "Integração de bancos de dados (8h).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E104",
+    "descricao": "Conceitos (12h): arquitetura de software e padrões de arquitetura (blackboard, microservices, invocação implícita, arquitetura orientada a serviços, multitier, arquitetura orienta a eventos, plugin, filtros e pipes, MVC.",
+    "tipo": 2,
+    "ch": 12
+  },
+  {
+    "id": "E105",
+    "descricao": "Norma ISO/IEC/IEEE 42010:2011 (8h).",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E106",
+    "descricao": "Análise (avaliação) de arquiteturas de software (12h).",
+    "tipo": 2,
+    "ch": 12
+  },
+  {
+    "id": "E107",
+    "descricao": "Criação de arquiteturas de software (32h).",
+    "tipo": 2,
+    "ch": 32
+  },
+  {
+    "id": "E108",
+    "descricao": "Processo de construção (8h): definições básicas, atividades e documentação.",
+    "tipo": 2,
+    "ch": 8
+  },
+  {
+    "id": "E109",
+    "descricao": "Processo de Teste de Software (56): definições básicas, técnicas de teste, teste baseado em intuição e experiência do engenheiro de software, atividades do processo, documentação e ferramentas.",
+    "tipo": 2,
+    "ch": 56
+  },
+  {
+    "id": "E110",
+    "descricao": "Aplicação do corpo de conhecimento da Engenharia de Software no contexto de projetos realizados em uma Fábrica de Software (320h): emprego de processos de Engenharia de Software em abrangência e profundidade; seleção e utilização de normas, métodos, técnicas e ferramentas de Engenharia de Software para atingir objetivos estabelecidos no projeto; integração e consolidação de conhecimentos e habilidades esperadas do profissional de Engenharia de Software; exercício de práticas e atitudes profissionais embasadas no código de ética e na postura profissional da Engenharia de Software; prática em processos técnicos de Engenharia de Software; prática em Gestão de Engenharia de Software; prática em Tecnologias de Engenharia de Software.",
+    "tipo": 2,
+    "ch": 320
+  },
+  {
+    "id": "E111",
+    "descricao": "Modelagem; Problema de Programação Linear (PL). Resolução gráfica de PL; Algoritmo Simplex. Dualidade. Algoritmo Simplex-Dual; Pós-otimização e Análise de Sensibilidade.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E112",
+    "descricao": "Conceitos básicos de linguagens; Mecanismos geradores (gramáticas) e reconhecedores (determinísticos e não determinísticos) de linguagens regulares, livres de contexto e sensíveis ao contexto; relação entre estas classes de linguagens e suas principais propriedades; Hierarquia de Chomsky.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E113",
+    "descricao": "Conceitos de Hardware e Software; Tipos de Sistemas Operacionais. Organização da Estrutura Interna do Sistema Operacional. Gerência de Processos. Gerência do Processador. Gerência de Memória. Gerência de Dispositivos de Entrada e Saída. Sistemas de Arquivos; Estudos de casos de sistemas operacionais atuais.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E114",
+    "descricao": "A estrutura de um compilador; Análises léxica e sintática; Definições dirigidas por sintaxe e análise semântica; Organização da tabela de símbolos; Representação intermediária do programa-fonte; Geração do código-objeto da compilação; Introdução à otimização do código-objeto; Implementação de um compilador.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E115",
+    "descricao": "Fundamentos; Arquitetura de Redes TCP/IP (Internet); Camadas de Aplicação, Transporte, Rede, Enlace e Física; Gerenciamento de Redes; Redes Sem Fio e Mobilidade; Estudo de Caso de Tópicos Emergentes em Redes.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E116",
+    "descricao": "Introdução às práticas de compreensão e produção em LIBRAS através do uso de estruturas e funções comunicativas elementares; Concepções sobre a Língua de Sinais; O surdo e a sociedade.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E117",
+    "descricao": "Introdução a Sistemas Distribuídos; Invocação Remota; Objetos Distribuídos; Arquiteturas Orientadas a Serviços e utilização de serviços Web; Computação Móvel e Ubíqua. Estudo de Casos de Tópicos Emergentes em Sistemas Distribuídos.",
+    "tipo": 2,
+    "ch": 64
+  },
+  {
+    "id": "E118",
+    "descricao": "Metodologia Científica (16h): aplicação de metodologia científica em atividades de Engenharia de Software.",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E119",
+    "descricao": "Fundamentos da Engenharia de Software Experimental (16h): contexto da experimentação na Engenharia de Software; principais tipos de experimentos aplicados à Engenharia de Software; estudos primários e secundários; revisão e mapeamento sistemático da literatura.",
+    "tipo": 2,
+    "ch": 16
+  },
+  {
+    "id": "E120",
+    "descricao": "Realização de Experimentos em Engenharia de Software (32h).",
+    "tipo": 2,
+    "ch": 32
+  },
+  {
+    "id": "E121",
+    "descricao": "Modelos de negócio para software (aluguel, serviço, código aberto); Leis, normas, impostos e legislação brasileira para o mercado local e para a exportação de software; Programas de incentivo à exportação e à produção de software; Características e exigências do mercado interno e externo; Identificação de oportunidades de inovação em software; Planos de negócio de software para o mercado nacional e global; Engenharia Econômica. Fornecimento, demanda e produção. Lucro produzido por capital (interest). Análise custo-benefício. Análise breakeven. Retorno de investimento. Avaliação de alternativas. Economia aplicada ao desenvolvimento de software.",
+    "tipo": 2,
+    "ch": 64
+  }
+]
