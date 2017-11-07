@@ -246,17 +246,6 @@ function exibeGrafo(graph) {
             .on("end", dragended);
     }
 
-    node = gDraw.append("g")
-        .attr("class", "node")
-        .selectAll("circle")
-        .data(graph.nodes)
-        .enter().append("circle")
-        .attr("r", raioNo)
-        .attr("fill", corNo)
-        .call(dragging())
-        .on("mouseover", detalhe)
-        .on("click", destacaVizinhos);
-
     function destacaVizinhos(d) {
         const thisNode = d.id;
         const connected = graph.links.filter(function (e) {
@@ -306,6 +295,17 @@ function exibeGrafo(graph) {
         });
     }
 
+    node = gDraw.append("g")
+        .attr("class", "node")
+        .selectAll("circle")
+        .data(graph.nodes)
+        .enter().append("circle")
+        .attr("r", raioNo)
+        .attr("fill", corNo)
+        .call(dragging())
+        .on("mouseover", detalhe)
+        .on("click", destacaVizinhos);
+
     function getDescricao(d) {
         return d.descricao;
     }
@@ -349,12 +349,12 @@ function exibeGrafo(graph) {
 
     function keydown() {
         if (d3.event.key === "h") {
-            alert("h");
+            window.alert("h");
         }
     }
 
     function keyup() {
-        alert("keyUp");
+        window.alert("keyUp");
     }
 
     d3.select("body").on("keydown", keydown);
@@ -367,17 +367,21 @@ function exibeGrafo(graph) {
 
     svg.selectAll("text").remove();
 
+    function posicaoY(d, i) {
+        return 12 + (i * 18);
+    }
+
+    function texto(d) {
+        return d;
+    }
+
     svg.selectAll("text")
         .data(info)
         .enter()
         .append("text")
         .attr("x", 82)
-        .attr("y", function (d, i) {
-            return 12 + (i * 18);
-        })
-        .text(function (d) {
-            return d;
-        });
+        .attr("y", posicaoY)
+        .text(texto);
 }
 
 /**
