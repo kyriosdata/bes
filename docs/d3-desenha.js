@@ -223,7 +223,6 @@ function exibeGrafo(graph) {
 
     // the brush needs to go before the nodes so that it doesn't
     // get called when the mouse is over a node
-    var gBrushHolder = gDraw.append("g");
     var gBrush = null;
 
     // Retorna campo 'value' de uma aresta
@@ -369,17 +368,8 @@ function exibeGrafo(graph) {
     var shiftKey;
 
     function keydown() {
-        shiftKey = d3.event.shiftKey;
-
-        if (shiftKey) {
-            // if we already have a brush, don't do anything
-            if (gBrush)
-                return;
-
-            if (!gBrush) {
-                gBrush = gBrushHolder.append("g");
-                gBrush.call(brush);
-            }
+        if (d3.event.key === "h") {
+            alert("h");
         }
     }
 
@@ -446,13 +436,15 @@ function exibeGrafo(graph) {
             })
     }
 
-    var info = ["Nós: ", "Arestas" ];
+    var info = ["Nós: " + graph.nodes.length, "Arestas: " + graph.links.length ];
+
+    svg.selectAll("text").remove();
 
     svg.selectAll("text")
         .data(info)
         .enter()
         .append("text")
-        .attr("x", 47)
+        .attr("x", 82)
         .attr("y", function(d,i) { return 12 + i * 18; })
         .text(function(d) { return d; });
 }
