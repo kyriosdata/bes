@@ -262,7 +262,7 @@ function exibeGrafo(graph) {
             .on("end", dragended);
     }
 
-    var node = gDraw.append("g")
+    const node = gDraw.append("g")
         .attr("class", "node")
         .selectAll("circle")
         .data(graph.nodes)
@@ -274,8 +274,8 @@ function exibeGrafo(graph) {
         .on("click", destacaVizinhos);
 
     function destacaVizinhos(d) {
-        var thisNode = d.id;
-        var connected = graph.links.filter(function (e) {
+        const thisNode = d.id;
+        const connected = graph.links.filter(function (e) {
             return e.source.id === thisNode || e.target.id === thisNode;
         });
 
@@ -301,11 +301,11 @@ function exibeGrafo(graph) {
             return (hasSource() || hasTarget());
         });
 
-        var origens = connected.map(function (d) {
+        const origens = connected.map(function (d) {
             return d.source.id;
         });
 
-        var destinos = connected.map(function (d) {
+        const destinos = connected.map(function (d) {
             return d.target.id;
         });
 
