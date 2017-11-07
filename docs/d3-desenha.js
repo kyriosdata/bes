@@ -37,103 +37,6 @@ function gravaGrafoOriginal(g) {
 }
 
 /**
- * Atualiza o conjunto de arestas desmarcadas. Uma aresta faz
- * parte desse conjunto se não estiver marcada.
- * @param marcada Indica se a aresta está marcada ou não.
- * @param valor O identificador do tipo de aresta.
- */
-function atualizaArestasDesmarcadas(marcada, valor) {
-    if (marcada) {
-        arestasDesmarcadas.delete(valor);
-    } else {
-        arestasDesmarcadas.add(valor);
-    }
-
-    exibeGrafo(filtra(grafo));
-}
-
-function opcoesConteudoUnidade(checkbox) {
-    atualizaArestasDesmarcadas(checkbox.checked, 1);
-}
-
-function opcoesDisciplinaConteudo(checkbox) {
-    atualizaArestasDesmarcadas(checkbox.checked, 3);
-}
-
-function opcoesDisciplinaCondicaoMinima(checkbox) {
-    atualizaArestasDesmarcadas(checkbox.checked, 2);
-}
-
-function opcoesHabilidadeUnidade(checkbox) {
-    atualizaArestasDesmarcadas(checkbox.checked, 4);
-}
-
-function opcoesCondicoesUnidades(checkbox) {
-    atualizaArestasDesmarcadas(checkbox.checked, 5);
-}
-
-function opcoesDisciplinaDisciplina(checkbox) {
-    atualizaArestasDesmarcadas(checkbox.checked, 6);
-}
-
-function opcoesEntreCondicoes(checkbox) {
-    atualizaArestasDesmarcadas(checkbox.checked, 7);
-}
-
-function opcoesEntreConteudos(checkbox) {
-    atualizaArestasDesmarcadas(checkbox.checked, 8);
-}
-
-function opcoesEntreHabilidades(checkbox) {
-    atualizaArestasDesmarcadas(checkbox.checked, 9);
-}
-
-function opcoesExcluirNosSemArestas(checkbox) {
-    excluirNosSemArestas = checkbox.checked;
-    exibeGrafo(filtra(grafo));
-}
-
-/**
- * Atualiza o conjunto de nós desmarcados. Um nó
- * faz parte deste conjunto se não estiver marcado.
- * @param marcado Indica se o nó está marcado ou não.
- * @param valor Identificador do nó que foi marcado ou desmarcado.
- */
-function atualizaNosDesmarcados(marcado, valor) {
-    if (marcado) {
-        nosDesmarcados.delete(valor);
-    } else {
-        nosDesmarcados.add(valor);
-    }
-
-    exibeGrafo(filtra(grafo));
-}
-
-/**
- * Se desmarcado, remove nós do tipo disciplina.
- * @param checkbox
- */
-function opcoesDisciplinas(checkbox) {
-    atualizaNosDesmarcados(checkbox.checked, 1);
-}
-
-function opcoesTermos(checkbox) {
-    atualizaNosDesmarcados(checkbox.checked, 5);
-}
-
-function opcoesCondicoes(checkbox) {
-    atualizaNosDesmarcados(checkbox.checked, 3);
-}
-
-function opcoesHabilidades(checkbox) {
-    atualizaNosDesmarcados(checkbox.checked, 4);
-}
-
-function opcoesConteudo(checkbox) {
-    atualizaNosDesmarcados(checkbox.checked, 2);
-}
-
-/**
  * Função que monta subgrafo do grafo original conforme opções
  * de seleção do usuário.
  * @param g.nodes Vetor de nós do grafo.
@@ -467,4 +370,101 @@ function exibeGrafo(graph) {
         .text(function (d) {
             return d;
         });
+}
+
+/**
+ * Atualiza o conjunto de arestas desmarcadas. Uma aresta faz
+ * parte desse conjunto se não estiver marcada.
+ * @param marcada Indica se a aresta está marcada ou não.
+ * @param valor O identificador do tipo de aresta.
+ */
+function atualizaArestasDesmarcadas(marcada, valor) {
+    if (marcada) {
+        arestasDesmarcadas.delete(valor);
+    } else {
+        arestasDesmarcadas.add(valor);
+    }
+
+    exibeGrafo(filtra(grafo));
+}
+
+function opcoesConteudoUnidade(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 1);
+}
+
+function opcoesDisciplinaConteudo(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 3);
+}
+
+function opcoesDisciplinaCondicaoMinima(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 2);
+}
+
+function opcoesHabilidadeUnidade(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 4);
+}
+
+function opcoesCondicoesUnidades(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 5);
+}
+
+function opcoesDisciplinaDisciplina(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 6);
+}
+
+function opcoesEntreCondicoes(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 7);
+}
+
+function opcoesEntreConteudos(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 8);
+}
+
+function opcoesEntreHabilidades(checkbox) {
+    atualizaArestasDesmarcadas(checkbox.checked, 9);
+}
+
+function opcoesExcluirNosSemArestas(checkbox) {
+    excluirNosSemArestas = checkbox.checked;
+    exibeGrafo(filtra(grafo));
+}
+
+/**
+ * Atualiza o conjunto de nós desmarcados. Um nó
+ * faz parte deste conjunto se não estiver marcado.
+ * @param marcado Indica se o nó está marcado ou não.
+ * @param valor Identificador do nó que foi marcado ou desmarcado.
+ */
+function atualizaNosDesmarcados(marcado, valor) {
+    if (marcado) {
+        nosDesmarcados.delete(valor);
+    } else {
+        nosDesmarcados.add(valor);
+    }
+
+    exibeGrafo(filtra(grafo));
+}
+
+/**
+ * Se desmarcado, remove nós do tipo disciplina.
+ * @param checkbox
+ */
+function opcoesDisciplinas(checkbox) {
+    atualizaNosDesmarcados(checkbox.checked, 1);
+}
+
+function opcoesTermos(checkbox) {
+    atualizaNosDesmarcados(checkbox.checked, 5);
+}
+
+function opcoesCondicoes(checkbox) {
+    atualizaNosDesmarcados(checkbox.checked, 3);
+}
+
+function opcoesHabilidades(checkbox) {
+    atualizaNosDesmarcados(checkbox.checked, 4);
+}
+
+function opcoesConteudo(checkbox) {
+    atualizaNosDesmarcados(checkbox.checked, 2);
 }
