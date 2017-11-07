@@ -1,4 +1,4 @@
-import { descricao, tipo, cor } from "./no.js";
+import { descricao, tipo, cor, espessuraAresta, corAresta } from "./no.js";
 
 /**
  * Inicialmente todos os tipos de nós são exibidos.
@@ -49,16 +49,16 @@ function filtra(g) {
 
     // Remove links desmarcados
     filtrado.links = g.links.filter(function (l) {
-        return !arestasDesmarcadas.has(l.tipo);
+        return !arestasDesmarcadas.has(tipo(l));
     });
 
     // Remove links para os quais pelo menos um dos nós foi desmarcado
     filtrado.links = filtrado.links.filter(function (l) {
-        if (nosDesmarcados.has(l.source.tipo)) {
+        if (nosDesmarcados.has(tipo(l.source))) {
             return false;
         }
 
-        return !nosDesmarcados.has(l.target.tipo);
+        return !nosDesmarcados.has(tipo(l.target));
     });
 
     // Se nós sem arestas devem ser excluídos, então apenas
@@ -76,7 +76,7 @@ function filtra(g) {
     } else {
         // Remove nós desmarcados
         filtrado.nodes = g.nodes.filter(function (n) {
-            return !nosDesmarcados.has(n.tipo);
+            return !nosDesmarcados.has(tipo(n));
         });
     }
 
@@ -116,16 +116,6 @@ function exibeGrafo(graph) {
 
     // Habilita zoom (in and out)
     gMain.call(d3.zoom().on("zoom", zoomed));
-
-    // Retorna campo 'value' de uma aresta
-    // (usado para indicar espessura da aresta)
-    function espessuraAresta(a) {
-        return a.value;
-    }
-
-    function corAresta() {
-        return "gray";
-    }
 
     const link = gDraw.append("g")
         .attr("class", "link")
@@ -392,7 +382,7 @@ d3.json("d3.json", carrega);
  * @param marcada Indica se a aresta está marcada ou não.
  * @param valor O identificador do tipo de aresta.
  */
-function atualizaArestasDesmarcadas(marcada, valor) {
+export function atualizaArestasDesmarcadas(marcada, valor) {
     if (marcada) {
         arestasDesmarcadas.delete(valor);
     } else {
@@ -463,7 +453,7 @@ function atualizaNosDesmarcados(marcado, valor) {
  * Se desmarcado, remove nós do tipo disciplina.
  * @param checkbox
  */
-function opcoesDisciplinas(checkbox) {
+export function opcoesDisciplinas(checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 1);
 }
 

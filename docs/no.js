@@ -29,3 +29,13 @@ const cores = ["", "lightgray", "green", "blue", "red", "black"];
 export function cor(d) {
     return cores[d.tipo];
 }
+
+// Retorna campo 'value' de uma aresta
+// (usado para indicar espessura da aresta)
+export function espessuraAresta(a) {
+    return tipo(a);
+}
+
+export function corAresta() {
+    return "gray";
+}
