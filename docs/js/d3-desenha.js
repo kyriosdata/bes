@@ -492,6 +492,17 @@ window.opcoesConteudo = function(checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 2);
 };
 
+function carregaDados(define) {
+    return function(error, carregado) {
+        if (error) {
+            alert("Erro ao carregar dados...");
+            throw error;
+        }
+
+        define(carregado);
+        exibeGrafo(grafo);
+    };
+}
 
 function carregaPara(define) {
     return function(error, carregado) {
@@ -507,4 +518,10 @@ function carregaPara(define) {
 /**
  * Ponto de entrada da aplicação.
  */
+d3.json("data/disciplinas.json", carregaDados(guardaDisciplinas));
+d3.json("data/ementas.json", carregaDados(guardaEmentas));
+d3.json("data/bibliografias.json", carregaDados(guardaBibliografias));
+d3.json("data/habilidades.json", carregaDados(guardaHabilidades));
+d3.json("data/nos.json", carregaDados(guardaNos));
+d3.json("data/arestas.json", carregaDados(guardaArestas));
 d3.json("d3.json", carregaPara(gravaGrafoOriginal));
