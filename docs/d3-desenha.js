@@ -394,44 +394,44 @@ function atualizaArestasDesmarcadas(marcada, valor) {
 
 window.opcoesConteudoUnidade = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 1);
-}
+};
 
 window.opcoesDisciplinaConteudo = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 3);
-}
+};
 
 window.opcoesDisciplinaCondicaoMinima = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 2);
-}
+};
 
 window.opcoesHabilidadeUnidade = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 4);
-}
+};
 
 window.opcoesCondicoesUnidades = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 5);
-}
+};
 
 window.opcoesDisciplinaDisciplina = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 6);
-}
+};
 
 window.opcoesEntreCondicoes = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 7);
-}
+};
 
 window.opcoesEntreConteudos = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 8);
-}
+};
 
 window.opcoesEntreHabilidades = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 9);
-}
+};
 
 window.opcoesExcluirNosSemArestas = function(checkbox) {
     excluirNosSemArestas = checkbox.checked;
     exibeGrafo(filtra(grafo));
-}
+};
 
 /**
  * Atualiza o conjunto de nós desmarcados. Um nó
@@ -455,20 +455,20 @@ function atualizaNosDesmarcados(marcado, valor) {
  */
 window.opcoesDisciplinas = function(checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 1);
-}
+};
 
 window.opcoesTermos = function(checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 5);
-}
+};
 
 window.opcoesCondicoes = function (checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 3);
-}
+};
 
 window.opcoesHabilidades = function(checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 4);
-}
+};
 
 window.opcoesConteudo = function(checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 2);
-}
+};
