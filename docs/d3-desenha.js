@@ -1,4 +1,4 @@
-"use strict";
+import { descricao, tipo, cor } from "./no.js";
 
 /**
  * Inicialmente todos os tipos de nós são exibidos.
@@ -35,18 +35,6 @@ let grafo;
 function gravaGrafoOriginal(g) {
     grafo = g;
 }
-
-function carrega(error, graph) {
-    if (error) {
-        alert('Ocorreu um erro ao carregar dados...');
-        throw error;
-    }
-
-    gravaGrafoOriginal(graph);
-    exibeGrafo(graph);
-}
-
-d3.json("d3.json", carrega);
 
 /**
  * Função que monta subgrafo do grafo original conforme opções
@@ -147,12 +135,6 @@ function exibeGrafo(graph) {
         .attr("stroke-width", espessuraAresta)
         .attr("stroke", corAresta);
 
-    const cores = ["", "lightgray", "green", "blue", "red", "black"];
-
-    function corNo(d) {
-        return cores[d.tipo];
-    }
-
     function raioNo(d) {
         if (d.tipo === 1) {
             return 10;
@@ -166,8 +148,8 @@ function exibeGrafo(graph) {
      * @param d O nó cujos detalhes serão exibidos.
      */
     function detalhe(d) {
-        document.getElementById("tipo").innerHTML = d.tipo;
-        document.getElementById("tipo-valor").innerHTML = d.descricao;
+        document.getElementById("tipo").innerHTML = tipo(d);
+        document.getElementById("tipo-valor").innerHTML = descricao(d);
     }
 
     function forceLink() {
@@ -313,17 +295,13 @@ function exibeGrafo(graph) {
         .data(graph.nodes)
         .enter().append("circle")
         .attr("r", raioNo)
-        .attr("fill", corNo)
+        .attr("fill", cor)
         .call(dragging())
         .on("mouseover", detalhe)
         .on("click", destacaVizinhos);
 
-    function getDescricao(d) {
-        return d.descricao;
-    }
-
     // add titles for mouseover blurbs
-    node.append("title").text(getDescricao);
+    node.append("title").text(descricao);
 
     function ticked() {
         link.attr("x1", function (d) {
@@ -395,6 +373,18 @@ function exibeGrafo(graph) {
         .attr("y", posicaoY)
         .text(texto);
 }
+
+function carrega(error, graph) {
+    if (error) {
+        alert("Ocorreu um erro ao carregar dados...");
+        throw error;
+    }
+
+    gravaGrafoOriginal(graph);
+    exibeGrafo(graph);
+}
+
+d3.json("d3.json", carrega);
 
 /**
  * Atualiza o conjunto de arestas desmarcadas. Uma aresta faz
