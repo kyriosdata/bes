@@ -500,7 +500,6 @@ function carregaDados(define) {
         }
 
         define(carregado);
-        exibeGrafo(grafo);
     };
 }
 
