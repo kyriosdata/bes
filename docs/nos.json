@@ -1,0 +1,7622 @@
+[
+  {
+    "id": "D1",
+    "descricao": "Computação e Sociedade",
+    "tipo": 1
+  },
+  {
+    "id": "D2",
+    "descricao": "Introdução à Programação",
+    "tipo": 1
+  },
+  {
+    "id": "D3",
+    "descricao": "Cálculo 1A",
+    "tipo": 1
+  },
+  {
+    "id": "D4",
+    "descricao": "Fundamentos de Matemática para Computação",
+    "tipo": 1
+  },
+  {
+    "id": "D5",
+    "descricao": "Arquitetura de Computadores",
+    "tipo": 1
+  },
+  {
+    "id": "D6",
+    "descricao": "Algoritmos e Estruturas de Dados 1",
+    "tipo": 1
+  },
+  {
+    "id": "D7",
+    "descricao": "Probabilidade e Estatística A",
+    "tipo": 1
+  },
+  {
+    "id": "D8",
+    "descricao": "Álgebra Linear",
+    "tipo": 1
+  },
+  {
+    "id": "D9",
+    "descricao": "Lógica Matemática",
+    "tipo": 1
+  },
+  {
+    "id": "D10",
+    "descricao": "Programação Orientada a Objetos",
+    "tipo": 1
+  },
+  {
+    "id": "D11",
+    "descricao": "Algoritmos e Estruturas de Dados 2",
+    "tipo": 1
+  },
+  {
+    "id": "D12",
+    "descricao": "Linguagens e Paradigmas de Programação",
+    "tipo": 1
+  },
+  {
+    "id": "D13",
+    "descricao": "Engenharia de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D14",
+    "descricao": "Análise e Projeto de Algoritmos",
+    "tipo": 1
+  },
+  {
+    "id": "D15",
+    "descricao": "Interação Humano-Computador",
+    "tipo": 1
+  },
+  {
+    "id": "D16",
+    "descricao": "Banco de Dados",
+    "tipo": 1
+  },
+  {
+    "id": "D17",
+    "descricao": "Projeto de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D18",
+    "descricao": "Construção de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D19",
+    "descricao": "Modelagem de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D20",
+    "descricao": "Processos de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D21",
+    "descricao": "Engenharia de Sistemas",
+    "tipo": 1
+  },
+  {
+    "id": "D22",
+    "descricao": "Design de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D23",
+    "descricao": "Domínios de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D24",
+    "descricao": "Processos de Qualidade de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D25",
+    "descricao": "Gerência de Projeto de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D26",
+    "descricao": "Software Concorrente e Distribuído",
+    "tipo": 1
+  },
+  {
+    "id": "D27",
+    "descricao": "Experiência do Usuário de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D28",
+    "descricao": "Arquitetura de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D29",
+    "descricao": "Requisitos de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D30",
+    "descricao": "Governança e Gestão de Serviços de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D31",
+    "descricao": "Software para Sistemas Ubíquos",
+    "tipo": 1
+  },
+  {
+    "id": "D32",
+    "descricao": "Software para Persistência de Dados",
+    "tipo": 1
+  },
+  {
+    "id": "D33",
+    "descricao": "Padrões de Arquitetura de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D34",
+    "descricao": "Testes de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D35",
+    "descricao": "Prática em Engenharia de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D36",
+    "descricao": "Pesquisa Operacional",
+    "tipo": 1
+  },
+  {
+    "id": "D37",
+    "descricao": "Linguagens Formais e Autômatos",
+    "tipo": 1
+  },
+  {
+    "id": "D38",
+    "descricao": "Sistemas Operacionais",
+    "tipo": 1
+  },
+  {
+    "id": "D39",
+    "descricao": "Compiladores",
+    "tipo": 1
+  },
+  {
+    "id": "D40",
+    "descricao": "Redes de Computadores",
+    "tipo": 1
+  },
+  {
+    "id": "D41",
+    "descricao": "Introdução à Lingua Brasileira de Sinais",
+    "tipo": 1
+  },
+  {
+    "id": "D42",
+    "descricao": "Sistemas Distribuídos",
+    "tipo": 1
+  },
+  {
+    "id": "D43",
+    "descricao": "Metodologia e Experimentação em Engenharia de Software",
+    "tipo": 1
+  },
+  {
+    "id": "D44",
+    "descricao": "Mercado e Economia de Software",
+    "tipo": 1
+  },
+  {
+    "id": "E1",
+    "descricao": "História da computação; Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente; Subáreas da computação e áreas interdisciplinares; Importância e desafios da computação no Brasil e no mundo; Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão; Leis e normas relacionadas à Informática; Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação; Ética na Computação; Empresas de tecnologia da informação; Incubadoras de empresas.",
+    "tipo": 2
+  },
+  {
+    "id": "E2",
+    "descricao": "Introdução a algoritmos; Conceitos básicos de programas: constantes; tipos de dados primitivos; variáveis; atribuição; entrada e saída de dados; expressões; estruturas de decisão; estruturas de repetição; Ponteiro; Estruturas de dados homogêneas e heterogêneas: vetores, matrizes, cadeias de caracteres, registros. Subprogramas: funções; passagens de parâmetros por valor e por referência, recursividade; Manipulação de arquivos: abertura, fechamento, leitura e gravação; Tipos de acesso a arquivos: sequencial e indexado; Tipos de arquivos (texto e binário); Transcrição de algoritmos para uma linguagem de programação; Domínio de uma linguagem de programação: sintaxe e semântica; interpretação e compilação de programas; ambiente de desenvolvimento de programas; estilo de codificação; documentação de código; técnicas de depuração e técnicas de profiling; desenvolvimento e uso de bibliotecas.",
+    "tipo": 2
+  },
+  {
+    "id": "E3",
+    "descricao": "Números reais. Funções reais de uma variável real e suas inversas; Noções sobre cônicas; Limite e continuidade; Derivadas e aplicações; Polinômio de Taylor; Integrais. Técnicas de Integração. Integrais impróprias; Aplicações.",
+    "tipo": 2
+  },
+  {
+    "id": "E4",
+    "descricao": "Noções de lógica; Introdução a demonstrações; Indução matemática, Recursividade e Relações de Recorrência, Conjuntos e Combinatória; Séries e sequências; Relações e Funções; Representações numéricas e Mudança de base numérica.",
+    "tipo": 2
+  },
+  {
+    "id": "E5",
+    "descricao": "Visão geral dos computadores modernos; Evolução da arquitetura dos computadores; Memória e representação de dados e instruções; Processador, ciclo de instrução, formato e endereçamento; Noções básicas de programação em linguagem de montagem; Dispositivos de entrada e saída; Sistemas de interconexão (barramentos); Interfaceamento e técnicas de entrada e saída; Hierarquia de memória; Introdução a arquiteturas paralelas e métricas de desempenho.",
+    "tipo": 2
+  },
+  {
+    "id": "E6",
+    "descricao": "Noções de complexidade de algoritmos (notações de complexidade); Algoritmos de pesquisa: pesquisa sequencial e binária; Algoritmos de ordenação; Tipos abstratos de dados; Estruturas de dados utilizando vetores: pilhas, filas, listas (simples e circulares); Estruturas de dados com alocação dinâmica de memória: pilhas, filas, listas (simplesmente encadeadas, duplamente encadeadas e circulares).",
+    "tipo": 2
+  },
+  {
+    "id": "E7",
+    "descricao": "Estatística descritiva. Noções sobre amostragem; Introdução à teoria de conjuntos; Introdução à teoria de probabilidade: espaço amostral, eventos, frequência relativa, fundamentos de probabilidade, probabilidade condicional, eventos independentes e teorema de Bayes; Variáveis aleatórias: conceitos básicos, esperança e variância; Distribuições discretas de probabilidade: uniforme, binomial e Poisson; Distribuições contínuas de probabilidade: uniforme, exponencial, normal e t-Student; Estimação pontual e intervalar para uma população: média e proporção; Teste de hipóteses para uma população: média e proporção; Correlação linear e regressão linear simples.",
+    "tipo": 2
+  },
+  {
+    "id": "E8",
+    "descricao": "Sistemas lineares e matrizes; Espaços vetoriais; Transformações lineares; Autovalores e autovetores; Espaços com produto interno.",
+    "tipo": 2
+  },
+  {
+    "id": "E9",
+    "descricao": "Noções básicas: linguagem natural vs linguagens formais; verdade, validade, satisfatibilidade; lógica proposicional (sintaxe e semântica, propriedades e relações semânticas, consequência lógica, simplificação de fórmulas); lógica de primeira ordem (sintaxe e semântica, propriedades e relações semânticas, formas normais); Métodos de validação: métodos diretos de prova; métodos de prova por contradição; indução estrutural; Linguagem para experimentação; Aplicações básicas.",
+    "tipo": 2
+  },
+  {
+    "id": "E10",
+    "descricao": "Abstração e tipos abstratos de dados; Classes, métodos, encapsulamento, interface. Mensagens, instâncias e inicialização. Herança e composição. Polimorfismo; Uso de uma linguagem orientada a objetos; Noções de UML; Noções de padrões de projeto orientado a objetos.",
+    "tipo": 2
+  },
+  {
+    "id": "E11",
+    "descricao": "Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, árvores balanceadas (AVL e rubro-negras); Filas de prioridades. Heaps, Heapsort. Hashing: tipos de funções de hashing; tratamento de colisões; Definições de Grafos; Estruturas de Dados para representação de grafos; Algoritmos básicos em grafos.",
+    "tipo": 2
+  },
+  {
+    "id": "E12",
+    "descricao": "Estudo dos conceitos de linguagens de programação e dos paradigmas de programação: procedural, funcional, lógico, orientado a objeto e script; Reflexão sobre as características desejáveis em uma linguagem de programação e os critérios de seleção de linguagens de acordo com as especificidades dos domínios de aplicação; Descrição de sintaxe e semântica; Estudo sobre tipos de dados, estruturas de controle, ambientes de execução, variáveis, expressões e subprogramas em linguagens de programação.",
+    "tipo": 2
+  },
+  {
+    "id": "E13",
+    "descricao": "Requisitos de software; Projeto (design) de software; Construção de software; Teste de software; Manutenção de software; Gerência de configuração de software; Gerência de projeto de software; Processo de engenharia de software; Modelos e métodos de engenharia de software; Qualidade de software; Prática profissional de engenharia de software; Economia para engenharia de software; Fundamentos de engenharia.",
+    "tipo": 2
+  },
+  {
+    "id": "E14",
+    "descricao": "Medidas de complexidade, análise assintótica de limites de complexidade para algoritmos iterativos e recursivos, técnicas de prova de cotas inferiores; Corretude de Algoritmos; Exemplos de análise de algoritmos; Técnicas de projeto de algoritmos: dividir para conquistar, programação dinâmica, algoritmos gulosos; Introdução à NP-Completude.",
+    "tipo": 2
+  },
+  {
+    "id": "E15",
+    "descricao": "Aspectos gerais sobre interação humano-computador; Características humanísticas e biológicas, envolvendo questões sobre genealogia, gênero, aspectos étnicos, raciais e culturais, direitos e aspectos políticos, deficiências, limitações e capacidades, dentre outros; Ciclo da interação e principais problemas. Metas de usabilidade e experiência do usuário; Fatores humanos em software interativo: teoria, princípios e regras básicas. Modelos conceituais e metáforas; Estilos de interação. Elementos de interação (menus, formulários, manipulação direta e outros). Voz, linguagem natural, sons, páginas Web. Padrões para interface; Localização e internacionalização; Princípios de projeto de interfaces humano-\u001fcomputador. Métodos de projeto de interação. Projeto visual (cores, ícones, fontes e outros). Tempo de resposta e retroalimentação; Dispositivos de interação; Métodos de avaliação de interfaces: avaliação heurística, abordagens para testes realizados com apoio de usuários, técnicas de testes para páginas Web, entre outros; Visão geral de ferramentas de desenvolvimento de interfaces humano-computador.",
+    "tipo": 2
+  },
+  {
+    "id": "E16",
+    "descricao": "Conceitos básicos de Banco de Dados; Modelo relacional; Linguagens para Banco de Dados: álgebra relacional, cálculo relacional e SQL; Modelo Entidade-Relacionamento e extensões; Mapeamento ER-relacional; Normalização.",
+    "tipo": 2
+  },
+  {
+    "id": "E17",
+    "descricao": "Fundamentos de design de software; Questões básicas de design de software: concorrência, controle e tratamento de eventos, persistência de dados, distribuição, tratamento de erro e exceção, tolerância a falhas, interação e apresentação, e segurança. Estrutura e arquitetura de software; Projeto de interface de usuário; Análise de qualidade e avaliação de design de software; Notação de design de software; Métodos e estratégias de design de software; Ferramentas de design de software.",
+    "tipo": 2
+  },
+  {
+    "id": "E18",
+    "descricao": "Visão geral (4h): construção (minimizar complexidade, antecipação de mudança, verificação, padrões), projeto de software (software design), qualidade de produto.",
+    "tipo": 2
+  },
+  {
+    "id": "E19",
+    "descricao": "Planejamento (8h): linguagens de programação e processos de construção.",
+    "tipo": 2
+  },
+  {
+    "id": "E20",
+    "descricao": "Gerência de construção (16h): controle de versão, inspeção e revisão de código.",
+    "tipo": 2
+  },
+  {
+    "id": "E21",
+    "descricao": "Fundamentos de codificação (32h): estratégias recomendadas para criar código, variáveis, classes, interfaces, polimorfismo, rotinas, recursão, condições, laços, tratamento de exceção, reflexão, programação defensiva, padrão de codificação (leiaute e estilo), documentação, ferramentas de programação.",
+    "tipo": 2
+  },
+  {
+    "id": "E22",
+    "descricao": "Projeto (design) detalhado e codificação (32h): noções de projeto detalhado, especificação de projeto, análise sintática (parsing), expressões regulares, parametrização (generics), closure, logging, configuração de software em tempo de execução. Internacionalização. Técnicas de construção baseadas em estado e tabelas.",
+    "tipo": 2
+  },
+  {
+    "id": "E23",
+    "descricao": "Refatoração (8h).",
+    "tipo": 2
+  },
+  {
+    "id": "E24",
+    "descricao": "Testes de unidade (16h).",
+    "tipo": 2
+  },
+  {
+    "id": "E25",
+    "descricao": "Detecção e remoção de defeitos (debugging) (8h).",
+    "tipo": 2
+  },
+  {
+    "id": "E26",
+    "descricao": "Integração (4h): integração contínua.",
+    "tipo": 2
+  },
+  {
+    "id": "E27",
+    "descricao": "Conceitos (4h): software, qualidade de software, requisitos de software, projeto de software.",
+    "tipo": 2
+  },
+  {
+    "id": "E28",
+    "descricao": "Processo de projeto de software (4h).",
+    "tipo": 2
+  },
+  {
+    "id": "E29",
+    "descricao": "Notações para registro de modelos orientados a objetos (16h).",
+    "tipo": 2
+  },
+  {
+    "id": "E30",
+    "descricao": "Modelagem de software orientado a objetos (40h).",
+    "tipo": 2
+  },
+  {
+    "id": "E31",
+    "descricao": "Visão geral (8h): processo, método e modelo.",
+    "tipo": 2
+  },
+  {
+    "id": "E32",
+    "descricao": "Processos específicos de software: processos de implementação (12h).",
+    "tipo": 2
+  },
+  {
+    "id": "E33",
+    "descricao": "Processos específicos de software: processos de suporte (12h).",
+    "tipo": 2
+  },
+  {
+    "id": "E34",
+    "descricao": "Processos específicos de software: processos de reutilização (2h).",
+    "tipo": 2
+  },
+  {
+    "id": "E35",
+    "descricao": "Qualidade de Processo: modelos de qualidade de processos (12h).",
+    "tipo": 2
+  },
+  {
+    "id": "E36",
+    "descricao": "Qualidade de Processo: avaliação da qualidade do processo (12h).",
+    "tipo": 2
+  },
+  {
+    "id": "E37",
+    "descricao": "Qualidade de Processo: abordagens de implementação de processo (6h).",
+    "tipo": 2
+  },
+  {
+    "id": "E38",
+    "descricao": "Fundamentos de engenharia (16h): métodos empíricos e técnicas experimentais; análise estatística; medição; design; modelagem, prototipação e simulação; normas e padrões; análise de causa raiz.",
+    "tipo": 2
+  },
+  {
+    "id": "E39",
+    "descricao": "Fundamentos de sistema (16h): taxonomias de sistema; sistemas de engenharia (sistemas produzidos por engenharia - engineered systems); sistemas intensivos em software (software-intensive systems); sistemas de sistemas; complexidade de sistemas; propriedades emergentes; princípios do pensamento sistêmico; representação de sistemas por modelos.",
+    "tipo": 2
+  },
+  {
+    "id": "E40",
+    "descricao": "Engenharia de Sistemas (32h): abordagens e metodologias; partes interessadas (stakeholders) e suas necessidades; ciclo de vida de sistemas de engenharia (concepção, conceitos operacionais, design, validação de design, construção, validação de construção, implantação, sustentação e descontinuação); processos do ciclo de vida de sistemas (negociação, preparação para projeto organizacional, gestão técnica, processos técnicos); qualidade de processo.",
+    "tipo": 2
+  },
+  {
+    "id": "E41",
+    "descricao": "Conceitos (8h): design, software, qualidade de software, requisitos de software, arquitetura de software e projeto detalhado.",
+    "tipo": 2
+  },
+  {
+    "id": "E42",
+    "descricao": "Contexto de projeto de software (4h).",
+    "tipo": 2
+  },
+  {
+    "id": "E43",
+    "descricao": "Processos e artefatos de projeto de software (8h).",
+    "tipo": 2
+  },
+  {
+    "id": "E44",
+    "descricao": "Notações de projeto de software (8h).",
+    "tipo": 2
+  },
+  {
+    "id": "E45",
+    "descricao": "Princípios e fundamentos de projeto de software (16h): abstração, acoplamento, coesão, decomposição, encapsulamento, separar interface e implementação, suficiência, completitude, simplicidade e separation of concerns.",
+    "tipo": 2
+  },
+  {
+    "id": "E46",
+    "descricao": "Aspectos de projeto de software (16h): concorrência, controle e tratamento de eventos, tratamento de exceção, persistência, distribuição, interação (apresentação).",
+    "tipo": 2
+  },
+  {
+    "id": "E47",
+    "descricao": "Qualidade de projeto de software (8h): técnicas de avaliação, medidas, ferramentas.",
+    "tipo": 2
+  },
+  {
+    "id": "E48",
+    "descricao": "Métodos e estratégias de projeto (4h).",
+    "tipo": 2
+  },
+  {
+    "id": "E49",
+    "descricao": "Método para projeto orientado a objetos (4h).",
+    "tipo": 2
+  },
+  {
+    "id": "E50",
+    "descricao": "Padrões de projeto orientado a objetos (16h).",
+    "tipo": 2
+  },
+  {
+    "id": "E51",
+    "descricao": "Prática de projeto de software orientado a objetos (36h).",
+    "tipo": 2
+  },
+  {
+    "id": "E52",
+    "descricao": "Visão ampla de domínios de desenvolvimento (4h): sistemas, componentes e a relação entre eles.",
+    "tipo": 2
+  },
+  {
+    "id": "E53",
+    "descricao": "Especificidades de alguns domínios de desenvolvimento (8h).",
+    "tipo": 2
+  },
+  {
+    "id": "E54",
+    "descricao": "Especificidades de um domínio (12h): requisitos, projeto, construção.",
+    "tipo": 2
+  },
+  {
+    "id": "E55",
+    "descricao": "Desenvolvimento de software em um domínio (ênfase na construção) (40h).",
+    "tipo": 2
+  },
+  {
+    "id": "E56",
+    "descricao": "Visão Geral de Qualidade de Software (4h): custos e impactos da qualidade de software, questões éticas e culturais da qualidade de software.",
+    "tipo": 2
+  },
+  {
+    "id": "E57",
+    "descricao": "Processo de garantia da qualidade de software (10h): garantia do produto e garantia do processo.",
+    "tipo": 2
+  },
+  {
+    "id": "E58",
+    "descricao": "Processo de Verificação e Validação de Software (36h): requisito, projeto (design), código, integração, documentação.",
+    "tipo": 2
+  },
+  {
+    "id": "E59",
+    "descricao": "Processos de Revisão e Auditoria de Software (14h): revisões gerenciais e revisões técnicas.",
+    "tipo": 2
+  },
+  {
+    "id": "E60",
+    "descricao": "Projeto e gerência de projeto (4h): ciclo de vida de produto, serviço e projeto; partes interessadas (stakeholders); correlação entre projetos, operações e programas; gerência de portfólio de projetos; escritório de projetos (PMO).",
+    "tipo": 2
+  },
+  {
+    "id": "E61",
+    "descricao": "Tipos de projeto de software (4h): aquisição, desenvolvimento, refatoração, descontinuação.",
+    "tipo": 2
+  },
+  {
+    "id": "E62",
+    "descricao": "Tipos de ciclo de vida de projeto de software (4h): preditivo, iterativo, adaptativo; processos empíricos e processos definidos e sua relação com métodos ágeis e métodos planejados para gerência de projeto de software.",
+    "tipo": 2
+  },
+  {
+    "id": "E63",
+    "descricao": "Modelos de qualidade de processo de gerência de projeto de software (4h).",
+    "tipo": 2
+  },
+  {
+    "id": "E64",
+    "descricao": "Áreas de conhecimento da gerência de projetos aplicadas a projetos de software (48h): escopo, tempo, custo, qualidade, recursos humanos, comunicações, riscos, aquisições, integração e partes interessadas.",
+    "tipo": 2
+  },
+  {
+    "id": "E65",
+    "descricao": "Qualidade de produto (4h): escalabilidade, tolerância a falhas, disponibilidade, desempenho.",
+    "tipo": 2
+  },
+  {
+    "id": "E66",
+    "descricao": "Conceitos (4h): middleware, distribuição, paralelismo, concorrência, RESTful, web, internet das coisas, contêineres, troca de mensagens, micro-serviços, serviços web.",
+    "tipo": 2
+  },
+  {
+    "id": "E67",
+    "descricao": "Métodos para construção de software distribuído e para construção de software concorrente (8h).",
+    "tipo": 2
+  },
+  {
+    "id": "E68",
+    "descricao": "Concorrência (16h): paralelismo, aplicações IO-intensive e CPU-intensive, thread safe, memória compartilhada, Software Transactional Memory, atores, abordagens para explorar concorrência.",
+    "tipo": 2
+  },
+  {
+    "id": "E69",
+    "descricao": "Distribuição (24h): projeto, implementação e uso de interface de programação, RESTful, serviços web e micro-serviços (microservices).",
+    "tipo": 2
+  },
+  {
+    "id": "E70",
+    "descricao": "Troca de mensagens (messaging) (8h).",
+    "tipo": 2
+  },
+  {
+    "id": "E71",
+    "descricao": "Qualidade em uso (4h): usabilidade, acessibilidade.",
+    "tipo": 2
+  },
+  {
+    "id": "E72",
+    "descricao": "Design centrado no usuário (8h): diretrizes, pesquisa, personas, jornadas de usuário, modelagem (especificação) e ferramentas.",
+    "tipo": 2
+  },
+  {
+    "id": "E73",
+    "descricao": "Projeto de interação (16h): diretrizes, criação, modelagem (especificação) e ferramentas.",
+    "tipo": 2
+  },
+  {
+    "id": "E74",
+    "descricao": "Design de software e interfaces gráficas (8): padrões arquiteturais para design da camada de apresentação (MVC, MVP, MVVM e outros).",
+    "tipo": 2
+  },
+  {
+    "id": "E75",
+    "descricao": "Implementação de interfaces (20h).",
+    "tipo": 2
+  },
+  {
+    "id": "E76",
+    "descricao": "Modelos de validação de experiência (8h): modelos, métodos e técnicas para validação de experiência do usuário.",
+    "tipo": 2
+  },
+  {
+    "id": "E77",
+    "descricao": "Conceitos (4h): software, qualidade de software, requisitos de software, arquitetura de software e projeto detalhado.",
+    "tipo": 2
+  },
+  {
+    "id": "E78",
+    "descricao": "Requisitos funcionais e requisitos de qualidade (8h): conceituação e identificação de requisitos relevantes para a arquitetura.",
+    "tipo": 2
+  },
+  {
+    "id": "E79",
+    "descricao": "Documentação de arquitetura de software (8h).",
+    "tipo": 2
+  },
+  {
+    "id": "E80",
+    "descricao": "Fundamentos de arquitetura de software (4h): importância, contexto, estilos.",
+    "tipo": 2
+  },
+  {
+    "id": "E81",
+    "descricao": "Método de desenvolvimento de arquitetura de software (8h).",
+    "tipo": 2
+  },
+  {
+    "id": "E82",
+    "descricao": "Técnicas para satisfazer requisitos de qualidade (16h).",
+    "tipo": 2
+  },
+  {
+    "id": "E83",
+    "descricao": "Criação de arquiteturas de software (16h).",
+    "tipo": 2
+  },
+  {
+    "id": "E84",
+    "descricao": "Processo de requisitos (16h): definições básicas, eliciação de requisitos, análise de requisitos, especificação de requisitos, verificação e validação de requisitos.",
+    "tipo": 2
+  },
+  {
+    "id": "E85",
+    "descricao": "Modelos e métodos da engenharia de requisitos (32).",
+    "tipo": 2
+  },
+  {
+    "id": "E86",
+    "descricao": "Gerência de projetos de engenharia de requisitos (8).",
+    "tipo": 2
+  },
+  {
+    "id": "E87",
+    "descricao": "Processo de projeto arquitetural (8h): relação com requisitos.",
+    "tipo": 2
+  },
+  {
+    "id": "E88",
+    "descricao": "Governança (8h): governança corporativa; governança de TI (GTI); governança de Software (GS); princípios da GS; conformidade (compliance); alinhamento dos serviços de software ao negócio da organização; normas, frameworks, padrões, modelos de qualidade e de maturidade de GS.",
+    "tipo": 2
+  },
+  {
+    "id": "E89",
+    "descricao": "Abordagens para GS (8h): aplicação de abordagens de GS em um contexto organizacional. Objetivos de controle para GS; indicadores e avaliação de desempenho de software; direcionamento, avaliação e controle do uso de serviços de software para apoiar os objetivos de uma organização.",
+    "tipo": 2
+  },
+  {
+    "id": "E90",
+    "descricao": "Planejamento e controle estratégico de software (8h): alinhamento entre objetivos organizacionais e objetivos relacionados a software; avaliação, direcionamento e monitoramento de processos de software; diagnóstico de maturidade de processos de software; alinhamento de políticas de software ao plano diretor de TI de uma organização. Gestão de riscos de software; riscos organizacionais; riscos relacionados à segurança física e lógica de software.",
+    "tipo": 2
+  },
+  {
+    "id": "E91",
+    "descricao": "Governança de dados (8h): Segurança da informação em uma organização; Segurança de software.",
+    "tipo": 2
+  },
+  {
+    "id": "E92",
+    "descricao": "Software como um serviço (SaaS) (8h): serviços de Software (SS); gestão de Serviços de Software (GSS); Estratégia organizacional para SS; Modelos, normas e padrões relacionados à GSS.",
+    "tipo": 2
+  },
+  {
+    "id": "E93",
+    "descricao": "Ciclo de vida de SS (8h): planejamento; desenvolvimento; implantação e sustentação; Operação de SS e apoio (suporte) à operação de SS; Descontinuação de SS.",
+    "tipo": 2
+  },
+  {
+    "id": "E94",
+    "descricao": "Manutenção de SS (8h): correção, adaptação e evolução de SS; gestão de incidentes e problemas em SS; controle de mudança e de configuração; controle de qualidade.",
+    "tipo": 2
+  },
+  {
+    "id": "E95",
+    "descricao": "Gerência de processos de negócio (BPM – Business Process Management) aplicada à GSS (8h): representação de SS como processos de negócio; notação para modelagem de processos de negócio (BPMN); análise, validação e evolução de processos de negócio e de SS.",
+    "tipo": 2
+  },
+  {
+    "id": "E96",
+    "descricao": "Sistemas de informação que fazem uso de dispositivos (ubíquos) (16h): smartphones, sensores, internet das coisas (IoT), stream analytics e aspectos de segurança (vulnerabilidades, criptografia, certificados digitais).",
+    "tipo": 2
+  },
+  {
+    "id": "E97",
+    "descricao": "Definição de arquiteturas para soluções móveis (16): conectar serviços, possivelmente de grande volume, fluxo e em tempo real, com a necessidade de analisá-los.",
+    "tipo": 2
+  },
+  {
+    "id": "E98",
+    "descricao": "Desenvolvimento de código para smartphone, sensor ou outro dispositivo capaz de alimentar/receber informações de sistema de informação (32h).",
+    "tipo": 2
+  },
+  {
+    "id": "E99",
+    "descricao": "Visão geral de persistência (12h): arquivos em formato texto/binário. Serialização de objetos. Documentos XML. JSON. Bancos de dados relacionais. Bancos NoSql.",
+    "tipo": 2
+  },
+  {
+    "id": "E100",
+    "descricao": "Modelagem e implementação de bancos de dados (28h).",
+    "tipo": 2
+  },
+  {
+    "id": "E101",
+    "descricao": "Mapeamento entre OO e relacional (8h).",
+    "tipo": 2
+  },
+  {
+    "id": "E102",
+    "descricao": "Refatoração de bancos de dados (8h).",
+    "tipo": 2
+  },
+  {
+    "id": "E103",
+    "descricao": "Integração de bancos de dados (8h).",
+    "tipo": 2
+  },
+  {
+    "id": "E104",
+    "descricao": "Conceitos (12h): arquitetura de software e padrões de arquitetura (blackboard, microservices, invocação implícita, arquitetura orientada a serviços, multitier, arquitetura orienta a eventos, plugin, filtros e pipes, MVC.",
+    "tipo": 2
+  },
+  {
+    "id": "E105",
+    "descricao": "Norma ISO/IEC/IEEE 42010:2011 (8h).",
+    "tipo": 2
+  },
+  {
+    "id": "E106",
+    "descricao": "Análise (avaliação) de arquiteturas de software (12h).",
+    "tipo": 2
+  },
+  {
+    "id": "E107",
+    "descricao": "Criação de arquiteturas de software (32h).",
+    "tipo": 2
+  },
+  {
+    "id": "E108",
+    "descricao": "Processo de construção (8h): definições básicas, atividades e documentação.",
+    "tipo": 2
+  },
+  {
+    "id": "E109",
+    "descricao": "Processo de Teste de Software (56): definições básicas, técnicas de teste, teste baseado em intuição e experiência do engenheiro de software, atividades do processo, documentação e ferramentas.",
+    "tipo": 2
+  },
+  {
+    "id": "E110",
+    "descricao": "Aplicação do corpo de conhecimento da Engenharia de Software no contexto de projetos realizados em uma Fábrica de Software (320h): emprego de processos de Engenharia de Software em abrangência e profundidade; seleção e utilização de normas, métodos, técnicas e ferramentas de Engenharia de Software para atingir objetivos estabelecidos no projeto; integração e consolidação de conhecimentos e habilidades esperadas do profissional de Engenharia de Software; exercício de práticas e atitudes profissionais embasadas no código de ética e na postura profissional da Engenharia de Software; prática em processos técnicos de Engenharia de Software; prática em Gestão de Engenharia de Software; prática em Tecnologias de Engenharia de Software.",
+    "tipo": 2
+  },
+  {
+    "id": "E111",
+    "descricao": "Modelagem; Problema de Programação Linear (PL). Resolução gráfica de PL; Algoritmo Simplex. Dualidade. Algoritmo Simplex-Dual; Pós-otimização e Análise de Sensibilidade.",
+    "tipo": 2
+  },
+  {
+    "id": "E112",
+    "descricao": "Conceitos básicos de linguagens; Mecanismos geradores (gramáticas) e reconhecedores (determinísticos e não determinísticos) de linguagens regulares, livres de contexto e sensíveis ao contexto; relação entre estas classes de linguagens e suas principais propriedades; Hierarquia de Chomsky.",
+    "tipo": 2
+  },
+  {
+    "id": "E113",
+    "descricao": "Conceitos de Hardware e Software; Tipos de Sistemas Operacionais. Organização da Estrutura Interna do Sistema Operacional. Gerência de Processos. Gerência do Processador. Gerência de Memória. Gerência de Dispositivos de Entrada e Saída. Sistemas de Arquivos; Estudos de casos de sistemas operacionais atuais.",
+    "tipo": 2
+  },
+  {
+    "id": "E114",
+    "descricao": "A estrutura de um compilador; Análises léxica e sintática; Definições dirigidas por sintaxe e análise semântica; Organização da tabela de símbolos; Representação intermediária do programa-fonte; Geração do código-objeto da compilação; Introdução à otimização do código-objeto; Implementação de um compilador.",
+    "tipo": 2
+  },
+  {
+    "id": "E115",
+    "descricao": "Fundamentos; Arquitetura de Redes TCP/IP (Internet); Camadas de Aplicação, Transporte, Rede, Enlace e Física; Gerenciamento de Redes; Redes Sem Fio e Mobilidade; Estudo de Caso de Tópicos Emergentes em Redes.",
+    "tipo": 2
+  },
+  {
+    "id": "E116",
+    "descricao": "Introdução às práticas de compreensão e produção em LIBRAS através do uso de estruturas e funções comunicativas elementares; Concepções sobre a Língua de Sinais; O surdo e a sociedade.",
+    "tipo": 2
+  },
+  {
+    "id": "E117",
+    "descricao": "Introdução a Sistemas Distribuídos; Invocação Remota; Objetos Distribuídos; Arquiteturas Orientadas a Serviços e utilização de serviços Web; Computação Móvel e Ubíqua. Estudo de Casos de Tópicos Emergentes em Sistemas Distribuídos.",
+    "tipo": 2
+  },
+  {
+    "id": "E118",
+    "descricao": "Metodologia Científica (16h): aplicação de metodologia científica em atividades de Engenharia de Software.",
+    "tipo": 2
+  },
+  {
+    "id": "E119",
+    "descricao": "Fundamentos da Engenharia de Software Experimental (16h): contexto da experimentação na Engenharia de Software; principais tipos de experimentos aplicados à Engenharia de Software; estudos primários e secundários; revisão e mapeamento sistemático da literatura.",
+    "tipo": 2
+  },
+  {
+    "id": "E120",
+    "descricao": "Realização de Experimentos em Engenharia de Software (32h).",
+    "tipo": 2
+  },
+  {
+    "id": "E121",
+    "descricao": "Modelos de negócio para software (aluguel, serviço, código aberto); Leis, normas, impostos e legislação brasileira para o mercado local e para a exportação de software; Programas de incentivo à exportação e à produção de software; Características e exigências do mercado interno e externo; Identificação de oportunidades de inovação em software; Planos de negócio de software para o mercado nacional e global; Engenharia Econômica. Fornecimento, demanda e produção. Lucro produzido por capital (interest). Análise custo-benefício. Análise breakeven. Retorno de investimento. Avaliação de alternativas. Economia aplicada ao desenvolvimento de software.",
+    "tipo": 2
+  },
+  {
+    "id": "M1",
+    "descricao": "Explicar a construção de software, a relação dessa área de conhecimento com as demais da engenharia de software e a relação com o conceito de sistema.",
+    "tipo": 3
+  },
+  {
+    "id": "M2",
+    "descricao": "Usar e configurar ferramentas para edição, documentação, compilação, depuração (debugging), build, teste, controle de versão, coleta de medidas (desempenho, consumo de memória, análise estática e cobertura), integração contínua, e aplicativos fundamentais de linha de comandos.",
+    "tipo": 3
+  },
+  {
+    "id": "M3",
+    "descricao": "Criar código orientado a objetos em conformidade com o projeto (design) detalhado seguindo estratégias recomendadas.",
+    "tipo": 3
+  },
+  {
+    "id": "M4",
+    "descricao": "Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
+    "tipo": 3
+  },
+  {
+    "id": "M5",
+    "descricao": "Detalhar projeto (design) em conformidade com requisitos de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M6",
+    "descricao": "Depurar (debugging) código.",
+    "tipo": 3
+  },
+  {
+    "id": "M7",
+    "descricao": "Criar testes de unidade básicos empregando estratégias recomendadas.",
+    "tipo": 3
+  },
+  {
+    "id": "M8",
+    "descricao": "Localizar e reutilizar código (bibliotecas e frameworks).",
+    "tipo": 3
+  },
+  {
+    "id": "M9",
+    "descricao": "Colaborar com a construção de código em equipe.",
+    "tipo": 3
+  },
+  {
+    "id": "M10",
+    "descricao": "Avaliar a qualidade interna de código e, quando apropriado, aplicar estratégias recomendadas de refatoração.",
+    "tipo": 3
+  },
+  {
+    "id": "M11",
+    "descricao": "Explicar o que é software, qualidade de software, requisitos de software e a relação entre eles.",
+    "tipo": 3
+  },
+  {
+    "id": "M12",
+    "descricao": "Empregar notações para registro de projeto de software orientado a objetos.",
+    "tipo": 3
+  },
+  {
+    "id": "M13",
+    "descricao": "Criar modelos de projeto de software orientado a objetos.",
+    "tipo": 3
+  },
+  {
+    "id": "M14",
+    "descricao": "Explicar processos de software, a relação dessa área de conhecimento com as demais da engenharia de software e a relação com o conceito de sistema.",
+    "tipo": 3
+  },
+  {
+    "id": "M15",
+    "descricao": "Correlacionar os conceitos de processo de software, método de software, modelo de software, modelo de processo e modelo de qualidade de processo.",
+    "tipo": 3
+  },
+  {
+    "id": "M16",
+    "descricao": "Explicar quais são os processos específicos de software: objetivo de cada processo e principais resultados.",
+    "tipo": 3
+  },
+  {
+    "id": "M17",
+    "descricao": "Explicar o uso de modelos de qualidade de processo: implementação e avaliação.",
+    "tipo": 3
+  },
+  {
+    "id": "M18",
+    "descricao": "Obter resultados de processo usando métodos e modelos.",
+    "tipo": 3
+  },
+  {
+    "id": "M19",
+    "descricao": "Modelar o ciclo de vida de um sistema intensivo em software, considerando as implicações e perspectivas dos processos do ciclo de vida de sistemas.",
+    "tipo": 3
+  },
+  {
+    "id": "M20",
+    "descricao": "Definir o conceito do sistema proposto (propósito desejado, contexto operacional, partes interessadas e conceito de uso do sistema).",
+    "tipo": 3
+  },
+  {
+    "id": "M21",
+    "descricao": "Selecionar um modelo de ciclo de vida de software adequado ao modelo de ciclo de vida de engenharia de sistemas e integrar os dois modelos.",
+    "tipo": 3
+  },
+  {
+    "id": "M22",
+    "descricao": "Desenvolver conceitos operacionais do sistema (ambientes operacionais, características priorizadas, atributos de qualidade, cenários operacionais, suposições, dependências, limitações e exclusões).",
+    "tipo": 3
+  },
+  {
+    "id": "M23",
+    "descricao": "Explicar o que é software, qualidade de software, requisitos de software, arquitetura de software, projeto detalhado, design, e a relação entre eles.",
+    "tipo": 3
+  },
+  {
+    "id": "M24",
+    "descricao": "Aplicar princípios de projeto de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M25",
+    "descricao": "Empregar aspectos de projeto de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M26",
+    "descricao": "Fazer uso de medidas de qualidade de projeto de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M27",
+    "descricao": "Criar projeto de software a partir de um problema.",
+    "tipo": 3
+  },
+  {
+    "id": "M28",
+    "descricao": "Explicar a construção de software, a relação dessa área de conhecimento com as demais da engenharia de software e a relação com o conceito de sistema.",
+    "tipo": 3
+  },
+  {
+    "id": "M31",
+    "descricao": "Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
+    "tipo": 3
+  },
+  {
+    "id": "M33",
+    "descricao": "Colaborar com a construção de código em equipe.",
+    "tipo": 3
+  },
+  {
+    "id": "M34",
+    "descricao": "Explicar domínios de desenvolvimento (categorias) e as especificidades correspondentes.",
+    "tipo": 3
+  },
+  {
+    "id": "M35",
+    "descricao": "Explicar um domínio de software e as estratégias de desenvolvimento correspondentes.",
+    "tipo": 3
+  },
+  {
+    "id": "M36",
+    "descricao": "Explicar processos de qualidade de software, a relação dessa área de conhecimento com as demais da engenharia de software e a relação com o conceito de sistema.",
+    "tipo": 3
+  },
+  {
+    "id": "M37",
+    "descricao": "Explicar a diferença e a relação entre a garantia do produto e a garantia do processo.",
+    "tipo": 3
+  },
+  {
+    "id": "M38",
+    "descricao": "Usar um processo da garantia da qualidade de software",
+    "tipo": 3
+  },
+  {
+    "id": "M39",
+    "descricao": "Usar um processo para a verificação e validação de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M40",
+    "descricao": "Usar um processo para a revisão e auditoria de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M41",
+    "descricao": "Colaborar em uma equipe na execução de um processo de qualidade.",
+    "tipo": 3
+  },
+  {
+    "id": "M42",
+    "descricao": "Documentar resultados dos processos de qualidade de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M43",
+    "descricao": "Identificar e utilizar ferramentas de apoio ao controle de qualidade de artefatos de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M44",
+    "descricao": "Usar normas, modelos e ferramentas de gerência de projeto para planejamento e acompanhamento de projeto de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M45",
+    "descricao": "Selecionar e implementar o tipo de modelo de processo (dirigido por plano, incremental ou adaptativo) de acordo com as características do contexto do projeto de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M46",
+    "descricao": "Selecionar e implementar o tipo de ciclo de vida de software (ou paradigma de engenharia de software - cascata, espiral, iterativo, baseado em modelo de maturidade, etc.) de acordo com as características do contexto do projeto de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M47",
+    "descricao": "Explicar a construção de software, concorrência/distribuição e a relação desses com a engenharia de software e de sistema.",
+    "tipo": 3
+  },
+  {
+    "id": "M50",
+    "descricao": "Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
+    "tipo": 3
+  },
+  {
+    "id": "M52",
+    "descricao": "Localizar e reutilizar código (bibliotecas e frameworks).",
+    "tipo": 3
+  },
+  {
+    "id": "M53",
+    "descricao": "Colaborar com a construção de código em equipe.",
+    "tipo": 3
+  },
+  {
+    "id": "M54",
+    "descricao": "Avaliar a qualidade interna de código e, quando apropriado, aplicar estratégias recomendadas de refatoração.",
+    "tipo": 3
+  },
+  {
+    "id": "M55",
+    "descricao": "Explicar conceitos de concorrência e distribuição.",
+    "tipo": 3
+  },
+  {
+    "id": "M56",
+    "descricao": "Criar código que faz uso de concorrência, distribuição e ferramentas correlatas.",
+    "tipo": 3
+  },
+  {
+    "id": "M57",
+    "descricao": "Explicar a construção de software, experiência do usuário e a relação com a Engenharia de Software e a noção se sistema.",
+    "tipo": 3
+  },
+  {
+    "id": "M59",
+    "descricao": "Criar código orientado a objetos em conformidade com o projeto (design) detalhado seguindo estratégias recomendadas.",
+    "tipo": 3
+  },
+  {
+    "id": "M60",
+    "descricao": "Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
+    "tipo": 3
+  },
+  {
+    "id": "M62",
+    "descricao": "Colaborar com a construção de código em equipe.",
+    "tipo": 3
+  },
+  {
+    "id": "M63",
+    "descricao": "Auxiliar na criação de requisitos de usabilidade.",
+    "tipo": 3
+  },
+  {
+    "id": "M64",
+    "descricao": "Criar e registrar projeto de interação que atende requisitos de usabilidade.",
+    "tipo": 3
+  },
+  {
+    "id": "M65",
+    "descricao": "Usar ferramentas e bibliotecas para o desenvolvimento de código de interfaces.",
+    "tipo": 3
+  },
+  {
+    "id": "M66",
+    "descricao": "Criar código em conformidade com o projeto de interação correspondente.",
+    "tipo": 3
+  },
+  {
+    "id": "M67",
+    "descricao": "Explicar o que é software, qualidade de software, requisitos de software, arquitetura de software, projeto detalhado, e a relação entre eles.",
+    "tipo": 3
+  },
+  {
+    "id": "M68",
+    "descricao": "Compreender a documentação de arquitetura de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M69",
+    "descricao": "Documentar arquitetura de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M70",
+    "descricao": "Criar arquitetura de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M71",
+    "descricao": "Explicar requisitos de software, a relação dessa área de conhecimento com as demais da engenharia de software, arquitetura de software em especial, e a relação com o conceito de sistema.",
+    "tipo": 3
+  },
+  {
+    "id": "M72",
+    "descricao": "Usar um processo de requisitos de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M73",
+    "descricao": "Eliciar de requisitos de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M74",
+    "descricao": "Construir modelos conceituais de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M75",
+    "descricao": "Especificar requisitos de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M76",
+    "descricao": "Verificar e validar requisitos de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M77",
+    "descricao": "Identificar e utilizar ferramentas de requisitos de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M78",
+    "descricao": "Colaborar em uma equipe na execução de um processo de requisitos.",
+    "tipo": 3
+  },
+  {
+    "id": "M79",
+    "descricao": "Planejar a estratégia de software para uma organização, considerando a pouca disponibilidade de informações de longo prazo, a escassez de recursos para implementação dessa estratégia e a necessidade de alinhamento entre a GS e a governança corporativa.",
+    "tipo": 3
+  },
+  {
+    "id": "M80",
+    "descricao": "Controlar o uso atual e futuro de software, otimizando o seu valor agregado para o negócio da organização.",
+    "tipo": 3
+  },
+  {
+    "id": "M81",
+    "descricao": "Planejar e implementar (projetar, desenvolver, implantar, monitorar, medir, controlar e sustentar) uma estratégia organizacional para GSS em conformidade com o plano estratégico da organização.",
+    "tipo": 3
+  },
+  {
+    "id": "M82",
+    "descricao": "Modelar SS e processos de negócio, usando BPMN, em conformidade com os requisitos organizacionais dos processos e serviços.",
+    "tipo": 3
+  },
+  {
+    "id": "M83",
+    "descricao": "Explicar a construção de software, dispositivos e a relação desses com a engenharia de software e de sistema.",
+    "tipo": 3
+  },
+  {
+    "id": "M84",
+    "descricao": "Explicar a construção de software e a relação dessa área de conhecimento com as demais da engenharia de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M87",
+    "descricao": "Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
+    "tipo": 3
+  },
+  {
+    "id": "M89",
+    "descricao": "Detalhar projeto de interação (design) em conformidade com requisitos de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M90",
+    "descricao": "Localizar e reutilizar código (bibliotecas e frameworks).",
+    "tipo": 3
+  },
+  {
+    "id": "M91",
+    "descricao": "Colaborar com a construção de código em equipe.",
+    "tipo": 3
+  },
+  {
+    "id": "M92",
+    "descricao": "Explicar a construção de software, segurança e a relação desses com a engenharia de software e de sistema.",
+    "tipo": 3
+  },
+  {
+    "id": "M93",
+    "descricao": "Auxiliar na criação de modelo de ameaça.",
+    "tipo": 3
+  },
+  {
+    "id": "M94",
+    "descricao": "Criar código que faz uso de recursos de segurança (criptografia de dados, assinatura e verificação de assinatura digital).",
+    "tipo": 3
+  },
+  {
+    "id": "M95",
+    "descricao": "Explicar a construção de software, persistência e a relação desses com a engenharia de software e de sistema.",
+    "tipo": 3
+  },
+  {
+    "id": "M96",
+    "descricao": "Identificar e usar estratégia adequada de persistência de dados para um dado problema.",
+    "tipo": 3
+  },
+  {
+    "id": "M97",
+    "descricao": "Usar ferramentas para definição e manipulação de bancos de dados.",
+    "tipo": 3
+  },
+  {
+    "id": "M98",
+    "descricao": "Criar código que cria, busca, atualiza e remove dados em bancos de dados.",
+    "tipo": 3
+  },
+  {
+    "id": "M99",
+    "descricao": "Refatorar (refactoring) bases de dados.",
+    "tipo": 3
+  },
+  {
+    "id": "M100",
+    "descricao": "Compreender a documentação de arquitetura de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M101",
+    "descricao": "Explicar padrões de arquitetura e ilustrar o uso.",
+    "tipo": 3
+  },
+  {
+    "id": "M102",
+    "descricao": "Documentar arquitetura de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M103",
+    "descricao": "Realizar análise de arquitetura de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M104",
+    "descricao": "Criar arquitetura de software que se beneficia de padrões de arquitetura.",
+    "tipo": 3
+  },
+  {
+    "id": "M105",
+    "descricao": "Explicar o teste de software, a relação dessa área de conhecimento com as demais da engenharia de software e a relação com o conceito de sistema.",
+    "tipo": 3
+  },
+  {
+    "id": "M106",
+    "descricao": "Usar um processo de teste de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M107",
+    "descricao": "Desenvolver planos de teste para o teste de unidade.",
+    "tipo": 3
+  },
+  {
+    "id": "M108",
+    "descricao": "Propor casos de teste segundo algum critério da técnica de teste funcional para o teste de unidade.",
+    "tipo": 3
+  },
+  {
+    "id": "M109",
+    "descricao": "Propor casos de teste segundo algum critério da técnica de teste estrutural para o teste de unidade.",
+    "tipo": 3
+  },
+  {
+    "id": "M110",
+    "descricao": "Construir código para automação do teste de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M111",
+    "descricao": "Aplicar teste exploratório no teste de sistema.",
+    "tipo": 3
+  },
+  {
+    "id": "M112",
+    "descricao": "Executar casos de teste.",
+    "tipo": 3
+  },
+  {
+    "id": "M113",
+    "descricao": "Citar e explicar métricas de teste de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M114",
+    "descricao": "Realizar medições pertinentes a teste de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M115",
+    "descricao": "Documentar atividades do teste de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M116",
+    "descricao": "Identificar e utilizar ferramentas de teste de software.",
+    "tipo": 3
+  },
+  {
+    "id": "M117",
+    "descricao": "Realizar pacotes de trabalho, desenvolvendo produtos ou serviços dentro de um projeto na Fábrica de Software, aplicando as disciplinas que formam o corpo de conhecimento da Engenharia de Software.",
+    "tipo": 3
+  },
+  {
+    "id": "M118",
+    "descricao": "Planejar, realizar e modificar de forma apropriada produtos e serviços pertinentes a processos organizacionais da Engenharia de Software, dentro do contexto da Fábrica de Software.",
+    "tipo": 3
+  },
+  {
+    "id": "M119",
+    "descricao": "Atuar individualmente e nas equipes de trabalho segundo o código de ética e a postura profissional da Engenharia de Software.",
+    "tipo": 3
+  },
+  {
+    "id": "M120",
+    "descricao": "Explicar a relação entre decisões técnicas e o alinhamento com objetivos de negócio no qual software está inserido.",
+    "tipo": 3
+  },
+  {
+    "id": "M121",
+    "descricao": "Explicar as principais leis e normas pertinentes à indústria de software no Brasil.",
+    "tipo": 3
+  },
+  {
+    "id": "M122",
+    "descricao": "Elaborar plano de negócio para software inovador.",
+    "tipo": 3
+  },
+  {
+    "id": "M123",
+    "descricao": "Aplicar princípios científicos da Engenharia de Software Experimental na realização de experimentos com software.",
+    "tipo": 3
+  },
+  {
+    "id": "M124",
+    "descricao": "Realizar estudo secundário sistemático em Engenharia de Software.",
+    "tipo": 3
+  },
+  {
+    "id": "H1",
+    "descricao": "Participar de forma harmoniosa, profissional e ética durante a elaboração de produtos de software atribuídos a equipes.",
+    "tipo": 4
+  },
+  {
+    "id": "H2",
+    "descricao": "Liderar ação contínua de formação de sua própria reputação na área.",
+    "tipo": 4
+  },
+  {
+    "id": "H3",
+    "descricao": "Participar da comunicação de ideias com clareza, seja na forma verbal ou escrita.",
+    "tipo": 4
+  },
+  {
+    "id": "H4",
+    "descricao": "Participar de atividades para eliciar, analisar, especificar, validar e gerenciar requisitos de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H5",
+    "descricao": "Participar da definição da solução de software que atende requisitos, ou seja, da definição da arquitetura e do projeto detalhado desse software.",
+    "tipo": 4
+  },
+  {
+    "id": "H6",
+    "descricao": "Participar da elaboração de modelos de análise e de projeto (design) de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H7",
+    "descricao": "Participar da aplicação de técnicas de projeto ao desenvolver softwares concorrentes, distribuídos, orientados a objetos, orientados a eventos e que implementam a persistência de dados.",
+    "tipo": 4
+  },
+  {
+    "id": "H8",
+    "descricao": "Participar da avaliação de design de software considerando, dentre outros quesitos: abstração, coesão, acoplamento e encapsulamento.",
+    "tipo": 4
+  },
+  {
+    "id": "H9",
+    "descricao": "Participar da aplicação de técnicas de tratamento de exceção e tolerância a falhas.",
+    "tipo": 4
+  },
+  {
+    "id": "H10",
+    "descricao": "Auxiliar a escolha de processo e de metodologia de design de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H11",
+    "descricao": "Auxiliar a revisão de design de software",
+    "tipo": 4
+  },
+  {
+    "id": "H12",
+    "descricao": "Participar do emprego de estilos, visões, modelos e padrões de arquitetura de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H13",
+    "descricao": "Participar do projeto de componentes e módulos de software usando modelos, padrões de projeto e notações.",
+    "tipo": 4
+  },
+  {
+    "id": "H14",
+    "descricao": "Auxiliar a execução de análise estática.",
+    "tipo": 4
+  },
+  {
+    "id": "H15",
+    "descricao": "Auxiliar a escolha de processos e modelos apropriados para a construção de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H16",
+    "descricao": "Auxiliar a escolha de linguagens e ferramentas apropriadas para a construção de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H17",
+    "descricao": "Auxiliar a escolha de frameworks, plataformas e ambientes de construção de construção de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H18",
+    "descricao": "Participar da construção de software seguindo padrões de gerência de configuração e controle de versão.",
+    "tipo": 4
+  },
+  {
+    "id": "H19",
+    "descricao": "Participar da coleta e do monitoramento de medidas de qualidade de código.",
+    "tipo": 4
+  },
+  {
+    "id": "H20",
+    "descricao": "Participar da criação de design detalhado que minimiza a complexidade e melhora a qualidade.",
+    "tipo": 4
+  },
+  {
+    "id": "H21",
+    "descricao": "Participar da criação de código que implementa projetos detalhados.",
+    "tipo": 4
+  },
+  {
+    "id": "H22",
+    "descricao": "Indicar o uso de padrões de projeto.",
+    "tipo": 4
+  },
+  {
+    "id": "H23",
+    "descricao": "Participar da refatoração (refactoring) de código.",
+    "tipo": 4
+  },
+  {
+    "id": "H24",
+    "descricao": "Participar da construção de software que segue padrões de código.",
+    "tipo": 4
+  },
+  {
+    "id": "H25",
+    "descricao": "Participar da construção de software que faz uso de técnicas de codificação defensiva.",
+    "tipo": 4
+  },
+  {
+    "id": "H26",
+    "descricao": "Participar da geração de código a partir de modelos de projeto.",
+    "tipo": 4
+  },
+  {
+    "id": "H27",
+    "descricao": "Participar do uso apropriado de ferramentas e técnicas de depuração.",
+    "tipo": 4
+  },
+  {
+    "id": "H28",
+    "descricao": "Participar da criação de testes de unidade.",
+    "tipo": 4
+  },
+  {
+    "id": "H29",
+    "descricao": "Participar da construção de software que satisfaz objetivos de cobertura de testes.",
+    "tipo": 4
+  },
+  {
+    "id": "H30",
+    "descricao": "Participar da construção de software que segue estratégias e processos de integração e implantação.",
+    "tipo": 4
+  },
+  {
+    "id": "H31",
+    "descricao": "Participar da construção e realização de testes de integração.",
+    "tipo": 4
+  },
+  {
+    "id": "H32",
+    "descricao": "Participar da construção de software em equipe ao colaborar com outros membros da equipe.",
+    "tipo": 4
+  },
+  {
+    "id": "H33",
+    "descricao": "Participar de revisões e inspeções.",
+    "tipo": 4
+  },
+  {
+    "id": "H34",
+    "descricao": "Participar da elaboração e implementação de planos de testes.",
+    "tipo": 4
+  },
+  {
+    "id": "H35",
+    "descricao": "Participar da definição de um ambiente de teste e da correspondente implementação.",
+    "tipo": 4
+  },
+  {
+    "id": "H36",
+    "descricao": "Participar da identificação, design e implementação de testes.",
+    "tipo": 4
+  },
+  {
+    "id": "H37",
+    "descricao": "Participar da elaboração de relatórios de testes.",
+    "tipo": 4
+  },
+  {
+    "id": "H38",
+    "descricao": "Auxiliar a elaboração e execução de plano de transição de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H39",
+    "descricao": "Auxiliar a elaboração e execução de planos de manutenção de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H40",
+    "descricao": "Auxiliar a execução de atividades de processos de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H41",
+    "descricao": "Auxiliar a definição e personalização de processos de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H42",
+    "descricao": "Auxiliar a implementação e execução de processos de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H43",
+    "descricao": "Auxiliar a coleta de dados para avaliação de processos de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H44",
+    "descricao": "Auxiliar a definição e o desenvolvimento de software que satisfaz objetivos e atributos de qualidade.",
+    "tipo": 4
+  },
+  {
+    "id": "H45",
+    "descricao": "Auxiliar a identificação de medidas de qualidade apropriadas.",
+    "tipo": 4
+  },
+  {
+    "id": "H46",
+    "descricao": "Auxiliar a elaboração de planos e revisões de qualidade.",
+    "tipo": 4
+  },
+  {
+    "id": "H47",
+    "descricao": "Participar da construção de software que segue princípios recomendados para segurança de código.",
+    "tipo": 4
+  },
+  {
+    "id": "H48",
+    "descricao": "Participar da construção de software que segue um plano de gerência de configuração de software.",
+    "tipo": 4
+  },
+  {
+    "id": "H49",
+    "descricao": "Participar da documentação de software.",
+    "tipo": 4
+  },
+  {
+    "id": "T1",
+    "descricao": "abordagens de implementação de processo",
+    "tipo": 5
+  },
+  {
+    "id": "T2",
+    "descricao": "abordagens e metodologias",
+    "tipo": 5
+  },
+  {
+    "id": "T3",
+    "descricao": "abstração",
+    "tipo": 5
+  },
+  {
+    "id": "T4",
+    "descricao": "acessibilidade",
+    "tipo": 5
+  },
+  {
+    "id": "T5",
+    "descricao": "acesso indexado a arquivos",
+    "tipo": 5
+  },
+  {
+    "id": "T6",
+    "descricao": "acesso sequencial a arquivos",
+    "tipo": 5
+  },
+  {
+    "id": "T7",
+    "descricao": "acompanhamento",
+    "tipo": 5
+  },
+  {
+    "id": "T8",
+    "descricao": "acoplamento",
+    "tipo": 5
+  },
+  {
+    "id": "T9",
+    "descricao": "adaptativo",
+    "tipo": 5
+  },
+  {
+    "id": "T10",
+    "descricao": "adaptação",
+    "tipo": 5
+  },
+  {
+    "id": "T11",
+    "descricao": "algoritmo simplex",
+    "tipo": 5
+  },
+  {
+    "id": "T12",
+    "descricao": "algoritmo simplex-dual",
+    "tipo": 5
+  },
+  {
+    "id": "T13",
+    "descricao": "algoritmos",
+    "tipo": 5
+  },
+  {
+    "id": "T14",
+    "descricao": "algoritmos básicos em grafos",
+    "tipo": 5
+  },
+  {
+    "id": "T15",
+    "descricao": "algoritmos de ordenação",
+    "tipo": 5
+  },
+  {
+    "id": "T16",
+    "descricao": "algoritmos de pesquisa",
+    "tipo": 5
+  },
+  {
+    "id": "T17",
+    "descricao": "algoritmos gulosos",
+    "tipo": 5
+  },
+  {
+    "id": "T18",
+    "descricao": "alinhamento",
+    "tipo": 5
+  },
+  {
+    "id": "T19",
+    "descricao": "alinhamento entre objetivos organizacionais e objetivos relacionados a software",
+    "tipo": 5
+  },
+  {
+    "id": "T20",
+    "descricao": "alocação dinâmica",
+    "tipo": 5
+  },
+  {
+    "id": "T21",
+    "descricao": "aluguel",
+    "tipo": 5
+  },
+  {
+    "id": "T22",
+    "descricao": "ambiente",
+    "tipo": 5
+  },
+  {
+    "id": "T23",
+    "descricao": "ambiente integrado de desenvolvimento (ide)",
+    "tipo": 5
+  },
+  {
+    "id": "T24",
+    "descricao": "ambientes",
+    "tipo": 5
+  },
+  {
+    "id": "T25",
+    "descricao": "ambientes de execução",
+    "tipo": 5
+  },
+  {
+    "id": "T26",
+    "descricao": "ambientes operacionais",
+    "tipo": 5
+  },
+  {
+    "id": "T27",
+    "descricao": "amostragem",
+    "tipo": 5
+  },
+  {
+    "id": "T28",
+    "descricao": "analisar",
+    "tipo": 5
+  },
+  {
+    "id": "T29",
+    "descricao": "antecipação de mudança",
+    "tipo": 5
+  },
+  {
+    "id": "T30",
+    "descricao": "análise",
+    "tipo": 5
+  },
+  {
+    "id": "T31",
+    "descricao": "análise assintótica",
+    "tipo": 5
+  },
+  {
+    "id": "T32",
+    "descricao": "análise de algoritmos",
+    "tipo": 5
+  },
+  {
+    "id": "T33",
+    "descricao": "análise de arquiteturas de software",
+    "tipo": 5
+  },
+  {
+    "id": "T34",
+    "descricao": "análise de causa raiz",
+    "tipo": 5
+  },
+  {
+    "id": "T35",
+    "descricao": "análise de requisitos",
+    "tipo": 5
+  },
+  {
+    "id": "T36",
+    "descricao": "análise de sensibilidade",
+    "tipo": 5
+  },
+  {
+    "id": "T37",
+    "descricao": "análise estatística",
+    "tipo": 5
+  },
+  {
+    "id": "T38",
+    "descricao": "análise estática",
+    "tipo": 5
+  },
+  {
+    "id": "T39",
+    "descricao": "análise léxica",
+    "tipo": 5
+  },
+  {
+    "id": "T40",
+    "descricao": "análise semântica",
+    "tipo": 5
+  },
+  {
+    "id": "T41",
+    "descricao": "análise sintática",
+    "tipo": 5
+  },
+  {
+    "id": "T42",
+    "descricao": "aplicar",
+    "tipo": 5
+  },
+  {
+    "id": "T43",
+    "descricao": "aplicação",
+    "tipo": 5
+  },
+  {
+    "id": "T44",
+    "descricao": "aplicação de metodologia científica em atividades de engenharia de software",
+    "tipo": 5
+  },
+  {
+    "id": "T45",
+    "descricao": "aplicações cpu-intensive",
+    "tipo": 5
+  },
+  {
+    "id": "T46",
+    "descricao": "aplicações io-intensive",
+    "tipo": 5
+  },
+  {
+    "id": "T47",
+    "descricao": "apresentar",
+    "tipo": 5
+  },
+  {
+    "id": "T48",
+    "descricao": "aquisição",
+    "tipo": 5
+  },
+  {
+    "id": "T49",
+    "descricao": "aquisições",
+    "tipo": 5
+  },
+  {
+    "id": "T50",
+    "descricao": "armazenamento",
+    "tipo": 5
+  },
+  {
+    "id": "T51",
+    "descricao": "arquitetura",
+    "tipo": 5
+  },
+  {
+    "id": "T52",
+    "descricao": "arquitetura de redes tcp/ip (internet)",
+    "tipo": 5
+  },
+  {
+    "id": "T53",
+    "descricao": "arquitetura de software",
+    "tipo": 5
+  },
+  {
+    "id": "T54",
+    "descricao": "arquitetura dos computadores",
+    "tipo": 5
+  },
+  {
+    "id": "T55",
+    "descricao": "arquitetura orienta a eventos",
+    "tipo": 5
+  },
+  {
+    "id": "T56",
+    "descricao": "arquitetura orientada a serviços",
+    "tipo": 5
+  },
+  {
+    "id": "T57",
+    "descricao": "arquiteturas de software",
+    "tipo": 5
+  },
+  {
+    "id": "T58",
+    "descricao": "arquiteturas orientadas a serviços",
+    "tipo": 5
+  },
+  {
+    "id": "T59",
+    "descricao": "arquiteturas paralelas",
+    "tipo": 5
+  },
+  {
+    "id": "T60",
+    "descricao": "arquivo binário",
+    "tipo": 5
+  },
+  {
+    "id": "T61",
+    "descricao": "arquivo texto",
+    "tipo": 5
+  },
+  {
+    "id": "T62",
+    "descricao": "artefatos",
+    "tipo": 5
+  },
+  {
+    "id": "T63",
+    "descricao": "artefatos de projeto de software",
+    "tipo": 5
+  },
+  {
+    "id": "T64",
+    "descricao": "aspectos de projeto",
+    "tipo": 5
+  },
+  {
+    "id": "T65",
+    "descricao": "aspectos étnicos",
+    "tipo": 5
+  },
+  {
+    "id": "T66",
+    "descricao": "assinatura digital",
+    "tipo": 5
+  },
+  {
+    "id": "T67",
+    "descricao": "associações",
+    "tipo": 5
+  },
+  {
+    "id": "T68",
+    "descricao": "atender",
+    "tipo": 5
+  },
+  {
+    "id": "T69",
+    "descricao": "atitude",
+    "tipo": 5
+  },
+  {
+    "id": "T70",
+    "descricao": "atividades",
+    "tipo": 5
+  },
+  {
+    "id": "T71",
+    "descricao": "atividades do processo de teste de software",
+    "tipo": 5
+  },
+  {
+    "id": "T72",
+    "descricao": "atores",
+    "tipo": 5
+  },
+  {
+    "id": "T73",
+    "descricao": "atribuição",
+    "tipo": 5
+  },
+  {
+    "id": "T74",
+    "descricao": "atualizar",
+    "tipo": 5
+  },
+  {
+    "id": "T75",
+    "descricao": "atuar",
+    "tipo": 5
+  },
+  {
+    "id": "T76",
+    "descricao": "auditoria",
+    "tipo": 5
+  },
+  {
+    "id": "T77",
+    "descricao": "automação",
+    "tipo": 5
+  },
+  {
+    "id": "T78",
+    "descricao": "autovalores",
+    "tipo": 5
+  },
+  {
+    "id": "T79",
+    "descricao": "autovetores",
+    "tipo": 5
+  },
+  {
+    "id": "T80",
+    "descricao": "auxiliar",
+    "tipo": 5
+  },
+  {
+    "id": "T81",
+    "descricao": "avaliar",
+    "tipo": 5
+  },
+  {
+    "id": "T82",
+    "descricao": "avaliação",
+    "tipo": 5
+  },
+  {
+    "id": "T83",
+    "descricao": "avaliação da qualidade do processo",
+    "tipo": 5
+  },
+  {
+    "id": "T84",
+    "descricao": "avaliação de alternativas",
+    "tipo": 5
+  },
+  {
+    "id": "T85",
+    "descricao": "avaliação de arquitetura de software",
+    "tipo": 5
+  },
+  {
+    "id": "T86",
+    "descricao": "avaliação de desempenho de software",
+    "tipo": 5
+  },
+  {
+    "id": "T87",
+    "descricao": "avaliação de design de software",
+    "tipo": 5
+  },
+  {
+    "id": "T88",
+    "descricao": "banco de dados",
+    "tipo": 5
+  },
+  {
+    "id": "T89",
+    "descricao": "bancos de dados",
+    "tipo": 5
+  },
+  {
+    "id": "T90",
+    "descricao": "bancos de dados relacionais",
+    "tipo": 5
+  },
+  {
+    "id": "T91",
+    "descricao": "bases de dados",
+    "tipo": 5
+  },
+  {
+    "id": "T92",
+    "descricao": "biblioteca",
+    "tipo": 5
+  },
+  {
+    "id": "T93",
+    "descricao": "bibliotecas",
+    "tipo": 5
+  },
+  {
+    "id": "T94",
+    "descricao": "big data",
+    "tipo": 5
+  },
+  {
+    "id": "T95",
+    "descricao": "blackboard",
+    "tipo": 5
+  },
+  {
+    "id": "T96",
+    "descricao": "bpm",
+    "tipo": 5
+  },
+  {
+    "id": "T97",
+    "descricao": "bpmn",
+    "tipo": 5
+  },
+  {
+    "id": "T98",
+    "descricao": "breakeven",
+    "tipo": 5
+  },
+  {
+    "id": "T99",
+    "descricao": "build",
+    "tipo": 5
+  },
+  {
+    "id": "T100",
+    "descricao": "buscar",
+    "tipo": 5
+  },
+  {
+    "id": "T101",
+    "descricao": "cadeias de caracteres",
+    "tipo": 5
+  },
+  {
+    "id": "T102",
+    "descricao": "camada de apresentação",
+    "tipo": 5
+  },
+  {
+    "id": "T103",
+    "descricao": "camada de enlace",
+    "tipo": 5
+  },
+  {
+    "id": "T104",
+    "descricao": "camada de rede",
+    "tipo": 5
+  },
+  {
+    "id": "T105",
+    "descricao": "camada de transporte",
+    "tipo": 5
+  },
+  {
+    "id": "T106",
+    "descricao": "camada física",
+    "tipo": 5
+  },
+  {
+    "id": "T107",
+    "descricao": "camadas de aplicação",
+    "tipo": 5
+  },
+  {
+    "id": "T108",
+    "descricao": "características",
+    "tipo": 5
+  },
+  {
+    "id": "T109",
+    "descricao": "características humanísticas e biológicas",
+    "tipo": 5
+  },
+  {
+    "id": "T110",
+    "descricao": "cascata",
+    "tipo": 5
+  },
+  {
+    "id": "T111",
+    "descricao": "casos de teste",
+    "tipo": 5
+  },
+  {
+    "id": "T112",
+    "descricao": "categorias",
+    "tipo": 5
+  },
+  {
+    "id": "T113",
+    "descricao": "cenários operacionais",
+    "tipo": 5
+  },
+  {
+    "id": "T114",
+    "descricao": "certificados digitais",
+    "tipo": 5
+  },
+  {
+    "id": "T115",
+    "descricao": "ciclo de instrução",
+    "tipo": 5
+  },
+  {
+    "id": "T116",
+    "descricao": "ciclo de vida",
+    "tipo": 5
+  },
+  {
+    "id": "T117",
+    "descricao": "ciclo de vida de produto",
+    "tipo": 5
+  },
+  {
+    "id": "T118",
+    "descricao": "ciclo de vida de projeto",
+    "tipo": 5
+  },
+  {
+    "id": "T119",
+    "descricao": "ciclo de vida de serviço",
+    "tipo": 5
+  },
+  {
+    "id": "T120",
+    "descricao": "ciclo de vida de sistemas de engenharia",
+    "tipo": 5
+  },
+  {
+    "id": "T121",
+    "descricao": "citar",
+    "tipo": 5
+  },
+  {
+    "id": "T122",
+    "descricao": "clareza",
+    "tipo": 5
+  },
+  {
+    "id": "T123",
+    "descricao": "classes",
+    "tipo": 5
+  },
+  {
+    "id": "T124",
+    "descricao": "closure",
+    "tipo": 5
+  },
+  {
+    "id": "T125",
+    "descricao": "cobertura",
+    "tipo": 5
+  },
+  {
+    "id": "T126",
+    "descricao": "codificação",
+    "tipo": 5
+  },
+  {
+    "id": "T127",
+    "descricao": "codificação defensiva",
+    "tipo": 5
+  },
+  {
+    "id": "T128",
+    "descricao": "coesão",
+    "tipo": 5
+  },
+  {
+    "id": "T129",
+    "descricao": "colaborar",
+    "tipo": 5
+  },
+  {
+    "id": "T130",
+    "descricao": "coleta",
+    "tipo": 5
+  },
+  {
+    "id": "T131",
+    "descricao": "combinatória",
+    "tipo": 5
+  },
+  {
+    "id": "T132",
+    "descricao": "compilador",
+    "tipo": 5
+  },
+  {
+    "id": "T133",
+    "descricao": "compilação",
+    "tipo": 5
+  },
+  {
+    "id": "T134",
+    "descricao": "compilação de programas",
+    "tipo": 5
+  },
+  {
+    "id": "T135",
+    "descricao": "completitude",
+    "tipo": 5
+  },
+  {
+    "id": "T136",
+    "descricao": "complexidade",
+    "tipo": 5
+  },
+  {
+    "id": "T137",
+    "descricao": "complexidade de algoritmos",
+    "tipo": 5
+  },
+  {
+    "id": "T138",
+    "descricao": "complexidade de sistemas",
+    "tipo": 5
+  },
+  {
+    "id": "T139",
+    "descricao": "componentes",
+    "tipo": 5
+  },
+  {
+    "id": "T140",
+    "descricao": "composição",
+    "tipo": 5
+  },
+  {
+    "id": "T141",
+    "descricao": "compreender",
+    "tipo": 5
+  },
+  {
+    "id": "T142",
+    "descricao": "computadores modernos",
+    "tipo": 5
+  },
+  {
+    "id": "T143",
+    "descricao": "computação móvel",
+    "tipo": 5
+  },
+  {
+    "id": "T144",
+    "descricao": "computação ubíqua",
+    "tipo": 5
+  },
+  {
+    "id": "T145",
+    "descricao": "comunicar",
+    "tipo": 5
+  },
+  {
+    "id": "T146",
+    "descricao": "comunicação",
+    "tipo": 5
+  },
+  {
+    "id": "T147",
+    "descricao": "comunicações",
+    "tipo": 5
+  },
+  {
+    "id": "T148",
+    "descricao": "conceitos básicos de linguagens",
+    "tipo": 5
+  },
+  {
+    "id": "T149",
+    "descricao": "conceitos operacionais",
+    "tipo": 5
+  },
+  {
+    "id": "T150",
+    "descricao": "concepção",
+    "tipo": 5
+  },
+  {
+    "id": "T151",
+    "descricao": "concorrência",
+    "tipo": 5
+  },
+  {
+    "id": "T152",
+    "descricao": "condições",
+    "tipo": 5
+  },
+  {
+    "id": "T153",
+    "descricao": "configurar",
+    "tipo": 5
+  },
+  {
+    "id": "T154",
+    "descricao": "configuração de software",
+    "tipo": 5
+  },
+  {
+    "id": "T155",
+    "descricao": "conformidade",
+    "tipo": 5
+  },
+  {
+    "id": "T156",
+    "descricao": "conjuntos",
+    "tipo": 5
+  },
+  {
+    "id": "T157",
+    "descricao": "consequência lógica",
+    "tipo": 5
+  },
+  {
+    "id": "T158",
+    "descricao": "constantes",
+    "tipo": 5
+  },
+  {
+    "id": "T159",
+    "descricao": "construir",
+    "tipo": 5
+  },
+  {
+    "id": "T160",
+    "descricao": "construção",
+    "tipo": 5
+  },
+  {
+    "id": "T161",
+    "descricao": "contexto operacional",
+    "tipo": 5
+  },
+  {
+    "id": "T162",
+    "descricao": "contexto organizacional",
+    "tipo": 5
+  },
+  {
+    "id": "T163",
+    "descricao": "contribuir",
+    "tipo": 5
+  },
+  {
+    "id": "T164",
+    "descricao": "controlar",
+    "tipo": 5
+  },
+  {
+    "id": "T165",
+    "descricao": "controle de configuração",
+    "tipo": 5
+  },
+  {
+    "id": "T166",
+    "descricao": "controle de mudança",
+    "tipo": 5
+  },
+  {
+    "id": "T167",
+    "descricao": "controle de qualidade",
+    "tipo": 5
+  },
+  {
+    "id": "T168",
+    "descricao": "controle de versão",
+    "tipo": 5
+  },
+  {
+    "id": "T169",
+    "descricao": "controle estratégico de software",
+    "tipo": 5
+  },
+  {
+    "id": "T170",
+    "descricao": "contêineres",
+    "tipo": 5
+  },
+  {
+    "id": "T171",
+    "descricao": "cooperar",
+    "tipo": 5
+  },
+  {
+    "id": "T172",
+    "descricao": "corporativa",
+    "tipo": 5
+  },
+  {
+    "id": "T173",
+    "descricao": "correlacionar",
+    "tipo": 5
+  },
+  {
+    "id": "T174",
+    "descricao": "correlação entre projetos, operações e programas",
+    "tipo": 5
+  },
+  {
+    "id": "T175",
+    "descricao": "correlação linear",
+    "tipo": 5
+  },
+  {
+    "id": "T176",
+    "descricao": "corretude",
+    "tipo": 5
+  },
+  {
+    "id": "T177",
+    "descricao": "correção",
+    "tipo": 5
+  },
+  {
+    "id": "T178",
+    "descricao": "criar",
+    "tipo": 5
+  },
+  {
+    "id": "T179",
+    "descricao": "criação",
+    "tipo": 5
+  },
+  {
+    "id": "T180",
+    "descricao": "criação de arquiteturas de software",
+    "tipo": 5
+  },
+  {
+    "id": "T181",
+    "descricao": "criação de código",
+    "tipo": 5
+  },
+  {
+    "id": "T182",
+    "descricao": "criptografia",
+    "tipo": 5
+  },
+  {
+    "id": "T183",
+    "descricao": "cultura",
+    "tipo": 5
+  },
+  {
+    "id": "T184",
+    "descricao": "cursos de computação",
+    "tipo": 5
+  },
+  {
+    "id": "T185",
+    "descricao": "custo",
+    "tipo": 5
+  },
+  {
+    "id": "T186",
+    "descricao": "custo-benefício",
+    "tipo": 5
+  },
+  {
+    "id": "T187",
+    "descricao": "custos",
+    "tipo": 5
+  },
+  {
+    "id": "T188",
+    "descricao": "cálculo relacional",
+    "tipo": 5
+  },
+  {
+    "id": "T189",
+    "descricao": "código",
+    "tipo": 5
+  },
+  {
+    "id": "T190",
+    "descricao": "código aberto",
+    "tipo": 5
+  },
+  {
+    "id": "T191",
+    "descricao": "código de interfaces",
+    "tipo": 5
+  },
+  {
+    "id": "T192",
+    "descricao": "cônicas",
+    "tipo": 5
+  },
+  {
+    "id": "T193",
+    "descricao": "dados",
+    "tipo": 5
+  },
+  {
+    "id": "T194",
+    "descricao": "debugging",
+    "tipo": 5
+  },
+  {
+    "id": "T195",
+    "descricao": "decomposição",
+    "tipo": 5
+  },
+  {
+    "id": "T196",
+    "descricao": "deficiências",
+    "tipo": 5
+  },
+  {
+    "id": "T197",
+    "descricao": "definir",
+    "tipo": 5
+  },
+  {
+    "id": "T198",
+    "descricao": "definição",
+    "tipo": 5
+  },
+  {
+    "id": "T199",
+    "descricao": "definições básicas",
+    "tipo": 5
+  },
+  {
+    "id": "T200",
+    "descricao": "definições dirigidas por sintaxe",
+    "tipo": 5
+  },
+  {
+    "id": "T201",
+    "descricao": "demanda",
+    "tipo": 5
+  },
+  {
+    "id": "T202",
+    "descricao": "demanda do mercado",
+    "tipo": 5
+  },
+  {
+    "id": "T203",
+    "descricao": "dependências",
+    "tipo": 5
+  },
+  {
+    "id": "T204",
+    "descricao": "depurar",
+    "tipo": 5
+  },
+  {
+    "id": "T205",
+    "descricao": "depuração",
+    "tipo": 5
+  },
+  {
+    "id": "T206",
+    "descricao": "derivadas",
+    "tipo": 5
+  },
+  {
+    "id": "T207",
+    "descricao": "desafios da computação",
+    "tipo": 5
+  },
+  {
+    "id": "T208",
+    "descricao": "descontinuação",
+    "tipo": 5
+  },
+  {
+    "id": "T209",
+    "descricao": "desempenho",
+    "tipo": 5
+  },
+  {
+    "id": "T210",
+    "descricao": "desenvolver",
+    "tipo": 5
+  },
+  {
+    "id": "T211",
+    "descricao": "desenvolvimento",
+    "tipo": 5
+  },
+  {
+    "id": "T212",
+    "descricao": "desenvolvimento de bibliotecas",
+    "tipo": 5
+  },
+  {
+    "id": "T213",
+    "descricao": "design",
+    "tipo": 5
+  },
+  {
+    "id": "T214",
+    "descricao": "detalhar",
+    "tipo": 5
+  },
+  {
+    "id": "T215",
+    "descricao": "diagnóstico de maturidade",
+    "tipo": 5
+  },
+  {
+    "id": "T216",
+    "descricao": "direcionamento",
+    "tipo": 5
+  },
+  {
+    "id": "T217",
+    "descricao": "direitos",
+    "tipo": 5
+  },
+  {
+    "id": "T218",
+    "descricao": "diretrizes",
+    "tipo": 5
+  },
+  {
+    "id": "T219",
+    "descricao": "disponibilidade",
+    "tipo": 5
+  },
+  {
+    "id": "T220",
+    "descricao": "dispositivos",
+    "tipo": 5
+  },
+  {
+    "id": "T221",
+    "descricao": "dispositivos de entrada",
+    "tipo": 5
+  },
+  {
+    "id": "T222",
+    "descricao": "dispositivos de interação",
+    "tipo": 5
+  },
+  {
+    "id": "T223",
+    "descricao": "dispositivos de saída",
+    "tipo": 5
+  },
+  {
+    "id": "T224",
+    "descricao": "dispositivos ubíquos",
+    "tipo": 5
+  },
+  {
+    "id": "T225",
+    "descricao": "distribuição",
+    "tipo": 5
+  },
+  {
+    "id": "T226",
+    "descricao": "distribuições contínuas de probabilidade",
+    "tipo": 5
+  },
+  {
+    "id": "T227",
+    "descricao": "distribuições discretas de probabilidade",
+    "tipo": 5
+  },
+  {
+    "id": "T228",
+    "descricao": "dividir para conquistar",
+    "tipo": 5
+  },
+  {
+    "id": "T229",
+    "descricao": "documentar",
+    "tipo": 5
+  },
+  {
+    "id": "T230",
+    "descricao": "documentação",
+    "tipo": 5
+  },
+  {
+    "id": "T231",
+    "descricao": "domain engineering",
+    "tipo": 5
+  },
+  {
+    "id": "T232",
+    "descricao": "domínio",
+    "tipo": 5
+  },
+  {
+    "id": "T233",
+    "descricao": "domínios",
+    "tipo": 5
+  },
+  {
+    "id": "T234",
+    "descricao": "dualidade",
+    "tipo": 5
+  },
+  {
+    "id": "T235",
+    "descricao": "economia",
+    "tipo": 5
+  },
+  {
+    "id": "T236",
+    "descricao": "economia para engenharia de software",
+    "tipo": 5
+  },
+  {
+    "id": "T237",
+    "descricao": "edição",
+    "tipo": 5
+  },
+  {
+    "id": "T238",
+    "descricao": "elaborar",
+    "tipo": 5
+  },
+  {
+    "id": "T239",
+    "descricao": "elementos de interação",
+    "tipo": 5
+  },
+  {
+    "id": "T240",
+    "descricao": "eliciar",
+    "tipo": 5
+  },
+  {
+    "id": "T241",
+    "descricao": "eliciação de requisitos",
+    "tipo": 5
+  },
+  {
+    "id": "T242",
+    "descricao": "empregar",
+    "tipo": 5
+  },
+  {
+    "id": "T243",
+    "descricao": "empresas",
+    "tipo": 5
+  },
+  {
+    "id": "T244",
+    "descricao": "encapsulamento",
+    "tipo": 5
+  },
+  {
+    "id": "T245",
+    "descricao": "endereçamento",
+    "tipo": 5
+  },
+  {
+    "id": "T246",
+    "descricao": "engenharia de sistemas",
+    "tipo": 5
+  },
+  {
+    "id": "T247",
+    "descricao": "engenharia de software",
+    "tipo": 5
+  },
+  {
+    "id": "T248",
+    "descricao": "engenharia de software experimental",
+    "tipo": 5
+  },
+  {
+    "id": "T249",
+    "descricao": "engenharia econômica",
+    "tipo": 5
+  },
+  {
+    "id": "T250",
+    "descricao": "entrada e saída de dados",
+    "tipo": 5
+  },
+  {
+    "id": "T251",
+    "descricao": "equipe",
+    "tipo": 5
+  },
+  {
+    "id": "T252",
+    "descricao": "equipes",
+    "tipo": 5
+  },
+  {
+    "id": "T253",
+    "descricao": "escalabilidade",
+    "tipo": 5
+  },
+  {
+    "id": "T254",
+    "descricao": "escolha",
+    "tipo": 5
+  },
+  {
+    "id": "T255",
+    "descricao": "escolher",
+    "tipo": 5
+  },
+  {
+    "id": "T256",
+    "descricao": "escopo",
+    "tipo": 5
+  },
+  {
+    "id": "T257",
+    "descricao": "escrever",
+    "tipo": 5
+  },
+  {
+    "id": "T258",
+    "descricao": "escritório de projetos (pmo)",
+    "tipo": 5
+  },
+  {
+    "id": "T259",
+    "descricao": "espaços vetoriais",
+    "tipo": 5
+  },
+  {
+    "id": "T260",
+    "descricao": "especificar",
+    "tipo": 5
+  },
+  {
+    "id": "T261",
+    "descricao": "especificação",
+    "tipo": 5
+  },
+  {
+    "id": "T262",
+    "descricao": "especificação de projeto",
+    "tipo": 5
+  },
+  {
+    "id": "T263",
+    "descricao": "especificação de requisitos",
+    "tipo": 5
+  },
+  {
+    "id": "T264",
+    "descricao": "espiral",
+    "tipo": 5
+  },
+  {
+    "id": "T265",
+    "descricao": "estatística",
+    "tipo": 5
+  },
+  {
+    "id": "T266",
+    "descricao": "estilo de codificação",
+    "tipo": 5
+  },
+  {
+    "id": "T267",
+    "descricao": "estilos",
+    "tipo": 5
+  },
+  {
+    "id": "T268",
+    "descricao": "estilos arquiteturais",
+    "tipo": 5
+  },
+  {
+    "id": "T269",
+    "descricao": "estilos de interação",
+    "tipo": 5
+  },
+  {
+    "id": "T270",
+    "descricao": "estimação",
+    "tipo": 5
+  },
+  {
+    "id": "T271",
+    "descricao": "estratégia",
+    "tipo": 5
+  },
+  {
+    "id": "T272",
+    "descricao": "estratégia organizacional",
+    "tipo": 5
+  },
+  {
+    "id": "T273",
+    "descricao": "estratégia organizacional para serviços de software",
+    "tipo": 5
+  },
+  {
+    "id": "T274",
+    "descricao": "estratégias",
+    "tipo": 5
+  },
+  {
+    "id": "T275",
+    "descricao": "estratégias de projeto (design) de software",
+    "tipo": 5
+  },
+  {
+    "id": "T276",
+    "descricao": "estruturas de controle",
+    "tipo": 5
+  },
+  {
+    "id": "T277",
+    "descricao": "estruturas de dados",
+    "tipo": 5
+  },
+  {
+    "id": "T278",
+    "descricao": "estruturas de dados heterogêneas",
+    "tipo": 5
+  },
+  {
+    "id": "T279",
+    "descricao": "estruturas de dados homogêneas",
+    "tipo": 5
+  },
+  {
+    "id": "T280",
+    "descricao": "estruturas de decisão",
+    "tipo": 5
+  },
+  {
+    "id": "T281",
+    "descricao": "estruturas de repetição",
+    "tipo": 5
+  },
+  {
+    "id": "T282",
+    "descricao": "estudo de caso de tópicos emergentes em redes",
+    "tipo": 5
+  },
+  {
+    "id": "T283",
+    "descricao": "estudo de casos de tópicos emergentes em sistemas distribuídos",
+    "tipo": 5
+  },
+  {
+    "id": "T284",
+    "descricao": "estudos primários e secundários",
+    "tipo": 5
+  },
+  {
+    "id": "T285",
+    "descricao": "eventos",
+    "tipo": 5
+  },
+  {
+    "id": "T286",
+    "descricao": "eventos independentes",
+    "tipo": 5
+  },
+  {
+    "id": "T287",
+    "descricao": "evolução",
+    "tipo": 5
+  },
+  {
+    "id": "T288",
+    "descricao": "exceção",
+    "tipo": 5
+  },
+  {
+    "id": "T289",
+    "descricao": "exclusões",
+    "tipo": 5
+  },
+  {
+    "id": "T290",
+    "descricao": "executar",
+    "tipo": 5
+  },
+  {
+    "id": "T291",
+    "descricao": "execução",
+    "tipo": 5
+  },
+  {
+    "id": "T292",
+    "descricao": "experimentos",
+    "tipo": 5
+  },
+  {
+    "id": "T293",
+    "descricao": "experiência do usuário",
+    "tipo": 5
+  },
+  {
+    "id": "T294",
+    "descricao": "explicar",
+    "tipo": 5
+  },
+  {
+    "id": "T295",
+    "descricao": "exportação",
+    "tipo": 5
+  },
+  {
+    "id": "T296",
+    "descricao": "expressões",
+    "tipo": 5
+  },
+  {
+    "id": "T297",
+    "descricao": "expressões regulares",
+    "tipo": 5
+  },
+  {
+    "id": "T298",
+    "descricao": "fatores humanos",
+    "tipo": 5
+  },
+  {
+    "id": "T299",
+    "descricao": "ferramentas",
+    "tipo": 5
+  },
+  {
+    "id": "T300",
+    "descricao": "ferramentas de teste",
+    "tipo": 5
+  },
+  {
+    "id": "T301",
+    "descricao": "filas",
+    "tipo": 5
+  },
+  {
+    "id": "T302",
+    "descricao": "filas de prioridades",
+    "tipo": 5
+  },
+  {
+    "id": "T303",
+    "descricao": "filtros",
+    "tipo": 5
+  },
+  {
+    "id": "T304",
+    "descricao": "formato de instrução",
+    "tipo": 5
+  },
+  {
+    "id": "T305",
+    "descricao": "formação",
+    "tipo": 5
+  },
+  {
+    "id": "T306",
+    "descricao": "fornecimento",
+    "tipo": 5
+  },
+  {
+    "id": "T307",
+    "descricao": "frameworks",
+    "tipo": 5
+  },
+  {
+    "id": "T308",
+    "descricao": "fundamentos de redes",
+    "tipo": 5
+  },
+  {
+    "id": "T309",
+    "descricao": "fundamentos de design de software",
+    "tipo": 5
+  },
+  {
+    "id": "T310",
+    "descricao": "fundamentos de engenharia",
+    "tipo": 5
+  },
+  {
+    "id": "T311",
+    "descricao": "fundamentos de sistema",
+    "tipo": 5
+  },
+  {
+    "id": "T312",
+    "descricao": "funções",
+    "tipo": 5
+  },
+  {
+    "id": "T313",
+    "descricao": "futuro",
+    "tipo": 5
+  },
+  {
+    "id": "T314",
+    "descricao": "fábrica de software",
+    "tipo": 5
+  },
+  {
+    "id": "T315",
+    "descricao": "garantia de processo",
+    "tipo": 5
+  },
+  {
+    "id": "T316",
+    "descricao": "garantia de produto",
+    "tipo": 5
+  },
+  {
+    "id": "T317",
+    "descricao": "garantia de qualidade",
+    "tipo": 5
+  },
+  {
+    "id": "T318",
+    "descricao": "garantia do processo",
+    "tipo": 5
+  },
+  {
+    "id": "T319",
+    "descricao": "garantia do produto",
+    "tipo": 5
+  },
+  {
+    "id": "T320",
+    "descricao": "genealogia",
+    "tipo": 5
+  },
+  {
+    "id": "T321",
+    "descricao": "geração do código-objeto da compilação",
+    "tipo": 5
+  },
+  {
+    "id": "T322",
+    "descricao": "gerenciamento de redes",
+    "tipo": 5
+  },
+  {
+    "id": "T323",
+    "descricao": "gerenciar",
+    "tipo": 5
+  },
+  {
+    "id": "T324",
+    "descricao": "gerência de configuração",
+    "tipo": 5
+  },
+  {
+    "id": "T325",
+    "descricao": "gerência de configuração de software",
+    "tipo": 5
+  },
+  {
+    "id": "T326",
+    "descricao": "gerência de dispositivos de entrada e saída",
+    "tipo": 5
+  },
+  {
+    "id": "T327",
+    "descricao": "gerência de memória",
+    "tipo": 5
+  },
+  {
+    "id": "T328",
+    "descricao": "gerência de portfólio de projetos",
+    "tipo": 5
+  },
+  {
+    "id": "T329",
+    "descricao": "gerência de processos",
+    "tipo": 5
+  },
+  {
+    "id": "T330",
+    "descricao": "gerência de processos de negócio",
+    "tipo": 5
+  },
+  {
+    "id": "T331",
+    "descricao": "gerência de projeto",
+    "tipo": 5
+  },
+  {
+    "id": "T332",
+    "descricao": "gerência de projeto de software",
+    "tipo": 5
+  },
+  {
+    "id": "T333",
+    "descricao": "gerência de projetos de engenharia de requisitos",
+    "tipo": 5
+  },
+  {
+    "id": "T334",
+    "descricao": "gerência do processador",
+    "tipo": 5
+  },
+  {
+    "id": "T335",
+    "descricao": "gestão de engenharia de software",
+    "tipo": 5
+  },
+  {
+    "id": "T336",
+    "descricao": "gestão de incidentes",
+    "tipo": 5
+  },
+  {
+    "id": "T337",
+    "descricao": "gestão de serviços de software",
+    "tipo": 5
+  },
+  {
+    "id": "T338",
+    "descricao": "gestão técnica",
+    "tipo": 5
+  },
+  {
+    "id": "T339",
+    "descricao": "governança",
+    "tipo": 5
+  },
+  {
+    "id": "T340",
+    "descricao": "governança corporativa",
+    "tipo": 5
+  },
+  {
+    "id": "T341",
+    "descricao": "governança de dados",
+    "tipo": 5
+  },
+  {
+    "id": "T342",
+    "descricao": "governança de software",
+    "tipo": 5
+  },
+  {
+    "id": "T343",
+    "descricao": "governança de ti",
+    "tipo": 5
+  },
+  {
+    "id": "T344",
+    "descricao": "grafos",
+    "tipo": 5
+  },
+  {
+    "id": "T345",
+    "descricao": "gramáticas",
+    "tipo": 5
+  },
+  {
+    "id": "T346",
+    "descricao": "gênero",
+    "tipo": 5
+  },
+  {
+    "id": "T347",
+    "descricao": "hardware",
+    "tipo": 5
+  },
+  {
+    "id": "T348",
+    "descricao": "harmonia",
+    "tipo": 5
+  },
+  {
+    "id": "T349",
+    "descricao": "hashing",
+    "tipo": 5
+  },
+  {
+    "id": "T350",
+    "descricao": "heaps",
+    "tipo": 5
+  },
+  {
+    "id": "T351",
+    "descricao": "heapsort",
+    "tipo": 5
+  },
+  {
+    "id": "T352",
+    "descricao": "herança",
+    "tipo": 5
+  },
+  {
+    "id": "T353",
+    "descricao": "hierarquia de chomsky",
+    "tipo": 5
+  },
+  {
+    "id": "T354",
+    "descricao": "hierarquia de memória",
+    "tipo": 5
+  },
+  {
+    "id": "T355",
+    "descricao": "história da computação",
+    "tipo": 5
+  },
+  {
+    "id": "T356",
+    "descricao": "ideias",
+    "tipo": 5
+  },
+  {
+    "id": "T357",
+    "descricao": "identificar",
+    "tipo": 5
+  },
+  {
+    "id": "T358",
+    "descricao": "ilustrar",
+    "tipo": 5
+  },
+  {
+    "id": "T359",
+    "descricao": "impactos da qualidade de software",
+    "tipo": 5
+  },
+  {
+    "id": "T360",
+    "descricao": "implantar",
+    "tipo": 5
+  },
+  {
+    "id": "T361",
+    "descricao": "implantação",
+    "tipo": 5
+  },
+  {
+    "id": "T362",
+    "descricao": "implementar",
+    "tipo": 5
+  },
+  {
+    "id": "T363",
+    "descricao": "implementação",
+    "tipo": 5
+  },
+  {
+    "id": "T364",
+    "descricao": "implementação de bancos de dados",
+    "tipo": 5
+  },
+  {
+    "id": "T365",
+    "descricao": "importância da computação",
+    "tipo": 5
+  },
+  {
+    "id": "T366",
+    "descricao": "impostos",
+    "tipo": 5
+  },
+  {
+    "id": "T367",
+    "descricao": "inclusão digital",
+    "tipo": 5
+  },
+  {
+    "id": "T368",
+    "descricao": "incremental",
+    "tipo": 5
+  },
+  {
+    "id": "T369",
+    "descricao": "incubadoras",
+    "tipo": 5
+  },
+  {
+    "id": "T370",
+    "descricao": "indicadores",
+    "tipo": 5
+  },
+  {
+    "id": "T371",
+    "descricao": "indicar",
+    "tipo": 5
+  },
+  {
+    "id": "T372",
+    "descricao": "individualmente",
+    "tipo": 5
+  },
+  {
+    "id": "T373",
+    "descricao": "indução matemática",
+    "tipo": 5
+  },
+  {
+    "id": "T374",
+    "descricao": "inicialização",
+    "tipo": 5
+  },
+  {
+    "id": "T375",
+    "descricao": "inovação",
+    "tipo": 5
+  },
+  {
+    "id": "T376",
+    "descricao": "inspeção",
+    "tipo": 5
+  },
+  {
+    "id": "T377",
+    "descricao": "instâncias",
+    "tipo": 5
+  },
+  {
+    "id": "T378",
+    "descricao": "integrais",
+    "tipo": 5
+  },
+  {
+    "id": "T379",
+    "descricao": "integrais impróprias",
+    "tipo": 5
+  },
+  {
+    "id": "T380",
+    "descricao": "integrar",
+    "tipo": 5
+  },
+  {
+    "id": "T381",
+    "descricao": "integração",
+    "tipo": 5
+  },
+  {
+    "id": "T382",
+    "descricao": "integração contínua",
+    "tipo": 5
+  },
+  {
+    "id": "T383",
+    "descricao": "interação",
+    "tipo": 5
+  },
+  {
+    "id": "T384",
+    "descricao": "interação humano-computador",
+    "tipo": 5
+  },
+  {
+    "id": "T385",
+    "descricao": "interdisciplinaridade",
+    "tipo": 5
+  },
+  {
+    "id": "T386",
+    "descricao": "interface",
+    "tipo": 5
+  },
+  {
+    "id": "T387",
+    "descricao": "interfaceamento e técnicas de entrada e saída",
+    "tipo": 5
+  },
+  {
+    "id": "T388",
+    "descricao": "interfaces",
+    "tipo": 5
+  },
+  {
+    "id": "T389",
+    "descricao": "interfaces gráficas",
+    "tipo": 5
+  },
+  {
+    "id": "T390",
+    "descricao": "interfaces humano-computador",
+    "tipo": 5
+  },
+  {
+    "id": "T391",
+    "descricao": "internacionalização",
+    "tipo": 5
+  },
+  {
+    "id": "T392",
+    "descricao": "internet das coisas",
+    "tipo": 5
+  },
+  {
+    "id": "T394",
+    "descricao": "interpretação de programa",
+    "tipo": 5
+  },
+  {
+    "id": "T395",
+    "descricao": "introdução a demonstrações",
+    "tipo": 5
+  },
+  {
+    "id": "T396",
+    "descricao": "introdução a sistemas distribuídos",
+    "tipo": 5
+  },
+  {
+    "id": "T397",
+    "descricao": "inversas",
+    "tipo": 5
+  },
+  {
+    "id": "T398",
+    "descricao": "invocação implícita",
+    "tipo": 5
+  },
+  {
+    "id": "T399",
+    "descricao": "invocação remota",
+    "tipo": 5
+  },
+  {
+    "id": "T400",
+    "descricao": "iso/iec/ieee 42010:2011",
+    "tipo": 5
+  },
+  {
+    "id": "T401",
+    "descricao": "iterativo",
+    "tipo": 5
+  },
+  {
+    "id": "T402",
+    "descricao": "jornadas de usuário",
+    "tipo": 5
+  },
+  {
+    "id": "T403",
+    "descricao": "json",
+    "tipo": 5
+  },
+  {
+    "id": "T404",
+    "descricao": "laços",
+    "tipo": 5
+  },
+  {
+    "id": "T405",
+    "descricao": "legislação",
+    "tipo": 5
+  },
+  {
+    "id": "T406",
+    "descricao": "leis",
+    "tipo": 5
+  },
+  {
+    "id": "T407",
+    "descricao": "libras",
+    "tipo": 5
+  },
+  {
+    "id": "T408",
+    "descricao": "liderar",
+    "tipo": 5
+  },
+  {
+    "id": "T409",
+    "descricao": "limitações",
+    "tipo": 5
+  },
+  {
+    "id": "T410",
+    "descricao": "limitações e capacidades",
+    "tipo": 5
+  },
+  {
+    "id": "T411",
+    "descricao": "limite e continuidade",
+    "tipo": 5
+  },
+  {
+    "id": "T412",
+    "descricao": "linguagem",
+    "tipo": 5
+  },
+  {
+    "id": "T413",
+    "descricao": "linguagem de montagem",
+    "tipo": 5
+  },
+  {
+    "id": "T414",
+    "descricao": "linguagem de programação",
+    "tipo": 5
+  },
+  {
+    "id": "T415",
+    "descricao": "linguagem formal",
+    "tipo": 5
+  },
+  {
+    "id": "T416",
+    "descricao": "linguagem natural",
+    "tipo": 5
+  },
+  {
+    "id": "T417",
+    "descricao": "linguagem orientada a objetos",
+    "tipo": 5
+  },
+  {
+    "id": "T418",
+    "descricao": "linguagem para experimentação",
+    "tipo": 5
+  },
+  {
+    "id": "T419",
+    "descricao": "linguagens de programação",
+    "tipo": 5
+  },
+  {
+    "id": "T420",
+    "descricao": "linguagens livres de contexto",
+    "tipo": 5
+  },
+  {
+    "id": "T421",
+    "descricao": "linguagens regulares",
+    "tipo": 5
+  },
+  {
+    "id": "T422",
+    "descricao": "linguagens sensíveis ao contexto",
+    "tipo": 5
+  },
+  {
+    "id": "T423",
+    "descricao": "linha de comandos",
+    "tipo": 5
+  },
+  {
+    "id": "T424",
+    "descricao": "listas",
+    "tipo": 5
+  },
+  {
+    "id": "T425",
+    "descricao": "localizar",
+    "tipo": 5
+  },
+  {
+    "id": "T426",
+    "descricao": "localização e internacionalização",
+    "tipo": 5
+  },
+  {
+    "id": "T427",
+    "descricao": "logging",
+    "tipo": 5
+  },
+  {
+    "id": "T428",
+    "descricao": "lucro",
+    "tipo": 5
+  },
+  {
+    "id": "T429",
+    "descricao": "lógica de primeira ordem",
+    "tipo": 5
+  },
+  {
+    "id": "T430",
+    "descricao": "lógica proposicional",
+    "tipo": 5
+  },
+  {
+    "id": "T431",
+    "descricao": "manipulação",
+    "tipo": 5
+  },
+  {
+    "id": "T432",
+    "descricao": "manipulação de arquivos",
+    "tipo": 5
+  },
+  {
+    "id": "T433",
+    "descricao": "manutenção",
+    "tipo": 5
+  },
+  {
+    "id": "T434",
+    "descricao": "manutenção de software",
+    "tipo": 5
+  },
+  {
+    "id": "T435",
+    "descricao": "mapeamento entre oo e relacional",
+    "tipo": 5
+  },
+  {
+    "id": "T436",
+    "descricao": "mapeamento er-relacional",
+    "tipo": 5
+  },
+  {
+    "id": "T437",
+    "descricao": "mapeamento sistemático da literatura",
+    "tipo": 5
+  },
+  {
+    "id": "T438",
+    "descricao": "matrizes",
+    "tipo": 5
+  },
+  {
+    "id": "T439",
+    "descricao": "medida",
+    "tipo": 5
+  },
+  {
+    "id": "T440",
+    "descricao": "medidas",
+    "tipo": 5
+  },
+  {
+    "id": "T441",
+    "descricao": "medir",
+    "tipo": 5
+  },
+  {
+    "id": "T442",
+    "descricao": "medição",
+    "tipo": 5
+  },
+  {
+    "id": "T443",
+    "descricao": "meio ambiente",
+    "tipo": 5
+  },
+  {
+    "id": "T444",
+    "descricao": "memória",
+    "tipo": 5
+  },
+  {
+    "id": "T445",
+    "descricao": "memória compartilhada",
+    "tipo": 5
+  },
+  {
+    "id": "T446",
+    "descricao": "mensagens",
+    "tipo": 5
+  },
+  {
+    "id": "T447",
+    "descricao": "mercado externo",
+    "tipo": 5
+  },
+  {
+    "id": "T448",
+    "descricao": "mercado interno",
+    "tipo": 5
+  },
+  {
+    "id": "T449",
+    "descricao": "metodologia",
+    "tipo": 5
+  },
+  {
+    "id": "T450",
+    "descricao": "metodologia científica",
+    "tipo": 5
+  },
+  {
+    "id": "T451",
+    "descricao": "micro-serviços",
+    "tipo": 5
+  },
+  {
+    "id": "T452",
+    "descricao": "microservices",
+    "tipo": 5
+  },
+  {
+    "id": "T453",
+    "descricao": "middleware",
+    "tipo": 5
+  },
+  {
+    "id": "T454",
+    "descricao": "minimizar complexidade",
+    "tipo": 5
+  },
+  {
+    "id": "T455",
+    "descricao": "mobilidade",
+    "tipo": 5
+  },
+  {
+    "id": "T456",
+    "descricao": "modelagem",
+    "tipo": 5
+  },
+  {
+    "id": "T457",
+    "descricao": "modelagem de bancos de dados",
+    "tipo": 5
+  },
+  {
+    "id": "T458",
+    "descricao": "modelagem de software orientado a objetos",
+    "tipo": 5
+  },
+  {
+    "id": "T459",
+    "descricao": "modelar",
+    "tipo": 5
+  },
+  {
+    "id": "T460",
+    "descricao": "modelo",
+    "tipo": 5
+  },
+  {
+    "id": "T461",
+    "descricao": "modelo (visão geral)",
+    "tipo": 5
+  },
+  {
+    "id": "T462",
+    "descricao": "modelo de ameaça",
+    "tipo": 5
+  },
+  {
+    "id": "T463",
+    "descricao": "modelo de maturidade",
+    "tipo": 5
+  },
+  {
+    "id": "T464",
+    "descricao": "modelo entidade-relacionamento",
+    "tipo": 5
+  },
+  {
+    "id": "T465",
+    "descricao": "modelo relacional",
+    "tipo": 5
+  },
+  {
+    "id": "T466",
+    "descricao": "modelos",
+    "tipo": 5
+  },
+  {
+    "id": "T467",
+    "descricao": "modelos conceituais",
+    "tipo": 5
+  },
+  {
+    "id": "T468",
+    "descricao": "modelos de maturidade",
+    "tipo": 5
+  },
+  {
+    "id": "T469",
+    "descricao": "modelos de negócio",
+    "tipo": 5
+  },
+  {
+    "id": "T470",
+    "descricao": "modelos de qualidade",
+    "tipo": 5
+  },
+  {
+    "id": "T471",
+    "descricao": "modelos de qualidade de processo de gerência de projeto de software",
+    "tipo": 5
+  },
+  {
+    "id": "T472",
+    "descricao": "modelos de qualidade de processos",
+    "tipo": 5
+  },
+  {
+    "id": "T473",
+    "descricao": "modelos de validação de experiência",
+    "tipo": 5
+  },
+  {
+    "id": "T474",
+    "descricao": "modelos e métodos da engenharia de requisitos",
+    "tipo": 5
+  },
+  {
+    "id": "T475",
+    "descricao": "modelos e métodos de engenharia de software",
+    "tipo": 5
+  },
+  {
+    "id": "T476",
+    "descricao": "modificar",
+    "tipo": 5
+  },
+  {
+    "id": "T477",
+    "descricao": "monitoramento",
+    "tipo": 5
+  },
+  {
+    "id": "T478",
+    "descricao": "monitoramento de processos de software",
+    "tipo": 5
+  },
+  {
+    "id": "T479",
+    "descricao": "monitorar",
+    "tipo": 5
+  },
+  {
+    "id": "T480",
+    "descricao": "mudança de base numérica",
+    "tipo": 5
+  },
+  {
+    "id": "T481",
+    "descricao": "multitier",
+    "tipo": 5
+  },
+  {
+    "id": "T482",
+    "descricao": "mvc",
+    "tipo": 5
+  },
+  {
+    "id": "T483",
+    "descricao": "método",
+    "tipo": 5
+  },
+  {
+    "id": "T484",
+    "descricao": "método (visão geral)",
+    "tipo": 5
+  },
+  {
+    "id": "T485",
+    "descricao": "método de desenvolvimento de arquitetura de software",
+    "tipo": 5
+  },
+  {
+    "id": "T486",
+    "descricao": "método para projeto orientado a objetos",
+    "tipo": 5
+  },
+  {
+    "id": "T487",
+    "descricao": "métodos",
+    "tipo": 5
+  },
+  {
+    "id": "T488",
+    "descricao": "métodos de avaliação de interfaces",
+    "tipo": 5
+  },
+  {
+    "id": "T489",
+    "descricao": "métodos de projeto (design) de software",
+    "tipo": 5
+  },
+  {
+    "id": "T490",
+    "descricao": "métodos de projeto de interação",
+    "tipo": 5
+  },
+  {
+    "id": "T491",
+    "descricao": "métodos de validação",
+    "tipo": 5
+  },
+  {
+    "id": "T492",
+    "descricao": "métodos diretos de prova",
+    "tipo": 5
+  },
+  {
+    "id": "T493",
+    "descricao": "métodos e estratégias de design de software",
+    "tipo": 5
+  },
+  {
+    "id": "T494",
+    "descricao": "métodos empíricos e técnicas experimentais",
+    "tipo": 5
+  },
+  {
+    "id": "T495",
+    "descricao": "métodos planejados",
+    "tipo": 5
+  },
+  {
+    "id": "T496",
+    "descricao": "métodos ágeis",
+    "tipo": 5
+  },
+  {
+    "id": "T497",
+    "descricao": "métrica",
+    "tipo": 5
+  },
+  {
+    "id": "T498",
+    "descricao": "métricas de desempenho",
+    "tipo": 5
+  },
+  {
+    "id": "T499",
+    "descricao": "métricas de teste",
+    "tipo": 5
+  },
+  {
+    "id": "T500",
+    "descricao": "módulos",
+    "tipo": 5
+  },
+  {
+    "id": "T501",
+    "descricao": "necessidade",
+    "tipo": 5
+  },
+  {
+    "id": "T502",
+    "descricao": "negociação",
+    "tipo": 5
+  },
+  {
+    "id": "T503",
+    "descricao": "negócio",
+    "tipo": 5
+  },
+  {
+    "id": "T504",
+    "descricao": "norma",
+    "tipo": 5
+  },
+  {
+    "id": "T505",
+    "descricao": "normalização",
+    "tipo": 5
+  },
+  {
+    "id": "T506",
+    "descricao": "normas",
+    "tipo": 5
+  },
+  {
+    "id": "T507",
+    "descricao": "normas e padrões",
+    "tipo": 5
+  },
+  {
+    "id": "T508",
+    "descricao": "nosql",
+    "tipo": 5
+  },
+  {
+    "id": "T509",
+    "descricao": "notação",
+    "tipo": 5
+  },
+  {
+    "id": "T510",
+    "descricao": "notação de design de software",
+    "tipo": 5
+  },
+  {
+    "id": "T511",
+    "descricao": "notações",
+    "tipo": 5
+  },
+  {
+    "id": "T512",
+    "descricao": "notações de projeto de software",
+    "tipo": 5
+  },
+  {
+    "id": "T513",
+    "descricao": "notações para registro de modelos orientados a objetos",
+    "tipo": 5
+  },
+  {
+    "id": "T514",
+    "descricao": "noções de lógica",
+    "tipo": 5
+  },
+  {
+    "id": "T515",
+    "descricao": "noções de projeto detalhado",
+    "tipo": 5
+  },
+  {
+    "id": "T516",
+    "descricao": "np-completude",
+    "tipo": 5
+  },
+  {
+    "id": "T517",
+    "descricao": "números reais",
+    "tipo": 5
+  },
+  {
+    "id": "T518",
+    "descricao": "objetivos",
+    "tipo": 5
+  },
+  {
+    "id": "T519",
+    "descricao": "objetos distribuídos",
+    "tipo": 5
+  },
+  {
+    "id": "T520",
+    "descricao": "obter",
+    "tipo": 5
+  },
+  {
+    "id": "T521",
+    "descricao": "operação",
+    "tipo": 5
+  },
+  {
+    "id": "T522",
+    "descricao": "oportunidade",
+    "tipo": 5
+  },
+  {
+    "id": "T523",
+    "descricao": "organização",
+    "tipo": 5
+  },
+  {
+    "id": "T524",
+    "descricao": "organização da estrutura interna do sistema operacional",
+    "tipo": 5
+  },
+  {
+    "id": "T525",
+    "descricao": "organizações",
+    "tipo": 5
+  },
+  {
+    "id": "T526",
+    "descricao": "orientação a objetos",
+    "tipo": 5
+  },
+  {
+    "id": "T527",
+    "descricao": "orm",
+    "tipo": 5
+  },
+  {
+    "id": "T528",
+    "descricao": "otimizar",
+    "tipo": 5
+  },
+  {
+    "id": "T529",
+    "descricao": "otimização de código-objeto",
+    "tipo": 5
+  },
+  {
+    "id": "T530",
+    "descricao": "pacotes de trabalho",
+    "tipo": 5
+  },
+  {
+    "id": "T531",
+    "descricao": "padrão de codificação",
+    "tipo": 5
+  },
+  {
+    "id": "T532",
+    "descricao": "padrão de projeto",
+    "tipo": 5
+  },
+  {
+    "id": "T533",
+    "descricao": "padrões",
+    "tipo": 5
+  },
+  {
+    "id": "T534",
+    "descricao": "padrões arquiteturais",
+    "tipo": 5
+  },
+  {
+    "id": "T535",
+    "descricao": "padrões de arquitetura",
+    "tipo": 5
+  },
+  {
+    "id": "T536",
+    "descricao": "padrões de código",
+    "tipo": 5
+  },
+  {
+    "id": "T538",
+    "descricao": "padrões para interface",
+    "tipo": 5
+  },
+  {
+    "id": "T539",
+    "descricao": "paralelismo",
+    "tipo": 5
+  },
+  {
+    "id": "T540",
+    "descricao": "parametrização (generics)",
+    "tipo": 5
+  },
+  {
+    "id": "T541",
+    "descricao": "partes interessadas",
+    "tipo": 5
+  },
+  {
+    "id": "T542",
+    "descricao": "partes interessadas (stakeholders)",
+    "tipo": 5
+  },
+  {
+    "id": "T543",
+    "descricao": "participar",
+    "tipo": 5
+  },
+  {
+    "id": "T544",
+    "descricao": "passagem por referência",
+    "tipo": 5
+  },
+  {
+    "id": "T545",
+    "descricao": "passagem por valor",
+    "tipo": 5
+  },
+  {
+    "id": "T546",
+    "descricao": "pensamento sistêmico",
+    "tipo": 5
+  },
+  {
+    "id": "T547",
+    "descricao": "perfil profissional",
+    "tipo": 5
+  },
+  {
+    "id": "T548",
+    "descricao": "persistência",
+    "tipo": 5
+  },
+  {
+    "id": "T549",
+    "descricao": "persistência de dados",
+    "tipo": 5
+  },
+  {
+    "id": "T550",
+    "descricao": "personalizar",
+    "tipo": 5
+  },
+  {
+    "id": "T551",
+    "descricao": "personas",
+    "tipo": 5
+  },
+  {
+    "id": "T552",
+    "descricao": "pesquisa",
+    "tipo": 5
+  },
+  {
+    "id": "T553",
+    "descricao": "pesquisa binária",
+    "tipo": 5
+  },
+  {
+    "id": "T554",
+    "descricao": "pesquisa sequencial",
+    "tipo": 5
+  },
+  {
+    "id": "T555",
+    "descricao": "pilhas",
+    "tipo": 5
+  },
+  {
+    "id": "T556",
+    "descricao": "pipes",
+    "tipo": 5
+  },
+  {
+    "id": "T557",
+    "descricao": "planejado",
+    "tipo": 5
+  },
+  {
+    "id": "T558",
+    "descricao": "planejamento",
+    "tipo": 5
+  },
+  {
+    "id": "T559",
+    "descricao": "planejar",
+    "tipo": 5
+  },
+  {
+    "id": "T560",
+    "descricao": "plano",
+    "tipo": 5
+  },
+  {
+    "id": "T561",
+    "descricao": "plano de teste",
+    "tipo": 5
+  },
+  {
+    "id": "T562",
+    "descricao": "plano estratégico da organização",
+    "tipo": 5
+  },
+  {
+    "id": "T563",
+    "descricao": "planos",
+    "tipo": 5
+  },
+  {
+    "id": "T564",
+    "descricao": "planos de negócio",
+    "tipo": 5
+  },
+  {
+    "id": "T565",
+    "descricao": "planos de teste",
+    "tipo": 5
+  },
+  {
+    "id": "T566",
+    "descricao": "plataformas",
+    "tipo": 5
+  },
+  {
+    "id": "T567",
+    "descricao": "plugin",
+    "tipo": 5
+  },
+  {
+    "id": "T568",
+    "descricao": "polimorfismo",
+    "tipo": 5
+  },
+  {
+    "id": "T569",
+    "descricao": "polinômio de taylor",
+    "tipo": 5
+  },
+  {
+    "id": "T570",
+    "descricao": "política",
+    "tipo": 5
+  },
+  {
+    "id": "T571",
+    "descricao": "ponteiro",
+    "tipo": 5
+  },
+  {
+    "id": "T572",
+    "descricao": "porjeto",
+    "tipo": 5
+  },
+  {
+    "id": "T573",
+    "descricao": "postura",
+    "tipo": 5
+  },
+  {
+    "id": "T574",
+    "descricao": "postura profissional",
+    "tipo": 5
+  },
+  {
+    "id": "T575",
+    "descricao": "preditivo",
+    "tipo": 5
+  },
+  {
+    "id": "T576",
+    "descricao": "princípios",
+    "tipo": 5
+  },
+  {
+    "id": "T577",
+    "descricao": "princípios de projeto",
+    "tipo": 5
+  },
+  {
+    "id": "T578",
+    "descricao": "princípios e fundamentos de projeto (design) de software",
+    "tipo": 5
+  },
+  {
+    "id": "T579",
+    "descricao": "probabilidade",
+    "tipo": 5
+  },
+  {
+    "id": "T580",
+    "descricao": "problema",
+    "tipo": 5
+  },
+  {
+    "id": "T581",
+    "descricao": "problema de programação linear (pl)",
+    "tipo": 5
+  },
+  {
+    "id": "T582",
+    "descricao": "processador",
+    "tipo": 5
+  },
+  {
+    "id": "T583",
+    "descricao": "processo",
+    "tipo": 5
+  },
+  {
+    "id": "T584",
+    "descricao": "processo (visão geral)",
+    "tipo": 5
+  },
+  {
+    "id": "T585",
+    "descricao": "processo de engenharia de software",
+    "tipo": 5
+  },
+  {
+    "id": "T586",
+    "descricao": "processo de garantia da qualidade de software",
+    "tipo": 5
+  },
+  {
+    "id": "T587",
+    "descricao": "processo de projeto (design) de software",
+    "tipo": 5
+  },
+  {
+    "id": "T588",
+    "descricao": "processo de projeto arquitetural",
+    "tipo": 5
+  },
+  {
+    "id": "T589",
+    "descricao": "processo de requisitos",
+    "tipo": 5
+  },
+  {
+    "id": "T590",
+    "descricao": "processo de software",
+    "tipo": 5
+  },
+  {
+    "id": "T591",
+    "descricao": "processo de teste de software",
+    "tipo": 5
+  },
+  {
+    "id": "T592",
+    "descricao": "processo de verificação e validação de software",
+    "tipo": 5
+  },
+  {
+    "id": "T593",
+    "descricao": "processos",
+    "tipo": 5
+  },
+  {
+    "id": "T594",
+    "descricao": "processos de construção",
+    "tipo": 5
+  },
+  {
+    "id": "T595",
+    "descricao": "processos de implementação",
+    "tipo": 5
+  },
+  {
+    "id": "T596",
+    "descricao": "processos de negócio",
+    "tipo": 5
+  },
+  {
+    "id": "T597",
+    "descricao": "processos de projeto de software",
+    "tipo": 5
+  },
+  {
+    "id": "T598",
+    "descricao": "processos de reutilização",
+    "tipo": 5
+  },
+  {
+    "id": "T599",
+    "descricao": "processos de revisão e auditoria de software",
+    "tipo": 5
+  },
+  {
+    "id": "T600",
+    "descricao": "processos de software",
+    "tipo": 5
+  },
+  {
+    "id": "T601",
+    "descricao": "processos de suporte",
+    "tipo": 5
+  },
+  {
+    "id": "T602",
+    "descricao": "processos definidos",
+    "tipo": 5
+  },
+  {
+    "id": "T603",
+    "descricao": "processos do ciclo de vida de sistemas",
+    "tipo": 5
+  },
+  {
+    "id": "T604",
+    "descricao": "processos empíricos",
+    "tipo": 5
+  },
+  {
+    "id": "T605",
+    "descricao": "processos organizacionais",
+    "tipo": 5
+  },
+  {
+    "id": "T606",
+    "descricao": "processos técnicos",
+    "tipo": 5
+  },
+  {
+    "id": "T607",
+    "descricao": "produto",
+    "tipo": 5
+  },
+  {
+    "id": "T608",
+    "descricao": "produtos",
+    "tipo": 5
+  },
+  {
+    "id": "T609",
+    "descricao": "produção",
+    "tipo": 5
+  },
+  {
+    "id": "T610",
+    "descricao": "profissional",
+    "tipo": 5
+  },
+  {
+    "id": "T611",
+    "descricao": "profissão: tipos de cursos",
+    "tipo": 5
+  },
+  {
+    "id": "T612",
+    "descricao": "programa",
+    "tipo": 5
+  },
+  {
+    "id": "T613",
+    "descricao": "programas de incentivo à exportação",
+    "tipo": 5
+  },
+  {
+    "id": "T614",
+    "descricao": "programas de incentivo à produção de software",
+    "tipo": 5
+  },
+  {
+    "id": "T615",
+    "descricao": "programação",
+    "tipo": 5
+  },
+  {
+    "id": "T616",
+    "descricao": "programação defensiva",
+    "tipo": 5
+  },
+  {
+    "id": "T617",
+    "descricao": "programação dinâmica",
+    "tipo": 5
+  },
+  {
+    "id": "T618",
+    "descricao": "programação funcional",
+    "tipo": 5
+  },
+  {
+    "id": "T619",
+    "descricao": "programação lógica",
+    "tipo": 5
+  },
+  {
+    "id": "T620",
+    "descricao": "programação orientada a objeto",
+    "tipo": 5
+  },
+  {
+    "id": "T621",
+    "descricao": "programação procedural",
+    "tipo": 5
+  },
+  {
+    "id": "T622",
+    "descricao": "projetar",
+    "tipo": 5
+  },
+  {
+    "id": "T623",
+    "descricao": "projeto",
+    "tipo": 5
+  },
+  {
+    "id": "T624",
+    "descricao": "projeto (design)",
+    "tipo": 5
+  },
+  {
+    "id": "T625",
+    "descricao": "projeto (design) de software",
+    "tipo": 5
+  },
+  {
+    "id": "T626",
+    "descricao": "projeto (design) detalhado",
+    "tipo": 5
+  },
+  {
+    "id": "T627",
+    "descricao": "projeto de algoritmos",
+    "tipo": 5
+  },
+  {
+    "id": "T628",
+    "descricao": "projeto de componentes",
+    "tipo": 5
+  },
+  {
+    "id": "T629",
+    "descricao": "projeto de interação",
+    "tipo": 5
+  },
+  {
+    "id": "T630",
+    "descricao": "projeto de interface humano-computador",
+    "tipo": 5
+  },
+  {
+    "id": "T631",
+    "descricao": "projeto de software",
+    "tipo": 5
+  },
+  {
+    "id": "T632",
+    "descricao": "projeto detalhado",
+    "tipo": 5
+  },
+  {
+    "id": "T633",
+    "descricao": "projeto e gerência de projeto",
+    "tipo": 5
+  },
+  {
+    "id": "T634",
+    "descricao": "projeto organizacional",
+    "tipo": 5
+  },
+  {
+    "id": "T635",
+    "descricao": "projeto visual",
+    "tipo": 5
+  },
+  {
+    "id": "T636",
+    "descricao": "propor",
+    "tipo": 5
+  },
+  {
+    "id": "T637",
+    "descricao": "propriedades emergentes",
+    "tipo": 5
+  },
+  {
+    "id": "T638",
+    "descricao": "propósito",
+    "tipo": 5
+  },
+  {
+    "id": "T639",
+    "descricao": "prototipação",
+    "tipo": 5
+  },
+  {
+    "id": "T640",
+    "descricao": "prova por contradição",
+    "tipo": 5
+  },
+  {
+    "id": "T641",
+    "descricao": "prova por indução",
+    "tipo": 5
+  },
+  {
+    "id": "T642",
+    "descricao": "prática",
+    "tipo": 5
+  },
+  {
+    "id": "T643",
+    "descricao": "prática de projeto de software orientado a objetos",
+    "tipo": 5
+  },
+  {
+    "id": "T644",
+    "descricao": "prática profissional de engenharia de software",
+    "tipo": 5
+  },
+  {
+    "id": "T645",
+    "descricao": "páginas web",
+    "tipo": 5
+  },
+  {
+    "id": "T646",
+    "descricao": "pós-otimização",
+    "tipo": 5
+  },
+  {
+    "id": "T647",
+    "descricao": "qualidade",
+    "tipo": 5
+  },
+  {
+    "id": "T648",
+    "descricao": "qualidade de código",
+    "tipo": 5
+  },
+  {
+    "id": "T649",
+    "descricao": "qualidade de processo",
+    "tipo": 5
+  },
+  {
+    "id": "T650",
+    "descricao": "qualidade de produto",
+    "tipo": 5
+  },
+  {
+    "id": "T651",
+    "descricao": "qualidade de projeto (design) de software",
+    "tipo": 5
+  },
+  {
+    "id": "T652",
+    "descricao": "qualidade de software",
+    "tipo": 5
+  },
+  {
+    "id": "T653",
+    "descricao": "qualidade em uso",
+    "tipo": 5
+  },
+  {
+    "id": "T654",
+    "descricao": "qualidade interna",
+    "tipo": 5
+  },
+  {
+    "id": "T655",
+    "descricao": "questões culturais da qualidade de software",
+    "tipo": 5
+  },
+  {
+    "id": "T656",
+    "descricao": "questões éticas da qualidade de software",
+    "tipo": 5
+  },
+  {
+    "id": "T657",
+    "descricao": "raça",
+    "tipo": 5
+  },
+  {
+    "id": "T658",
+    "descricao": "realizar",
+    "tipo": 5
+  },
+  {
+    "id": "T659",
+    "descricao": "reconhecedores",
+    "tipo": 5
+  },
+  {
+    "id": "T660",
+    "descricao": "recursividade",
+    "tipo": 5
+  },
+  {
+    "id": "T661",
+    "descricao": "recursos",
+    "tipo": 5
+  },
+  {
+    "id": "T662",
+    "descricao": "recursos humanos",
+    "tipo": 5
+  },
+  {
+    "id": "T663",
+    "descricao": "recursão",
+    "tipo": 5
+  },
+  {
+    "id": "T664",
+    "descricao": "redes sem fio",
+    "tipo": 5
+  },
+  {
+    "id": "T665",
+    "descricao": "refactoring",
+    "tipo": 5
+  },
+  {
+    "id": "T666",
+    "descricao": "refatorar",
+    "tipo": 5
+  },
+  {
+    "id": "T667",
+    "descricao": "refatoração",
+    "tipo": 5
+  },
+  {
+    "id": "T668",
+    "descricao": "reflexão",
+    "tipo": 5
+  },
+  {
+    "id": "T669",
+    "descricao": "registrar",
+    "tipo": 5
+  },
+  {
+    "id": "T670",
+    "descricao": "registro",
+    "tipo": 5
+  },
+  {
+    "id": "T671",
+    "descricao": "registros",
+    "tipo": 5
+  },
+  {
+    "id": "T672",
+    "descricao": "regressão linear simples",
+    "tipo": 5
+  },
+  {
+    "id": "T673",
+    "descricao": "regulamentação da profissão",
+    "tipo": 5
+  },
+  {
+    "id": "T674",
+    "descricao": "relatório",
+    "tipo": 5
+  },
+  {
+    "id": "T675",
+    "descricao": "relação",
+    "tipo": 5
+  },
+  {
+    "id": "T676",
+    "descricao": "relação com requisitos.",
+    "tipo": 5
+  },
+  {
+    "id": "T677",
+    "descricao": "relação entre componentes",
+    "tipo": 5
+  },
+  {
+    "id": "T678",
+    "descricao": "relações",
+    "tipo": 5
+  },
+  {
+    "id": "T679",
+    "descricao": "relações de recorrência",
+    "tipo": 5
+  },
+  {
+    "id": "T680",
+    "descricao": "relações semânticas",
+    "tipo": 5
+  },
+  {
+    "id": "T681",
+    "descricao": "remover",
+    "tipo": 5
+  },
+  {
+    "id": "T682",
+    "descricao": "representação de dados",
+    "tipo": 5
+  },
+  {
+    "id": "T683",
+    "descricao": "representação de instruções",
+    "tipo": 5
+  },
+  {
+    "id": "T684",
+    "descricao": "representação de sistemas",
+    "tipo": 5
+  },
+  {
+    "id": "T685",
+    "descricao": "representação intermediária",
+    "tipo": 5
+  },
+  {
+    "id": "T686",
+    "descricao": "representações numéricas",
+    "tipo": 5
+  },
+  {
+    "id": "T687",
+    "descricao": "reputação",
+    "tipo": 5
+  },
+  {
+    "id": "T688",
+    "descricao": "requisito",
+    "tipo": 5
+  },
+  {
+    "id": "T689",
+    "descricao": "requisitos",
+    "tipo": 5
+  },
+  {
+    "id": "T690",
+    "descricao": "requisitos arquiteturalmente relevantes",
+    "tipo": 5
+  },
+  {
+    "id": "T691",
+    "descricao": "requisitos de qualidade",
+    "tipo": 5
+  },
+  {
+    "id": "T692",
+    "descricao": "requisitos de software",
+    "tipo": 5
+  },
+  {
+    "id": "T693",
+    "descricao": "requisitos de usabilidade",
+    "tipo": 5
+  },
+  {
+    "id": "T694",
+    "descricao": "requisitos funcionais",
+    "tipo": 5
+  },
+  {
+    "id": "T695",
+    "descricao": "requisitos organizacionais",
+    "tipo": 5
+  },
+  {
+    "id": "T696",
+    "descricao": "resolução gráfica de pl",
+    "tipo": 5
+  },
+  {
+    "id": "T697",
+    "descricao": "restful",
+    "tipo": 5
+  },
+  {
+    "id": "T698",
+    "descricao": "retorno de investimento",
+    "tipo": 5
+  },
+  {
+    "id": "T699",
+    "descricao": "retroalimentação",
+    "tipo": 5
+  },
+  {
+    "id": "T700",
+    "descricao": "reutilizar",
+    "tipo": 5
+  },
+  {
+    "id": "T701",
+    "descricao": "revisão",
+    "tipo": 5
+  },
+  {
+    "id": "T702",
+    "descricao": "revisão de código",
+    "tipo": 5
+  },
+  {
+    "id": "T703",
+    "descricao": "revisão sistemática",
+    "tipo": 5
+  },
+  {
+    "id": "T704",
+    "descricao": "revisões",
+    "tipo": 5
+  },
+  {
+    "id": "T705",
+    "descricao": "revisões gerenciais",
+    "tipo": 5
+  },
+  {
+    "id": "T706",
+    "descricao": "revisões técnicas",
+    "tipo": 5
+  },
+  {
+    "id": "T707",
+    "descricao": "riscos",
+    "tipo": 5
+  },
+  {
+    "id": "T708",
+    "descricao": "riscos organizacionais",
+    "tipo": 5
+  },
+  {
+    "id": "T709",
+    "descricao": "rotinas",
+    "tipo": 5
+  },
+  {
+    "id": "T710",
+    "descricao": "saas",
+    "tipo": 5
+  },
+  {
+    "id": "T711",
+    "descricao": "satisfatibilidade",
+    "tipo": 5
+  },
+  {
+    "id": "T712",
+    "descricao": "saúde",
+    "tipo": 5
+  },
+  {
+    "id": "T713",
+    "descricao": "script",
+    "tipo": 5
+  },
+  {
+    "id": "T714",
+    "descricao": "segurança",
+    "tipo": 5
+  },
+  {
+    "id": "T715",
+    "descricao": "segurança da informação em uma organização",
+    "tipo": 5
+  },
+  {
+    "id": "T716",
+    "descricao": "segurança de software",
+    "tipo": 5
+  },
+  {
+    "id": "T717",
+    "descricao": "segurança física de software",
+    "tipo": 5
+  },
+  {
+    "id": "T718",
+    "descricao": "segurança lógica de software",
+    "tipo": 5
+  },
+  {
+    "id": "T719",
+    "descricao": "selecionar",
+    "tipo": 5
+  },
+  {
+    "id": "T720",
+    "descricao": "seleção",
+    "tipo": 5
+  },
+  {
+    "id": "T721",
+    "descricao": "seleção de linguagem de programação",
+    "tipo": 5
+  },
+  {
+    "id": "T722",
+    "descricao": "semântica",
+    "tipo": 5
+  },
+  {
+    "id": "T723",
+    "descricao": "sensor",
+    "tipo": 5
+  },
+  {
+    "id": "T724",
+    "descricao": "sensores",
+    "tipo": 5
+  },
+  {
+    "id": "T725",
+    "descricao": "sentenças",
+    "tipo": 5
+  },
+  {
+    "id": "T726",
+    "descricao": "separar interface e implementação",
+    "tipo": 5
+  },
+  {
+    "id": "T727",
+    "descricao": "separation of concerns",
+    "tipo": 5
+  },
+  {
+    "id": "T728",
+    "descricao": "sequências",
+    "tipo": 5
+  },
+  {
+    "id": "T729",
+    "descricao": "serialização",
+    "tipo": 5
+  },
+  {
+    "id": "T730",
+    "descricao": "serviço",
+    "tipo": 5
+  },
+  {
+    "id": "T731",
+    "descricao": "serviços",
+    "tipo": 5
+  },
+  {
+    "id": "T732",
+    "descricao": "serviços de software",
+    "tipo": 5
+  },
+  {
+    "id": "T733",
+    "descricao": "serviços web",
+    "tipo": 5
+  },
+  {
+    "id": "T734",
+    "descricao": "simplicidade",
+    "tipo": 5
+  },
+  {
+    "id": "T735",
+    "descricao": "simplificação de fórmulas",
+    "tipo": 5
+  },
+  {
+    "id": "T736",
+    "descricao": "simulação",
+    "tipo": 5
+  },
+  {
+    "id": "T737",
+    "descricao": "sintaxe",
+    "tipo": 5
+  },
+  {
+    "id": "T738",
+    "descricao": "sistema",
+    "tipo": 5
+  },
+  {
+    "id": "T739",
+    "descricao": "sistema intensivo em software",
+    "tipo": 5
+  },
+  {
+    "id": "T740",
+    "descricao": "sistemas",
+    "tipo": 5
+  },
+  {
+    "id": "T741",
+    "descricao": "sistemas de arquivos",
+    "tipo": 5
+  },
+  {
+    "id": "T742",
+    "descricao": "sistemas de engenharia",
+    "tipo": 5
+  },
+  {
+    "id": "T743",
+    "descricao": "sistemas de interconexão (barramentos)",
+    "tipo": 5
+  },
+  {
+    "id": "T744",
+    "descricao": "sistemas de sistemas",
+    "tipo": 5
+  },
+  {
+    "id": "T745",
+    "descricao": "sistemas intensivos em software (software-intensive systems)",
+    "tipo": 5
+  },
+  {
+    "id": "T746",
+    "descricao": "sistemas lineares",
+    "tipo": 5
+  },
+  {
+    "id": "T747",
+    "descricao": "sistemas operacionais",
+    "tipo": 5
+  },
+  {
+    "id": "T748",
+    "descricao": "smartphones",
+    "tipo": 5
+  },
+  {
+    "id": "T749",
+    "descricao": "sociedade",
+    "tipo": 5
+  },
+  {
+    "id": "T750",
+    "descricao": "software",
+    "tipo": 5
+  },
+  {
+    "id": "T751",
+    "descricao": "software como um serviço",
+    "tipo": 5
+  },
+  {
+    "id": "T752",
+    "descricao": "software concorrente",
+    "tipo": 5
+  },
+  {
+    "id": "T753",
+    "descricao": "software design",
+    "tipo": 5
+  },
+  {
+    "id": "T754",
+    "descricao": "software distribuído",
+    "tipo": 5
+  },
+  {
+    "id": "T755",
+    "descricao": "software transactional memory",
+    "tipo": 5
+  },
+  {
+    "id": "T756",
+    "descricao": "solução",
+    "tipo": 5
+  },
+  {
+    "id": "T757",
+    "descricao": "sons",
+    "tipo": 5
+  },
+  {
+    "id": "T758",
+    "descricao": "sql",
+    "tipo": 5
+  },
+  {
+    "id": "T759",
+    "descricao": "stakeholder",
+    "tipo": 5
+  },
+  {
+    "id": "T760",
+    "descricao": "stakeholders",
+    "tipo": 5
+  },
+  {
+    "id": "T761",
+    "descricao": "stream analytics",
+    "tipo": 5
+  },
+  {
+    "id": "T762",
+    "descricao": "subprogramas",
+    "tipo": 5
+  },
+  {
+    "id": "T763",
+    "descricao": "subáreas",
+    "tipo": 5
+  },
+  {
+    "id": "T764",
+    "descricao": "suficiência",
+    "tipo": 5
+  },
+  {
+    "id": "T765",
+    "descricao": "suporte",
+    "tipo": 5
+  },
+  {
+    "id": "T766",
+    "descricao": "suposições",
+    "tipo": 5
+  },
+  {
+    "id": "T767",
+    "descricao": "surdo",
+    "tipo": 5
+  },
+  {
+    "id": "T768",
+    "descricao": "sustentar",
+    "tipo": 5
+  },
+  {
+    "id": "T769",
+    "descricao": "sustentação",
+    "tipo": 5
+  },
+  {
+    "id": "T770",
+    "descricao": "séries",
+    "tipo": 5
+  },
+  {
+    "id": "T771",
+    "descricao": "tabela de símbolos",
+    "tipo": 5
+  },
+  {
+    "id": "T772",
+    "descricao": "taxonomias de sistema",
+    "tipo": 5
+  },
+  {
+    "id": "T773",
+    "descricao": "tempo",
+    "tipo": 5
+  },
+  {
+    "id": "T774",
+    "descricao": "tempo de resposta",
+    "tipo": 5
+  },
+  {
+    "id": "T775",
+    "descricao": "teoria de conjuntos",
+    "tipo": 5
+  },
+  {
+    "id": "T776",
+    "descricao": "teste",
+    "tipo": 5
+  },
+  {
+    "id": "T777",
+    "descricao": "teste baseado em intuição",
+    "tipo": 5
+  },
+  {
+    "id": "T778",
+    "descricao": "teste baseado na experiência do engenheiro de software",
+    "tipo": 5
+  },
+  {
+    "id": "T779",
+    "descricao": "teste de hipóteses",
+    "tipo": 5
+  },
+  {
+    "id": "T780",
+    "descricao": "teste de sistema",
+    "tipo": 5
+  },
+  {
+    "id": "T781",
+    "descricao": "teste de software",
+    "tipo": 5
+  },
+  {
+    "id": "T782",
+    "descricao": "teste de unidade",
+    "tipo": 5
+  },
+  {
+    "id": "T783",
+    "descricao": "teste estrutural",
+    "tipo": 5
+  },
+  {
+    "id": "T784",
+    "descricao": "teste exploratório",
+    "tipo": 5
+  },
+  {
+    "id": "T785",
+    "descricao": "teste funcional",
+    "tipo": 5
+  },
+  {
+    "id": "T786",
+    "descricao": "testes",
+    "tipo": 5
+  },
+  {
+    "id": "T787",
+    "descricao": "testes de integração",
+    "tipo": 5
+  },
+  {
+    "id": "T788",
+    "descricao": "testes de unidade",
+    "tipo": 5
+  },
+  {
+    "id": "T789",
+    "descricao": "thread safe",
+    "tipo": 5
+  },
+  {
+    "id": "T790",
+    "descricao": "ti alinhada aos objetivos de negócio",
+    "tipo": 5
+  },
+  {
+    "id": "T791",
+    "descricao": "tipos abstratos de dados",
+    "tipo": 5
+  },
+  {
+    "id": "T792",
+    "descricao": "tipos de ciclo de vida de projeto de software",
+    "tipo": 5
+  },
+  {
+    "id": "T793",
+    "descricao": "tipos de dados",
+    "tipo": 5
+  },
+  {
+    "id": "T794",
+    "descricao": "tipos de dados primitivos",
+    "tipo": 5
+  },
+  {
+    "id": "T795",
+    "descricao": "tipos de experimentos",
+    "tipo": 5
+  },
+  {
+    "id": "T796",
+    "descricao": "tipos de projeto de software",
+    "tipo": 5
+  },
+  {
+    "id": "T797",
+    "descricao": "tolerância a falhas",
+    "tipo": 5
+  },
+  {
+    "id": "T798",
+    "descricao": "transformações lineares",
+    "tipo": 5
+  },
+  {
+    "id": "T799",
+    "descricao": "transição",
+    "tipo": 5
+  },
+  {
+    "id": "T800",
+    "descricao": "tratamento de erro",
+    "tipo": 5
+  },
+  {
+    "id": "T801",
+    "descricao": "tratamento de eventos",
+    "tipo": 5
+  },
+  {
+    "id": "T802",
+    "descricao": "tratamento de exceção",
+    "tipo": 5
+  },
+  {
+    "id": "T803",
+    "descricao": "troca de mensagens",
+    "tipo": 5
+  },
+  {
+    "id": "T804",
+    "descricao": "troca de mensagens (messaging)",
+    "tipo": 5
+  },
+  {
+    "id": "T806",
+    "descricao": "técnica de teste",
+    "tipo": 5
+  },
+  {
+    "id": "T807",
+    "descricao": "técnicas",
+    "tipo": 5
+  },
+  {
+    "id": "T808",
+    "descricao": "técnicas de avaliação",
+    "tipo": 5
+  },
+  {
+    "id": "T809",
+    "descricao": "técnicas de construção baseadas em estado e tabelas",
+    "tipo": 5
+  },
+  {
+    "id": "T810",
+    "descricao": "técnicas de depuração",
+    "tipo": 5
+  },
+  {
+    "id": "T811",
+    "descricao": "técnicas de integração",
+    "tipo": 5
+  },
+  {
+    "id": "T812",
+    "descricao": "técnicas de profiling",
+    "tipo": 5
+  },
+  {
+    "id": "T813",
+    "descricao": "técnicas de prova de cotas inferiores",
+    "tipo": 5
+  },
+  {
+    "id": "T814",
+    "descricao": "técnicas de teste",
+    "tipo": 5
+  },
+  {
+    "id": "T815",
+    "descricao": "técnicas de testes para páginas web",
+    "tipo": 5
+  },
+  {
+    "id": "T817",
+    "descricao": "técnicas para validação de experiência do usuário",
+    "tipo": 5
+  },
+  {
+    "id": "T818",
+    "descricao": "uml",
+    "tipo": 5
+  },
+  {
+    "id": "T819",
+    "descricao": "usabilidade",
+    "tipo": 5
+  },
+  {
+    "id": "T820",
+    "descricao": "usar",
+    "tipo": 5
+  },
+  {
+    "id": "T821",
+    "descricao": "uso",
+    "tipo": 5
+  },
+  {
+    "id": "T822",
+    "descricao": "uso de bibliotecas",
+    "tipo": 5
+  },
+  {
+    "id": "T823",
+    "descricao": "uso de interface de programação",
+    "tipo": 5
+  },
+  {
+    "id": "T824",
+    "descricao": "uso de sistema",
+    "tipo": 5
+  },
+  {
+    "id": "T825",
+    "descricao": "utilizar",
+    "tipo": 5
+  },
+  {
+    "id": "T826",
+    "descricao": "utilização de serviços web",
+    "tipo": 5
+  },
+  {
+    "id": "T827",
+    "descricao": "validade",
+    "tipo": 5
+  },
+  {
+    "id": "T828",
+    "descricao": "validar",
+    "tipo": 5
+  },
+  {
+    "id": "T829",
+    "descricao": "validação",
+    "tipo": 5
+  },
+  {
+    "id": "T830",
+    "descricao": "validação de construção",
+    "tipo": 5
+  },
+  {
+    "id": "T831",
+    "descricao": "validação de design",
+    "tipo": 5
+  },
+  {
+    "id": "T832",
+    "descricao": "variáveis",
+    "tipo": 5
+  },
+  {
+    "id": "T833",
+    "descricao": "variáveis aleatórias",
+    "tipo": 5
+  },
+  {
+    "id": "T834",
+    "descricao": "variância",
+    "tipo": 5
+  },
+  {
+    "id": "T835",
+    "descricao": "verdade",
+    "tipo": 5
+  },
+  {
+    "id": "T836",
+    "descricao": "verificar",
+    "tipo": 5
+  },
+  {
+    "id": "T837",
+    "descricao": "verificação",
+    "tipo": 5
+  },
+  {
+    "id": "T838",
+    "descricao": "vetores",
+    "tipo": 5
+  },
+  {
+    "id": "T839",
+    "descricao": "visão ampla de domínios de desenvolvimento",
+    "tipo": 5
+  },
+  {
+    "id": "T840",
+    "descricao": "visões",
+    "tipo": 5
+  },
+  {
+    "id": "T841",
+    "descricao": "voz",
+    "tipo": 5
+  },
+  {
+    "id": "T842",
+    "descricao": "vulnerabilidades",
+    "tipo": 5
+  },
+  {
+    "id": "T843",
+    "descricao": "web",
+    "tipo": 5
+  },
+  {
+    "id": "T844",
+    "descricao": "xml",
+    "tipo": 5
+  },
+  {
+    "id": "T845",
+    "descricao": "álgebra relacional",
+    "tipo": 5
+  },
+  {
+    "id": "T846",
+    "descricao": "áreas de conhecimento da gerência de projetos aplicadas a projetos de software",
+    "tipo": 5
+  },
+  {
+    "id": "T847",
+    "descricao": "árvores",
+    "tipo": 5
+  },
+  {
+    "id": "T848",
+    "descricao": "ética",
+    "tipo": 5
+  },
+  {
+    "id": "B1",
+    "descricao": "FONSECA FILHO, C. História da computação: O Caminho do Pensamento e da Tecnologia. Porto Alegre: EDIPUCRS, 2007.",
+    "tipo": 6
+  },
+  {
+    "id": "B2",
+    "descricao": "MASIERO, P. Ética em Computação. Editora da USP, 2000.",
+    "tipo": 6
+  },
+  {
+    "id": "B3",
+    "descricao": "VELOSO, R. Tecnologias da Informação e Comunicação: Desafios e Perspectivas. São Paulo: Saraiva, 2011.",
+    "tipo": 6
+  },
+  {
+    "id": "B4",
+    "descricao": "CHALITA, G. Os Dez Mandamentos da Ética. Editora Nova Fronteira, 2003.",
+    "tipo": 6
+  },
+  {
+    "id": "B5",
+    "descricao": "DRUMMOND, V. Internet, Privacidade e Dados Pessoais. Editora Lumen Juris, 2003.",
+    "tipo": 6
+  },
+  {
+    "id": "B6",
+    "descricao": "KACZMARCZYK, L. C. Computers and Society: Computing for Good. Chapman & Hall/CRC Textbooks in Computing. CRC Press, 2011.",
+    "tipo": 6
+  },
+  {
+    "id": "B7",
+    "descricao": "LUCCA, N.; FILHO, A. S. Direito & Internet. Editora Edipro, 2001.",
+    "tipo": 6
+  },
+  {
+    "id": "B8",
+    "descricao": "PAESANI, L. M. Direito de Informática. Editora Atlas, 2005.",
+    "tipo": 6
+  },
+  {
+    "id": "B9",
+    "descricao": "FOBERLONE, A. L. V.; EBERSPACHER, H. F. Lógica de Programação: A construção de algoritmos e estruturas de dados. 3.a edição. São Paulo: Prentice Hall, 2005.",
+    "tipo": 6
+  },
+  {
+    "id": "B10",
+    "descricao": "ASCENCIO, A. F. G.; CAMPOS, E. A. V. Fundamentos da Programação de Computadores. 3.a edição. Editora Pearson, 2010.",
+    "tipo": 6
+  },
+  {
+    "id": "B11",
+    "descricao": "SCHILDT, H. C Completo e Total. 3a Ed. São Paulo: Makron Books, 1996.",
+    "tipo": 6
+  },
+  {
+    "id": "B12",
+    "descricao": "FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B13",
+    "descricao": "FARRER, H. at al. Programação Estruturada de Computadores: Algoritmos Estruturados. 3.a edição. Rio de Janeiro: LTC, 1989.",
+    "tipo": 6
+  },
+  {
+    "id": "B14",
+    "descricao": "SEDGEWICK, R. Algorithms in C. 3rd ed. Reading, Mss: Addison-Wesley, 1998. ISBN 0201314525.",
+    "tipo": 6
+  },
+  {
+    "id": "B15",
+    "descricao": "SALVETTI, D. D.; BARBOSA, L. M. Algoritmos, São Paulo: Makron Books, 1998.",
+    "tipo": 6
+  },
+  {
+    "id": "B16",
+    "descricao": "CORMEN, T. H et al., Algoritmos: Teoria e Prática. 2.a edição. Rio de Janeiro: Editora Campus, 2002.",
+    "tipo": 6
+  },
+  {
+    "id": "B17",
+    "descricao": "GUIDORIZZI, H. L. Um Curso de Cálculo, vol. 1. LTC, Rio de Janeiro, Brasil, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B18",
+    "descricao": "LEITHOLD, L. O Cálculo com Geometria Analítica, 3.a edição. vol. 1. Harbra, São Paulo, 1994.",
+    "tipo": 6
+  },
+  {
+    "id": "B19",
+    "descricao": "STEWART, J. Cálculo, 5.a edição. vol. 1. Cengage Learning, São Paulo, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B20",
+    "descricao": "ÁVILA, G. S. S. Cálculo: Funções de Uma Variável, 7.a edição. vol. 1. LTC: Rio de Janeiro, 1994.",
+    "tipo": 6
+  },
+  {
+    "id": "B21",
+    "descricao": "FLEMMING, D. M.; GONÇALVES, M. B. Cálculo A: Funções, limite, derivação e integração. Makron Books do Brasil, São Paulo, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B22",
+    "descricao": "HOFFMANN, L. D.; BRADLEY, G. L. Cálculo: Um curso moderno com aplicações, 9.a edição. LTC, Rio de Janeiro, 2008.",
+    "tipo": 6
+  },
+  {
+    "id": "B23",
+    "descricao": "REIS, G. L; SILVA, V. V. Geometria Analítica. LTC, São Paulo.",
+    "tipo": 6
+  },
+  {
+    "id": "B24",
+    "descricao": "SIMMONS, G. F. Cálculo com Geometria Analítica, vol. 1. McGraw-Hill do Brasil, São Paulo, Brasil, 1987.",
+    "tipo": 6
+  },
+  {
+    "id": "B25",
+    "descricao": "GERSTING, J. L. Fundamentos Matemáticos para a Ciência da Computação, 5.a edição, Editora LTC, Rio de Janeiro, 2004.",
+    "tipo": 6
+  },
+  {
+    "id": "B26",
+    "descricao": "SCHEINERMAN, E. R. Matemática Discreta: Uma introdução, Cengage Learning, Thompson Pioneira, 2003",
+    "tipo": 6
+  },
+  {
+    "id": "B27",
+    "descricao": "GRIMALDI, R. P. Discrete and Combinatorial Mathematics: An Applied Introduction, 5th edition, Pearson - Addison-Wesley, Boston, 2003.",
+    "tipo": 6
+  },
+  {
+    "id": "B28",
+    "descricao": "GONÇALVES, A. Introdução à Álgebra, 5.a edição, CNPQ-IMPA, Rio de Janeiro, 2013.",
+    "tipo": 6
+  },
+  {
+    "id": "B29",
+    "descricao": "MATTSON, Jr.; H. F. Discrete Mathematics with applications, John Wiley & Sons, New York, 1993.",
+    "tipo": 6
+  },
+  {
+    "id": "B30",
+    "descricao": "ROSEN, K. H. Discrete Mathematics and Its Applications, 6.a edição, Boston: McGraw-Hill, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B31",
+    "descricao": "ROSS, K. A.; Wright, C. R. B. Discrete mathematics, Prentice Hall, 1998.",
+    "tipo": 6
+  },
+  {
+    "id": "B32",
+    "descricao": "SANTOS, J. P. O. Introdução à Teoria dos Números, Coleção Matemática Universitária, CNPQ-IMPA, Rio de Janeiro, 2003.",
+    "tipo": 6
+  },
+  {
+    "id": "B33",
+    "descricao": "BRYANT, R.; O'RALLARON, D. Computer Systems: A Programmer's Perspective, 2nd Edition, Addison Wesley, 2010.",
+    "tipo": 6
+  },
+  {
+    "id": "B34",
+    "descricao": "STALLINGS, W. Arquitetura e Organização de Computadores, 5a. Edição, Prentice-Hall, 2002.",
+    "tipo": 6
+  },
+  {
+    "id": "B35",
+    "descricao": "TANENBAUM, A. Organização Estruturada de Computadores, Editora LTC, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B36",
+    "descricao": "HENNESSY, J. L.; PATTERSON, D. A. Computer Architecture: A Quantitative Approach, 4th Edition, Morgan Kaufmann, 2007.",
+    "tipo": 6
+  },
+  {
+    "id": "B37",
+    "descricao": "MONTEIRO, M. A. Introdução à Organização de Computadores. 4ª. Edição. Editora LTC, Rio de Janeiro, 2001. ISBN: 8521612915.",
+    "tipo": 6
+  },
+  {
+    "id": "B38",
+    "descricao": "PATTERSON, D. A.; HENNESSY, J. L. Computer Organization and Design: The Hardware/Software Interface, 3rd edition, Morgan Kaufmann, 2007.",
+    "tipo": 6
+  },
+  {
+    "id": "B39",
+    "descricao": "STALLINGS, W. Computer Organization and Architecture: Designing for Performance. 10th Edition. Prentice-Hall, Inc., Upper Saddle River, NJ, USA. 2010.",
+    "tipo": 6
+  },
+  {
+    "id": "B40",
+    "descricao": "WEBER, R. F. Fundamentos de Arquiteturas de Computadores, 2.a Edição, Editora Sagra-Luzzatto, 2001.",
+    "tipo": 6
+  },
+  {
+    "id": "B41",
+    "descricao": "FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B42",
+    "descricao": "SZWARCFITER, J. L.; MARKENZON, L. Estruturas de Dados e seus Algoritmos. 2ª edição, LTC, 1994.",
+    "tipo": 6
+  },
+  {
+    "id": "B43",
+    "descricao": "TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. Estruturas de Dados Usando C, São Paulo, Makron Books, 1995.",
+    "tipo": 6
+  },
+  {
+    "id": "B44",
+    "descricao": "CORMEN, T. H. et al., Algoritmos: Teoria e Prática. 2.ª edição, Rio de Janeiro: Editora Campus, 2002.",
+    "tipo": 6
+  },
+  {
+    "id": "B45",
+    "descricao": "SALVETTI, D. D.; BARBOSA, L. M.; Algoritmos, Makron Books, São Paulo, 1998.",
+    "tipo": 6
+  },
+  {
+    "id": "B46",
+    "descricao": "SEDGEWICK, R. Algorithms in C++ (Parts 1-4), Addison-Wesley, 3rd Edition, 1998.",
+    "tipo": 6
+  },
+  {
+    "id": "B47",
+    "descricao": "ZIVIANI, N. Projeto de Algoritmos com implementação em Pascal e C. São Paulo: Editora Thomson, 3.ª edição, 2010.",
+    "tipo": 6
+  },
+  {
+    "id": "B48",
+    "descricao": "ZIVIANI, N. Projeto de Algoritmos com implementação em Java e C++. São Paulo: Editora Thomson, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B49",
+    "descricao": "MAGALHÃES, M. N. Noções de Probabilidade e Estatística. São Paulo: EDUSP, 7.a ed., 2010.",
+    "tipo": 6
+  },
+  {
+    "id": "B50",
+    "descricao": "MEYER, P. L. Probabilidade: Aplicações à Estatística. Rio de Janeiro: LTC, 1969.",
+    "tipo": 6
+  },
+  {
+    "id": "B51",
+    "descricao": "WALPOLE, R. E.; MYERS, R. H.; MYERS, S. L.; YE, K. Probabilidade e Estatística para Engenharia e Ciências. São Paulo: Pearson, 8.a ed., 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B52",
+    "descricao": "BUSSAB, W. O.; MORETTIN, P. A. Estatística Básica. 6.a ed. São Paulo: Saraiva, 2010.",
+    "tipo": 6
+  },
+  {
+    "id": "B53",
+    "descricao": "DANTAS, C. A. B. Probabilidade: um Curso Introdutório. 3.a ed. São Paulo: EDUSP, 2008.",
+    "tipo": 6
+  },
+  {
+    "id": "B54",
+    "descricao": "MORETTIN, L. G. Estatística básica: probabilidade e inferência. São Paulo: Prentice Hall, 2010.",
+    "tipo": 6
+  },
+  {
+    "id": "B55",
+    "descricao": "ROSS, S. Probabilidade. Um Curso Moderno com Aplicações. 8.a ed. Porto Alegre: Bookman, 2010.",
+    "tipo": 6
+  },
+  {
+    "id": "B56",
+    "descricao": "TRIOLA, M. F. Introdução à Estatística. 10. ed. Rio de Janeiro: LTC, 2008.",
+    "tipo": 6
+  },
+  {
+    "id": "B57",
+    "descricao": "BOLDRINI, J. L.; COSTA, S. I. R; FIGUEIREDO, V. L; WETZLER, H. G. Álgebra Linear, 3.a ed. Harbra, São Paulo, 2003.",
+    "tipo": 6
+  },
+  {
+    "id": "B58",
+    "descricao": "CALLIOLI, C. A.; DOMINGUES, H. H; COSTA, R. C. F. Álgebra Linear e Aplicações. Atual, Brasil, 1983.",
+    "tipo": 6
+  },
+  {
+    "id": "B59",
+    "descricao": "LIPSCHUTZ, S. Álgebra Linear, 2.a ed. Makrom-Books, São Paulo, Brasil, 1974.",
+    "tipo": 6
+  },
+  {
+    "id": "B60",
+    "descricao": "APOSTOL, T. Linear Algebra: A First Course with Applications to Differential Equations, 1st ed. Wiley-Interscience, 1997.",
+    "tipo": 6
+  },
+  {
+    "id": "B61",
+    "descricao": "HOFFMAN, K.; KUNZE, R. Álgebra Linear. Polígono, São Paulo, 1971.",
+    "tipo": 6
+  },
+  {
+    "id": "B62",
+    "descricao": "HOWARD, A.; RORRES, C. Álgebra Linear com Aplicações, 8.a ed. Bookman, Porto Alegre, Brasil, 2001.",
+    "tipo": 6
+  },
+  {
+    "id": "B63",
+    "descricao": "LIMA, E. L. Álgebra Linear: Coleção Matemática Universitária. IMPA, Rio de Janeiro, Brasil, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B64",
+    "descricao": "SHOKRANIAN, S. Introdução à Álgebra Linear e Aplicações, 1 ed. UNB, 2004.",
+    "tipo": 6
+  },
+  {
+    "id": "B65",
+    "descricao": "SOUZA, J. N. Lógica para Ciência da Computação. Editora Campus, 3.a Edição, 2015.",
+    "tipo": 6
+  },
+  {
+    "id": "B66",
+    "descricao": "SILVA, F. C.; FINGER, M.; MELO, A. C. V. Lógica para Computação. Thomson Learning, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B67",
+    "descricao": "HUTH, M.; RYAN, M. Lógica em Ciência da Computação: modelagem e argumentação sobre sistemas. 2.a edição. Editora LTC, 2008.",
+    "tipo": 6
+  },
+  {
+    "id": "B68",
+    "descricao": "MORTARI, C. Introdução à Lógica. São Paulo: UNESP. 2001.",
+    "tipo": 6
+  },
+  {
+    "id": "B69",
+    "descricao": "MENDELSON, E. Introduction to Mathematical Logic, Academic Press, 2000.",
+    "tipo": 6
+  },
+  {
+    "id": "B70",
+    "descricao": "ENDERTON, H. A. Mathematical Introduction to Logic. Academic Press 2000.",
+    "tipo": 6
+  },
+  {
+    "id": "B71",
+    "descricao": "SMULLYAN, R. Lógica de Primeira Ordem. São Paulo: UNESP. 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B72",
+    "descricao": "CASANOVA, M. A.; GIORNO, F. A. C.; FURTADO, A. L. Programação em Lógica e a Linguagem PROLOG. Edgard Blucher, 1987.",
+    "tipo": 6
+  },
+  {
+    "id": "B73",
+    "descricao": "BORATTI, I. C. Programação orientada a objetos em Java. 1.a Edição. Visual Books, 2007.",
+    "tipo": 6
+  },
+  {
+    "id": "B74",
+    "descricao": "ECKEL, B. Thinking in Java. Prentice Hall, 3.a Edição, 2002.",
+    "tipo": 6
+  },
+  {
+    "id": "B75",
+    "descricao": "DEITEL, P. J.; DEITEL, H. M. Java: como programar 6.a ed. São Paulo: Prentice Hall, 2005. 1386 p.",
+    "tipo": 6
+  },
+  {
+    "id": "B76",
+    "descricao": "BUDD, T. An Introduction to Object-Oriented Programming. Addison Wesley, 1996.",
+    "tipo": 6
+  },
+  {
+    "id": "B77",
+    "descricao": "GAMMA, E. et al. Design patterns: elements of reusable object-oriented software. Reading: Addison Wesley, 1995.",
+    "tipo": 6
+  },
+  {
+    "id": "B78",
+    "descricao": "HORSTMANN, C. S. Core Java – Volume II – Advanced Features, Prentice Hall, 8.a Edição, 2008.",
+    "tipo": 6
+  },
+  {
+    "id": "B79",
+    "descricao": "SANTOS, R. Introdução à Programação Orientada a Objetos com Java. Campus, 2003.",
+    "tipo": 6
+  },
+  {
+    "id": "B80",
+    "descricao": "ZEIGLER, B. P. Objects and Systems: Principled Design with Implementations in C++ and Java. Springer-Verlag New York, Inc., New York, NY, USA. 1997",
+    "tipo": 6
+  },
+  {
+    "id": "B81",
+    "descricao": "FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B82",
+    "descricao": "SZWARCFITER, J. L.; Markenzon, L. Estruturas de Dados e seus Algoritmos. 2ª edição, LTC, 1994.",
+    "tipo": 6
+  },
+  {
+    "id": "B83",
+    "descricao": "TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. Estruturas de Dados Usando C, São Paulo, Makron Books, 1995.",
+    "tipo": 6
+  },
+  {
+    "id": "B84",
+    "descricao": "CORMEN, T. H. et al., Algoritmos: Teoria e Prática. 2ª edição, Rio de Janeiro: Editora Campus, 2002.",
+    "tipo": 6
+  },
+  {
+    "id": "B85",
+    "descricao": "SALVETTI, D. D. e BARBOSA, L. M., Algoritmos, Makron Books, São Paulo, 1998.",
+    "tipo": 6
+  },
+  {
+    "id": "B86",
+    "descricao": "SEDGEWICK, R. Algorithms in C++ (Parts 1-4), 3rd edition, Addison-Wesley, 1998.",
+    "tipo": 6
+  },
+  {
+    "id": "B87",
+    "descricao": "ZIVIANI, N. Projeto de Algoritmos com implementação em Pascal e C. 3ª edição, São Paulo: Editora Thomson, 2010.",
+    "tipo": 6
+  },
+  {
+    "id": "B88",
+    "descricao": "ZIVIANI, N. Projeto de Algoritmos com implementação em Java e C++. São Paulo: Editora Thomson, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B89",
+    "descricao": "GHEZZI, C.; JAZYERI, M. Programming Language Concepts, 3rd Edition, Wiley; 3rd Edition; 1997.",
+    "tipo": 6
+  },
+  {
+    "id": "B90",
+    "descricao": "SCOTT, M. L. S. Programming Language Pragmatics, 3rd Edition, Morgan Kaufmann, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B91",
+    "descricao": "SEBESTA, R. W. Concepts of Programming Languages; 10th Edition, Pearson, 2012.",
+    "tipo": 6
+  },
+  {
+    "id": "B92",
+    "descricao": "FRIEDMAN, D. P.; WAND, M. Essentials of Programming Languages, 3rd Edition, The MIT Press, 2008.",
+    "tipo": 6
+  },
+  {
+    "id": "B93",
+    "descricao": "PRATT, T. W.; ZELKOWITZ, M. V. Programming Languages: Design and Implementation, 4th Edition, Prentice Hall, 2000.",
+    "tipo": 6
+  },
+  {
+    "id": "B94",
+    "descricao": "ROY, P. V.; HARIFI, S. Concepts, Techniques, and Models of Computer Programming, 1st Edition, The MIT Press, 2004.",
+    "tipo": 6
+  },
+  {
+    "id": "B95",
+    "descricao": "TURBAK, F.; GIFFORD, D. Design Concepts in Programming Languages, 1st Edition, The MIT Press, 2008.",
+    "tipo": 6
+  },
+  {
+    "id": "B96",
+    "descricao": "VAREJÃO, F. Linguagens de Programação, 1.a Edição, Editora. Campus, 2004.",
+    "tipo": 6
+  },
+  {
+    "id": "B97",
+    "descricao": "PRESSMAN, R.; MAXIM, B. Software Engineering: A Practitioner’s Approach, 8th edition, McGraw-Hill, 2014.",
+    "tipo": 6
+  },
+  {
+    "id": "B98",
+    "descricao": "SOMMERVILLE, I. Software Engineering, 10th Edition, Pearson, 2016.",
+    "tipo": 6
+  },
+  {
+    "id": "B99",
+    "descricao": "WAZLAWICK, R. S. Engenharia de software: teoria e prática. Campus, 2013.",
+    "tipo": 6
+  },
+  {
+    "id": "B100",
+    "descricao": "ISO/IEC/IEEE 24765. Systems and software engineering - Vocabulary, 2010. Portal de periódicos da CAPES (http://goo.gl/FrGm7c).",
+    "tipo": 6
+  },
+  {
+    "id": "B101",
+    "descricao": "MAGELA, R. Engenharia de software aplicada. Alta Books, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B102",
+    "descricao": "MPS.BR. Melhoria de Processos do Software Brasileiro. Disponível em http://www.softex.br/mpsbr/, último acesso julho/2016.",
+    "tipo": 6
+  },
+  {
+    "id": "B103",
+    "descricao": "Software Engineering Body of Knowledge (SWEBOK), V3, IEEE, Disponível em https://www.computer.org/web/swebok. 2014.",
+    "tipo": 6
+  },
+  {
+    "id": "B104",
+    "descricao": "Software Engineering Competency Model (SWECOM), IEEE. Disponível em https://www.computer.org/web/peb/swecom.",
+    "tipo": 6
+  },
+  {
+    "id": "B105",
+    "descricao": "BRASSARD, G.; BRATLEY, P. Fundamentals of Algorithmics. Prentice-Hall, Inc., Upper Saddle River, NJ, 1996. ISBN: 0-13-335068-1.",
+    "tipo": 6
+  },
+  {
+    "id": "B106",
+    "descricao": "CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. Algoritmos: Teoria e Prática, 3.a edição, Campus, 2012.",
+    "tipo": 6
+  },
+  {
+    "id": "B107",
+    "descricao": "PAPADIMITRIOU, C. H.; VAZIRANI, U. V.; DASGUPTA, S. Algoritmos. 2009. McGraw-Hill Brasil. ISBN 9788577260324.",
+    "tipo": 6
+  },
+  {
+    "id": "B108",
+    "descricao": "AHO, A. V.; HOPCROFT, J. E.; ULLMAN, J. D. The Design and Analysis of Computer Algorithms, Addison-Wesley Publishing Company, 1974. ISBN 0-201-00029-6.",
+    "tipo": 6
+  },
+  {
+    "id": "B109",
+    "descricao": "BAASE, S.; GELDER, A. V. Computer Algorithms: Introduction to Design and Analysis, 3rd Edition, Pearson, 1999.",
+    "tipo": 6
+  },
+  {
+    "id": "B110",
+    "descricao": "MAMBER, U. Introduction to Algorithms. Addison Wesley Publishing Company. 1989.",
+    "tipo": 6
+  },
+  {
+    "id": "B111",
+    "descricao": "SEDGEWICK, R.; WAYNE, K. Algorithms. 4th edition, Addison-Wesley Professional, 2011. ISBN: 978-0321573513",
+    "tipo": 6
+  },
+  {
+    "id": "B112",
+    "descricao": "SZWARCFITER, J. L.; MARKENZON, L. Estrutura de Dados e seus Algoritmos. 3.a edição, LTC Editora, 2010. ISBN 978852161750.",
+    "tipo": 6
+  },
+  {
+    "id": "B113",
+    "descricao": "DIX, A.; FINLAY, J. E.; ABOWD, G. D.; BEALE, R. Human­Computer Interaction (3rd Edition). Prentice­Hall, Inc., Upper Saddle River, NJ, USA, 2003.",
+    "tipo": 6
+  },
+  {
+    "id": "B114",
+    "descricao": "ROGERS, Y.; SHARP, H.; PREECE, J. Design de Interação ­ Além da Interação Homem­computador. 3a Ed., Porto Alegre: Bookman, 2013.",
+    "tipo": 6
+  },
+  {
+    "id": "B115",
+    "descricao": "TIDWELL, J. Designing Interfaces: Patterns for Effective Interaction Design. O’Reilly. Segunda edição, 2011.",
+    "tipo": 6
+  },
+  {
+    "id": "B116",
+    "descricao": "BARBOSA, S. D. J.; SILVA, B. S. Interação Humano­Computador. Elsevier Editora. 1.a edição. 2010.",
+    "tipo": 6
+  },
+  {
+    "id": "B117",
+    "descricao": "JACKO, Julie A. The human­computer interaction handbook: fundamentals, evolving technologies, and emerging applications. CRC Press, 2012.",
+    "tipo": 6
+  },
+  {
+    "id": "B118",
+    "descricao": "LAZAR, J.; FENG, J. H.; HOCHHEISER, H. Research Methods in Human­Computer Interaction. Wiley, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B119",
+    "descricao": "MACKENZIE, I. S. Human­ computer Interaction: An Empirical Research Perspective. Morgan Kaufmann, 2013. ISBN: 978­0­1 2­405865­1",
+    "tipo": 6
+  },
+  {
+    "id": "B120",
+    "descricao": "SCOTT, B.; NEIL, T. Designing Web Interfaces: Principles and Patterns for Rich Interactions. O'Reilly Media; 1st edition. 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B121",
+    "descricao": "ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados, 6.ª ed., Pearson - Addison Wesley, 2011.",
+    "tipo": 6
+  },
+  {
+    "id": "B122",
+    "descricao": "HEUSER, C. A. Projeto de Banco de Dados, 6.ª edição, Bookman, Porto Alegre, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B123",
+    "descricao": "SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S. Sistema de Banco de Dados, 5.ª edição, Editora Campus, Rio de Janeiro, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B124",
+    "descricao": "CONNOLLY, T. M.; BEGG, C. E.; STRACHAN, A. D. Database systems: a practical approach to design, implementation and management, 3rd. Edition, Addison Wesley, 2010.",
+    "tipo": 6
+  },
+  {
+    "id": "B125",
+    "descricao": "DATE, C. J. Introdução a Sistemas de Banco de Dados, tradução da 8.a edição americana, Editora Campus, Rio de Janeiro, 2004.",
+    "tipo": 6
+  },
+  {
+    "id": "B126",
+    "descricao": "GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. D. Database Systems: The Complete Book, 2.a edição, Prentice Hall, 2009",
+    "tipo": 6
+  },
+  {
+    "id": "B127",
+    "descricao": "RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Banco de Dados, tradução da 3.a edição, São Paulo, McGraw-Hill, 2008.",
+    "tipo": 6
+  },
+  {
+    "id": "B128",
+    "descricao": "TEOREY, T.; LIGHTSTONE, S.; NADEAU, T. Projeto e Modelagem de Bancos de Dados, Editora Campus, Rio de Janeiro, 2007",
+    "tipo": 6
+  },
+  {
+    "id": "B129",
+    "descricao": "BUDGEN, B. Software Design, 2nd edition, Addison­Wesley, 2003.",
+    "tipo": 6
+  },
+  {
+    "id": "B130",
+    "descricao": "BASS, L. et al. Software Architecture in Practice, 3rd edition, Addison­Wesley, 2012.",
+    "tipo": 6
+  },
+  {
+    "id": "B131",
+    "descricao": "LARMAN, C. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento interativo. Bookman, 2008.",
+    "tipo": 6
+  },
+  {
+    "id": "B132",
+    "descricao": "BOOCH, G. UML guia do usuário: o mais avançado tutorial sobre Unified Modeling Language (UML). Elsevier, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B133",
+    "descricao": "FREEMAN, E. et al. Use a cabeça!: padrões de projetos, (design patterns), Alta Books, 2007.",
+    "tipo": 6
+  },
+  {
+    "id": "B134",
+    "descricao": "FOWLER, M. Patterns of enterprise application architecture. Addison­Wesley, 2003.",
+    "tipo": 6
+  },
+  {
+    "id": "B135",
+    "descricao": "GAMMA, E. et al. Design patterns elements of reusable object-oriented software. Reading: Addison Wesley, 1995.",
+    "tipo": 6
+  },
+  {
+    "id": "B136",
+    "descricao": "NYGARD, M. Release It!: Design and Deploy Production­Ready Software, Pragmatic Bookshelf, 2007.",
+    "tipo": 6
+  },
+  {
+    "id": "B137",
+    "descricao": "BREGALDA, P. F.; OLIVEIRA, A. A. F.; BORNSTEIN, C. T. Introdução à programação linear. 3. ed. Rio de Janeiro: Campus, 1983.",
+    "tipo": 6
+  },
+  {
+    "id": "B138",
+    "descricao": "GOLBARG, M.; LUNA, H. Otimização combinatória e programação linear. 2. ed. Campus, 2005.",
+    "tipo": 6
+  },
+  {
+    "id": "B139",
+    "descricao": "TAHA, H. Pesquisa operacional. 8. ed. Prentice Hall, 2008.",
+    "tipo": 6
+  },
+  {
+    "id": "B140",
+    "descricao": "BAZARAA M. S.; JARVIS, J. J.; SHERALI, H. D. Linear programming and network Flows. Wiley, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B141",
+    "descricao": "HILLIER, F. S.; LIEBERMAN, G. J. Introdução à pesquisa operacional. 9.a edição. Amgh Editora, 2013.",
+    "tipo": 6
+  },
+  {
+    "id": "B142",
+    "descricao": "PARLAR, M. Interactive operations research with Maple: methods and models. Birkhauser, 2000.",
+    "tipo": 6
+  },
+  {
+    "id": "B143",
+    "descricao": "SILVA, E. M. et al. Pesquisa Operacional: programação linear, simulação. 3.a ed. Atlas, 1998.",
+    "tipo": 6
+  },
+  {
+    "id": "B144",
+    "descricao": "WINSTON, W. L. Operations research applications and algorithms. 3rd ed. Duxbury Press, 1997.",
+    "tipo": 6
+  },
+  {
+    "id": "B145",
+    "descricao": "SUDKAMP, T. A. Languages and machines. 3.a edição. Addison Wesley, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B146",
+    "descricao": "SIPSER, M. Introduction to the theory of computation. ITP, 1997. ISBN 053494728X.",
+    "tipo": 6
+  },
+  {
+    "id": "B147",
+    "descricao": "HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. D. Introdução à teoria de autômatos: linguagens e computação. Campus, 2002.",
+    "tipo": 6
+  },
+  {
+    "id": "B148",
+    "descricao": "RAMOS, M. V. M.; NETO, J. J.; VEGA, I. S. Linguagens formais: teoria, modelagem e implementação. Bookman, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B149",
+    "descricao": "CARROLL, J.; LONG, D. Theory of finite automata. New Jersey: Prentice-Hall International Editions, 1989.",
+    "tipo": 6
+  },
+  {
+    "id": "B150",
+    "descricao": "LEWIS, H. R.; PAPADIMITRIOU, C. H. Elementos de teoria da computação. 2.a edição. Porto Alegre: Bookman, 2000.",
+    "tipo": 6
+  },
+  {
+    "id": "B151",
+    "descricao": "MENEZES, P. F. B. Linguagens formais e autônomos. 5.a edição. Porto Alegre: Sagra Luzzatto, 2005.",
+    "tipo": 6
+  },
+  {
+    "id": "B152",
+    "descricao": "ROSEN, K. H. Matemática discreta e suas aplicações. 6.a ed. Rio de Janeiro: McGraw Hill, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B153",
+    "descricao": "OLIVEIRA, R. S.; CARISSIMI, A. S.; TOSCANI, S. S. Sistemas Operacionais. 3.a edição. Porto Alegre: Instituto de Informática da UFRGS: Editora Sagra Luzzatto, 2004.",
+    "tipo": 6
+  },
+  {
+    "id": "B154",
+    "descricao": "SILBERSCHATZ, A. Fundamentos de Sistemas Operacionais, 8.a edição, LTC, 2011.",
+    "tipo": 6
+  },
+  {
+    "id": "B155",
+    "descricao": "TANEMBAUM, A. S. Sistemas Operacionais Modernos. 3.a edição. São Paulo: Editora Prentice Hall, 2010. ISBN 9788576052371.",
+    "tipo": 6
+  },
+  {
+    "id": "B156",
+    "descricao": "DEITEL, H. Sistemas Operacionais, Prentice ­Hall, 2005.",
+    "tipo": 6
+  },
+  {
+    "id": "B157",
+    "descricao": "MACHADO, F. B. Arquitetura de Sistemas Operacionais. 2.a edição. LTC, 1997.",
+    "tipo": 6
+  },
+  {
+    "id": "B158",
+    "descricao": "NEMETH E.; SNYDER, G.; HEIN, T. R. Unix system administration handbook. Pearson ­Prentice Hall, 1997. ISBN 978­85­7605­112­1.",
+    "tipo": 6
+  },
+  {
+    "id": "B159",
+    "descricao": "O'GORMAN, J. Operating Systems with Linux. Palgrave, 2001.",
+    "tipo": 6
+  },
+  {
+    "id": "B160",
+    "descricao": "SHAY, W. Sistemas Operacionais, Makron Books, 1996.",
+    "tipo": 6
+  },
+  {
+    "id": "B161",
+    "descricao": "AHO, A. V; LAM, M. S.; SETHI, R.; ULLMAN, J. D. Compiladores: Princípios, técnicas e ferramentas. 2.a ed. Pearson-Addison-Wesley, 2008.",
+    "tipo": 6
+  },
+  {
+    "id": "B162",
+    "descricao": "LOUDEN, K. C. Compiladores - Princípios e Práticas. Editora Thompson 2004.",
+    "tipo": 6
+  },
+  {
+    "id": "B163",
+    "descricao": "APPEL, A. W. Modern Compiler Implementation in C - Basic Techiniques. Cambridge University Press, 1997.",
+    "tipo": 6
+  },
+  {
+    "id": "B164",
+    "descricao": "APPEL, A. W. Modern Compiler Implementation in Java. 2nd edition. New York: Cambridge University Press, 2002.",
+    "tipo": 6
+  },
+  {
+    "id": "B165",
+    "descricao": "HOLMES, J. Modern Compiler Implementation in Java. Prentice Hall, 1995.",
+    "tipo": 6
+  },
+  {
+    "id": "B166",
+    "descricao": "MUCHNICK, S. S. Advanced Compiler Design and Implementation. Morgan Kaufmann, 1997.",
+    "tipo": 6
+  },
+  {
+    "id": "B167",
+    "descricao": "HANSON, D. R.; FRASER, C. W. A Retargetable C Compiler: Design and Implementation. Benjamin Cummings Pub., 1995.",
+    "tipo": 6
+  },
+  {
+    "id": "B168",
+    "descricao": "LEBLANC, R. J.; FISCHER, C. N. Crafting a Compiler with C. Benjamin/Cummings, 1991.",
+    "tipo": 6
+  },
+  {
+    "id": "B169",
+    "descricao": "KUROSE, J.F.; ROSS, K. Redes de Computadores e a Internet, 6.a edição. Pearson Education, 2013.",
+    "tipo": 6
+  },
+  {
+    "id": "B170",
+    "descricao": "LAUDON, K. C.; LAUDON, J. P. Sistemas de Informação Gerenciais. 9.a edição. São Paulo: Pearson Education, 2013.",
+    "tipo": 6
+  },
+  {
+    "id": "B171",
+    "descricao": "TANENBAUM, A. S. Computer Networks, 4th edition, Prentice Hall, 2003.",
+    "tipo": 6
+  },
+  {
+    "id": "B172",
+    "descricao": "DANTAS, M. Redes de comunicação e computadores: abordagem quantitativa. Visual Books, 2009. ISBN 9788575022559.",
+    "tipo": 6
+  },
+  {
+    "id": "B173",
+    "descricao": "PETERSON, L. L.; DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas, 3.a edição. Campus­ Elsevier, 2004.",
+    "tipo": 6
+  },
+  {
+    "id": "B174",
+    "descricao": "SOARES, L. F. G; SOUZA FILHO, G. L.; COLCHER, S. Redes de computadores: das LANS, MANS e WANS às Redes ATM. Editora Campus, 1995. ISBN 857001998X.",
+    "tipo": 6
+  },
+  {
+    "id": "B175",
+    "descricao": "STALLINGS, W. Data and Computer Communications, 8th edition, Pearson/Prentice Hall, 2007.",
+    "tipo": 6
+  },
+  {
+    "id": "B176",
+    "descricao": "TORRES, G. Redes de computadores: curso completo. Axcel Books, 2001.",
+    "tipo": 6
+  },
+  {
+    "id": "B177",
+    "descricao": "FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.",
+    "tipo": 6
+  },
+  {
+    "id": "B178",
+    "descricao": "PEREIRA, M. C. C.; et al. LIBRAS – Conhecimento além dos sinais. São Paulo: Pearson, 2011.",
+    "tipo": 6
+  },
+  {
+    "id": "B179",
+    "descricao": "PIMENTA, N.; QUADROS, R. M. Curso de LIBRAS 1 – Iniciante. 3.a edição. Porto Alegre: Pallotti, 2008.",
+    "tipo": 6
+  },
+  {
+    "id": "B180",
+    "descricao": "ALMEIDA, E. C.; DUARTE, P. M. Atividades ilustradas em sinais da Libras. São Paulo: Revinter, 2004.",
+    "tipo": 6
+  },
+  {
+    "id": "B181",
+    "descricao": "BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.",
+    "tipo": 6
+  },
+  {
+    "id": "B182",
+    "descricao": "CAPOVILLA, F. C.; RAPHAEL, W. D.; MAURÍCIO, A. C. L. Dicionário Enciclopédico Ilustrado Trilíngue da Língua de Sinais Brasileira, v 1 e 2. São Paulo: Editora da Universidade de São Paulo, 2010.",
+    "tipo": 6
+  },
+  {
+    "id": "B183",
+    "descricao": "CAPOVILLA, F. C.; RAPHAEL, W. D. (ed.). Enciclopédia da Língua de Sinais Brasileira. v. 1 e 2. São Paulo: EDUSP, 2004.",
+    "tipo": 6
+  },
+  {
+    "id": "B184",
+    "descricao": "GESSER, A. LIBRAS? Que língua é essa?: Crenças e preconceitos em torno da língua de sinais e da realidade surda. São Paulo: Parábola Editorial, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B185",
+    "descricao": "QUADROS, R. M.; KARNOPP, L. Língua de sinais brasileira: estudos linguísticos. ARTMED: Porto Alegre, 2004.",
+    "tipo": 6
+  },
+  {
+    "id": "B186",
+    "descricao": "ANDREWS, G. R. Foundations of multithreaded, parallel, and distributed programming. Addison-Wesley, 2000.",
+    "tipo": 6
+  },
+  {
+    "id": "B187",
+    "descricao": "COULOURIS, G. F. et al. Distributed Systems: Concepts and Design, 5th edition, Addison-Wesley, 2012.",
+    "tipo": 6
+  },
+  {
+    "id": "B188",
+    "descricao": "KUROSE, J. F.; ROSS, K. Redes de Computadores e a Internet, 6.a edição. Pearson Education, 2013.",
+    "tipo": 6
+  },
+  {
+    "id": "B189",
+    "descricao": "BIRMAN, K. P. Reliable distributed systems: technologies, web services, and applications, New York: Springer, 2005. ISBN 0387215093.",
+    "tipo": 6
+  },
+  {
+    "id": "B190",
+    "descricao": "CLARK, M. et al. Web services business strategies and architectures. Expert Press, 2002. ISBN 1904284132.",
+    "tipo": 6
+  },
+  {
+    "id": "B191",
+    "descricao": "JOSUTTIS, N. M. SOA in practice. O'Reilly, 2007. ISBN 0596529554.",
+    "tipo": 6
+  },
+  {
+    "id": "B192",
+    "descricao": "LYNCH, N. A Distributed algorithms. M. Kaufmann, 1997.",
+    "tipo": 6
+  },
+  {
+    "id": "B193",
+    "descricao": "TANENBAUM, A.S.; STEEN, M. van. Distributed Systems: Principles and Paradigms. Prentice Hall, 2nd Edition, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B194",
+    "descricao": "JURISTO, N. Basics of software engineering experimentation. Kluwer Academic Publishers, 2001. ISBN 079237990X.",
+    "tipo": 6
+  },
+  {
+    "id": "B195",
+    "descricao": "WOHLIN, C. et al. Experimentation in Software Engineering. 2nd edition. Springer, 2012.",
+    "tipo": 6
+  },
+  {
+    "id": "B196",
+    "descricao": "GETTINBY, G; GARDINER, W. P. Experimental design techniques in statistical practice: a practical software-based approach. Horwood Pub., 1998. ISBN 1898563357.",
+    "tipo": 6
+  },
+  {
+    "id": "B197",
+    "descricao": "WAZLAWICK, R. S. Metodologia de Pesquisa para Ciência da Computação. Editora Campus, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B198",
+    "descricao": "WOHLIN, C. Experimentation in software engineering: an introduction. Kluwer Academic, 2000. ISBN 0792386825.",
+    "tipo": 6
+  },
+  {
+    "id": "B199",
+    "descricao": "POLYAK, B. T. Introduction to optimization. Optimization Software, 1987. ISBN 0911575146.",
+    "tipo": 6
+  },
+  {
+    "id": "B200",
+    "descricao": "HALL, E. M. Managing risk methods for software systems development. Addison-Wesley, 1998. ISBN 0201255928.",
+    "tipo": 6
+  },
+  {
+    "id": "B201",
+    "descricao": "QUALIDADE no setor de software brasileiro. Brasilia, D.F.: MCT, 1997.",
+    "tipo": 6
+  },
+  {
+    "id": "B202",
+    "descricao": "TOCKEY, S. Return on Software: Maximizing the Return on Your Software Investment, Addison-Wesley, 2004.",
+    "tipo": 6
+  },
+  {
+    "id": "B203",
+    "descricao": "GRADY, S. O. The software paradox: the rise and fall of the commercial software market. O’Reilly, 2015.",
+    "tipo": 6
+  },
+  {
+    "id": "B204",
+    "descricao": "SALIM, C. S. Construindo planos de negócios: todos os passos necessários para planejar e desenvolver negócios de sucesso. 3.a edição. Rio de Janeiro: Elsevier, 2005. ISBN 8535217363.",
+    "tipo": 6
+  },
+  {
+    "id": "B205",
+    "descricao": "BROOKS J., F. P. O mítico homem-mês: ensaios sobre engenharia de software. Elsevier, 2009. ISBN 9788535234879.",
+    "tipo": 6
+  },
+  {
+    "id": "B206",
+    "descricao": "ENGHOLM J. H. Engenharia de software na prática. São Paulo: Novatec, 2010. ISBN 9788575222171.",
+    "tipo": 6
+  },
+  {
+    "id": "B207",
+    "descricao": "PIMENTEL, L. O. A proteção jurídica da propriedade intelectual de software: noções básicas e temas relacionados. IEL, 2008. ISBN 9788587683045.",
+    "tipo": 6
+  },
+  {
+    "id": "B208",
+    "descricao": "ORRICO J, H. Pirataria de Software. MM Livros, 2004. ISBN 8590424219.",
+    "tipo": 6
+  },
+  {
+    "id": "B209",
+    "descricao": "LINS, B. F. E. et al. O mercado de software no Brasil: problemas institucionais e fiscais Brasília (DF): Câmara dos Deputados, Coordenação de Publicações, 2007. ISBN 9788573654998.",
+    "tipo": 6
+  },
+  {
+    "id": "B210",
+    "descricao": "SCHNEIDEWIND, N. Systems and Software Engineering with Applications. New York, NY: IEEE, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B211",
+    "descricao": "INCOSE. Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities, version 3.2.2. International Council on Systems Engineering (INCOSE), INCOSE-TP-2003-002-03.2.2, 2012.",
+    "tipo": 6
+  },
+  {
+    "id": "B212",
+    "descricao": "WIDRIG, D.; LEFFINGWELL, D. Managing software requirements: a unified approach Boston: Addison-Wesley, 2001. ISBN 0201615932.",
+    "tipo": 6
+  },
+  {
+    "id": "B213",
+    "descricao": "MADACHY, R. J. Systems Engineering Principles for Software Engineers (Chapman & Hall/CRC Innovations in Software Engineering and Software Development Series) 1st Edition, CRC Press, 2016.",
+    "tipo": 6
+  },
+  {
+    "id": "B214",
+    "descricao": "WILSON, W. E. Conceptos sobre ingenieria de sistemas Buenos Aires: Centro regional de Ayuda Tecnica, 1968. 254 p., il.",
+    "tipo": 6
+  },
+  {
+    "id": "B215",
+    "descricao": "SILVA FILHO, B. S.; NISE, N. S. Engenharia de sistemas de controle. 3.a edição. LTC, 2002, ISBN 85-216-1301-6.",
+    "tipo": 6
+  },
+  {
+    "id": "B216",
+    "descricao": "MAFFEO, B. Engenharia de software e especificação de sistemas. Rio de Janeiro: Campus, 1992. 484 p. ISBN 8570017014.",
+    "tipo": 6
+  },
+  {
+    "id": "B217",
+    "descricao": "NASCIMENTO, J. B. Metodologias de desenvolvimento de sistemas. São Paulo: Erica, 1993, ISBN 8571941483.",
+    "tipo": 6
+  },
+  {
+    "id": "B218",
+    "descricao": "MCCONNELL, S. Code Complete: um guia prático para a construção de software 2.a edição. Porto Alegre, RS: Bookman, 2005. ISBN 8536305045.",
+    "tipo": 6
+  },
+  {
+    "id": "B219",
+    "descricao": "GOODLIFFE, P. Como ser um programador melhor. Novatec, 2015. ISBN 978-85-7522-415-1.",
+    "tipo": 6
+  },
+  {
+    "id": "B220",
+    "descricao": "ORAM, A.; WILSON, G. Beautiful code. O'Reilly, 2007. ISBN 9780596510046.",
+    "tipo": 6
+  },
+  {
+    "id": "B221",
+    "descricao": "FOWLER, M. Refatoração: aperfeiçoando o projeto de código existente Porto Alegre: Bookman, 2004, ISBN 8536303956.",
+    "tipo": 6
+  },
+  {
+    "id": "B222",
+    "descricao": "IRVINE, K. R. C++ and object-oriented programming Upper Saddle River: Prentice-Hall, 1997. 526 p. Bibliografia e indice ISBN 0023598522 (broch.)",
+    "tipo": 6
+  },
+  {
+    "id": "B223",
+    "descricao": "BECK, K. Implementation patterns Upper Saddle River, NJ: Addison-Wesley, 2008. ISBN 0321413091.",
+    "tipo": 6
+  },
+  {
+    "id": "B224",
+    "descricao": "MARTIN, R. C. Clean code: a handbook of agile software craftsmanship. Prentice Hall, 2009. ISBN 0132350882.",
+    "tipo": 6
+  },
+  {
+    "id": "B225",
+    "descricao": "AGANS, D. J. Debugging the nine indispensable rules for finding even the most elusive software and hardware problems. AMACOM, 2002. ISBN 0814471684.",
+    "tipo": 6
+  },
+  {
+    "id": "B226",
+    "descricao": "EVANS, E. Domain-driven design: tackling complexity in the heart of software Boston, MA: Addison-Wesley, 2004, ISBN 0321125215.",
+    "tipo": 6
+  },
+  {
+    "id": "B227",
+    "descricao": "MCLAUGHLIN, B. D.; POLLICE, G.; WEST, D. Head First Object-Oriented Analysis & Design, O’Reilly, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B228",
+    "descricao": "AMBLER, S. W. Agile modeling: effective practices for eXtreme programming and the unified process. Wiley, 2002. ISBN 0471202827.",
+    "tipo": 6
+  },
+  {
+    "id": "B229",
+    "descricao": "MILLETT, S.; TUNE, N. Patterns, Principles and Practices of Domain-Driven Design. Wrox, 2015.",
+    "tipo": 6
+  },
+  {
+    "id": "B230",
+    "descricao": "FOWLER, M. Analysis patternsreusable object models. Addison-Wesley, 1997. ISBN 0201895420.",
+    "tipo": 6
+  },
+  {
+    "id": "B231",
+    "descricao": "MELLOR, S. J; SHLAER, S. Análise de sistemas orientada para objetos. São Paulo: McGraw-Hill, 1990.",
+    "tipo": 6
+  },
+  {
+    "id": "B232",
+    "descricao": "KOWAL, J. A Behavior models: specifying user's expectations. Prentice Hall, 1992. ISBN 0132927152.",
+    "tipo": 6
+  },
+  {
+    "id": "B233",
+    "descricao": "WAGNER, F. Modeling software with finite state machinesa practical approach. Auerbach, 2006. ISBN 9780849380860",
+    "tipo": 6
+  },
+  {
+    "id": "B234",
+    "descricao": "FAIRLEY, R. E. Managing and Leading Software Projects, Wiley-IEEE Computer Society Press, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B235",
+    "descricao": "ISO/IEC/IEEE 12207:2008. Standard for Systems and Software Engineering-Software Life Cycle Processes. Portal: http://goo.gl/5ixAtq.",
+    "tipo": 6
+  },
+  {
+    "id": "B236",
+    "descricao": "LARMAN, C. Agile and iterative development: a manager's guide. Addison-Wesley, 2004. ISBN 9780131111554.",
+    "tipo": 6
+  },
+  {
+    "id": "B237",
+    "descricao": "JOHNSON, K. A.; KULPA, M. K. Interpreting the CMMIa process improvement approach. Auerbach, 2003. ISBN 0849316545.",
+    "tipo": 6
+  },
+  {
+    "id": "B238",
+    "descricao": "BEEDLE, M.; SCHWABER, K. Agile software development with Scrum. Prentice Hall, 2002. ISBN 0130676349.",
+    "tipo": 6
+  },
+  {
+    "id": "B239",
+    "descricao": "PROWELL, S. J. Cleanroom software engineering technology and process Reading, Mass.: Addison-Wesley, 1999. ISBN 0201854805.",
+    "tipo": 6
+  },
+  {
+    "id": "B240",
+    "descricao": "CAPUTO, K. CMM implementation guide choreographing software process improvement. Addison-Wesley, 1998. ISBN 0201379384.",
+    "tipo": 6
+  },
+  {
+    "id": "B241",
+    "descricao": "MAGUIRE, S. Debugging the development processpractical strategies for staying focused, hitting ship dates, and building solid teams. Microsoft, 1994. ISBN 1556156502.",
+    "tipo": 6
+  },
+  {
+    "id": "B242",
+    "descricao": "PILONE, D.; MILES, R.; Head-First Software Development, O’Reilly, 2008.",
+    "tipo": 6
+  },
+  {
+    "id": "B243",
+    "descricao": "MCLAUGHLIN, B. D.; POLLICE, G.; WEST, D. Head First Object-Oriented Analysis & Design, O’Reilly, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B244",
+    "descricao": "BOOCH, G. Object-oriented analysis and design with applications. 2nd edition. Addison-Wesley, 1994. ISBN 0805353402.",
+    "tipo": 6
+  },
+  {
+    "id": "B245",
+    "descricao": "WAZLAWICK, R. S. Análise e design orientados a objetos para sistemas de informação: Modelagem com UML, OCL e IFML. 3.a edição. Campus, 2010.",
+    "tipo": 6
+  },
+  {
+    "id": "B246",
+    "descricao": "PENKER, M.; ERIKSSON, H. E. Business modeling with UML: business patterns at work. John Wiley & Sons, 2000. ISBN 0471295515.",
+    "tipo": 6
+  },
+  {
+    "id": "B247",
+    "descricao": "ODELL, J. J. Advanced object-oriented analysis and design using UML. Cambridge University Press, SIGS Books, 1998. ISBN 052164819X",
+    "tipo": 6
+  },
+  {
+    "id": "B248",
+    "descricao": "COCKBURN, A. Agile software development Boston: Addison-Wesley, 2002. (Agile software development series). ISBN 0201699699.",
+    "tipo": 6
+  },
+  {
+    "id": "B249",
+    "descricao": "BEEDLE, M.; SCHWABER, K. Agile software development with Scrum. Prentice Hall, 2002. (Series in agile software development). ISBN 0130676349.",
+    "tipo": 6
+  },
+  {
+    "id": "B250",
+    "descricao": "Stefan Wagner. Software Product Quality Control. Springer-Verlag Berlin Heidelberg. 2013.",
+    "tipo": 6
+  },
+  {
+    "id": "B251",
+    "descricao": "Software Quality Assurance: From Theory to Implementation, Daniel Galin, Addison-Wesley, 2004",
+    "tipo": 6
+  },
+  {
+    "id": "B252",
+    "descricao": "MURPHY, Mark L C/C++ software quality tools Upper Saddle River: Prentice Hall PTR, 1996. ISBN 0134451236.",
+    "tipo": 6
+  },
+  {
+    "id": "B253",
+    "descricao": "OSCIANSK, A.; SOARES, M. S. Qualidade de Software. Editora Novatec, 2007.",
+    "tipo": 6
+  },
+  {
+    "id": "B254",
+    "descricao": "CERTIFICAÇÃO CERTICS: um instrumento de política pública para inovação tecnológica em software. CTI Renato Archer, 2015. ISBN 9788565163088.",
+    "tipo": 6
+  },
+  {
+    "id": "B255",
+    "descricao": "KELLIHER, T. P.; KEEGAN, J. G.; OLIVER, D. W. Engineering complex systems with models and objects. McGraw-Hill, 1997. ISBN 0070481881.",
+    "tipo": 6
+  },
+  {
+    "id": "B256",
+    "descricao": "KAN, S. H. Metrics and models in software quality engineering. 2nd edition. Addison-Wesley, 2003. ISBN 0201729156.",
+    "tipo": 6
+  },
+  {
+    "id": "B257",
+    "descricao": "BARTIÉ, A. Garantia da qualidade de software. Campus, 2002. ISBN 8535211245.",
+    "tipo": 6
+  },
+  {
+    "id": "B258",
+    "descricao": "PMI. Um Guia do Conhecimento em Gerenciamento de Projetos. 5.a edição. São Paulo: Saraiva, 2012. ISBN 9788502223721.",
+    "tipo": 6
+  },
+  {
+    "id": "B259",
+    "descricao": "CHEMUTURI, M. K.; CAGLEY, T. M. Jr. Mastering Software Project Management: Best Practices, Tools and Techniques. J. Ross Publishing, 2010. ISBN-13: 978-1604270341.",
+    "tipo": 6
+  },
+  {
+    "id": "B260",
+    "descricao": "COHN, M. Agile estimating and planning Upper Saddle River, NJ: Prentice Hall Professional Technical Reference, 2006. ISBN 0131479415.",
+    "tipo": 6
+  },
+  {
+    "id": "B261",
+    "descricao": "FAIRLEY, R.E. Managing and Leading Software Projects. John Wiley & Sons, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B262",
+    "descricao": "HIGHSMITH, J. A. Agile project management: creating innovative products 2nd. edition. Addison-Wesley, 2010. ISBN 0321658396.",
+    "tipo": 6
+  },
+  {
+    "id": "B263",
+    "descricao": "SCHWABER, K. Agile project management with Scrum. Microsoft Press, 2004. ISBN 073561993X.",
+    "tipo": 6
+  },
+  {
+    "id": "B264",
+    "descricao": "DEMARCO, T. Controle de projetos de software: gerenciamento, avaliação, estimativa. Campus, 1991. ISBN 8570015283.",
+    "tipo": 6
+  },
+  {
+    "id": "B265",
+    "descricao": "MARTINS, J. C. C. Gerenciando projetos de desenvolvimento de software com PMI, RUP e UML. 4.a edição. Brasport, 2007.",
+    "tipo": 6
+  },
+  {
+    "id": "B266",
+    "descricao": "BUDGEN, D. Software Design, International Edition, 2nd Edition, Pearson Education, 2011.",
+    "tipo": 6
+  },
+  {
+    "id": "B267",
+    "descricao": "HALL, G. M. Adptive Code via C#: Agile coding with design patterns and SOLID principles. Microsoft Press, 2014.",
+    "tipo": 6
+  },
+  {
+    "id": "B268",
+    "descricao": "RUPING, A. Agile documentationa pattern guide to producing lightweight documents for software projects. Wiley, 2003. ISBN 0470856173.",
+    "tipo": 6
+  },
+  {
+    "id": "B269",
+    "descricao": "MILLETT, S.; TUNE, N. Patterns, Principles, and Practices of Domain-Driven Design, John Wiley & Sons, 2015.",
+    "tipo": 6
+  },
+  {
+    "id": "B270",
+    "descricao": "ARGILA, C.; YOURDON, E. Análise e projeto orientados a objetos: estudos de casos São Paulo: Makron Books, 1999. ISBN 8534609756.",
+    "tipo": 6
+  },
+  {
+    "id": "B271",
+    "descricao": "LARMAN, C. Applyng UML and patternsan introduction to object-oriented analysis and design. Prentice Hall PTR, 1997. ISBN 0137488807.",
+    "tipo": 6
+  },
+  {
+    "id": "B272",
+    "descricao": "EVANS, E. Domain-driven designtackling complexity in the heart of software Boston, MA: Addison-Wesley, 2004. ISBN 0321125215.",
+    "tipo": 6
+  },
+  {
+    "id": "B273",
+    "descricao": "HORSTMANN, C. S. Object-oriented design & patterns. 2nd edition. Hoboken, NJ: Wiley, 2006. ISBN 0471744875.",
+    "tipo": 6
+  },
+  {
+    "id": "B274",
+    "descricao": "GREMBERGEN, W. V.; HAES, S. Enterprise Governance of Information Technology: Achieving Strategic Alignment and Value. Springer, 2010. ISBN-13 978-1441946621.",
+    "tipo": 6
+  },
+  {
+    "id": "B275",
+    "descricao": "BROOKS, P. Metrics for Service Management: Designing for ITIL. 1st edition. Van Haren Publishing, 2012.",
+    "tipo": 6
+  },
+  {
+    "id": "B276",
+    "descricao": "SHIAVON, M. Acordos de nível operacional para controle do processo de manutenção de software, Mestrado em Engenharia Elétrica, Universidade Federal de Goiás, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B277",
+    "descricao": "GUTH, S. Contract Negotiation Handbook: Software as a Service. Guth Ventures LLC, 2013.",
+    "tipo": 6
+  },
+  {
+    "id": "B278",
+    "descricao": "ERDOGMUS, H.; TANIR, O. Advances in software engineering comprehension, evaluation, and evolution. Springer, 2002. ISBN 0387951091.",
+    "tipo": 6
+  },
+  {
+    "id": "B279",
+    "descricao": "HASS, A. M. J. Configuration management principles and practice. Addison-Wesley, 2003. (The Agile software development series). ISBN 0321117662.",
+    "tipo": 6
+  },
+  {
+    "id": "B280",
+    "descricao": "MARSHALL, C. Enterprise modeling with UML: designing successful software through business analysis. Addison-Wesley, 2000. ISBN 0201433133.",
+    "tipo": 6
+  },
+  {
+    "id": "B281",
+    "descricao": "CENTRO DE GESTÃO E ESTUDOS ESTRATÉGICOS. Ciência, tecnologia e sociedade: novos modelos de governança. Brasilia, CGEE, 2005.",
+    "tipo": 6
+  },
+  {
+    "id": "B282",
+    "descricao": "BASS, L.; CLEMENTS, P.; KAZMAN, R. Software Architecture in Practice, 3rd edition, Pearson Education, Inc., 2013.",
+    "tipo": 6
+  },
+  {
+    "id": "B283",
+    "descricao": "CLEMENTS, P.; et al. Documenting Software Architectures: Views and Beyond. 2nd edition, Pearson Eduction, 2011.",
+    "tipo": 6
+  },
+  {
+    "id": "B284",
+    "descricao": "MENDES, A. Arquitetura de software: desenvolvimento orientado para arquitetura. Rio de Janeiro: Campus, 2002. ISBN 853521013X.",
+    "tipo": 6
+  },
+  {
+    "id": "B285",
+    "descricao": "CERVANTES, H.; KAZMAN, R. Designing Software Archtectures: A Practical Approach, ISBN-13: 978-0134390789, Addison-Wesley, 2016.",
+    "tipo": 6
+  },
+  {
+    "id": "B286",
+    "descricao": "PUTMAN, J. Architecting with RM-ODP. Prentice Hall, 2001. ISBN 0130191167.",
+    "tipo": 6
+  },
+  {
+    "id": "B287",
+    "descricao": "HEINEMAN, G. T.; COUNCILL, W. T. Component-based software engineering: putting the pieces together. Addison-Wesley, 2001. ISBN 0201704854.",
+    "tipo": 6
+  },
+  {
+    "id": "B288",
+    "descricao": "BOSCH, J. Design and use of software architectures: adopting and evolving a product-line approach. Addison-Wesley, 2000. ISBN 0201674947.",
+    "tipo": 6
+  },
+  {
+    "id": "B289",
+    "descricao": "JOHNSON, R. Expert one-on-one J2EE development without EJB. Wiley Publishing, 2004. ISBN 0764558315.",
+    "tipo": 6
+  },
+  {
+    "id": "B290",
+    "descricao": "WIEGERS, K. E. Software Requirements. Microsoft Press, 3rd edition, 2013.",
+    "tipo": 6
+  },
+  {
+    "id": "B291",
+    "descricao": "ROBERTSON, S. Mastering the Requirements Process: Getting Requirements Right. Addison-Wesley Professional, 3rd edition, 2012.",
+    "tipo": 6
+  },
+  {
+    "id": "B292",
+    "descricao": "WINTERS, J. P.; SCHNEIDER, G. Applying use cases: a practical guide, 2nd edition. Addison-Wesley, 2001. (The Addison-Wesley object technology series). ISBN 0201708531.",
+    "tipo": 6
+  },
+  {
+    "id": "B293",
+    "descricao": "COCKBURN, A. Writing Effective Use Cases. Addison-Wesley, 2000.",
+    "tipo": 6
+  },
+  {
+    "id": "B294",
+    "descricao": "MELLOR, S. J; SHLAER, S. Análise de sistemas orientada para objetos. São Paulo: McGraw-Hill, 1990.",
+    "tipo": 6
+  },
+  {
+    "id": "B295",
+    "descricao": "MILLER, G.; ARMOUR, F. Advanced use case modeling: software systems. Boston: Addison-Wesley, 2001. (Addison-Wesley object technology series) ISBN 0201615924.",
+    "tipo": 6
+  },
+  {
+    "id": "B296",
+    "descricao": "YOURDON, E.; COAD, P. Análise baseada em objetos. 2a. edição. Rio de Janeiro: Campus, 1996. ISBN 8535200428.",
+    "tipo": 6
+  },
+  {
+    "id": "B297",
+    "descricao": "WIEGERS, K. E. More about software requirements: thorny issues and practical advice. Microsoft Press, 2006. ISBN 9780735622678.",
+    "tipo": 6
+  },
+  {
+    "id": "B298",
+    "descricao": "GOTHELF, J.; SEIDEN, J. Lean UX: Applying Lean Principles to Improve User Experience, O’Reilly, 2013.",
+    "tipo": 6
+  },
+  {
+    "id": "B299",
+    "descricao": "KRUG, S., Don´t make me think: revisited. New Riders, 2014. ISBN 978-0321965516.",
+    "tipo": 6
+  },
+  {
+    "id": "B300",
+    "descricao": "BORBA, F. E. Ajax: guia de programação. São Paulo: Erica, 2006. ISBN 8536501375.",
+    "tipo": 6
+  },
+  {
+    "id": "B301",
+    "descricao": "PREECE, J.; SHARP, H.; ROGERS, Y. Interaction Design: Beyond Human-Computer Interaction, Wiley, 2015. ISBN 978-1119020752.",
+    "tipo": 6
+  },
+  {
+    "id": "B302",
+    "descricao": "CYBIS, W. O. Ergonomia e usabilidade: conhecimentos, métodos e aplicações. 2a. edição. São Paulo: Novatec, 2010. ISBN 9788575222324.",
+    "tipo": 6
+  },
+  {
+    "id": "B303",
+    "descricao": "COUTAZ, J.; BASS, L. Developing software for the user interface. Addison-Wesley, 1991. ISBN 0201510464.",
+    "tipo": 6
+  },
+  {
+    "id": "B304",
+    "descricao": "HARTSON, H. R.; HIX, D. Developing user interfaces: ensuring usability through product & process. Wiley, 1993. ISBN 0471578134.",
+    "tipo": 6
+  },
+  {
+    "id": "B305",
+    "descricao": "OLSEN, D. R. Developing user interfaces. Morgan Kaufmann, 1998. ISBN 1558604189.",
+    "tipo": 6
+  },
+  {
+    "id": "B306",
+    "descricao": "BUTCHER, P. Seven Concurrent Models in Seven Weeks. Pragmatic Bookshelf, 2014. ISBN-10: 1937785653",
+    "tipo": 6
+  },
+  {
+    "id": "B307",
+    "descricao": "DAIGNEAU, R. Service Design Pattern. Addison-Wesley, 2011. ISBN 032154420X.",
+    "tipo": 6
+  },
+  {
+    "id": "B308",
+    "descricao": "FOSTER, I. Designing and building parallel programsconcepts and tools for parallel software engineering Reading, Mass.: Addison-Wesley, 1995. ISBN 0201575949.",
+    "tipo": 6
+  },
+  {
+    "id": "B309",
+    "descricao": "NEWMAN, S. Building Microservices. O’Reilly, 2015.",
+    "tipo": 6
+  },
+  {
+    "id": "B310",
+    "descricao": "BARNES, L. L. Client/server & beyound strategies for 21st century. Prentice-Hall, 1997. ISBN 0135325161.",
+    "tipo": 6
+  },
+  {
+    "id": "B311",
+    "descricao": "SHATZ, S. M. Development of distributed software concepts and tools. Macmillan, 1993. ISBN 0024096113.",
+    "tipo": 6
+  },
+  {
+    "id": "B312",
+    "descricao": "PAGE-JONES, M. Fundamentals of object-oriented design in UML. Addison-Wesley, 2003. ISBN 020169946X.",
+    "tipo": 6
+  },
+  {
+    "id": "B313",
+    "descricao": "RODRIGUES, L.; GUERRAOUI, R. Introduction to reliable distributed programming. Springer, 2006. ISBN 9783540288459.",
+    "tipo": 6
+  },
+  {
+    "id": "B314",
+    "descricao": "FOWLER, M., Patterns of Enterprise Application Architecture, ISBN-13: 978-0321127426, Addison-Wesley, 2002.",
+    "tipo": 6
+  },
+  {
+    "id": "B315",
+    "descricao": "DAIGNEAU, R., Service Design Patterns, ISBN-13: 978-0321544209, Addison-Wesley, 2011.",
+    "tipo": 6
+  },
+  {
+    "id": "B316",
+    "descricao": "BUSCHMAN, F. Pattern-oriented software architecture. Wiley, 2001. ISBN 0471606952.",
+    "tipo": 6
+  },
+  {
+    "id": "B317",
+    "descricao": "VERNON, V. Implementing Domain-Driven Design. Addison-Wesley, 2013. ISBN 978-0-321-83457-7.",
+    "tipo": 6
+  },
+  {
+    "id": "B318",
+    "descricao": "GAMMA, E. Design patterns elements of reusable object-oriented software. Addison Wesley, 1995. ISBN 0201633612.",
+    "tipo": 6
+  },
+  {
+    "id": "B319",
+    "descricao": "TROTT, J.; SHALLOWAY, A. Design patterns explained: a new perspective on object-oriented design. 2nd ed. Addison-Wesley, 2005. ISBN 0321247140.",
+    "tipo": 6
+  },
+  {
+    "id": "B320",
+    "descricao": "PREE, W. Design patterns for object-oriented software development. Addison-Wesley, 1995. ISBN 0201422948.",
+    "tipo": 6
+  },
+  {
+    "id": "B321",
+    "descricao": "FREEMAN, E. et al. Head First design patterns. O'Reilly, 2004. ISBN 0596007124.",
+    "tipo": 6
+  },
+  {
+    "id": "B322",
+    "descricao": "MYERS, G. J. The Art of Software Testing. Wiley. 2011.",
+    "tipo": 6
+  },
+  {
+    "id": "B323",
+    "descricao": "COPELAND, L. A Practitioner’s Guide to Software Test Design. Artech House, 2003.",
+    "tipo": 6
+  },
+  {
+    "id": "B324",
+    "descricao": "SYKES, D. A.; MCGREGOR, J. D. A practical guide to testing object-oriented software. Addison-Wesley, 2001. ISBN 0201325640.",
+    "tipo": 6
+  },
+  {
+    "id": "B325",
+    "descricao": "MESZAROS, G. xUnit test patternsrefactoring test code. Addison-Wesley, 2007. ISBN 0131495054.",
+    "tipo": 6
+  },
+  {
+    "id": "B326",
+    "descricao": "MOSLEY, D. J. Client-server software testing on the desktop and the Web. Prentice Hall, 2000. ISBN 0131838806.",
+    "tipo": 6
+  },
+  {
+    "id": "B327",
+    "descricao": "GROSS, H. Component-based software testing with UML. Springer, 2005. ISBN 354020864X.",
+    "tipo": 6
+  },
+  {
+    "id": "B328",
+    "descricao": "PERRY, W. E. Effective methods for software testing. 2nd edition. J. Wiley, 1999. ISBN 047135418X.",
+    "tipo": 6
+  },
+  {
+    "id": "B329",
+    "descricao": "WU, M.; LI, K. Effective software test automationdeveloping an automated software testing tool. SYBEX, 2004. ISBN 0782143202.",
+    "tipo": 6
+  },
+  {
+    "id": "B330",
+    "descricao": "MCGRAW, G. Software Security: Build Security In. Addison-Wesley, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B331",
+    "descricao": "GREENGARD, S. The Internet of Things. The MIT Press, 2015.",
+    "tipo": 6
+  },
+  {
+    "id": "B332",
+    "descricao": "WILMSHURST, T. An introduction to the design of small-scale embedded systems. Palgrave, 2001. ISBN 0333929942.",
+    "tipo": 6
+  },
+  {
+    "id": "B333",
+    "descricao": "MANICO, J.; DETLEFESEN, A. Iron-Clad Java: Building Secure Web Applications. McGraw-Hill, 2014.",
+    "tipo": 6
+  },
+  {
+    "id": "B334",
+    "descricao": "HOWARD, M. 19 deadly sins of software securityprogramming flaws and how to fix them. McGraw-Hill/Osborne, 2005. ISBN 0072260858.",
+    "tipo": 6
+  },
+  {
+    "id": "B335",
+    "descricao": "MARK, D. Dominando o desenvolvimento no iPhone: explorando o SDK do iPhone. Alta Books, 2009. ISBN 97885760833757.",
+    "tipo": 6
+  },
+  {
+    "id": "B336",
+    "descricao": "VAHID, F. Embedded system design: a unified hardware/software introduction. John Wiley & Sons, 2002. ISBN 0471386782.",
+    "tipo": 6
+  },
+  {
+    "id": "B337",
+    "descricao": "KERN, C.; KESAVAN, A.; DASWANI, N. Foundations of security: what every programmer needs to know. Apress, 2007. ISBN 9781590597842.",
+    "tipo": 6
+  },
+  {
+    "id": "B338",
+    "descricao": "REDMOND, E.; WILSON, J. Seven databases in Seven Weeks. Pragmatic Bookshelf, 2012.",
+    "tipo": 6
+  },
+  {
+    "id": "B339",
+    "descricao": "MCMURTRY, D. et al. Data Access for Highly-Scalable Solutions: Using SQL, NoSQL, and Polyglot Persistence. Microsoft Press, 2013.",
+    "tipo": 6
+  },
+  {
+    "id": "B340",
+    "descricao": "AMBLER, S. W. Agile database techniques: effective strategies for the agile software developer. Wiley, 2003. ISBN 0471202835.",
+    "tipo": 6
+  },
+  {
+    "id": "B341",
+    "descricao": "AMBLER, S. J.; SADALAGE, P. J. Refactoring Databases. Addison-Wesley, 2006.",
+    "tipo": 6
+  },
+  {
+    "id": "B342",
+    "descricao": "GOLENDZINER, L. G.; PRICE, R. T. Bancos de dados para aplicações não convencionais. EBAI, 1989. ISBN 950139879.",
+    "tipo": 6
+  },
+  {
+    "id": "B343",
+    "descricao": "FALINO, J.; HERION, D.; MARTINER, W. Building distributed applications with ADO. John Wiley & Sons, 1999. ISBN 0471317012.",
+    "tipo": 6
+  },
+  {
+    "id": "B344",
+    "descricao": "KING, G.; BAUER, C. Java Persistence com Hibernate. Ciencia Moderna, 2007. ISBN 9788573936148.",
+    "tipo": 6
+  },
+  {
+    "id": "B345",
+    "descricao": "MANNINO, M. V. Projeto, desenvolvimento de aplicações e administração de banco de dados. McGraw-Hill, 2008. ISBN 9788577260201.",
+    "tipo": 6
+  },
+  {
+    "id": "B346",
+    "descricao": "SOMMERVILLE, I. Engenharia de Software. Pearson, 10.a edição, 2015.",
+    "tipo": 6
+  },
+  {
+    "id": "B347",
+    "descricao": "MCCONNELL, S. Code complete: a practical handbook of software construction. 2nd edition. Microsoft Press, 2009.",
+    "tipo": 6
+  },
+  {
+    "id": "B348",
+    "descricao": "PAULA, W. P. Engenharia de software: fundamentos, métodos e padrões 3.a edição. LTC, 2009. ISBN 9788521616504.",
+    "tipo": 6
+  },
+  {
+    "id": "B349",
+    "descricao": "PRESSMAN, R. Engenharia de Software. 8.a edição. McGraw-Hill, 2014.",
+    "tipo": 6
+  },
+  {
+    "id": "B350",
+    "descricao": "SCHACH, S. R. Engenharia de software: os paradigmas clássicos & orientados a objetos. 7.a edição. McGraw-Hill, 2009. ISBN 9788577260454.",
+    "tipo": 6
+  },
+  {
+    "id": "B351",
+    "descricao": "PFLEEGER, S. L. Engenharia de software: teoria e prática. 2.a edição. Prentice Hall, 2004. ISBN 8587918311.",
+    "tipo": 6
+  },
+  {
+    "id": "B352",
+    "descricao": "PEDRYCZ, W.; PETERS, J. F. Engenharia de software: teoria e prática. Campus, 2003. ISBN 8535207465.",
+    "tipo": 6
+  },
+  {
+    "id": "B353",
+    "descricao": "MAGELA, R. Engenharia de software aplicada: princípios. Alta Books, 2006. ISBN 8576081202.",
+    "tipo": 6
+  }
+]
