@@ -28,12 +28,43 @@ let excluirNosSemArestas = true;
  */
 let grafo;
 
+let disciplinas;
+let bibliografias;
+let ementas;
+let habilidades;
+let arestas;
+let nos;
+
 /**
  * Persiste grafo originalmente carregado a partir de dados.
  * @param g Grafo original.
  */
 function gravaGrafoOriginal(g) {
     grafo = g;
+}
+
+function guardaDisciplinas(d) {
+    disciplinas = d;
+}
+
+function guardaBibliografias(b) {
+    bibliografias = b;
+}
+
+function guardaEmentas(e) {
+    ementas = e;
+}
+
+function guardaHabilidades(h) {
+    habilidades = h;
+}
+
+function guardaArestas(a) {
+    arestas = a;
+}
+
+function guardaNos(n) {
+    nos = n;
 }
 
 /**
@@ -364,21 +395,6 @@ function exibeGrafo(graph) {
         .text(texto);
 }
 
-function carrega(error, graph) {
-    if (error) {
-        alert("Ocorreu um erro ao carregar dados...");
-        throw error;
-    }
-
-    gravaGrafoOriginal(graph);
-    exibeGrafo(graph);
-}
-
-/**
- * Ponto de entrada da aplicação.
- */
-d3.json("d3.json", carrega);
-
 /**
  * Atualiza o conjunto de arestas desmarcadas. Uma aresta faz
  * parte desse conjunto se não estiver marcada.
@@ -475,3 +491,20 @@ window.opcoesHabilidades = function(checkbox) {
 window.opcoesConteudo = function(checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 2);
 };
+
+
+function carregaPara(define) {
+    return function(error, carregado) {
+        if (error) {
+            alert("Erro ao carregar dados...");
+            throw error;
+        }
+
+        define(carregado);
+        exibeGrafo(grafo);
+    };
+}
+/**
+ * Ponto de entrada da aplicação.
+ */
+d3.json("d3.json", carregaPara(gravaGrafoOriginal));
