@@ -49,7 +49,7 @@ function atualizaArestasDesmarcadas(marcada, valor) {
         arestasDesmarcadas.add(valor);
     }
 
-    redesenha(grafo);
+    filtra(grafo);
 }
 
 function opcoesConteudoUnidade(checkbox) {
@@ -90,7 +90,7 @@ function opcoesEntreHabilidades(checkbox) {
 
 function opcoesExcluirNosSemArestas(checkbox) {
     excluirNosSemArestas = checkbox.checked;
-    redesenha(grafo);
+    filtra(grafo);
 }
 
 /**
@@ -106,7 +106,7 @@ function atualizaNosDesmarcados(marcado, valor) {
         nosDesmarcados.add(valor);
     }
 
-    redesenha(grafo);
+    exibeGrafo(filtra(grafo));
 }
 
 /**
@@ -134,10 +134,10 @@ function opcoesConteudo(checkbox) {
 }
 
 /**
- * Função que gera grafo conforme opções de seleção do usuário
- * e requisita a reapresentação do grafo.
+ * Função que monta subgrafo do grafo original conforme opções
+ * de seleção do usuário.
  */
-function redesenha(g) {
+function filtra(g) {
     var filtrado = {};
 
     // Remove links desmarcados
@@ -177,7 +177,7 @@ function redesenha(g) {
         });
     }
 
-    exibeGrafo(filtrado);
+    return filtrado;
 }
 
 function exibeGrafo(graph) {
