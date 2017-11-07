@@ -5,7 +5,7 @@
  * Ou seja, nós desmarcados é uma lista vazia.
  * @type {Set}
  */
-var nosDesmarcados = new Set();
+let nosDesmarcados = new Set();
 
 /**
  * Inicialmente todos os tipos de arestas são marcados para
@@ -13,20 +13,20 @@ var nosDesmarcados = new Set();
  * nesse conjunto por parte do usuário.
  * @type {Set}
  */
-var arestasDesmarcadas = new Set();
+let arestasDesmarcadas = new Set();
 
 /**
  * Indica se nós que não estão conectados a outros devem ser
  * removidos da apresentação. Inicialmente esta opção está
  * marcada, ou seja, nós isolados não devem ser exibidos.
  */
-var excluirNosSemArestas = true;
+let excluirNosSemArestas = true;
 
 /**
  * Grafo original carregado a partir dos dados.
  * Esse grafo é reutilizado.
  */
-var grafo;
+let grafo;
 
 /**
  * Persiste grafo originalmente carregado a partir de dados.
@@ -136,9 +136,13 @@ function opcoesConteudo(checkbox) {
 /**
  * Função que monta subgrafo do grafo original conforme opções
  * de seleção do usuário.
+ * @param g.nodes Vetor de nós do grafo.
+ * @param g.links Vetor de arestas do grafo.
+ * @param g.links.tipo O tipo de uma aresta.
+ * @returns {{}}
  */
 function filtra(g) {
-    var filtrado = {};
+    let filtrado = {};
 
     // Remove links desmarcados
     filtrado.links = g.links.filter(function (l) {
@@ -151,11 +155,7 @@ function filtra(g) {
             return false;
         }
 
-        if (nosDesmarcados.has(l.target.tipo)) {
-            return false;
-        }
-
-        return true;
+        return !nosDesmarcados.has(l.target.tipo);
     });
 
     // Se nós sem arestas devem ser excluídos, então apenas
@@ -163,7 +163,7 @@ function filtra(g) {
     // as arestas estão restritas àquelas cujos nós não foram
     // excluídos.
     if (excluirNosSemArestas) {
-        var nos = new Set();
+        const nos = new Set();
         filtrado.links.forEach(function (l) {
             nos.add(l.source);
             nos.add(l.target);
@@ -185,27 +185,27 @@ function filtra(g) {
  * @param graph O grafo a ser exibido.
  */
 function exibeGrafo(graph) {
-    var parentWidth = d3.select("svg").node().parentNode.clientWidth;
-    var parentHeight = d3.select("svg").node().parentNode.clientHeight;
-    var centerWidth = parentWidth / 2;
-    var centerHeight = parentHeight / 2;
+    const parentWidth = d3.select("svg").node().parentNode.clientWidth;
+    const parentHeight = d3.select("svg").node().parentNode.clientHeight;
+    const centerWidth = parentWidth / 2;
+    const centerHeight = parentHeight / 2;
 
-    var svg = d3.select("svg")
+    const svg = d3.select("svg")
         .attr("width", parentWidth)
         .attr("height", parentHeight);
 
     // remove todos os elementos de classe g-main
     svg.selectAll(".g-main").remove();
 
-    var gMain = svg.append("g")
+    const gMain = svg.append("g")
         .classed("g-main", true);
 
-    var rect = gMain.append("rect")
+    const rect = gMain.append("rect")
         .attr("width", parentWidth)
         .attr("height", parentHeight)
         .style("fill", "lightyellow");
 
-    var gDraw = gMain.append("g");
+    const gDraw = gMain.append("g");
 
     function zoomed() {
         gDraw.attr("transform", d3.event.transform);
