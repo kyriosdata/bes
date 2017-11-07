@@ -44,7 +44,7 @@ function gravaGrafoOriginal(g) {
  * @param g.links.tipo O tipo de uma aresta.
  * @returns {{}}
  */
-function filtra(g) {
+export function filtra(g) {
     let filtrado = {};
 
     // Remove links desmarcados
@@ -87,7 +87,7 @@ function filtra(g) {
  * Função que exibe o grafo fornecido.
  * @param graph O grafo a ser exibido.
  */
-function exibeGrafo(graph) {
+export function exibeGrafo(graph) {
     const parentWidth = d3.select("svg").node().parentNode.clientWidth;
     const parentHeight = d3.select("svg").node().parentNode.clientHeight;
     const centerWidth = parentWidth / 2;
@@ -382,7 +382,7 @@ d3.json("d3.json", carrega);
  * @param marcada Indica se a aresta está marcada ou não.
  * @param valor O identificador do tipo de aresta.
  */
-export function atualizaArestasDesmarcadas(marcada, valor) {
+function atualizaArestasDesmarcadas(marcada, valor) {
     if (marcada) {
         arestasDesmarcadas.delete(valor);
     } else {
@@ -392,43 +392,43 @@ export function atualizaArestasDesmarcadas(marcada, valor) {
     exibeGrafo(filtra(grafo));
 }
 
-function opcoesConteudoUnidade(checkbox) {
+window.opcoesConteudoUnidade = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 1);
 }
 
-function opcoesDisciplinaConteudo(checkbox) {
+window.opcoesDisciplinaConteudo = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 3);
 }
 
-function opcoesDisciplinaCondicaoMinima(checkbox) {
+window.opcoesDisciplinaCondicaoMinima = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 2);
 }
 
-function opcoesHabilidadeUnidade(checkbox) {
+window.opcoesHabilidadeUnidade = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 4);
 }
 
-function opcoesCondicoesUnidades(checkbox) {
+window.opcoesCondicoesUnidades = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 5);
 }
 
-function opcoesDisciplinaDisciplina(checkbox) {
+window.opcoesDisciplinaDisciplina = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 6);
 }
 
-function opcoesEntreCondicoes(checkbox) {
+window.opcoesEntreCondicoes = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 7);
 }
 
-function opcoesEntreConteudos(checkbox) {
+window.opcoesEntreConteudos = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 8);
 }
 
-function opcoesEntreHabilidades(checkbox) {
+window.opcoesEntreHabilidades = function(checkbox) {
     atualizaArestasDesmarcadas(checkbox.checked, 9);
 }
 
-function opcoesExcluirNosSemArestas(checkbox) {
+window.opcoesExcluirNosSemArestas = function(checkbox) {
     excluirNosSemArestas = checkbox.checked;
     exibeGrafo(filtra(grafo));
 }
@@ -453,22 +453,22 @@ function atualizaNosDesmarcados(marcado, valor) {
  * Se desmarcado, remove nós do tipo disciplina.
  * @param checkbox
  */
-export function opcoesDisciplinas(checkbox) {
+window.opcoesDisciplinas = function(checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 1);
 }
 
-function opcoesTermos(checkbox) {
+window.opcoesTermos = function(checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 5);
 }
 
-function opcoesCondicoes(checkbox) {
+window.opcoesCondicoes = function (checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 3);
 }
 
-function opcoesHabilidades(checkbox) {
+window.opcoesHabilidades = function(checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 4);
 }
 
-function opcoesConteudo(checkbox) {
+window.opcoesConteudo = function(checkbox) {
     atualizaNosDesmarcados(checkbox.checked, 2);
 }
