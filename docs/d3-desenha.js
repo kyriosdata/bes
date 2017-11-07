@@ -159,13 +159,20 @@ function exibeGrafo(graph) {
     }
 
     function forceLink() {
+        /**
+         * Estabelece "força" (distância) entre nós.
+         * @param a.tipo O tipo da aresta
+         * @returns {number} Valor que estabelece
+         */
+        function distanciaEntreArestas(a) {
+            return 100 * a.tipo;
+        }
+
         return d3.forceLink()
             .id(function (d) {
                 return d.id;
             })
-            .distance(function (d) {
-                return 100;
-            })
+            .distance(distanciaEntreArestas)
             .strength(2);
     }
 
@@ -178,6 +185,7 @@ function exibeGrafo(graph) {
         .force("x", d3.forceX(centerWidth))
         .force("y", d3.forceY(centerHeight));
 
+    let node = null;
     function dragstarted(d) {
         if (!d3.event.active) {
             simulation.alphaTarget(0.9).restart();
@@ -193,7 +201,7 @@ function exibeGrafo(graph) {
 
         d3.select(this).classed("selected", function (p) {
             p.previouslySelected = p.selected;
-            p.selected = true
+            p.selected = true;
             return true;
         });
 
@@ -238,7 +246,7 @@ function exibeGrafo(graph) {
             .on("end", dragended);
     }
 
-    const node = gDraw.append("g")
+    node = gDraw.append("g")
         .attr("class", "node")
         .selectAll("circle")
         .data(graph.nodes)
@@ -294,7 +302,7 @@ function exibeGrafo(graph) {
                 return destinos.indexOf(d.target.id) > -1;
             }
 
-            return hasOrigem() || hasDestino() ? 1 : 0;
+            return (hasOrigem() || hasDestino()) ? 1 : 0;
         });
     }
 
@@ -304,10 +312,6 @@ function exibeGrafo(graph) {
 
     // add titles for mouseover blurbs
     node.append("title").text(getDescricao);
-
-    simulation.nodes(graph.nodes).on("tick", ticked);
-
-    simulation.force("link").links(graph.links);
 
     function ticked() {
         link.attr("x1", function (d) {
@@ -330,6 +334,10 @@ function exibeGrafo(graph) {
                 return d.y;
             });
     }
+
+    simulation.nodes(graph.nodes).on("tick", ticked);
+
+    simulation.force("link").links(graph.links);
 
     rect.on("click", function () {
         node.each(function (d) {
