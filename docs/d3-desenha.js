@@ -49,7 +49,7 @@ function atualizaArestasDesmarcadas(marcada, valor) {
         arestasDesmarcadas.add(valor);
     }
 
-    filtra(grafo);
+    exibeGrafo(filtra(grafo));
 }
 
 function opcoesConteudoUnidade(checkbox) {
@@ -90,7 +90,7 @@ function opcoesEntreHabilidades(checkbox) {
 
 function opcoesExcluirNosSemArestas(checkbox) {
     excluirNosSemArestas = checkbox.checked;
-    filtra(grafo);
+    exibeGrafo(filtra(grafo));
 }
 
 /**
@@ -180,6 +180,11 @@ function filtra(g) {
     return filtrado;
 }
 
+/**
+ * Função que exibe o grafo fornecido.
+ * @param graph O grafo a ser exibido.
+ * @returns {*}
+ */
 function exibeGrafo(graph) {
     var parentWidth = d3.select("svg").node().parentNode.clientWidth;
     var parentHeight = d3.select("svg").node().parentNode.clientHeight;
@@ -450,6 +455,4 @@ function exibeGrafo(graph) {
         .attr("x", 47)
         .attr("y", function(d,i) { return 12 + i * 18; })
         .text(function(d) { return d; });
-
-    return graph;
 }
