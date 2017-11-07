@@ -383,9 +383,6 @@ function exibeGrafo(graph) {
         node.classed("selected", false);
     });
 
-    d3.select("body").on("keydown", keydown);
-    d3.select("body").on("keyup", keyup);
-
     function keydown() {
         if (d3.event.key === "h") {
             alert("h");
@@ -395,6 +392,9 @@ function exibeGrafo(graph) {
     function keyup() {
         alert("keyUp");
     }
+
+    d3.select("body").on("keydown", keydown);
+    d3.select("body").on("keyup", keyup);
 
     function dragstarted(d) {
         if (!d3.event.active) {
@@ -434,19 +434,24 @@ function exibeGrafo(graph) {
     }
 
     function dragended(d) {
-        if (!d3.event.active) simulation.alphaTarget(0);
+        if (!d3.event.active) {
+            simulation.alphaTarget(0);
+        }
+
         d.fx = null;
         d.fy = null;
         node.filter(function (d) {
             return d.selected;
-        })
-            .each(function (d) {
-                d.fx = null;
-                d.fy = null;
-            })
+        }).each(function (d) {
+            d.fx = null;
+            d.fy = null;
+        });
     }
 
-    let info = ["Nós: " + graph.nodes.length, "Arestas: " + graph.links.length];
+    const info = [
+        "Nós: " + graph.nodes.length,
+        "Arestas: " + graph.links.length
+    ];
 
     svg.selectAll("text").remove();
 
