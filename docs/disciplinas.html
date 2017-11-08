@@ -18,10 +18,10 @@
     <article class="disciplina">
         <div class="disciplina-rotulo">Nome</div>
         <div class="disciplina-nome">
-            {{dados.nome}}<br>
+            {{dados.descricao}}<br>
         </div>
         <div class="disciplina-detalhe">
-            ({{dados.Id}} {{dados.ch}} horas &nbsp;&nbsp;{{dados.sem}}.&ordm;
+            ({{dados.id}} {{dados.ch}} horas &nbsp;&nbsp;{{dados.sem}}.&ordm;
             semestre, pág. {{dados.pag}}, núcleo {{#if
             dados.nc}}comum{{else}}específico{{/if}}, {{dados.eixo}}, {{#if
             dados.obr}}obrigatória{{else}}opcional{{/if}})
@@ -125,33 +125,23 @@
         update();
     }
 
-    function trataDisciplinas(data) {
-        disciplinas = data;
-        exibe();
-    }
-
-    function responseToJson(p) {
-        return p.json();
-    }
-
-    function guardaBaseDados(d) {
-        baseDados = d;
-        return d;
-    }
-
-    function getDisciplinas(d) {
-        return fetch("data/disciplinas.json");
-    }
-
-    window.onload = function () {
-
-        fetch("d3.json")
-            .then(responseToJson)
-            .then(guardaBaseDados)
-            .then(getDisciplinas)
-            .then(responseToJson)
-            .then(trataDisciplinas);
-    }
+    fetch("d3.json")
+        .then(function (d) {
+            return d.json();
+        })
+        .then(function (d) {
+            baseDados = d;
+        })
+        .then(function () {
+            return fetch("data/disciplinas.json");
+        })
+        .then(function (d) {
+            return d.json();
+        })
+        .then(function (d) {
+            disciplinas = d;
+        })
+        .then(exibe);
 </script>
 
 </body>
