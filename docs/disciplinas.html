@@ -125,14 +125,25 @@
         update();
     }
 
+    function trataDisciplinas(data) {
+        disciplinas = data;
+        exibe();
+    }
+
     window.onload = function () {
 
         var grafo = fetch("d3.json");
-        grafo.then(function(response) { return response.json();})
-            .then(function(data) { baseDados = data;
-            return fetch("data/disciplinas.json"); })
-            .then(function(response) { return response.json(); })
-            .then(function(data) {disciplinas = data; exibe(); return data; });
+        grafo.then(function (response) {
+            return response.json();
+        })
+            .then(function (data) {
+                baseDados = data;
+                return fetch("data/disciplinas.json");
+            })
+            .then(function (response) {
+                return response.json();
+            })
+            .then(trataDisciplinas);
     }
 </script>
 
