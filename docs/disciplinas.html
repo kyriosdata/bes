@@ -126,8 +126,6 @@
     }
 
     window.onload = function () {
-//        obtemDadosPara("d3.json", function(d) { baseDados = d;});
-//        obtemDadosPara("data/disciplinas.json", guardaDisciplinas);
 
         var grafo = fetch("d3.json");
         grafo.then(function(response) { return response.json();})
