@@ -145,12 +145,10 @@
 
     window.onload = function () {
 
-        var grafo = fetch("d3.json");
-        grafo.then(responseToJson)
-            .then(function (data) {
-                baseDados = data;
-                return fetch("data/disciplinas.json");
-            })
+        fetch("d3.json")
+            .then(responseToJson)
+            .then(guardaBaseDados)
+            .then(getDisciplinas)
             .then(responseToJson)
             .then(trataDisciplinas);
     }
