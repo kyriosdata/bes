@@ -22,8 +22,8 @@
         </div>
         <div class="disciplina-detalhe">
             ({{dados.id}} {{dados.ch}} horas &nbsp;&nbsp;{{dados.sem}}.&ordm;
-            semestre, pág. {{dados.pag}}, núcleo {{#if
-            dados.nc}}comum{{else}}específico{{/if}}, {{dados.eixo}}, {{#if
+            semestre, pág. {{dados.pag}}, núcleo {{#is
+            dados.nc "S"}}comum{{else}}específico{{/is}}, {{dados.eixo}}, {{#if
             dados.obr}}obrigatória{{else}}opcional{{/if}})
         </div>
 
@@ -39,11 +39,11 @@
         <div class="disciplina-rotulo">Condições mínimas</div>
         <div class="disciplina__condicoes">
             <ul>
-                {{#if dados.nc}}
+                {{#is dados.nc "S"}}
                 <span>Não definidas para disciplinas do núcleo comum.</span>
                 {{else}} {{#each condicoes}}
                 <li>{{this}}</li>
-                {{/each}} {{/if}}
+                {{/each}} {{/is}}
             </ul>
         </div>
 
@@ -85,16 +85,15 @@
                 descricoes.push(n.descricao);
             }
         });
-        
+
         return descricoes;
     }
 
     function condicoesMinimas(id, dados) {
         var arestas = dados.links;
-        var origem = "D" + (id + 1);
         var conteudos = new Set();
         arestas.forEach(function (i) {
-            if (i.tipo === 2 && i.source === origem) {
+            if (i.tipo === 2 && i.source === id) {
                 conteudos.add(i.target);
             }
         });
@@ -109,20 +108,30 @@
     }
 
     function update() {
-        var html = "";
+        let html = "";
+        let id;
         for (var idx = 0; idx < 44; idx++) {
+            id = disciplinas[idx].id;
             var disciplina = {
                 dados: disciplinas[idx],
-                ementa: ementa(disciplinas[idx].id, baseDados),
-                condicoes: condicoesMinimas(idx, baseDados)
+                ementa: ementa(id, baseDados),
+                condicoes: condicoesMinimas(id, baseDados)
             };
 
             html = html + template(disciplina);
         }
 
-        var saida = document.getElementById('saida');
+        const saida = document.getElementById('saida');
         saida.innerHTML = html;
     }
+
+    Handlebars.registerHelper('is', function(a, b, opts) {
+        if(a == b) {
+            return opts.fn(this);
+        } else {
+            return opts.inverse(this);
+        }
+    });
 
     function exibe() {
         var source = document.getElementById('disciplina-template').innerHTML;
