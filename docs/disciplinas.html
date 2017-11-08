@@ -3,10 +3,11 @@
 <head>
     <title>Disciplinas</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
     <script type="text/javascript"
             src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Karla|Noto+Sans|Patua+One|Source+Sans+Pro:300" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
 <body>
@@ -52,8 +53,8 @@
             <ul>
                 {{#each basicas}}
                 <li>{{descricao}}
-                    <a href="{{url}}">
-                        <i class="fa fa-external-link" aria-hidden="true"></i>
+                    <a href="{{url}}" target="_blank">
+                        <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>
                     </a></li>
                 {{/each}}
             </ul>
@@ -63,7 +64,10 @@
         <div class="disciplina__bibliografia">
             <ul>
                 {{#each complementares}}
-                <li>{{descricao}}</li>
+                <li>{{descricao}}
+                    <a href="{{url}}" target="_blank">
+                        <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>
+                    </a></li>
                 {{/each}}
             </ul>
         </div>

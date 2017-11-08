@@ -6,6 +6,7 @@
     "basica": "TRUE",
     "ano": 2007,
     "lingua": "pt-BR",
+    "bc": "http://www.pucrs.br/edipucrs/online/historiadacomputacao.pdf",
     "url": "http://www.pucrs.br/edipucrs/online/historiadacomputacao.pdf"
   },
   {
@@ -15,6 +16,7 @@
     "basica": "TRUE",
     "ano": 2000,
     "lingua": "pt-BR",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=90192",
     "url": "http://www.edusp.com.br/detlivro.asp?id=58832"
   },
   {
@@ -24,6 +26,7 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/tecnologias-da-informacao-e-da-comunicacao-1-edicao-4087162.html"
   },
   {
@@ -33,6 +36,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "pt-BR",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=260120",
     "url": "https://www.estantevirtual.com.br/livros/gabriel-chalita/os-dez-mandamentos-da-etica/4004768244"
   },
   {
@@ -42,6 +46,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/moinhodolivro/victor-drummond-internet-privacidade-e-dados-pessoais-540063736"
   },
   {
@@ -51,6 +56,7 @@
     "basica": "FALSE",
     "ano": 2011,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Computers-Society-Computing-Chapman-Textbooks/dp/1439810885"
   },
   {
@@ -60,6 +66,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "pt-BR",
+    "bc": "https://\tsophia.bc.ufg.br/index.php?codigo_sophia=62293",
     "url": "https://www.estantevirtual.com.br/livros/newton-de-lucca-adalberto-simao-filho/direito-internet-aspectos-juridicos-relevantes/2245377912"
   },
   {
@@ -69,15 +76,17 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "pt-BR",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=290602",
     "url": "https://books.google.com.br/books/about/Direito_de_inform%C3%A1tica.html?id=ufJ4PgAACAAJ&redir_esc=y"
   },
   {
     "id": "B9",
-    "descricao": "FOBERLONE, A. L. V.; EBERSPACHER, H. F. Lógica de Programação: A construção de algoritmos e estruturas de dados. 3.a edição. São Paulo: Prentice Hall, 2005.",
+    "descricao": "FORBERLLONE, A. L. V.; EBERSPӒCHER, H. F. Lógica de Programação: A construção de algoritmos e estruturas de dados. 3.a edição. São Paulo: Prentice Hall, 2005.",
     "tipo": 6,
     "basica": "TRUE",
     "ano": 2005,
     "lingua": "pt-BR",
+    "bc": "sophia.bc.ufg.br/index.php?codigo_sophia=309980",
     "url": "https://www.saraiva.com.br/logica-de-programacao-3-edicao-177333.html"
   },
   {
@@ -87,6 +96,7 @@
     "basica": "TRUE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "https://\tsophia.bc.ufg.br/index.php?codigo_sophia=292584",
     "url": "https://www.saraiva.com.br/fundamentos-da-programacao-de-computadores-3-ed-2012-4073065.html"
   },
   {
@@ -96,6 +106,7 @@
     "basica": "TRUE",
     "ano": 1996,
     "lingua": "pt-BR",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=54695",
     "url": "https://www.estantevirtual.com.br/livros/herbert-schildt/c-completo-e-total/2631640085"
   },
   {
@@ -105,6 +116,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=217237",
     "url": "https://www.estantevirtual.com.br/livros/paulo-feofiloff/algoritmos-em-linguagem-c/3439883415"
   },
   {
@@ -114,6 +126,7 @@
     "basica": "FALSE",
     "ano": 1989,
     "lingua": "pt-BR",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=90559",
     "url": "https://www.saraiva.com.br/algoritmos-estruturados-3-ed-2011-369636.html"
   },
   {
@@ -123,6 +136,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=67727",
     "url": "https://www.amazon.co.uk/Algorithms-Parts-1-4-Fundamentals-Structures/dp/0201314525"
   },
   {
@@ -132,6 +146,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "pt-BR",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=80356",
     "url": "https://www.estantevirtual.com.br/livros/dirceu-douglas-salvetti-lisbete-madsen-barbosa/algoritmos/1223177473"
   },
   {
@@ -141,6 +156,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "pt-BR",
+    "bc": "https://\tsophia.bc.ufg.br/index.php?codigo_sophia=81642",
     "url": "https://www.submarino.com.br/produto/111052655/livro-algoritmos-teoria-e-pratica"
   },
   {
@@ -150,6 +166,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "pt-BR",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=11317",
     "url": "https://www.saraiva.com.br/um-curso-de-calculo-vol-1-5-ed-2011-305551.html?pac_id=136306&gclid=CjwKCAiA0IXQBRA2EiwAMODil8lcxV4-Fyn6ICLPwl0Ah8JlicZuvCxZW1MaiyR-bTqNOshWMt_LRhoC1-EQAvD_BwE"
   },
   {
@@ -159,6 +176,7 @@
     "basica": "TRUE",
     "ano": 1994,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "http://www.harbra.com.br/produto.php?id=4360&pg=O%20C%E1lculo%20com%20Geometria%20Anal%EDtica%20-%203.%AA%20edi%E7%E3o%20-%20Volume%201"
   },
   {
@@ -168,6 +186,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/sebodomarcao/james-stewart-calculo-volume-2-5-edicao-850338576"
   },
   {
@@ -177,6 +196,7 @@
     "basica": "FALSE",
     "ano": 1994,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "http://www.grupogen.com.br/exatas/matematica/calculo-das-funcoes-de-uma-variavel-vol-1"
   },
   {
@@ -186,6 +206,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/calculo-a-funcoes-limite-derivacao-integracao-6-ed-1643001.html"
   },
   {
@@ -195,6 +216,7 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -204,6 +226,7 @@
     "basica": "FALSE",
     "ano": 1996,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/geometria-analitica-391590.html"
   },
   {
@@ -213,6 +236,7 @@
     "basica": "FALSE",
     "ano": 1987,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/calculo-com-geometria-analitica-vol1-330689.html?pac_id=123134&gclid=CjwKCAiA0IXQBRA2EiwAMODil2uypMuOcHkgk-qDh8zqmRuVuY9f3qsuvluykyv5KUauya7-EIyAwhoCaY0QAvD_BwE"
   },
   {
@@ -222,6 +246,7 @@
     "basica": "TRUE",
     "ano": 2004,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/fundamentos-matematicos-para-a-ciencia-da-computacao-5-edicao-163901.html"
   },
   {
@@ -231,6 +256,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/livros/edward-r-scheinerman/matematica-discreta-uma-introducao/1516609910"
   },
   {
@@ -240,6 +266,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Discrete-Combinatorial-Mathematics-Applied-Introduction/dp/0201726343"
   },
   {
@@ -249,6 +276,7 @@
     "basica": "FALSE",
     "ano": 2013,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://loja.sbm.org.br/index.php/impa/colecao-projeto-euclides/introduc-o-a-algebra.html"
   },
   {
@@ -258,6 +286,7 @@
     "basica": "FALSE",
     "ano": 1993,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Discrete-Mathematics-Applications-H-Mattson/dp/0471606723"
   },
   {
@@ -267,6 +296,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -276,6 +306,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Discrete-Mathematics-5th-Kenneth-Ross/dp/0130652474"
   },
   {
@@ -285,6 +316,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://loja.sbm.org.br/index.php/introduc-o-a-teoria-dos-numeros.html"
   },
   {
@@ -294,6 +326,7 @@
     "basica": "TRUE",
     "ano": 2010,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Computer-Systems-Programmers-Perspective-2nd/dp/0136108040"
   },
   {
@@ -303,6 +336,7 @@
     "basica": "TRUE",
     "ano": 2002,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/livros/william-stallings/arquitetura-e-organizacao-de-computadores/3105479420"
   },
   {
@@ -312,6 +346,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/organizacao-estruturada-de-computadores-5-ed-2537712.html"
   },
   {
@@ -321,6 +356,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -330,6 +366,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -339,6 +376,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.elsevier.com/books/computer-organization-and-design/patterson/978-0-08-050257-1"
   },
   {
@@ -348,6 +386,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Computer-Organization-Architecture-William-Stallings/dp/0134101618"
   },
   {
@@ -357,6 +396,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/livros/raul-fernando-weber/fundamentos-de-arquitetura-de-computadores/684694796"
   },
   {
@@ -366,6 +406,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/algoritmos-em-linguagem-c-2605166.html"
   },
   {
@@ -375,6 +416,7 @@
     "basica": "TRUE",
     "ano": 1994,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/livros/jayme-luiz-szwarcfiter-lilian-markenzon/estruturas-de-dados-e-seus-algoritmos/868202488"
   },
   {
@@ -384,6 +426,7 @@
     "basica": "TRUE",
     "ano": 1995,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/estruturas-de-dados-usando-c-345881.html"
   },
   {
@@ -393,6 +436,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996/ref=sr_1_1?ie=UTF8&qid=1510094930&sr=8-1&keywords=cormen"
   },
   {
@@ -402,6 +446,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/livros/dirceu-douglas-salvetti-lisbete-madsen-barbosa/algoritmos/1223177473"
   },
   {
@@ -411,6 +456,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com.br/Algorithms-Parts-1-4-Fundamentals-Structure-ebook/dp/B001FWIJFA"
   },
   {
@@ -420,6 +466,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/projeto-de-algoritmos-com-implementacoes-em-pascal-e-c-3-ed-2010-3059162.html"
   },
   {
@@ -429,6 +476,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/projeto-de-algoritmos-com-implementacoes-em-java-e-c-1567727.html"
   },
   {
@@ -438,6 +486,7 @@
     "basica": "TRUE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/luanalivros/marcos-nascimento-magalhaes-antonio-carlos-p-nocoes-de-probabilidade-e-estatistica-704793006"
   },
   {
@@ -447,6 +496,7 @@
     "basica": "TRUE",
     "ano": 1969,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.amazon.com.br/Probabilidade-Aplica%C3%A7%C3%B5es-estat%C3%ADstica-Paul-Meyer/dp/8521602944/ref=sr_1_1?s=books&ie=UTF8&qid=1510095756&sr=1-1&keywords=Probabilidade%3A+Aplica%C3%A7%C3%B5es+%C3%A0+Estat%C3%ADstica"
   },
   {
@@ -456,6 +506,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.amazon.com.br/Probabilidade-Estat%C3%ADstica-Para-Engenharia-Ci%C3%AAncias/dp/8576051990/ref=sr_1_2?s=books&ie=UTF8&qid=1510095982&sr=1-2&keywords=Probabilidade+e+Estat%C3%ADstica+para+Engenharia+e+Ci%C3%AAncias."
   },
   {
@@ -465,6 +516,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -474,6 +526,7 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.amazon.com.br/Probabilidade-Introdut%C3%B3rio-Carlos-Alberto-Barbosa/dp/8531403995/ref=sr_1_1?ie=UTF8&qid=1510096596&sr=8-1&keywords=Probabilidade%3A+um+Curso+Introdut%C3%B3rio"
   },
   {
@@ -483,6 +536,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.amazon.com.br/Estat%C3%ADstica-B%C3%A1sica-Probabilidade-Infer%C3%AAncia-Morettin/dp/8576053705/ref=sr_1_1?ie=UTF8&qid=1510096870&sr=8-1&keywords=Estat%C3%ADstica+b%C3%A1sica%3A+probabilidade+e+infer%C3%AAncia"
   },
   {
@@ -492,6 +546,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/probabilidade-um-curso-moderno-com-aplicacoes-8-ed-2010-3674466.html"
   },
   {
@@ -501,6 +556,7 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -510,6 +566,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/algebra-linear-364441.html"
   },
   {
@@ -519,6 +576,7 @@
     "basica": "TRUE",
     "ano": 1983,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/algebra-linear-e-aplicacoes-6-ed-1990-305748.html"
   },
   {
@@ -528,6 +586,7 @@
     "basica": "TRUE",
     "ano": 1974,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/livros/seymour-lipschutz/algebra-linear/4171228972"
   },
   {
@@ -537,6 +596,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Linear-Algebra-Applications-Differential-Equations/dp/0471174211"
   },
   {
@@ -546,6 +606,7 @@
     "basica": "FALSE",
     "ano": 1971,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.amazon.com/Linear-Algebra-2nd-Kenneth-Hoffman/dp/0135367972"
   },
   {
@@ -555,6 +616,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -564,6 +626,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://loja.sbm.org.br/index.php/impa/colecao-matematica-universitaria/algebra-linear.html"
   },
   {
@@ -573,6 +636,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.amazon.com/Introdu%C3%A7%C3%A3o-%C3%81lgebra-Linear-Salahoddin-Shokranian/dp/8523007881/ref=sr_1_2?s=books&ie=UTF8&qid=1510097801&sr=1-2&keywords=introdu%C3%A7%C3%A3o+%C3%A0+algebra+linear"
   },
   {
@@ -582,6 +646,7 @@
     "basica": "TRUE",
     "ano": 2015,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -591,6 +656,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -600,6 +666,7 @@
     "basica": "TRUE",
     "ano": 2008,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -609,6 +676,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -618,6 +686,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -627,6 +696,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -636,6 +706,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -645,6 +716,7 @@
     "basica": "FALSE",
     "ano": 1987,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -654,6 +726,7 @@
     "basica": "TRUE",
     "ano": 2007,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -663,6 +736,7 @@
     "basica": "TRUE",
     "ano": 2002,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -672,6 +746,7 @@
     "basica": "TRUE",
     "ano": 2005,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -681,6 +756,7 @@
     "basica": "FALSE",
     "ano": 1996,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -690,6 +766,7 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -699,6 +776,7 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -708,6 +786,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -717,6 +796,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -726,6 +806,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -735,6 +816,7 @@
     "basica": "TRUE",
     "ano": 1994,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -744,6 +826,7 @@
     "basica": "TRUE",
     "ano": 1995,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -753,6 +836,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -762,6 +846,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -771,6 +856,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -780,6 +866,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -789,6 +876,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -798,6 +886,7 @@
     "basica": "TRUE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -807,6 +896,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -816,6 +906,7 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -825,6 +916,7 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -834,6 +926,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -843,6 +936,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -852,6 +946,7 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -861,6 +956,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -870,6 +966,7 @@
     "basica": "TRUE",
     "ano": 2014,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -879,6 +976,7 @@
     "basica": "TRUE",
     "ano": 2016,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -888,6 +986,7 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -897,6 +996,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.smaele.nl/documents/iso/ISO-24765-2010.pdf"
   },
   {
@@ -906,6 +1006,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/engenharia-de-software-aplicada-principios-1446310.html"
   },
   {
@@ -915,6 +1016,7 @@
     "basica": "FALSE",
     "ano": 2016,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "http://www.softex.br/mpsbr/"
   },
   {
@@ -924,6 +1026,7 @@
     "basica": "FALSE",
     "ano": 2014,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.computer.org/web/swebok"
   },
   {
@@ -933,6 +1036,7 @@
     "basica": "FALSE",
     "ano": 2014,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.computer.org/web/peb/swecom"
   },
   {
@@ -942,6 +1046,7 @@
     "basica": "TRUE",
     "ano": 1996,
     "lingua": "en",
+    "bc": "",
     "url": "https://cerocks.files.wordpress.com/2011/03/fundamentals-of-algorithmics-brassard_ingles.pdf"
   },
   {
@@ -951,6 +1056,7 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/algoritmos-teoria-e-pratica-3-ed-2012-4061865.html"
   },
   {
@@ -960,6 +1066,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/algoritmos-2659730.html"
   },
   {
@@ -969,6 +1076,7 @@
     "basica": "FALSE",
     "ano": 1974,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com.br/Design-Analysis-Computer-Algorithms/dp/0201000296"
   },
   {
@@ -978,6 +1086,7 @@
     "basica": "FALSE",
     "ano": 1999,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Computer-Algorithms-Introduction-Design-Analysis/dp/0201612445"
   },
   {
@@ -987,6 +1096,7 @@
     "basica": "FALSE",
     "ano": 1989,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372"
   },
   {
@@ -996,6 +1106,7 @@
     "basica": "FALSE",
     "ano": 2011,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X"
   },
   {
@@ -1005,6 +1116,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.amazon.com.br/Estruturas-dados-algoritmos-Jayme-Szwarcfiter/dp/852161750X?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=7b8073c6-661a-4459-9f24-f9b867ec4a46"
   },
   {
@@ -1014,6 +1126,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Human-Computer-Interaction-3rd-Alan-Dix/dp/0130461091"
   },
   {
@@ -1023,6 +1136,7 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.amazon.com.br/Design-Intera%C3%A7%C3%A3o-Al%C3%A9m-Intera%C3%A7%C3%A3o-Homem-Computador/dp/8582600062"
   },
   {
@@ -1032,6 +1146,7 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Designing-Interfaces-Patterns-Effective-Interaction/dp/1449379702"
   },
   {
@@ -1041,6 +1156,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.amazon.com.br/Intera%C3%A7%C3%A3o-Humano-Computador-Simone-Junqueira-Barbosa/dp/8535234187?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=7b8073c6-661a-4459-9f24-f9b867ec4a46"
   },
   {
@@ -1050,6 +1166,7 @@
     "basica": "FALSE",
     "ano": 2012,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Human-Computer-Interaction-Handbook-Fundamentals/dp/1439829438"
   },
   {
@@ -1059,6 +1176,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.co.uk/Research-Methods-Human-computer-Interaction-Jonathan/dp/0470723378"
   },
   {
@@ -1068,6 +1186,7 @@
     "basica": "FALSE",
     "ano": 2013,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Human-Computer-Interaction-Empirical-Research-Perspective/dp/0124058655"
   },
   {
@@ -1077,6 +1196,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions/dp/0596516258"
   },
   {
@@ -1086,6 +1206,7 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/sistemas-de-banco-de-dados-6-ed-3371139.html"
   },
   {
@@ -1095,6 +1216,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.amazon.com.br/Projeto-Banco-Dados-C-Heuser/dp/8577803821?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=7b8073c6-661a-4459-9f24-f9b867ec4a46"
   },
   {
@@ -1104,6 +1226,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/sistema-de-banco-de-dados-6-ed-4238104.html"
   },
   {
@@ -1113,6 +1236,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.co.uk/Database-Systems-Practical-Implementation-Management/dp/0321523067"
   },
   {
@@ -1122,6 +1246,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/introducao-a-sistemas-de-bancos-de-dados-8-edicao-148051.html"
   },
   {
@@ -1131,6 +1256,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1140,6 +1266,7 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1149,6 +1276,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1158,6 +1286,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1167,6 +1296,7 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1176,6 +1306,7 @@
     "basica": "TRUE",
     "ano": 2008,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1185,6 +1316,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1194,6 +1326,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1203,6 +1336,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1212,6 +1346,7 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1221,6 +1356,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1230,6 +1366,7 @@
     "basica": "TRUE",
     "ano": 1983,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1239,6 +1376,7 @@
     "basica": "TRUE",
     "ano": 2005,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1248,6 +1386,7 @@
     "basica": "TRUE",
     "ano": 2008,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1257,6 +1396,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1266,6 +1406,7 @@
     "basica": "FALSE",
     "ano": 2013,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1275,6 +1416,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1284,6 +1426,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1293,6 +1436,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1302,6 +1446,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1311,6 +1456,7 @@
     "basica": "TRUE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1320,6 +1466,7 @@
     "basica": "TRUE",
     "ano": 2002,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1329,6 +1476,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1338,6 +1486,7 @@
     "basica": "FALSE",
     "ano": 1989,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1347,6 +1496,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1356,6 +1506,7 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1365,6 +1516,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1374,6 +1526,7 @@
     "basica": "TRUE",
     "ano": 2004,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1383,6 +1536,7 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1392,6 +1546,7 @@
     "basica": "TRUE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1401,6 +1556,7 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1410,6 +1566,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1419,6 +1576,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1428,6 +1586,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1437,6 +1596,7 @@
     "basica": "FALSE",
     "ano": 1996,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1446,6 +1606,7 @@
     "basica": "TRUE",
     "ano": 2008,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1455,6 +1616,7 @@
     "basica": "TRUE",
     "ano": 2004,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1464,6 +1626,7 @@
     "basica": "TRUE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1473,6 +1636,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1482,6 +1646,7 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1491,6 +1656,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1500,6 +1666,7 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1509,6 +1676,7 @@
     "basica": "FALSE",
     "ano": 1991,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1518,6 +1686,7 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1527,6 +1696,7 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1536,6 +1706,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1545,6 +1716,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1554,6 +1726,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1563,6 +1736,7 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1572,6 +1746,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1581,6 +1756,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1590,6 +1766,7 @@
     "basica": "TRUE",
     "ano": 2001,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1599,6 +1776,7 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1608,6 +1786,7 @@
     "basica": "TRUE",
     "ano": 2008,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1617,6 +1796,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1626,6 +1806,7 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1635,6 +1816,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1644,6 +1826,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1653,6 +1836,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1662,6 +1846,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1671,6 +1856,7 @@
     "basica": "TRUE",
     "ano": 2000,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1680,6 +1866,7 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1689,6 +1876,7 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1698,6 +1886,7 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1707,6 +1896,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1716,6 +1906,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1725,6 +1916,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1734,6 +1926,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1743,6 +1936,7 @@
     "basica": "TRUE",
     "ano": 2001,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1752,6 +1946,7 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1761,6 +1956,7 @@
     "basica": "TRUE",
     "ano": 1998,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1770,6 +1966,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1779,6 +1976,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1788,6 +1986,7 @@
     "basica": "FALSE",
     "ano": 1987,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1797,6 +1996,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1806,6 +2006,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1815,6 +2016,7 @@
     "basica": "TRUE",
     "ano": 2005,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1824,6 +2026,7 @@
     "basica": "TRUE",
     "ano": 2015,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1833,6 +2036,7 @@
     "basica": "TRUE",
     "ano": 2005,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1842,6 +2046,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1851,6 +2056,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1860,6 +2066,7 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1869,6 +2076,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1878,6 +2086,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1887,6 +2096,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1896,6 +2106,7 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1905,6 +2116,7 @@
     "basica": "TRUE",
     "ano": 2001,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1914,6 +2126,7 @@
     "basica": "FALSE",
     "ano": 2016,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1923,6 +2136,7 @@
     "basica": "FALSE",
     "ano": 1968,
     "lingua": "es",
+    "bc": "",
     "url": ""
   },
   {
@@ -1932,6 +2146,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1941,6 +2156,7 @@
     "basica": "FALSE",
     "ano": 1992,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1950,6 +2166,7 @@
     "basica": "FALSE",
     "ano": 1993,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1959,6 +2176,7 @@
     "basica": "TRUE",
     "ano": 2005,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1968,6 +2186,7 @@
     "basica": "TRUE",
     "ano": 2015,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1977,6 +2196,7 @@
     "basica": "TRUE",
     "ano": 2007,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -1986,6 +2206,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -1995,6 +2216,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2004,6 +2226,7 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2013,6 +2236,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2022,6 +2246,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2031,6 +2256,7 @@
     "basica": "TRUE",
     "ano": 2004,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2040,6 +2266,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2049,6 +2276,7 @@
     "basica": "TRUE",
     "ano": 2002,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2058,6 +2286,7 @@
     "basica": "FALSE",
     "ano": 2015,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2067,6 +2296,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2076,6 +2306,7 @@
     "basica": "FALSE",
     "ano": 1990,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -2085,6 +2316,7 @@
     "basica": "FALSE",
     "ano": 1992,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2094,6 +2326,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2103,6 +2336,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2112,6 +2346,7 @@
     "basica": "TRUE",
     "ano": 2008,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2121,6 +2356,7 @@
     "basica": "TRUE",
     "ano": 2004,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2130,6 +2366,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2139,6 +2376,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2148,6 +2386,7 @@
     "basica": "FALSE",
     "ano": 1999,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2157,6 +2396,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2166,6 +2406,7 @@
     "basica": "FALSE",
     "ano": 1994,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2175,6 +2416,7 @@
     "basica": "TRUE",
     "ano": 2008,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2184,6 +2426,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2193,6 +2436,7 @@
     "basica": "TRUE",
     "ano": 1994,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2202,6 +2446,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -2211,6 +2456,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2220,6 +2466,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
+    "bc": "",
     "url": ""
   },
   {
@@ -2229,6 +2476,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Agile-Software-Development-Alistair-Cockburn/dp/0201699699/ref=sr_1_2?ie=UTF8&qid=1510098556&sr=8-2&keywords=agile+software+development+cockburn"
   },
   {
@@ -2238,6 +2486,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Agile-Software-Development-Scrum/dp/0130676349/ref=sr_1_1?s=books&ie=UTF8&qid=1510098477&sr=1-1&keywords=Agile+software+development+with+Scrum&dpID=41Np7EWbZHL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2247,6 +2496,7 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Software-Product-Quality-Control-Stefan/dp/3642385702/ref=sr_1_1?s=books&ie=UTF8&qid=1510098439&sr=1-1&keywords=Software+Product+Quality+Control&dpID=41LMhAirhnL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2256,6 +2506,7 @@
     "basica": "TRUE",
     "ano": 2004,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Software-Quality-Assurance-Theory-Implementation/dp/0201709457/ref=sr_1_1?s=books&ie=UTF8&qid=1510098407&sr=1-1&keywords=Software+Quality+Assurance%3A+From+Theory+to+Implementation&dpID=51I5xsnpifL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2265,6 +2516,7 @@
     "basica": "TRUE",
     "ano": 1996,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/C-Software-Quality-Tools/dp/0134451236/ref=sr_1_8?s=books&ie=UTF8&qid=1510098368&sr=1-8&keywords=C%2FC%2B%2B+software+quality+tools"
   },
   {
@@ -2274,6 +2526,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://novatec.com.br/livros/qualidade-de-software-2ed/"
   },
   {
@@ -2283,6 +2536,7 @@
     "basica": "FALSE",
     "ano": 2015,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "http://www.academia.edu/6542351/Desenho_e_implementa%C3%A7%C3%A3o_de_instrumentos_de_pol%C3%ADticas_p%C3%BAblicas_para_o_setor_de_tecnologias_da_informa%C3%A7%C3%A3o_e_comunica%C3%A7%C3%A3o_o_caso_da_Certifica%C3%A7%C3%A3o_de_Tecnologia_e_Inova%C3%A7%C3%A3o_em_Software_no_pa%C3%ADs_-CERTICS"
   },
   {
@@ -2292,6 +2546,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Engineering-Complex-Systems-Models-Objects/dp/0070481881/ref=sr_1_1?s=books&ie=UTF8&qid=1510098015&sr=1-1&keywords=Engineering+complex+systems+with+models+and+objects&dpID=519HA1GEBJL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2301,6 +2556,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Metrics-Models-Software-Quality-Engineering/dp/0201729156/ref=sr_1_1?s=books&ie=UTF8&qid=1510097985&sr=1-1&keywords=Metrics+and+models+in+software+quality+engineering"
   },
   {
@@ -2310,6 +2566,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/garantia-de-qualidade-de-software-117097.html"
   },
   {
@@ -2319,6 +2576,7 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/um-guia-do-conhecimento-em-gerenciamento-de-projetos-guia-pmbokr-5-ed-2014-7076153.html"
   },
   {
@@ -2328,6 +2586,7 @@
     "basica": "TRUE",
     "ano": 2010,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Mastering-Software-Project-Management-Techniques/dp/1604270349/ref=sr_1_1?s=books&ie=UTF8&qid=1510097832&sr=1-1&keywords=Mastering+Software+Project+Management%3A+Best+Practices&dpID=51McVirDb0L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2337,6 +2596,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415/ref=sr_1_1?s=books&ie=UTF8&qid=1510097801&sr=1-1&keywords=Agile+estimating+and+planning&dpID=51I7-xMCQDL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2346,6 +2606,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Managing-Leading-Software-Projects-Richard/dp/0470294558/ref=sr_1_1?s=books&ie=UTF8&qid=1510097752&sr=1-1&keywords=Managing+and+Leading+Software+Projects&dpID=51%252Bblkg%252BtdL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2355,6 +2616,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Agile-Project-Management-Creating-Innovative/dp/0321658396/ref=sr_1_2?s=books&ie=UTF8&qid=1510097714&sr=1-2&keywords=Agile+project+management%3A+creating+innovative+products&dpID=41Np7RGJmDL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2364,6 +2626,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Agile-Project-Management-Developer-Practices/dp/073561993X/ref=sr_1_3?s=books&ie=UTF8&qid=1510097667&sr=1-3&keywords=Agile+project+management+with+Scrum&dpID=51G-Vkd-beL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2373,6 +2636,7 @@
     "basica": "FALSE",
     "ano": 1991,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://books.google.com.br/books/about/Controle_de_projetos_de_software.html?id=iS6tkgEACAAJ&redir_esc=y"
   },
   {
@@ -2382,6 +2646,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/livros/jose-carlos-cordeiro-martins/gerenciando-projetos-de-desenvolvimento-de-software-com-pmi-rup-e-uml/84371505"
   },
   {
@@ -2391,6 +2656,7 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Software-Design-2nd-David-Budgen/dp/0201722194/ref=sr_1_1?s=books&ie=UTF8&qid=1510097433&sr=1-1&keywords=Software+Design+budgen"
   },
   {
@@ -2400,6 +2666,7 @@
     "basica": "TRUE",
     "ano": 2014,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Adaptive-Code-principles-Developer-Practices/dp/1509302581/ref=sr_1_sc_2?s=books&ie=UTF8&qid=1510097063&sr=1-2-spell&keywords=Adptive+Code+via+C%23"
   },
   {
@@ -2409,6 +2676,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Agile-Documentation-Producing-Lightweight-Documents/dp/0470856173/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1510097035&sr=1-1-spell&keywords=Agile+documentationa+pattern+guide+to+producing+lightweight+documents"
   },
   {
@@ -2418,6 +2686,7 @@
     "basica": "FALSE",
     "ano": 2015,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709/ref=sr_1_1?s=books&ie=UTF8&qid=1510097007&sr=1-1&keywords=Patterns%2C+Principles%2C+and+Practices+of+Domain-Driven+Design&dpID=51Mgnej8jrL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2427,6 +2696,7 @@
     "basica": "FALSE",
     "ano": 1999,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/eldoradolivros/edward-yourdon-e-carl-argila-analise-e-projeto-orientados-a-objetos-142592969"
   },
   {
@@ -2436,6 +2706,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1510096810&sr=1-1-spell&keywords=Applyng+UML+and+patternsan+introduction+to+object-oriented+analysis+and+design"
   },
   {
@@ -2445,6 +2716,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1510096756&sr=1-1-fkmr0&keywords=Domain-driven+design%3A+tackling+complexity+in+the+heart+of+software+Boston"
   },
   {
@@ -2454,6 +2726,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Object-Oriented-Design-Patterns-Cay-Horstmann/dp/0471744875/ref=sr_1_3?s=books&ie=UTF8&qid=1510096715&sr=1-3&keywords=Object-oriented+design+%26+patterns&dpID=51I7p4lniQL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2463,6 +2736,7 @@
     "basica": "TRUE",
     "ano": 2010,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Enterprise-Governance-Information-Technology-Achieving/dp/0387848819/ref=sr_1_1?s=books&ie=UTF8&qid=1510096688&sr=1-1&keywords=Enterprise+Governance+of+Information+Technology%3A+Achieving+Strategic+Alignment+and+Value&dpID=51nhEYUwQ2L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2472,6 +2746,7 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Metrics-Service-Management-Designing-Practice/dp/9087536488/ref=sr_1_1?s=books&ie=UTF8&qid=1510096653&sr=1-1&keywords=Metrics+for+Service+Management%3A+Designing+for+ITIL&dpID=41THXuv3B3L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2481,6 +2756,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "http://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=196436"
   },
   {
@@ -2490,6 +2766,7 @@
     "basica": "FALSE",
     "ano": 2013,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Contract-Negotiation-Handbook-Software-Service/dp/0988830809/ref=sr_1_1?s=books&ie=UTF8&qid=1510096143&sr=1-1&keywords=Contract+Negotiation+Handbook%3A+Software+as+a+Service&dpID=51pMf4Eu8vL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2499,6 +2776,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Advances-Software-Engineering-Comprehension-Evaluation/dp/1441928782/ref=sr_1_1?s=books&ie=UTF8&qid=1510095700&sr=1-1&keywords=Advances+in+software+engineering+comprehension%2C+evaluation%2C+and+evolution&dpID=51dNWr0r37L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2508,6 +2786,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Configuration-Management-Principles-Practice-Jonassen/dp/0321117662/ref=sr_1_1?s=books&ie=UTF8&qid=1510095667&sr=1-1&keywords=Configuration+management+principles+and+practice&dpID=517DFCHYDAL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2517,6 +2796,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Enterprise-Modeling-UML-Designing-Successful/dp/0201433133/ref=sr_1_2?s=books&ie=UTF8&qid=1510095620&sr=1-2&keywords=Enterprise+modeling+with+UML&dpID=51Q9XD4C3NL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2526,6 +2806,7 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "http://www.cgee.org.br/atividades/redirect.php?idProduto=1903"
   },
   {
@@ -2535,6 +2816,7 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734/ref=sr_1_1?s=books&ie=UTF8&qid=1510095511&sr=1-1&keywords=Software+Architecture+in+Practice&dpID=51zvT3LdPSL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2544,6 +2826,7 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Documenting-Software-Architectures-Views-Beyond/dp/0321552687/ref=sr_1_1?s=books&ie=UTF8&qid=1510095481&sr=1-1&keywords=Documenting+Software+Architectures%3A+Views+and+Beyond&dpID=51mRp4Nc5IL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2553,6 +2836,7 @@
     "basica": "TRUE",
     "ano": 2002,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/livros/antonio-mendes/arquitetura-de-software/4240099968"
   },
   {
@@ -2562,6 +2846,7 @@
     "basica": "FALSE",
     "ano": 2016,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Designing-Software-Architectures-Practical-Engineering/dp/0134390784/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1510095360&sr=1-1-fkmr0&keywords=Designing+Software+Archtectures%3A+A+Practical+Approach"
   },
   {
@@ -2571,6 +2856,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Architecting-RM-ODP-Janis-R-Putman/dp/0130191167/ref=sr_1_1?s=books&ie=UTF8&qid=1510095325&sr=1-1&keywords=Architecting+with+RM-ODP&dpID=51K0PN3T9PL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2580,6 +2866,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Component-Based-Software-Engineering-Putting-Together/dp/0201704854/ref=sr_1_1?s=books&ie=UTF8&qid=1510095295&sr=1-1&keywords=Component-based+software+engineering%3A+putting+the+pieces+together&dpID=41HMX6P4WYL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2589,6 +2876,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Design-Use-Software-Architectures-Product-Line/dp/0201674947/ref=sr_1_1?s=books&ie=UTF8&qid=1510095261&sr=1-1&keywords=Design+and+use+of+software+architectures%3A+adopting+and+evolving+a+product-line+approach&dpID=51XSXD3KbuL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2598,6 +2886,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Expert-One-One-Development-without/dp/0764558315/ref=sr_1_1?s=books&ie=UTF8&qid=1510095233&sr=1-1&keywords=Expert+one-on-one+J2EE+development+without+EJB&dpID=51k7%252BLvggJL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2607,6 +2896,7 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Software-Requirements-Developer-Best-Practices/dp/0735679665/ref=sr_1_1?s=books&ie=UTF8&qid=1510095172&sr=1-1&keywords=Software+Requirements&dpID=5106aWpXVVL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2616,6 +2906,7 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Mastering-Requirements-Process-Getting-Right/dp/0321815742/ref=sr_1_1?s=books&ie=UTF8&qid=1510095134&sr=1-1&keywords=Mastering+the+Requirements+Process%3A+Getting+Requirements&dpID=51OxqECesuL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2625,6 +2916,7 @@
     "basica": "TRUE",
     "ano": 2001,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Applying-Use-Cases-Practical-Guide/dp/0201708531/ref=sr_1_1?s=books&ie=UTF8&qid=1510095108&sr=1-1&keywords=Applying+use+cases%3A+a+practical+guide&dpID=41JGWQZ4P1L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2634,6 +2926,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258/ref=sr_1_1?s=books&ie=UTF8&qid=1510095075&sr=1-1&keywords=Writing+Effective+Use+Cases"
   },
   {
@@ -2643,6 +2936,7 @@
     "basica": "FALSE",
     "ano": 1990,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/livros/sally-shlaer-stephen-j-mellor/analise-de-sistemas-orientada-para-objetos/805636763"
   },
   {
@@ -2652,6 +2946,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Advanced-Use-Case-Modeling-Software/dp/0201615924/ref=sr_1_1?s=books&ie=UTF8&qid=1510094989&sr=1-1&keywords=Advanced+use+case+modeling%3A+software+systems"
   },
   {
@@ -2661,6 +2956,7 @@
     "basica": "FALSE",
     "ano": 1996,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/livros/peter-coad-edward-yourdon/analise-baseada-em-objetos/2697772926"
   },
   {
@@ -2670,6 +2966,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/More-About-Software-Requirements-Practical/dp/0735622671/ref=sr_1_1?s=books&ie=UTF8&qid=1510094835&sr=1-1&keywords=More+about+software+requirements%3A+thorny+issues&dpID=51JjRN1DwDL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2679,6 +2976,7 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652/ref=sr_1_1?s=books&ie=UTF8&qid=1510094804&sr=1-1&keywords=Lean+UX%3A+Applying+Lean+Principles+to+Improve+User+Experience"
   },
   {
@@ -2688,6 +2986,7 @@
     "basica": "TRUE",
     "ano": 2014,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?s=books&ie=UTF8&qid=1510094775&sr=1-1&keywords=Don%C2%B4t+make+me+think%3A+revisited&dpID=51pnouuPO5L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2697,6 +2996,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/ajax-guia-de-programacao-1568542.html"
   },
   {
@@ -2706,6 +3006,7 @@
     "basica": "FALSE",
     "ano": 2015,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Interaction-Design-Beyond-Human-Computer/dp/1119020751/ref=sr_1_1?s=books&ie=UTF8&qid=1510094705&sr=1-1&keywords=Interaction+Design%3A+Beyond+Human-Computer+Interaction&dpID=51a5Wfy%252BtQL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2715,6 +3016,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/ergonomia-e-usabilidade-conhecimentos-metodos-e-aplicacoes-3-ed-2015-9209593.html"
   },
   {
@@ -2724,6 +3026,7 @@
     "basica": "FALSE",
     "ano": 1991,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Developing-Software-User-Interface-Engineering/dp/0201510464/ref=sr_1_6?s=books&ie=UTF8&qid=1510094609&sr=1-6&keywords=Developing+software+for+the+user+interface"
   },
   {
@@ -2733,6 +3036,7 @@
     "basica": "FALSE",
     "ano": 1993,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Developing-User-Interfaces-Usability-Professional/dp/0471578134/ref=sr_1_1?s=books&ie=UTF8&qid=1510094571&sr=1-1&keywords=Developing+user+interfaces%3A+ensuring+usability+through+product&dpID=51WPV50J26L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2742,6 +3046,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Developing-User-Interfaces-Interactive-Technologies/dp/1558604189/ref=sr_1_1?s=books&ie=UTF8&qid=1510094540&sr=1-1&keywords=Developing+user+interfaces&dpID=41Cd%252BbnuQNL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2751,6 +3056,7 @@
     "basica": "TRUE",
     "ano": 2014,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Seven-Concurrency-Models-Weeks-Programmers/dp/1937785653/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1510094496&sr=1-1-spell&keywords=Seven+Concurrent+Models+in+Seven+Weeks"
   },
   {
@@ -2760,6 +3066,7 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Service-Design-Patterns-Fundamental-Solutions/dp/032154420X/ref=sr_1_1?s=books&ie=UTF8&qid=1510094470&sr=1-1&keywords=Service+Design+Pattern"
   },
   {
@@ -2769,6 +3076,7 @@
     "basica": "TRUE",
     "ano": 1995,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Designing-Building-Parallel-Programs-Engineering/dp/0201575949/ref=sr_1_1?s=books&ie=UTF8&qid=1510094440&sr=1-1&keywords=Designing+and+building+parallel+programs&dpID=51t0-JjslgL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2778,6 +3086,7 @@
     "basica": "FALSE",
     "ano": 2015,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/ref=sr_1_1?s=books&ie=UTF8&qid=1510094405&sr=1-1&keywords=Building+Microservices"
   },
   {
@@ -2787,6 +3096,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Client-Server-Beyond-Strategies-Century/dp/0135325161/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1510094329&sr=1-1-spell&keywords=Client%2Fserver+%26+beyound+strategies+for+21st+century"
   },
   {
@@ -2796,6 +3106,7 @@
     "basica": "FALSE",
     "ano": 1993,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Development-Distributed-Software-Concepts-Tools/dp/0024096113/ref=sr_1_5?s=books&ie=UTF8&qid=1510094294&sr=1-5&keywords=Development+of+distributed+software+concepts+and+tools&dpID=41qaBR2fAQL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2805,6 +3116,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Fundamentals-Object-Oriented-Design-Meilir-Page-Jones/dp/020169946X/ref=sr_1_1?s=books&ie=UTF8&qid=1510094268&sr=1-1&keywords=Fundamentals+of+object-oriented+design+in+UML&dpID=51VNXZ4EEAL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2814,6 +3126,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Introduction-Reliable-Secure-Distributed-Programming/dp/3642152597/ref=sr_1_1?s=books&ie=UTF8&qid=1510094240&sr=1-1&keywords=Introduction+to+reliable+distributed+programming&dpID=41aHrbARF0L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2823,6 +3136,7 @@
     "basica": "TRUE",
     "ano": 2002,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?s=books&ie=UTF8&qid=1510094214&sr=1-1&keywords=Patterns+of+Enterprise+Application+Architecture&dpID=51IuDvAU1CL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2832,6 +3146,7 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Service-Design-Patterns-Fundamental-Solutions/dp/032154420X/ref=sr_1_1?s=books&ie=UTF8&qid=1510094188&sr=1-1&keywords=Service+Design+Patterns&dpID=41A7b4McRzL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2841,6 +3156,7 @@
     "basica": "TRUE",
     "ano": 2001,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Pattern-Oriented-Software-Architecture-System-Patterns/dp/0471958697/ref=sr_1_1?s=books&ie=UTF8&qid=1510094155&sr=1-1&keywords=Pattern-oriented+software+architecture&dpID=514m0AzqWLL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2850,6 +3166,7 @@
     "basica": "FALSE",
     "ano": 2013,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/ref=sr_1_1?s=books&ie=UTF8&qid=1510094124&sr=1-1&keywords=Implementing+Domain-Driven+Design&dpID=51DAelADFFL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2859,6 +3176,7 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1510094100&sr=1-1&keywords=Design+patterns+elements+of+reusable+object-oriented+software"
   },
   {
@@ -2868,6 +3186,7 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Design-Patterns-Explained-Perspective-Oriented/dp/0321247140/ref=sr_1_1?s=books&ie=UTF8&qid=1510094069&sr=1-1&keywords=Design+patterns+explained%3A+a+new+perspective+on+object-oriented+design&dpID=51eaSXNpF%252BL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2877,6 +3196,7 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Design-Patterns-Object-Oriented-Software-Development/dp/0201422948/ref=sr_1_1?s=books&ie=UTF8&qid=1510094033&sr=1-1&keywords=Design+patterns+pree"
   },
   {
@@ -2886,6 +3206,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=sr_1_1?s=books&ie=UTF8&qid=1510093967&sr=1-1&keywords=Head+First+design+patterns&dpID=61APhXCksuL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2895,6 +3216,7 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Art-Software-Testing-Glenford-Myers/dp/1118031962/ref=sr_1_1?s=books&ie=UTF8&qid=1510093943&sr=1-1&keywords=The+Art+of+Software+Testing&dpID=51TLotBukwL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2904,6 +3226,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Practitioners-Guide-Software-Test-Design/dp/158053791X/ref=sr_1_1?s=books&ie=UTF8&qid=1510093913&sr=1-1&keywords=A+Practitioner%E2%80%99s+Guide+to+Software+Test+Design&dpID=514pvIfMFGL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2913,6 +3236,7 @@
     "basica": "TRUE",
     "ano": 2001,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Practical-Guide-Testing-Object-Oriented-Software/dp/0201325640/ref=sr_1_1?s=books&ie=UTF8&qid=1510093883&sr=1-1&keywords=A+practical+guide+to+testing+object-oriented+software&dpID=51DzSwcU5KL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2922,6 +3246,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054/ref=sr_1_1?s=books&ie=UTF8&qid=1510093852&sr=1-1&keywords=xUnit+test+patterns%3A+refactoring+test+code&dpID=517GxwaFMvL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2931,6 +3256,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Client-Server-Software-Testing-Desktop/dp/0131838806/ref=sr_1_1?s=books&ie=UTF8&qid=1510093818&sr=1-1&keywords=Client-server+software+testing+on+the+desktop+and+the+Web&dpID=51WF79JVSSL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2940,6 +3266,7 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Component-Based-Software-Testing-Hans-Gerhard-Gross-ebook/dp/B000PY3VZC/ref=sr_1_2?s=books&ie=UTF8&qid=1510093788&sr=1-2&keywords=Component-based+software+testing+with+UML"
   },
   {
@@ -2949,6 +3276,7 @@
     "basica": "FALSE",
     "ano": 1999,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Effective-Methods-Software-Testing-Guidelines/dp/0764598376/ref=sr_1_1?s=books&ie=UTF8&qid=1510093761&sr=1-1&keywords=Effective+methods+for+software+testing&dpID=51UoDS8pMFL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2958,6 +3286,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Effective-Software-Test-Automation-Developing/dp/0782143202/ref=sr_1_1?s=books&ie=UTF8&qid=1510093728&sr=1-1&keywords=Effective+software+test+automation+developing+an+automated&dpID=516-ixYhn8L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2967,6 +3296,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Software-Security-Building-Gary-McGraw/dp/0321356705"
   },
   {
@@ -2976,6 +3306,7 @@
     "basica": "TRUE",
     "ano": 2015,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Internet-Things-Press-Essential-Knowledge-ebook/dp/B00VB7I9VS/ref=sr_1_1?s=books&ie=UTF8&qid=1510093604&sr=1-1&keywords=The+Internet+of+Things"
   },
   {
@@ -2985,6 +3316,7 @@
     "basica": "TRUE",
     "ano": 2001,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Introduction-Design-Small-Scale-Embedded-Systems/dp/0333929942/ref=sr_1_1?s=books&ie=UTF8&qid=1510093576&sr=1-1&keywords=An+introduction+to+the+design+of+small-scale+embedded+systems&dpID=41dMYT6KMHL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2994,6 +3326,7 @@
     "basica": "FALSE",
     "ano": 2014,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Iron-Clad-Java-Building-Secure-Applications/dp/0071835881/ref=sr_1_1?s=books&ie=UTF8&qid=1510093542&sr=1-1&keywords=Iron-Clad+Java%3A+Building+Secure+Web+Applications&dpID=51krky9KfHL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3003,6 +3336,7 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Deadly-Sins-Software-Security-Programming/dp/0072260858/ref=sr_1_1?s=books&ie=UTF8&qid=1510093513&sr=1-1&keywords=19+deadly+sins+of+software"
   },
   {
@@ -3012,6 +3346,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/dominando-o-desenvolvimento-no-iphone-explorando-o-sdk-do-iphone-3-ed-2014-7873704.html"
   },
   {
@@ -3021,6 +3356,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Embedded-System-Design-Hardware-Introduction/dp/0471386782/ref=sr_1_1?s=books&ie=UTF8&qid=1510093078&sr=1-1&keywords=Embedded+system+design%3A+a+unified+hardware%2Fsoftware+introduction&dpID=51Xj-9wyGgL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3030,6 +3366,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Foundations-Security-Every-Programmer-Experts/dp/1590597842/ref=sr_1_1?s=books&ie=UTF8&qid=1510093037&sr=1-1&keywords=Foundations+of+security%3A+what+every+programmer+needs+to+know&dpID=51it2qilGxL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3039,6 +3376,7 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Data-Access-Highly-Scalable-Solutions-Persistence-ebook/dp/B00FJA11HW/ref=sr_1_1?s=books&ie=UTF8&qid=1510092934&sr=1-1&keywords=Data+Access+for+Highly-Scalable+Solutions%3A+Using+SQL%2C+NoSQL%2C+and+Polyglot+Persistence"
   },
   {
@@ -3048,6 +3386,7 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Data-Access-Highly-Scalable-Solutions-Persistence-ebook/dp/B00FJA11HW/ref=sr_1_1?s=books&ie=UTF8&qid=1510092934&sr=1-1&keywords=Data+Access+for+Highly-Scalable+Solutions%3A+Using+SQL%2C+NoSQL%2C+and+Polyglot+Persistence"
   },
   {
@@ -3057,6 +3396,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Agile-Database-Techniques-Effective-Strategies/dp/0471202835/ref=sr_1_1?s=books&ie=UTF8&qid=1510092899&sr=1-1&keywords=Agile+database+techniques%3A+effective+strategies+for+the+agile+software+developer&dpID=51%252BciDz-aqL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3066,6 +3406,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Refactoring-Databases-Evolutionary-paperback-Addison-Wesley/dp/0321774515/ref=sr_1_1?s=books&ie=UTF8&qid=1510092865&sr=1-1&keywords=refactoring+databases&dpID=51b0kaalNnL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3075,6 +3416,7 @@
     "basica": "FALSE",
     "ano": 1989,
     "lingua": "pt-BR",
+    "bc": "",
     "url": ""
   },
   {
@@ -3084,6 +3426,7 @@
     "basica": "FALSE",
     "ano": 1999,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Building-Distributed-Applications-William-Martiner/dp/0471317012/ref=sr_1_1?s=books&ie=UTF8&qid=1510092749&sr=1-1&keywords=building+distributed+applications+with+ado"
   },
   {
@@ -3093,6 +3436,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com.br/Java-Persistence-Hibernate-Christian-Bauer/dp/8573936142"
   },
   {
@@ -3102,6 +3446,7 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "http://loja.grupoa.com.br/livros/fundamentos-da-computacao-e-tecnologia-da-informacao/projeto-desenvolvimento-de-aplicacoes-e-administracao-de-banco-de-dados/9788577260201"
   },
   {
@@ -3111,6 +3456,7 @@
     "basica": "TRUE",
     "ano": 2015,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038/ref=sr_1_1?s=books&ie=UTF8&qid=1510092612&sr=1-1&keywords=software+engineering+sommerville&dpID=61GMYPmO%252BrL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3120,6 +3466,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "en",
+    "bc": "",
     "url": "https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?ie=UTF8&qid=1510092349&sr=8-1&keywords=code+complete+3rd+edition&dpID=51FUYfErOXL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3129,6 +3476,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/engenharia-de-software-fundamentos-metodos-e-padroes-3-ed-2009-2638301.html"
   },
   {
@@ -3138,6 +3486,7 @@
     "basica": "FALSE",
     "ano": 2014,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/engenharia-de-software-uma-abordagem-profissional-8-ed-2016-9259039.html"
   },
   {
@@ -3147,6 +3496,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/engenharia-de-software-os-paradigmas-classico-e-orientado-a-objetos-3527948.html"
   },
   {
@@ -3156,6 +3506,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/engenharia-de-software-teoria-e-pratica-142344.html"
   },
   {
@@ -3165,6 +3516,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.estantevirtual.com.br/seboelojao/james-f-peters-witold-pedrycz-engenharia-de-software-teoria-e-pratica-766964901"
   },
   {
@@ -3174,6 +3526,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
+    "bc": "",
     "url": "https://www.saraiva.com.br/engenharia-de-software-aplicada-principios-1446310.html"
   }
 ]
