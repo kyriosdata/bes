@@ -22,8 +22,8 @@
         <div class="disciplina-detalhe">
             ({{dados.id}} {{dados.ch}} horas &nbsp;&nbsp;{{dados.sem}}.&ordm;
             semestre, pág. {{dados.pag}}, núcleo {{#unless
-            condicoes}}comum{{else}}específico{{/unless}}, {{dados.eixo}}, {{#if
-            dados.obr}}obrigatória{{else}}opcional{{/if}})
+            condicoes}}comum{{else}}específico{{/unless}}, {{dados.eixo}}, {{#is
+            dados.obr "S"}}obrigatória{{else}}opcional{{/is}})
         </div>
 
         <div class="disciplina-rotulo">ementa</div>
@@ -167,6 +167,13 @@
 
         update();
     }
+
+    Handlebars.registerHelper('is', function(a, b, opts) {
+        if(a == b) // Or === depending on your needs
+            return opts.fn(this);
+        else
+            return opts.inverse(this);
+    });
 
     fetch("data/nos.json")
         .then(function (d) {
