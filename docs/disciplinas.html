@@ -130,19 +130,19 @@
         exibe();
     }
 
+    function responseToJson(p) {
+        return p.json();
+    }
+
     window.onload = function () {
 
         var grafo = fetch("d3.json");
-        grafo.then(function (response) {
-            return response.json();
-        })
+        grafo.then(responseToJson)
             .then(function (data) {
                 baseDados = data;
                 return fetch("data/disciplinas.json");
             })
-            .then(function (response) {
-                return response.json();
-            })
+            .then(responseToJson)
             .then(trataDisciplinas);
     }
 </script>
