@@ -60,6 +60,8 @@
 
 <script>
     var baseDados;
+    var nos;
+    var arestas;
     var disciplinas;
     var template;
 
@@ -125,14 +127,6 @@
         saida.innerHTML = html;
     }
 
-    Handlebars.registerHelper('is', function(a, b, opts) {
-        if(a == b) {
-            return opts.fn(this);
-        } else {
-            return opts.inverse(this);
-        }
-    });
-
     function exibe() {
         var source = document.getElementById('disciplina-template').innerHTML;
 
@@ -140,6 +134,14 @@
 
         update();
     }
+
+    Handlebars.registerHelper('is', function(a, b, opts) {
+        if(a == b) {
+            return opts.fn(this);
+        } else {
+            return opts.inverse(this);
+        }
+    });
 
     fetch("d3.json")
         .then(function (d) {
