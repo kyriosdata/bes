@@ -49,10 +49,19 @@
             </ul>
         </div>
 
-        <div class="disciplina-rotulo">Bibliografia</div>
+        <div class="disciplina-rotulo">Bibliografia básica</div>
         <div class="disciplina__bibliografia">
             <ul>
-                {{#each bibliografias}}
+                {{#each basicas}}
+                <li>{{this}}</li>
+                {{/each}}
+            </ul>
+        </div>
+
+        <div class="disciplina-rotulo">Bibliografia complementar</div>
+        <div class="disciplina__bibliografia">
+            <ul>
+                {{#each complementares}}
                 <li>{{this}}</li>
                 {{/each}}
             </ul>
@@ -61,7 +70,6 @@
 </script>
 
 <script>
-    var baseDados;
     var nos;
     var arestas;
     var disciplinas;
@@ -96,13 +104,23 @@
      * @returns {Array} Sequência dos componentes da ementa.
      */
     function ementa(id) {
-        var conteudos = getTargetPara(3, id);
+        let conteudos = getTargetPara(3, id);
         return getDescricoesPara(conteudos);
     }
 
     function condicoesMinimas(id) {
-        var conteudos = getTargetPara(2, id);
+        let conteudos = getTargetPara(2, id);
         return getDescricoesPara(conteudos);
+    }
+
+    function bibliografiaBasica(id) {
+        let basicas = getTargetPara(10, id);
+        return getDescricoesPara(basicas);
+    }
+
+    function bibliografiaComplementar(id) {
+        let complementares = getTargetPara(11, id);
+        return getDescricoesPara(complementares);
     }
 
     function update() {
@@ -113,7 +131,9 @@
             var disciplina = {
                 dados: disciplinas[idx],
                 ementa: ementa(id),
-                condicoes: condicoesMinimas(id)
+                condicoes: condicoesMinimas(id),
+                basicas: bibliografiaBasica(id),
+                complementares: bibliografiaComplementar(id)
             };
 
             html = html + template(disciplina);
