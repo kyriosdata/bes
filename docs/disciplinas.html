@@ -51,7 +51,10 @@
         <div class="disciplina__bibliografia">
             <ul>
                 {{#each basicas}}
-                <li>{{this}}</li>
+                <li>{{descricao}}
+                    <a href="{{url}}">
+                        <i class="fa fa-external-link" aria-hidden="true"></i>
+                    </a></li>
                 {{/each}}
             </ul>
         </div>
@@ -60,7 +63,7 @@
         <div class="disciplina__bibliografia">
             <ul>
                 {{#each complementares}}
-                <li>{{this}}</li>
+                <li>{{descricao}}</li>
                 {{/each}}
             </ul>
         </div>
@@ -68,10 +71,11 @@
 </script>
 
 <script>
-    var nos;
-    var arestas;
-    var disciplinas;
-    var template;
+    let nos;
+    let arestas;
+    let disciplinas;
+    let referencias;
+    let template;
 
     function getDescricoesPara(nodes) {
         let descricoes = [];
@@ -111,14 +115,25 @@
         return getDescricoesPara(conteudos);
     }
 
+    function getReferencia(nodes) {
+        let descricoes = [];
+        referencias.forEach(function (r) {
+            if (nodes.has(r.id)) {
+                descricoes.push(r);
+            }
+        });
+
+        return (descricoes.length === 0) ? undefined : descricoes;
+    }
+
     function bibliografiaBasica(id) {
         let basicas = getTargetPara(10, id);
-        return getDescricoesPara(basicas);
+        return getReferencia(basicas);
     }
 
     function bibliografiaComplementar(id) {
         let complementares = getTargetPara(11, id);
-        return getDescricoesPara(complementares);
+        return getReferencia(complementares);
     }
 
     function update() {
@@ -173,6 +188,15 @@
         })
         .then(function (d) {
             disciplinas = d;
+        })
+        .then(function() {
+            return fetch("data/bibliografias.json");
+        })
+        .then(function(d) {
+            return d.json();
+        })
+        .then(function(d) {
+            referencias = d;
         })
         .then(exibe);
 </script>
