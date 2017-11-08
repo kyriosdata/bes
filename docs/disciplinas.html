@@ -63,12 +63,18 @@
     var disciplinas;
     var template;
 
+    /**
+     * A ementa é união dos nós de destino que partem de uma
+     * disciplina e são do tipo 3.
+     * @param id O identificador único da disciplina.
+     * @param dados Base de dados contendo as arestas.
+     * @returns {Array} Sequência dos componentes da ementa.
+     */
     function ementa(id, dados) {
         var arestas = dados.links;
-        var origem = "D" + (id + 1);
         var conteudos = new Set();
         arestas.forEach(function (i) {
-            if (i.tipo === 3 && i.source === origem) {
+            if (i.tipo === 3 && i.source === id) {
                 conteudos.add(i.target);
             }
         });
@@ -79,6 +85,7 @@
                 descricoes.push(n.descricao);
             }
         });
+        
         return descricoes;
     }
 
@@ -106,7 +113,7 @@
         for (var idx = 0; idx < 44; idx++) {
             var disciplina = {
                 dados: disciplinas[idx],
-                ementa: ementa(idx, baseDados),
+                ementa: ementa(disciplinas[idx].id, baseDados),
                 condicoes: condicoesMinimas(idx, baseDados)
             };
 
