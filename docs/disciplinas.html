@@ -6,17 +6,15 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <script type="text/javascript"
             src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Karla|Noto+Sans|Patua+One|Source+Sans+Pro:300" rel="stylesheet">
 </head>
 
 <body>
-<input type="button" value="Refresh" onclick="update()">
-
 
 <span id="saida"></span>
 
 <script id="disciplina-template" type="text/x-handlebars-template">
     <article class="disciplina">
-        <div class="disciplina-rotulo">Nome</div>
         <div class="disciplina-nome">
             {{dados.descricao}}<br>
         </div>
@@ -27,7 +25,7 @@
             dados.obr}}obrigatória{{else}}opcional{{/if}})
         </div>
 
-        <div class="disciplina-rotulo">Ementa</div>
+        <div class="disciplina-rotulo">ementa</div>
         <div class="disciplina-ementa">
             <ul>
                 {{#each ementa}}
@@ -36,7 +34,7 @@
             </ul>
         </div>
 
-        <div class="disciplina-rotulo">Condições mínimas</div>
+        <div class="disciplina-rotulo">condições mínimas</div>
         <div class="disciplina__condicoes">
             <ul>
                 {{#if condicoes}}
@@ -49,7 +47,7 @@
             </ul>
         </div>
 
-        <div class="disciplina-rotulo">Bibliografia básica</div>
+        <div class="disciplina-rotulo">bibliografia básica</div>
         <div class="disciplina__bibliografia">
             <ul>
                 {{#each basicas}}
@@ -58,7 +56,7 @@
             </ul>
         </div>
 
-        <div class="disciplina-rotulo">Bibliografia complementar</div>
+        <div class="disciplina-rotulo">bibliografia complementar</div>
         <div class="disciplina__bibliografia">
             <ul>
                 {{#each complementares}}
