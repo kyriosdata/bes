@@ -1,142 +1,142 @@
 <!DOCTYPE html>
 <html>
-  <head>
-  <title>Disciplinas</title>
-  <meta charset="utf-8">
-  <link rel="stylesheet" type="text/css" href="style.css">
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
+<head>
+    <title>Disciplinas</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
 </head>
 
 <body>
-  <input type="button" value="Refresh" onclick="update()">
+<input type="button" value="Refresh" onclick="update()">
 
 
-  <span id="saida"></span>
+<span id="saida"></span>
 
-  <script id="disciplina-template" type="text/x-handlebars-template">
+<script id="disciplina-template" type="text/x-handlebars-template">
     <article class="disciplina">
-      <div class="disciplina-rotulo">Nome</div>
-      <div class="disciplina-nome">
-        {{dados.nome}}<br>
-      </div>
-      <div class="disciplina-detalhe">
-        ({{dados.Id}} {{dados.ch}} horas &nbsp;&nbsp;{{dados.sem}}.&ordm; semestre, pág. {{dados.pag}}, núcleo {{#if dados.nc}}comum{{else}}específico{{/if}}, {{dados.eixo}}, {{#if dados.obr}}obrigatória{{else}}opcional{{/if}})
-      </div>
+        <div class="disciplina-rotulo">Nome</div>
+        <div class="disciplina-nome">
+            {{dados.nome}}<br>
+        </div>
+        <div class="disciplina-detalhe">
+            ({{dados.Id}} {{dados.ch}} horas &nbsp;&nbsp;{{dados.sem}}.&ordm;
+            semestre, pág. {{dados.pag}}, núcleo {{#if
+            dados.nc}}comum{{else}}específico{{/if}}, {{dados.eixo}}, {{#if
+            dados.obr}}obrigatória{{else}}opcional{{/if}})
+        </div>
 
-      <div class="disciplina-rotulo">Ementa</div>
-      <div class="disciplina-ementa">
-        <ul>
-          {{#each ementa}}
-          <li>{{this}}</li>
-          {{/each}}
-        </ul>
-      </div>
+        <div class="disciplina-rotulo">Ementa</div>
+        <div class="disciplina-ementa">
+            <ul>
+                {{#each ementa}}
+                <li>{{this}}</li>
+                {{/each}}
+            </ul>
+        </div>
 
-      <div class="disciplina-rotulo">Condições mínimas</div>
-      <div class="disciplina__condicoes">
-        <ul>
-          {{#if dados.nc}}
-          <span>Não definidas para disciplinas do núcleo comum.</span> {{else}} {{#each condicoes}}
-          <li>{{this}}</li>
-          {{/each}} {{/if}}
-        </ul>
-      </div>
+        <div class="disciplina-rotulo">Condições mínimas</div>
+        <div class="disciplina__condicoes">
+            <ul>
+                {{#if dados.nc}}
+                <span>Não definidas para disciplinas do núcleo comum.</span>
+                {{else}} {{#each condicoes}}
+                <li>{{this}}</li>
+                {{/each}} {{/if}}
+            </ul>
+        </div>
 
-      <div class="disciplina-rotulo">Bibliografia</div>
-      <div class="disciplina__bibliografia">
-        <ul>
-          {{#each bibliografias}}
-          <li>{{this}}</li>
-          {{/each}}
-        </ul>
-      </div>
+        <div class="disciplina-rotulo">Bibliografia</div>
+        <div class="disciplina__bibliografia">
+            <ul>
+                {{#each bibliografias}}
+                <li>{{this}}</li>
+                {{/each}}
+            </ul>
+        </div>
     </article>
-  </script>
+</script>
 
-  <script>
+<script>
     var baseDados;
     var disciplinas;
     var template;
 
-    window.onload = function() {
-      baseDados = getDados("d3.json");
-      disciplinas = getDados("data/disciplinas.json").disciplinas;
-
-      var source = document.getElementById('disciplina-template').innerHTML;
-
-      template = Handlebars.compile(source);
-
-      update();
-    }
-
     function ementa(id, dados) {
-      var arestas = dados.links;
-      var origem = "D" + (id + 1);
-      var conteudos = new Set();
-      arestas.forEach(function(i) {
-        if (i.tipo === 3 && i.source === origem) {
-          conteudos.add(i.target);
-        }
-      });
+        var arestas = dados.links;
+        var origem = "D" + (id + 1);
+        var conteudos = new Set();
+        arestas.forEach(function (i) {
+            if (i.tipo === 3 && i.source === origem) {
+                conteudos.add(i.target);
+            }
+        });
 
-      var descricoes = [];
-      dados.nodes.forEach(function(n) {
-        if (conteudos.has(n.id)) {
-          descricoes.push(n.descricao);
-        }
-      });
-      return descricoes;
+        var descricoes = [];
+        dados.nodes.forEach(function (n) {
+            if (conteudos.has(n.id)) {
+                descricoes.push(n.descricao);
+            }
+        });
+        return descricoes;
     }
 
     function condicoesMinimas(id, dados) {
-      var arestas = dados.links;
-      var origem = "D" + (id + 1);
-      var conteudos = new Set();
-      arestas.forEach(function(i) {
-        if (i.tipo === 2 && i.source === origem) {
-          conteudos.add(i.target);
-        }
-      });
+        var arestas = dados.links;
+        var origem = "D" + (id + 1);
+        var conteudos = new Set();
+        arestas.forEach(function (i) {
+            if (i.tipo === 2 && i.source === origem) {
+                conteudos.add(i.target);
+            }
+        });
 
-      var condicoes = [];
-      dados.nodes.forEach(function(n) {
-        if (conteudos.has(n.id)) {
-          condicoes.push(n.descricao);
-        }
-      });
-      return condicoes;
+        var condicoes = [];
+        dados.nodes.forEach(function (n) {
+            if (conteudos.has(n.id)) {
+                condicoes.push(n.descricao);
+            }
+        });
+        return condicoes;
     }
 
     function update() {
-      var html = "";
-      for (var idx = 0; idx < 44; idx++) {
-        var disciplina = {
-          dados: disciplinas[idx],
-          ementa: ementa(idx, baseDados),
-          condicoes: condicoesMinimas(idx, baseDados)
-        };
-        
-        html = html + template(disciplina);
-      }
+        var html = "";
+        for (var idx = 0; idx < 44; idx++) {
+            var disciplina = {
+                dados: disciplinas[idx],
+                ementa: ementa(idx, baseDados),
+                condicoes: condicoesMinimas(idx, baseDados)
+            };
 
-      var saida = document.getElementById('saida');
-      saida.innerHTML = html;
-    }
-
-    function getDados(arquivo) {
-      var dados;
-      var xhttp = new XMLHttpRequest();
-      xhttp.onreadystatechange = function() {
-        if (this.readyState == 4 && this.status == 200) {
-          dados = JSON.parse(this.responseText);
+            html = html + template(disciplina);
         }
-      };
-      xhttp.open("GET", arquivo, false);
-      xhttp.send();
 
-      return dados;
+        var saida = document.getElementById('saida');
+        saida.innerHTML = html;
     }
-  </script>
+
+    function exibe() {
+        var source = document.getElementById('disciplina-template').innerHTML;
+
+        template = Handlebars.compile(source);
+
+        update();
+    }
+
+    window.onload = function () {
+//        obtemDadosPara("d3.json", function(d) { baseDados = d;});
+//        obtemDadosPara("data/disciplinas.json", guardaDisciplinas);
+
+        var grafo = fetch("d3.json");
+        grafo.then(function(response) { return response.json();})
+            .then(function(data) { baseDados = data;
+            return fetch("data/disciplinas.json"); })
+            .then(function(response) { return response.json(); })
+            .then(function(data) {disciplinas = data; exibe(); return data; });
+    }
+</script>
 
 </body>
 </html>
