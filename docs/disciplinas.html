@@ -72,11 +72,12 @@
                 {{#each complementares}}
                 <li>{{descricao}}
                     {{#if url}}
-                    <a href="{{url}}" target="_blank">
-                        <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>
-                    </a>
+                    <a href="{{url}}" target="_blank"><i class="fa fa-external-link fa-fw" aria-hidden="true"></i></a>
                     {{else}}
-                    <i title="Atualizar o link para a editora, ..." class="fa fa-exclamation-triangle alerta" aria-hidden="true"></i>
+                    <i class="fa fa-exclamation-triangle alerta" aria-hidden="true"></i>
+                    {{/if}}{{#if bc}}<a href="{{bc}}" target="_blank"><i class="fa fa-book" aria-hidden="true"></i></a>
+                    {{else}}
+                    <i title="Não está disponível na biblioteca?" class="fa fa-bomb erro" aria-hidden="true"></i>
                     {{/if}}
                 </li>
                 {{/each}}
