@@ -55,3 +55,7 @@ body {
 .fa {
   font-size: 12px;
 }
+
+.alerta {
+  color: orangered;
+}

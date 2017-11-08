@@ -53,9 +53,14 @@
             <ul>
                 {{#each basicas}}
                 <li>{{descricao}}
+                    {{#if url}}
                     <a href="{{url}}" target="_blank">
                         <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>
-                    </a></li>
+                    </a>
+                    {{else}}
+                    <i class="fa fa-exclamation-triangle alerta" aria-hidden="true"></i>
+                    {{/if}}
+                </li>
                 {{/each}}
             </ul>
         </div>
@@ -65,9 +70,14 @@
             <ul>
                 {{#each complementares}}
                 <li>{{descricao}}
+                    {{#if url}}
                     <a href="{{url}}" target="_blank">
                         <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>
-                    </a></li>
+                    </a>
+                    {{else}}
+                    <i title="Atualizar o link para a editora, ..." class="fa fa-exclamation-triangle alerta" aria-hidden="true"></i>
+                    {{/if}}
+                </li>
                 {{/each}}
             </ul>
         </div>
