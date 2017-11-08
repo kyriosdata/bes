@@ -134,6 +134,15 @@
         return p.json();
     }
 
+    function guardaBaseDados(d) {
+        baseDados = d;
+        return d;
+    }
+
+    function getDisciplinas(d) {
+        return fetch("data/disciplinas.json");
+    }
+
     window.onload = function () {
 
         var grafo = fetch("d3.json");
