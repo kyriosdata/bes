@@ -39,11 +39,13 @@
         <div class="disciplina-rotulo">Condições mínimas</div>
         <div class="disciplina__condicoes">
             <ul>
-                {{#is dados.nc "S"}}
-                <span>Não definidas para disciplinas do núcleo comum.</span>
-                {{else}} {{#each condicoes}}
+                {{#if condicoes}}
+                {{#each condicoes}}
                 <li>{{this}}</li>
-                {{/each}} {{/is}}
+                {{/each}}
+                {{else}}
+                <span>Não definidas para disciplinas do núcleo comum.</span>
+                {{/if}}
             </ul>
         </div>
 
@@ -65,48 +67,42 @@
     var disciplinas;
     var template;
 
-    /**
-     * A ementa é união dos nós de destino que partem de uma
-     * disciplina e são do tipo 3.
-     * @param id O identificador único da disciplina.
-     * @param dados Base de dados contendo as arestas.
-     * @returns {Array} Sequência dos componentes da ementa.
-     */
-    function ementa(id, dados) {
-        var arestas = dados.links;
-        var conteudos = new Set();
-        arestas.forEach(function (i) {
-            if (i.tipo === 3 && i.source === id) {
-                conteudos.add(i.target);
-            }
-        });
-
-        var descricoes = [];
-        dados.nodes.forEach(function (n) {
-            if (conteudos.has(n.id)) {
+    function getDescricoesPara(nodes) {
+        let descricoes = [];
+        nos.forEach(function (n) {
+            if (nodes.has(n.id)) {
                 descricoes.push(n.descricao);
             }
         });
 
-        return descricoes;
+        return (descricoes.length === 0) ? undefined : descricoes;
     }
 
-    function condicoesMinimas(id, dados) {
-        var arestas = dados.links;
-        var conteudos = new Set();
+    function getTargetPara(tipo, id) {
+        var targets = new Set();
         arestas.forEach(function (i) {
-            if (i.tipo === 2 && i.source === id) {
-                conteudos.add(i.target);
+            if (i.tipo === tipo && i.source === id) {
+                targets.add(i.target);
             }
         });
 
-        var condicoes = [];
-        dados.nodes.forEach(function (n) {
-            if (conteudos.has(n.id)) {
-                condicoes.push(n.descricao);
-            }
-        });
-        return condicoes;
+        return targets;
+    }
+
+    /**
+     * A ementa é união dos nós de destino que partem de uma
+     * disciplina e são do tipo 3.
+     * @param id O identificador único da disciplina.
+     * @returns {Array} Sequência dos componentes da ementa.
+     */
+    function ementa(id) {
+        var conteudos = getTargetPara(3, id);
+        return getDescricoesPara(conteudos);
+    }
+
+    function condicoesMinimas(id) {
+        var conteudos = getTargetPara(2, id);
+        return getDescricoesPara(conteudos);
     }
 
     function update() {
@@ -116,8 +112,8 @@
             id = disciplinas[idx].id;
             var disciplina = {
                 dados: disciplinas[idx],
-                ementa: ementa(id, baseDados),
-                condicoes: condicoesMinimas(id, baseDados)
+                ementa: ementa(id),
+                condicoes: condicoesMinimas(id)
             };
 
             html = html + template(disciplina);
@@ -135,20 +131,29 @@
         update();
     }
 
-    Handlebars.registerHelper('is', function(a, b, opts) {
-        if(a == b) {
+    Handlebars.registerHelper('is', function (a, b, opts) {
+        if (a == b) {
             return opts.fn(this);
         } else {
             return opts.inverse(this);
         }
     });
 
-    fetch("d3.json")
+    fetch("data/nos.json")
         .then(function (d) {
             return d.json();
         })
         .then(function (d) {
-            baseDados = d;
+            nos = d;
+        })
+        .then(function () {
+            return fetch("data/arestas.json");
+        })
+        .then(function (d) {
+            return d.json();
+        })
+        .then(function (d) {
+            arestas = d;
         })
         .then(function () {
             return fetch("data/disciplinas.json");
