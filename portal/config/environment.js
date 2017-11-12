@@ -44,7 +44,7 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-    ENV.rootURL = '/bes/';
+    ENV.rootURL = 'bes/';
   }
 
   return ENV;
