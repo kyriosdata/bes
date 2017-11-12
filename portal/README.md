@@ -3,9 +3,9 @@
 Portal de divulgação do projeto pedagógico do curso
 de Bacharelado em Engenharia de Software.
 
-## Prerequisites
+## Requisitos
 
-You will need the following things properly installed on your computer.
+É necessário o seguinte conjunto de ferramentas:
 
 * [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/) (with NPM)
