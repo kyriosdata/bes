@@ -24,6 +24,10 @@ de Bacharelado em Engenharia de Software.
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 * Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
 
+### Gerar versão para publicação
+
+* `ember build --output-path=<output-path>` Gera web app no diretório indicado.
+
 ### Code Generators
 
 Make use of the many generators for code, try `ember help generate` for more details
