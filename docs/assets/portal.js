@@ -294,6 +294,6 @@ catch(err) {
 });
 
 if (!runningTests) {
-  require("portal/app")["default"].create({"name":"portal","version":"0.0.0+2e5c3e87"});
+  require("portal/app")["default"].create({"name":"portal","version":"0.0.0+c7ece5db"});
 }
 //# sourceMappingURL=portal.map
