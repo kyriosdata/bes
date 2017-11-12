@@ -1,0 +1,27 @@
+{
+  "name": "portal",
+  "version": "0.0.1",
+  "homepage": "https://kyriosdata.github.io/bes",
+  "authors": [
+    "Fábio Nogueira de Lucena <fabio@inf.ufg.br>"
+  ],
+  "description": "Bacharelado em Engenharia de Software",
+  "keywords": [
+    "bacharelado",
+    "engenharia de software",
+    "curso de graduação"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "docs",
+    "images"
+  ],
+  "dependencies" : {
+    "bulma" : "0.6.1"
+  }
+}
