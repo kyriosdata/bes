@@ -1,7 +1,7 @@
 # portal
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Portal de divulgação do projeto pedagógico do curso
+de Bacharelado em Engenharia de Software.
 
 ## Prerequisites
 
@@ -12,13 +12,13 @@ You will need the following things properly installed on your computer.
 * [Ember CLI](https://ember-cli.com/)
 * [Google Chrome](https://google.com/chrome/)
 
-## Installation
+## Instalação
 
-* `git clone <repository-url>` this repository
-* `cd portal`
+* `git clone https://github.com/kyriosdata/bes`
+* `cd bes/portal`
 * `npm install`
 
-## Running / Development
+## Executar / desenvolver
 
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
