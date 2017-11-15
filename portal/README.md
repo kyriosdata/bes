@@ -26,7 +26,7 @@ de Bacharelado em Engenharia de Software.
 
 ### Gerar versão para publicação
 
-* `ember build --output-path=<output-path>` Gera web app no diretório indicado.
+* `ember build --output-path=<output-path> --environment production` Gera web app no diretório indicado.
 
 ### Code Generators
 
