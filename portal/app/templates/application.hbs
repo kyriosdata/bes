@@ -3,11 +3,16 @@
     <a class="navbar-item" href=".">
       <img src="assets/es-logo.png" alt="Marca do curso de Engenharia de Software">
     </a>
-      <a class="navbar-item">
-        {{#link-to 'info'}}
-          {{fa-icon "info"}}
-        {{/link-to}}
-      </a>
+    <a class="navbar-item">
+      {{#link-to 'info'}}
+        {{fa-icon "info"}}
+      {{/link-to}}
+    </a>
+    <a class="navbar-item">
+      {{#link-to 'premios'}}
+        {{fa-icon "certificate"}}
+      {{/link-to}}
+    </a>
     <button class="button navbar-burger">
       <span></span>
       <span></span>
@@ -15,18 +20,5 @@
     </button>
   </div>
 </nav>
-
-<section class="hero is-info">
-  <div class="hero-body">
-    <div class="container">
-      <h1 class="title">
-        Bacharelado em Engenharia de Software
-      </h1>
-      <h2 class="subtitle">
-        Formando profissionais para criar software de excelência.
-      </h2>
-    </div>
-  </div>
-</section>
 
 {{outlet}}
