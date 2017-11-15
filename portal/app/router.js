@@ -9,6 +9,7 @@ const Router = EmberRouter.extend({
 Router.map(function() {
   this.route('info');
   this.route('premios');
+  this.route('intro');
 });
 
 export default Router;
