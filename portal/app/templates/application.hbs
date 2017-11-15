@@ -3,9 +3,11 @@
     <a class="navbar-item" href=".">
       <img src="assets/es-logo.png" alt="Marca do curso de Engenharia de Software">
     </a>
-    <a class="navbar-item" href="https://github.com/kyriosdata/bes">
-      {{fa-icon "info"}}
-    </a>
+      <a class="navbar-item">
+        {{#link-to 'info'}}
+          {{fa-icon "info"}}
+        {{/link-to}}
+      </a>
     <button class="button navbar-burger">
       <span></span>
       <span></span>
