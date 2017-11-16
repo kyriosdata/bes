@@ -11,6 +11,7 @@ Router.map(function() {
   this.route('premios');
   this.route('intro', function() {
     this.route('apresentacao');
+    this.route('objetivos');
   });
 });
 
