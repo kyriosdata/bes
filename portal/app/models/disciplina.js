@@ -1,14 +1,14 @@
 import DS from 'ember-data';
 
 export default DS.Model.extend({
-  // id: DS.attr(),
-  descricao: DS.attr(),
-  tipo: DS.attr(),
-  num: DS.attr(),
-  ch: DS.attr(),
-  obr: DS.attr(),
-  pag: DS.attr(),
-  nc: DS.attr(),
-  sem: DS.attr(),
-  eixo: DS.attr()
+  type: DS.attr("string"),
+  descricao: DS.attr("string"),
+  tipo: DS.attr("number"),
+  num: DS.attr("number"),
+  ch: DS.attr("number"),
+  obr: DS.attr("string"),
+  pag: DS.attr("number"),
+  nc: DS.attr("string"),
+  sem: DS.attr("number"),
+  eixo: DS.attr("string")
 });
