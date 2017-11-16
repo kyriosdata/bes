@@ -1,7 +1,6 @@
 import DS from 'ember-data';
 
 export default DS.Model.extend({
-  type: DS.attr("string"),
   descricao: DS.attr("string"),
   tipo: DS.attr("number"),
   num: DS.attr("number"),
