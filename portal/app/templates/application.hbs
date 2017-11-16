@@ -1,0 +1,26 @@
+<nav class="navbar" role="navigation" aria-label="barra principal de navegação">
+  <div class="navbar-brand">
+    <a class="navbar-item">
+      {{#link-to 'intro'}}
+        <img src="assets/es-logo.png" alt="Marca do curso de Engenharia de Software">
+      {{/link-to}}
+    </a>
+    <a class="navbar-item">
+      {{#link-to 'info'}}
+        {{fa-icon "info"}}
+      {{/link-to}}
+    </a>
+    <a class="navbar-item">
+      {{#link-to 'premios'}}
+        {{fa-icon "certificate"}}
+      {{/link-to}}
+    </a>
+    <button class="button navbar-burger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+</nav>
+
+{{outlet}}
