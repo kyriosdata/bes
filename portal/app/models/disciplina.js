@@ -1,7 +1,7 @@
 import DS from 'ember-data';
 
 export default DS.Model.extend({
-  id: DS.attr(),
+  // id: DS.attr(),
   descricao: DS.attr(),
   tipo: DS.attr(),
   num: DS.attr(),
