@@ -12,6 +12,7 @@ Router.map(function() {
   this.route('intro', function() {
     this.route('apresentacao');
     this.route('objetivos');
+    this.route('perfil');
   });
 });
 
