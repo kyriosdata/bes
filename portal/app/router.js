@@ -14,6 +14,7 @@ Router.map(function() {
     this.route('objetivos');
     this.route('perfil');
   });
+  this.route('curriculo');
 });
 
 export default Router;
