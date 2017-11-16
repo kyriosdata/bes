@@ -3,41 +3,47 @@
   {
     "type": "disciplina",
     "id": "D1",
-    "descricao": "Computação e Sociedade",
-    "tipo": 1,
-    "num": 1,
-    "ch": 32,
-    "obr": "S",
-    "pag": 45,
-    "nc": "S",
-    "sem": 1,
-    "eixo": "computação"
+    "attributes" : {
+      "descricao": "Computação e Sociedade",
+      "tipo": 1,
+      "num": 1,
+      "ch": 32,
+      "obr": "S",
+      "pag": 45,
+      "nc": "S",
+      "sem": 1,
+      "eixo": "computação"
+    }
   },
   {
     "type": "disciplina",
     "id": "D2",
-    "descricao": "Introdução à Programação",
-    "tipo": 1,
-    "num": 2,
-    "ch": 128,
-    "obr": "S",
-    "pag": 45,
-    "nc": "S",
-    "sem": 1,
-    "eixo": "computação"
+    "attributes" : {
+      "descricao": "Introdução à Programação",
+      "tipo": 1,
+      "num": 2,
+      "ch": 128,
+      "obr": "S",
+      "pag": 45,
+      "nc": "S",
+      "sem": 1,
+      "eixo": "computação"
+    }
   },
   {
     "type": "disciplina",
     "id": "D3",
-    "descricao": "Cálculo 1A",
-    "tipo": 1,
-    "num": 3,
-    "ch": 96,
-    "obr": "S",
-    "pag": 46,
-    "nc": "S",
-    "sem": 1,
-    "eixo": "matemática"
+    "attributes" : {
+      "descricao": "Cálculo 1A",
+      "tipo": 1,
+      "num": 3,
+      "ch": 96,
+      "obr": "S",
+      "pag": 46,
+      "nc": "S",
+      "sem": 1,
+      "eixo": "matemática"
+    }
   }
 ]
 }
