@@ -11,30 +11,12 @@
   </div>
 </section>
 
-<div class="columns">
-  <div class="column notification is-primary">
-    First column
-  </div>
-  <div class="column">
-    Second column
-  </div>
-  <div class="column">
-    Third column
-  </div>
-  <div class="column">
-    Fourth column
-  </div>
-</div>
-
-<div class="columns">
-
   {{#each model as |disciplina|}}
-  <span class="tag title">
-    {{disciplina.nome}} {{disciplina.sem}}
-    {{disciplina.ch}} {{disciplina.obr}} {{disciplina.nc}}
-    {{disciplina.eixo}}
-  </span>
+      <div style="display: inline-block" class="button">
+          {{disciplina.nome}} {{disciplina.sem}}
+            {{disciplina.ch}} {{disciplina.obr}} {{disciplina.nc}}
+            {{disciplina.eixo}}
+      </div>
   {{/each}}
 
-</div>
 {{outlet}}
