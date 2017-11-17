@@ -14,8 +14,9 @@
 <section class="section">
 
   {{#each model as |disciplina|}}
-    <a class="box">
-      {{disciplina.nome}}
+    <a style="max-width: 400px; display:inline-block;" class="box">
+      <p class="title is-6">{{disciplina.nome}}</p>
+      <p class="subtitle is-7">{{disciplina.eixo}}</p>
     </a>
   {{/each}}
 
