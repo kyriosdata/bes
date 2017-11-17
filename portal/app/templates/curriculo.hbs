@@ -12,6 +12,8 @@
 </section>
 
 {{#each model as |disciplina|}}
-  <h6>{{disciplina.id}} {{disciplina.type}} {{disciplina.descricao}}</h6>
+  <span class="tag title">
+    {{disciplina.descricao}}
+  </span>
 {{/each}}
 {{outlet}}
