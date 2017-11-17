@@ -12,12 +12,15 @@
 </section>
 
 <section class="section">
+<p class="title is-3">Núcleo Comum</p>
 
   {{#each model as |disciplina|}}
+    {{#if nc}}
     <a style="max-width: 550px; display:inline-block; margin-right:10px;" class="box">
       <p class="title is-6">{{disciplina.nome}}</p>
       <p class="subtitle is-7">{{disciplina.eixo}}</p>
     </a>
+    {{/if}}
   {{/each}}
 
 </section>
