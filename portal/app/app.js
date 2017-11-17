@@ -9,6 +9,14 @@ const App = Application.extend({
   Resolver
 });
 
+App.SeIgualComponent = Ember.Component.extend({
+  seIgual: function() {
+    console.log('cahamdo');
+    return this.get('param1') === this.get('param2');
+  }.property('param1', 'param2')
+});
+
+
 loadInitializers(App, config.modulePrefix);
 
 export default App;
