@@ -9,7 +9,8 @@ export default DS.JSONAPISerializer.extend({
       var attrs = {
         nome : e.nome,
         sem : e.sem,
-        ch : e.ch
+        ch : e.ch,
+        obr : e.obr === "S"
       };
 
       var dado = {
