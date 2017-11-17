@@ -5,5 +5,6 @@ export default DS.Model.extend({
   sem : DS.attr(),
   ch : DS.attr(),
   obr : DS.attr(),
-  nc : DS.attr()
+  nc : DS.attr(),
+  eixo : DS.attr()
 });
