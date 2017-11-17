@@ -1,5 +1,7 @@
 import DS from 'ember-data';
 
 export default DS.Model.extend({
-  nome : DS.attr()
+  nome : DS.attr(),
+  sem : DS.attr(),
+  ch : DS.attr()
 });
