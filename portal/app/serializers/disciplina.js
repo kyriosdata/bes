@@ -21,15 +21,11 @@ export default DS.JSONAPISerializer.extend({
       dados.push(dado);
     });
 
-    console.log(dados);
-
     while (payload.pop() != undefined) {
       payload.pop();
     }
 
     payload.data = dados;
-
-    console.log(payload);
 
     return this._super(...arguments);
   }
