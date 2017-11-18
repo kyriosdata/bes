@@ -37,20 +37,11 @@
 <div class="tabs is-centered">
   <ul>
     <li class="is-active"><a>Fluxo</a></li>
-    <li><a>Núcleo</a></li>
+    <li>{{#link-to 'curriculo.nucleo'}}Núcleo{{/link-to}}</li>
     <li><a>Eixo</a></li>
     <li><a>Lista</a></li>
   </ul>
 </div>
-
-<section class="section">
-<p class="title is-4">Núcleo Comum</p>
-
-  {{#each model as |disciplina|}}
-      <span class="tag">{{disciplina.nome}}</span>
-  {{/each}}
-
-</section>
 
 <div class="container">
   &nbsp;&nbsp;&nbsp;<span class="tag is-dark">1</span>&nbsp;
