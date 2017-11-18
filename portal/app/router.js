@@ -16,6 +16,7 @@ Router.map(function() {
   });
   this.route('curriculo', function() {
     this.route('nucleo');
+    this.route('fluxo');
   });
 });
 
