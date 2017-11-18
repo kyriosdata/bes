@@ -11,9 +11,9 @@
   </div>
 </section>
 
-<!-- Aqui: menu para os vários índices e busca -->
-<!-- Menu: todas
-           Seguem por semestre
+<!-- Aqui: menu de índices e busca por palavra -->
+<!-- Opção 1: todas
+           Seguem por semestre (vertical)
 -->
 <!-- Segue o índice já conforme a opção do menu -->
 <!-- segue a descrição da disciplina selecionada -->
@@ -22,9 +22,7 @@
 <p class="title is-3">Núcleo Comum</p>
 
   {{#each model as |disciplina|}}
-    <a style="max-width: 550px; display:inline-block; margin-right:10px;" class="tag">
-      <p class="subtitle is-7">{{disciplina.nome}}</p>
-    </a>
+      <span class="tag">{{disciplina.nome}}</span>
   {{/each}}
 
 </section>
