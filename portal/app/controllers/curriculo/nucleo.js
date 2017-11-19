@@ -11,6 +11,10 @@ export default Controller.extend({
           resolve(services.filterBy('sem', parseInt(param)));
         });
       });
+    },
+
+    totalSemestres : function() {
+      return 9;
     }
   }
 });
