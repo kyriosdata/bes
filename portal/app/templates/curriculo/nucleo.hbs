@@ -5,7 +5,7 @@
   {{#curriculo-filter filter=(action 'totalDeSemestres') as |total|}}
     {{#each total as |semestre|}}
 
-      <span class="tag black">{{semestre}}&nbsp;&nbsp;</span>
+      <span class="tag">{{semestre}}&nbsp;&nbsp;</span>
       {{#curriculo-filter
         filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
         {{#each disciplinas as |disciplina|}}
