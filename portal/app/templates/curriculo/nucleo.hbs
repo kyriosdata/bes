@@ -6,4 +6,12 @@
     <span class="tag is-primary">{{disciplina.nome}}</span>
   {{/each}}
 
+  {{#curriculo-filter
+    filter=(action 'filtraPorSemestre')
+    as |disciplinas|}}
+    {{#each disciplinas as |disciplina|}}
+      <span class="tag is-primary">{{disciplina.nome}}</span>
+    {{/each}}
+    {{/curriculo-filter}}
+
 </section>

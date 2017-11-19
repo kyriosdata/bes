@@ -5,10 +5,12 @@ import Controller from '@ember/controller';
 export default Controller.extend({
   actions: {
     filtraPorSemestre: function (param) {
-      return this.get('store').findAll('disciplina')
-        .then(services => {
-          resolve(services.filteredBy('id', 'D1'));
+      console.log('filtraPorSemestre');
+      return new Ember.RSVP.Promise(resolve => {
+        this.get('store').findAll('disciplina').then(services => {
+          resolve(services.filterBy('sem', parseInt(param)));
         });
+      });
     }
   }
 });

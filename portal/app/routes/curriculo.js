@@ -10,8 +10,7 @@ export default Route.extend({
 
     return new Ember.RSVP.Promise(resolve => {
       this.get('store').findAll('disciplina').then(services => {
-        debugger;
-        resolve(services.filterBy('sem', 1));
+        resolve(services.filterBy('sem', 2));
       });
     });
   }
