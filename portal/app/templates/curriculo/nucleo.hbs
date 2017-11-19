@@ -10,17 +10,17 @@
     {{/each}}
   {{/curriculo-filter}}
 
-  <h1>Segundo</h1>
-  {{#curriculo-filter
-    filter=(action 'filtraPorSemestre' 2) as |disciplinas|}}
-    {{#each disciplinas as |disciplina|}}
-      <span class="tag is-primary">{{disciplina.nome}}</span>
-    {{/each}}
-  {{/curriculo-filter}}
 
   <h1>Total de semestres</h1>
   {{#curriculo-filter filter=(action 'totalDeSemestres') as |total|}}
-    {{total}}
+    {{#each total as |semestre|}}
+      {{#curriculo-filter
+        filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
+        {{#each disciplinas as |disciplina|}}
+          <span class="tag is-primary">{{disciplina.nome}}</span>
+        {{/each}}
+      {{/curriculo-filter}}
+    {{/each}}
   {{/curriculo-filter}}
 
 </section>
