@@ -9,8 +9,9 @@ export default Route.extend({
     console.log('called curriculo.fluxo route');
 
     return new Ember.RSVP.Promise(resolve => {
+      console.log('model curriculo.js');
       this.get('store').findAll('disciplina').then(services => {
-        resolve(services.filterBy('sem', 2));
+        resolve(services.filterBy('sem', 9));
       });
     });
   }
