@@ -17,10 +17,6 @@ export default Component.extend({
       filterAction(filterInputValue).then((filterResults) => {
         filterResults.filter
         this.set('results', filterResults);});
-    },
-
-    totalDeSemestres() {
-      this.set('results', 9);
     }
   }
 
