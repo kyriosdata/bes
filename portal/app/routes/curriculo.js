@@ -6,6 +6,13 @@ export default Route.extend({
   },
 
   model() {
-    return this.get('store').findAll('disciplina');
+    console.log('called curriculo.fluxo route');
+
+    return new Ember.RSVP.Promise(resolve => {
+      this.get('store').findAll('disciplina').then(services => {
+        debugger;
+        resolve(services.filterBy('sem', 1));
+      });
+    });
   }
 });

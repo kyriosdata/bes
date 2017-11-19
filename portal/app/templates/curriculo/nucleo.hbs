@@ -1,16 +1,9 @@
-
 <section class="section">
   <p class="title is-4">Núcleo Comum</p>
   Explicar o que são os núcleos e agrupar por eles.
 
-  {{#curriculo-filter
-    filter=(action 'filtraPorSemestre')
-    as |disciplinas|}}
-
-    {{#each disciplinas as |disciplina|}}
-      <span class="tag">{{disciplina.nome}}</span>
-    {{/each}}
-
-  {{/curriculo-filter}}
+  {{#each model as |disciplina|}}
+    <span class="tag is-primary">{{disciplina.nome}}</span>
+  {{/each}}
 
 </section>
