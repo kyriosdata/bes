@@ -15,5 +15,9 @@ export default Route.extend({
         resolve(services.filterBy('sem', 9));
       });
     });
+  },
+
+  afterModel() {
+    console.log('after model app/routes/curriculo.js');
   }
 });
