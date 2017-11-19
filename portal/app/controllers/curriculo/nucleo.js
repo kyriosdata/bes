@@ -13,8 +13,10 @@ export default Controller.extend({
       });
     },
 
-    totalSemestres : function() {
-      return 9;
+    totalDeSemestres : function() {
+      return new Ember.RSVP.Promise(resolve => {
+        resolve(9);
+      })
     }
   }
 });
