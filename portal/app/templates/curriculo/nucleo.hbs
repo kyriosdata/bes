@@ -3,11 +3,10 @@
   Explicar o que são os núcleos e agrupar por eles.
 
   {{#curriculo-filter
-    filter=(action 'filtraPorSemestre' 5)
-    as |disciplinas|}}
+    filter=(action 'filtraPorSemestre' 5) as |disciplinas|}}
     {{#each disciplinas as |disciplina|}}
       <span class="tag is-primary">{{disciplina.nome}}</span>
     {{/each}}
-    {{/curriculo-filter}}
+  {{/curriculo-filter}}
 
 </section>
