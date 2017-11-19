@@ -9,7 +9,9 @@
       {{#curriculo-filter
         filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
         {{#each disciplinas as |disciplina|}}
-          <span class="tag is-primary">{{disciplina.nome}}</span>
+          {{#if disciplina.obr}}
+            <span class="tag is-primary">{{disciplina.nome}}</span>
+          {{/if}}
         {{/each}}
       {{/curriculo-filter}}
     {{/each}}
