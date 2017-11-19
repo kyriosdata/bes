@@ -18,4 +18,9 @@
     {{/each}}
   {{/curriculo-filter}}
 
+  <h1>Total de semestres</h1>
+  {{#curriculo-filter filter=(action 'totalDeSemestres') as |total|}}
+    {{total}}
+  {{/curriculo-filter}}
+
 </section>
