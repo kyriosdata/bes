@@ -15,7 +15,7 @@ test('1234 diferente de 4321', function(assert) {
 
 test('1 igual a 1 produz true', function(assert) {
   this.set('c1', '1');
-  this.set('c2', '2');
+  this.set('c2', '1');
   this.render(hbs`{{igual c1 c2}}`);
 
   assert.equal(this.$().text().trim(), 'true');
