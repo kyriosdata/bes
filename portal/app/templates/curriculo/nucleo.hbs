@@ -2,16 +2,16 @@
 
   <p class="title is-4">Núcleo Comum</p>
 
-  <div class="columns">
-    {{#curriculo-filter filter=(action 'totalDeSemestres') as |total|}}
+  {{#curriculo-filter filter=(action 'totalDeSemestres') as |total|}}
 
-      {{#each total as |semestre|}}
+    {{#each total as |semestre|}}
+      <div class="columns">
 
         <div class="column is-1">
           <span class="tag is-dark">{{semestre}}</span>
         </div>
 
-        <div class="column is-10">
+        <div class="column is-11">
           {{#curriculo-filter  tagName="span"
                                filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
             {{#each disciplinas as |disciplina|}}
@@ -23,9 +23,10 @@
         </div>
         <br>
 
-      {{/each}}
+      </div>
 
-    {{/curriculo-filter}}
+    {{/each}}
 
-  </div>
+  {{/curriculo-filter}}
+
 </div>
