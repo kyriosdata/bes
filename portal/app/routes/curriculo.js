@@ -4,7 +4,7 @@ export default Route.extend({
   beforeModel() {
     console.log('beforeModel app/routes/curriculo');
 
-    this.replaceWith('curriculo.fluxo');
+    this.replaceWith('curriculo.nucleo');
   },
 
   model() {
