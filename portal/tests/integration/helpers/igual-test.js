@@ -6,12 +6,11 @@ moduleForComponent('igual', 'helper:igual', {
   integration: true
 });
 
-// Replace this with your real tests.
 test('it renders', function(assert) {
-  this.set('inputValue', '1234');
+  this.set('c1', '1234');
 
-  this.render(hbs`{{igual inputValue}}`);
+  this.render(hbs`{{igual c1 4321}}`);
 
-  assert.equal(this.$().text().trim(), '1234');
+  assert.equal(this.$().text().trim(), 'false');
 });
 
