@@ -1,27 +1,31 @@
 <div class="container is-widescreen">
 
-<p class="title is-4">Núcleo Comum</p>
-Explicar o que são os núcleos e agrupar por eles.
+  <p class="title is-4">Núcleo Comum</p>
 
-{{#curriculo-filter filter=(action 'totalDeSemestres') as |total|}}
+  <div class="columns">
+    {{#curriculo-filter filter=(action 'totalDeSemestres') as |total|}}
 
-  {{#each total as |semestre|}}
+      {{#each total as |semestre|}}
 
-    <span class="tag is-dark">{{semestre}}</span>&nbsp;
+        <div class="column is-1">
+          <span class="tag is-dark">{{semestre}}</span>
+        </div>
 
-    {{#curriculo-filter  tagName="span"
-                         filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
-      {{#each disciplinas as |disciplina|}}
-        {{#if disciplina.obr}}
-          <span class="tag {{if disciplina.nc 'is-primary' 'is-danger'}}">{{disciplina.nome}}</span>
-        {{/if}}
+        <div class="column is-10">
+          {{#curriculo-filter  tagName="span"
+                               filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
+            {{#each disciplinas as |disciplina|}}
+              {{#if disciplina.obr}}
+                <span class="tag {{if disciplina.nc 'is-primary' 'is-danger'}}">{{disciplina.nome}}</span>
+              {{/if}}
+            {{/each}}
+          {{/curriculo-filter}}
+        </div>
+        <br>
+
       {{/each}}
+
     {{/curriculo-filter}}
 
-    <br>
-
-  {{/each}}
-
-{{/curriculo-filter}}
-
+  </div>
 </div>
