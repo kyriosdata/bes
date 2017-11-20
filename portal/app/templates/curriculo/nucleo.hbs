@@ -6,15 +6,17 @@
 
     {{#each total as |semestre|}}
 
-      <span class="tag">{{semestre}}&nbsp;</span>
-      {{#curriculo-filter
-        filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
+      <span class="tag is-dark">{{semestre}}</span>&nbsp;
+
+      {{#curriculo-filter  tagName="span"
+                           filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
         {{#each disciplinas as |disciplina|}}
           {{#if disciplina.obr}}
             <span class="tag {{if disciplina.nc 'is-primary' 'is-danger'}}">{{disciplina.nome}}</span>
           {{/if}}
         {{/each}}
       {{/curriculo-filter}}
+
     {{/each}}
 
   {{/curriculo-filter}}
