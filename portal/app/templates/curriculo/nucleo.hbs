@@ -3,18 +3,20 @@
   Explicar o que são os núcleos e agrupar por eles.
 
   {{#curriculo-filter filter=(action 'totalDeSemestres') as |total|}}
+
     {{#each total as |semestre|}}
 
-      <span class="tag">{{semestre}}&nbsp;&nbsp;</span>
+      <span style="display:inline-block" class="tag">{{semestre}}&nbsp;</span>
       {{#curriculo-filter
         filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
         {{#each disciplinas as |disciplina|}}
           {{#if disciplina.obr}}
-            <span class="tag is-primary">{{disciplina.nome}}</span>
+            <span style="display:inline-block" class="tag {{if disciplina.nc 'is-primary' 'is-danger'}}">{{disciplina.nome}}</span>
           {{/if}}
         {{/each}}
       {{/curriculo-filter}}
     {{/each}}
+
   {{/curriculo-filter}}
 
 </section>
