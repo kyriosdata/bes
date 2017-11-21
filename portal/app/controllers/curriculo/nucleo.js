@@ -4,6 +4,7 @@ export default Controller.extend({
   actions: {
     filtraPorSemestre: function (param) {
       return new Ember.RSVP.Promise(resolve => {
+        console.log('filtraPorSemestre');
         this.get('store').findAll('disciplina').then(services => {
           resolve(services.filterBy('sem', parseInt(param)));
         });
