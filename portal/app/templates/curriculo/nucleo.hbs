@@ -7,11 +7,11 @@
     {{#each total as |semestre|}}
       <div class="columns">
 
-        <div class="column is-1">
+        <div class="column is-narrow">
           <span class="tag is-dark">{{semestre}}</span>
         </div>
 
-        <div class="column is-11">
+        <div class="column">
           {{#curriculo-filter filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
             {{#each disciplinas as |disciplina|}}
               {{#if disciplina.obr}}
