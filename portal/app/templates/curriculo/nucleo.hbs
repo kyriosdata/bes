@@ -1,4 +1,4 @@
-<div class="container is-widescreen">
+<div class="container">
 
   <p class="title is-4">Núcleo Comum</p>
 
@@ -15,7 +15,7 @@
           {{#curriculo-filter filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
             {{#each disciplinas as |disciplina|}}
               {{#if disciplina.obr}}
-                <span class="tag {{if disciplina.nc 'is-primary' 'is-danger'}}">{{disciplina.nome}}</span>
+                <span class="tag {{if disciplina.nc 'is-warning' 'is-info'}}">{{disciplina.nome}}</span>
               {{/if}}
             {{/each}}
           {{/curriculo-filter}}
