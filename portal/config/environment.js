@@ -1,7 +1,7 @@
 /* eslint-env node */
 'use strict';
 
-module.exports = function(environment) {
+module.exports = function (environment) {
   let ENV = {
     modulePrefix: 'portal',
     environment,
@@ -46,7 +46,8 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-    ENV.rootURL = 'bes/';
+    ENV.rootURL = '/bes';
+    ENV.locationType = 'hash';
   }
 
   return ENV;
