@@ -12,8 +12,7 @@
         </div>
 
         <div class="column is-11">
-          {{#curriculo-filter  tagName="span"
-                               filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
+          {{#curriculo-filter filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
             {{#each disciplinas as |disciplina|}}
               {{#if disciplina.obr}}
                 <span class="tag {{if disciplina.nc 'is-primary' 'is-danger'}}">{{disciplina.nome}}</span>
