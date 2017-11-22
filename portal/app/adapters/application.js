@@ -3,6 +3,6 @@ import config from '../config/environment';
 
 export default DS.JSONAPIAdapter.extend({
   buildURL: function() {
-    return "assets/disciplinas.json";
+    return config.rootURL + "assets/disciplinas.json";
   }
 });
