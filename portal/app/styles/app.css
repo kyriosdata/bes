@@ -6,3 +6,8 @@
   background-color: #0c374d;
   color: #ebc944;
 }
+
+hr {
+  margin: 0;
+  height: 1px;
+}

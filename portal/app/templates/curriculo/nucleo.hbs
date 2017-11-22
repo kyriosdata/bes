@@ -1,27 +1,29 @@
 <div class="container">
 
   <p>As disciplinas estão distribuídas em dois núcleos: o núcleo
-  comum (amarelo) e o núcleo específico (azul), conforme abaixo.</p>
+    comum (amarelo) e o núcleo específico (azul), conforme abaixo.</p>
 
   <br>
 
   {{#curriculo-filter filter=(action 'totalDeSemestres') as |total|}}
 
-    <hr>
-
     {{#each total as |semestre|}}
 
-      <div class="columns">
+      <hr>
+
+      <div class="columns" style="margin-top:0; margin-bottom:0;">
 
         <div class="column is-narrow">
           <span class="tag is-light">{{semestre}}</span>
         </div>
 
         <div class="column">
-          {{#curriculo-filter filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
+          {{#curriculo-filter
+            filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
             {{#each disciplinas as |disciplina|}}
               {{#if disciplina.obr}}
-                <span class="tag {{if disciplina.nc 'is-warning' 'is-info'}}">{{disciplina.nome}}</span>
+                <span class="tag {{if disciplina.nc 'is-warning'
+                                      'is-info'}}">{{disciplina.nome}}</span>
               {{/if}}
             {{/each}}
           {{/curriculo-filter}}
@@ -29,9 +31,9 @@
 
       </div>
 
-      <hr>
-
     {{/each}}
+
+    <hr>
 
   {{/curriculo-filter}}
 
