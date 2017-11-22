@@ -18,14 +18,18 @@
         </div>
 
         <div class="column">
+
           {{#curriculo-filter
             filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
             {{#each disciplinas as |disciplina|}}
+
               {{#if disciplina.obr}}
                 {{disciplina-short disciplina=disciplina}}
               {{/if}}
+
             {{/each}}
           {{/curriculo-filter}}
+
         </div>
 
       </div>
