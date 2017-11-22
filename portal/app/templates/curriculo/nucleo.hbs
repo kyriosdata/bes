@@ -22,8 +22,7 @@
             filter=(action 'filtraPorSemestre' semestre) as |disciplinas|}}
             {{#each disciplinas as |disciplina|}}
               {{#if disciplina.obr}}
-                <span class="tag {{if disciplina.nc 'is-warning'
-                                      'is-info'}}">{{disciplina.nome}}</span>
+                {{disciplina-short disciplina=disciplina}}
               {{/if}}
             {{/each}}
           {{/curriculo-filter}}
