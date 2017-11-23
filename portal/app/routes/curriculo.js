@@ -4,7 +4,7 @@ export default Route.extend({
   beforeModel() {
     console.log('beforeModel app/routes/curriculo');
 
-    this.replaceWith('curriculo.nucleo');
+    this.replaceWith('curriculo.lista', 1);
   },
 
   model() {
