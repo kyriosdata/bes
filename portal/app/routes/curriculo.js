@@ -10,14 +10,18 @@ export default Route.extend({
   model() {
     console.log('model app/routes/curriculo.js');
 
-    return this.get("store").findAll("disciplina");
+    return Ember.RSVP.hash({
+      disciplina: this.store.findAll("disciplina")
+    });
+  },
 
-    // Abaixo ilustra como aplicar um filtro
-    // return new Ember.RSVP.Promise(resolve => {
-    //   this.get('store').findAll('disciplina').then(services => {
-    //     resolve(services.filterBy('sem', 9));
-    //   });
-    // });
+  setupController(controller, models) {
+    controller.set('disciplina', models.disciplina);
+    controller.set('tags', models.tags);
+    controller.set('categories', models.categories);
+    controller.set('weather', models.weather);
+    // or, more concisely:
+    // controller.setProperties(models);
   },
 
   afterModel() {

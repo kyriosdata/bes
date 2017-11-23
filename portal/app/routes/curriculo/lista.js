@@ -4,7 +4,9 @@ export default Route.extend({
 
   model(params) {
     console.log(params.id);
-    return this.modelFor('curriculo').filterBy("num", parseInt(params.id));
+
+
+    return this.modelFor('curriculo').disciplina.filterBy("num", parseInt(params.id));
 
     // return new Ember.RSVP.Promise(resolve => {
     //   this.get('store').findAll('disciplina').then(services => {
