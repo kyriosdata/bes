@@ -1,7 +1,7 @@
-import ApplicationAdapter from './application';
+import DS from 'ember-data';
 import config from '../config/environment';
 
-export default ApplicationAdapter.extend({
+export default DS.JSONAPIAdapter.extend({
   buildURL: function() {
     return config.rootURL + "assets/bibliografias.json";
   }

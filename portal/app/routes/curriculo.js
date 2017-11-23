@@ -12,11 +12,13 @@ export default Route.extend({
 
     return Ember.RSVP.hash({
       disciplina: this.store.findAll("disciplina")
+      // , bibliografia: this.store.findAll("bibliografia")
     });
   },
 
   setupController(controller, models) {
     controller.set('disciplina', models.disciplina);
+    controller.set("bibliografia", models.bibliografia);
   },
 
   afterModel() {
