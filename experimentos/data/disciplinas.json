@@ -1,7 +1,7 @@
 [
   {
     "id": "D1",
-    "descricao": "Computação e Sociedade",
+    "nome": "Computação e Sociedade",
     "tipo": 1,
     "num": 1,
     "ch": 32,
@@ -13,7 +13,7 @@
   },
   {
     "id": "D2",
-    "descricao": "Introdução à Programação",
+    "nome": "Introdução à Programação",
     "tipo": 1,
     "num": 2,
     "ch": 128,
@@ -25,7 +25,7 @@
   },
   {
     "id": "D3",
-    "descricao": "Cálculo 1A",
+    "nome": "Cálculo 1A",
     "tipo": 1,
     "num": 3,
     "ch": 96,
@@ -37,7 +37,7 @@
   },
   {
     "id": "D4",
-    "descricao": "Fundamentos de Matemática para Computação",
+    "nome": "Fundamentos de Matemática para Computação",
     "tipo": 1,
     "num": 4,
     "ch": 64,
@@ -49,7 +49,7 @@
   },
   {
     "id": "D5",
-    "descricao": "Arquitetura de Computadores",
+    "nome": "Arquitetura de Computadores",
     "tipo": 1,
     "num": 5,
     "ch": 64,
@@ -61,7 +61,7 @@
   },
   {
     "id": "D6",
-    "descricao": "Algoritmos e Estruturas de Dados 1",
+    "nome": "Algoritmos e Estruturas de Dados 1",
     "tipo": 1,
     "num": 6,
     "ch": 64,
@@ -73,7 +73,7 @@
   },
   {
     "id": "D7",
-    "descricao": "Probabilidade e Estatística A",
+    "nome": "Probabilidade e Estatística A",
     "tipo": 1,
     "num": 7,
     "ch": 64,
@@ -85,7 +85,7 @@
   },
   {
     "id": "D8",
-    "descricao": "Álgebra Linear",
+    "nome": "Álgebra Linear",
     "tipo": 1,
     "num": 8,
     "ch": 64,
@@ -97,7 +97,7 @@
   },
   {
     "id": "D9",
-    "descricao": "Lógica Matemática",
+    "nome": "Lógica Matemática",
     "tipo": 1,
     "num": 9,
     "ch": 64,
@@ -109,7 +109,7 @@
   },
   {
     "id": "D10",
-    "descricao": "Programação Orientada a Objetos",
+    "nome": "Programação Orientada a Objetos",
     "tipo": 1,
     "num": 10,
     "ch": 64,
@@ -121,7 +121,7 @@
   },
   {
     "id": "D11",
-    "descricao": "Algoritmos e Estruturas de Dados 2",
+    "nome": "Algoritmos e Estruturas de Dados 2",
     "tipo": 1,
     "num": 11,
     "ch": 64,
@@ -133,7 +133,7 @@
   },
   {
     "id": "D12",
-    "descricao": "Linguagens e Paradigmas de Programação",
+    "nome": "Linguagens e Paradigmas de Programação",
     "tipo": 1,
     "num": 12,
     "ch": 64,
@@ -145,7 +145,7 @@
   },
   {
     "id": "D13",
-    "descricao": "Engenharia de Software",
+    "nome": "Engenharia de Software",
     "tipo": 1,
     "num": 13,
     "ch": 64,
@@ -157,7 +157,7 @@
   },
   {
     "id": "D14",
-    "descricao": "Análise e Projeto de Algoritmos",
+    "nome": "Análise e Projeto de Algoritmos",
     "tipo": 1,
     "num": 14,
     "ch": 64,
@@ -169,7 +169,7 @@
   },
   {
     "id": "D15",
-    "descricao": "Interação Humano-Computador",
+    "nome": "Interação Humano-Computador",
     "tipo": 1,
     "num": 15,
     "ch": 64,
@@ -181,7 +181,7 @@
   },
   {
     "id": "D16",
-    "descricao": "Banco de Dados",
+    "nome": "Banco de Dados",
     "tipo": 1,
     "num": 16,
     "ch": 64,
@@ -193,7 +193,7 @@
   },
   {
     "id": "D17",
-    "descricao": "Projeto de Software",
+    "nome": "Projeto de Software",
     "tipo": 1,
     "num": 17,
     "ch": 64,
@@ -205,7 +205,7 @@
   },
   {
     "id": "D18",
-    "descricao": "Construção de Software",
+    "nome": "Construção de Software",
     "tipo": 1,
     "num": 18,
     "ch": 128,
@@ -217,7 +217,7 @@
   },
   {
     "id": "D19",
-    "descricao": "Modelagem de Software",
+    "nome": "Modelagem de Software",
     "tipo": 1,
     "num": 19,
     "ch": 64,
@@ -229,7 +229,7 @@
   },
   {
     "id": "D20",
-    "descricao": "Processos de Software",
+    "nome": "Processos de Software",
     "tipo": 1,
     "num": 20,
     "ch": 64,
@@ -241,7 +241,7 @@
   },
   {
     "id": "D21",
-    "descricao": "Engenharia de Sistemas",
+    "nome": "Engenharia de Sistemas",
     "tipo": 1,
     "num": 21,
     "ch": 64,
@@ -253,7 +253,7 @@
   },
   {
     "id": "D22",
-    "descricao": "Design de Software",
+    "nome": "Design de Software",
     "tipo": 1,
     "num": 22,
     "ch": 128,
@@ -265,7 +265,7 @@
   },
   {
     "id": "D23",
-    "descricao": "Domínios de Software",
+    "nome": "Domínios de Software",
     "tipo": 1,
     "num": 23,
     "ch": 64,
@@ -277,7 +277,7 @@
   },
   {
     "id": "D24",
-    "descricao": "Processos de Qualidade de Software",
+    "nome": "Processos de Qualidade de Software",
     "tipo": 1,
     "num": 24,
     "ch": 64,
@@ -289,7 +289,7 @@
   },
   {
     "id": "D25",
-    "descricao": "Gerência de Projeto de Software",
+    "nome": "Gerência de Projeto de Software",
     "tipo": 1,
     "num": 25,
     "ch": 64,
@@ -301,7 +301,7 @@
   },
   {
     "id": "D26",
-    "descricao": "Software Concorrente e Distribuído",
+    "nome": "Software Concorrente e Distribuído",
     "tipo": 1,
     "num": 26,
     "ch": 64,
@@ -313,7 +313,7 @@
   },
   {
     "id": "D27",
-    "descricao": "Experiência do Usuário de Software",
+    "nome": "Experiência do Usuário de Software",
     "tipo": 1,
     "num": 27,
     "ch": 64,
@@ -325,7 +325,7 @@
   },
   {
     "id": "D28",
-    "descricao": "Arquitetura de Software",
+    "nome": "Arquitetura de Software",
     "tipo": 1,
     "num": 28,
     "ch": 64,
@@ -337,7 +337,7 @@
   },
   {
     "id": "D29",
-    "descricao": "Requisitos de Software",
+    "nome": "Requisitos de Software",
     "tipo": 1,
     "num": 29,
     "ch": 64,
@@ -349,7 +349,7 @@
   },
   {
     "id": "D30",
-    "descricao": "Governança e Gestão de Serviços de Software",
+    "nome": "Governança e Gestão de Serviços de Software",
     "tipo": 1,
     "num": 30,
     "ch": 64,
@@ -361,7 +361,7 @@
   },
   {
     "id": "D31",
-    "descricao": "Software para Sistemas Ubíquos",
+    "nome": "Software para Sistemas Ubíquos",
     "tipo": 1,
     "num": 31,
     "ch": 64,
@@ -373,7 +373,7 @@
   },
   {
     "id": "D32",
-    "descricao": "Software para Persistência de Dados",
+    "nome": "Software para Persistência de Dados",
     "tipo": 1,
     "num": 32,
     "ch": 64,
@@ -385,7 +385,7 @@
   },
   {
     "id": "D33",
-    "descricao": "Padrões de Arquitetura de Software",
+    "nome": "Padrões de Arquitetura de Software",
     "tipo": 1,
     "num": 33,
     "ch": 64,
@@ -397,7 +397,7 @@
   },
   {
     "id": "D34",
-    "descricao": "Testes de Software",
+    "nome": "Testes de Software",
     "tipo": 1,
     "num": 34,
     "ch": 64,
@@ -409,7 +409,7 @@
   },
   {
     "id": "D35",
-    "descricao": "Prática em Engenharia de Software",
+    "nome": "Prática em Engenharia de Software",
     "tipo": 1,
     "num": 35,
     "ch": 320,
@@ -417,11 +417,11 @@
     "pag": 75,
     "nc": "N",
     "sem": 9,
-    "eixo": ""
+    "eixo": "construção"
   },
   {
     "id": "D36",
-    "descricao": "Pesquisa Operacional",
+    "nome": "Pesquisa Operacional",
     "tipo": 1,
     "num": 36,
     "ch": 64,
@@ -433,7 +433,7 @@
   },
   {
     "id": "D37",
-    "descricao": "Linguagens Formais e Autômatos",
+    "nome": "Linguagens Formais e Autômatos",
     "tipo": 1,
     "num": 37,
     "ch": 64,
@@ -445,7 +445,7 @@
   },
   {
     "id": "D38",
-    "descricao": "Sistemas Operacionais",
+    "nome": "Sistemas Operacionais",
     "tipo": 1,
     "num": 38,
     "ch": 64,
@@ -457,7 +457,7 @@
   },
   {
     "id": "D39",
-    "descricao": "Compiladores",
+    "nome": "Compiladores",
     "tipo": 1,
     "num": 39,
     "ch": 64,
@@ -469,7 +469,7 @@
   },
   {
     "id": "D40",
-    "descricao": "Redes de Computadores",
+    "nome": "Redes de Computadores",
     "tipo": 1,
     "num": 40,
     "ch": 64,
@@ -481,7 +481,7 @@
   },
   {
     "id": "D41",
-    "descricao": "Introdução à Lingua Brasileira de Sinais",
+    "nome": "Introdução à Lingua Brasileira de Sinais",
     "tipo": 1,
     "num": 41,
     "ch": 64,
@@ -489,11 +489,11 @@
     "pag": 54,
     "nc": "N",
     "sem": 4,
-    "eixo": ""
+    "eixo": "computação"
   },
   {
     "id": "D42",
-    "descricao": "Sistemas Distribuídos",
+    "nome": "Sistemas Distribuídos",
     "tipo": 1,
     "num": 42,
     "ch": 64,
@@ -505,7 +505,7 @@
   },
   {
     "id": "D43",
-    "descricao": "Metodologia e Experimentação em Engenharia de Software",
+    "nome": "Metodologia e Experimentação em Engenharia de Software",
     "tipo": 1,
     "num": 43,
     "ch": 64,
@@ -517,7 +517,7 @@
   },
   {
     "id": "D44",
-    "descricao": "Mercado e Economia de Software",
+    "nome": "Mercado e Economia de Software",
     "tipo": 1,
     "num": 44,
     "ch": 64,
