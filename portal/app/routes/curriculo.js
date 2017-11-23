@@ -11,18 +11,12 @@ export default Route.extend({
     console.log('model app/routes/curriculo.js');
 
     return Ember.RSVP.hash({
-      disciplina: this.store.findAll("disciplina"),
-      bibliografia: this.store.findAll("bibliografia")
+      disciplina: this.store.findAll("disciplina")
     });
   },
 
   setupController(controller, models) {
     controller.set('disciplina', models.disciplina);
-    controller.set('tags', models.tags);
-    controller.set('categories', models.categories);
-    controller.set('weather', models.weather);
-    // or, more concisely:
-    // controller.setProperties(models);
   },
 
   afterModel() {

@@ -3,6 +3,6 @@ import config from '../config/environment';
 
 export default ApplicationAdapter.extend({
   buildURL: function() {
-    return config.rootURL + "assets/bibliografia.json";
+    return config.rootURL + "assets/bibliografias.json";
   }
 });
