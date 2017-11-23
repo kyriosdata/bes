@@ -18,7 +18,7 @@ Router.map(function() {
     this.route('nucleo');
     this.route('fluxo');
     this.route('eixo');
-    this.route('lista');
+    this.route('lista', { path: "/lista/:id"} );
   });
 });
 
