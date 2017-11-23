@@ -1,6 +1,7 @@
 export default function() {
   this.namespace = "/";
   this.passthrough("/assets/disciplinas.json");
+  this.passthrough("/assets/bibliografia.json");
   this.passthrough("https://api.github.com/**");
 
   let disciplinas = [

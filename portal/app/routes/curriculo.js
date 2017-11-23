@@ -11,7 +11,8 @@ export default Route.extend({
     console.log('model app/routes/curriculo.js');
 
     return Ember.RSVP.hash({
-      disciplina: this.store.findAll("disciplina")
+      disciplina: this.store.findAll("disciplina"),
+      bibliografia: this.store.findAll("bibliografia")
     });
   },
 
