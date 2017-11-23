@@ -66,7 +66,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "pt-BR",
-    "bc": "https://\tsophia.bc.ufg.br/index.php?codigo_sophia=62293",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=62293",
     "url": "https://www.estantevirtual.com.br/livros/newton-de-lucca-adalberto-simao-filho/direito-internet-aspectos-juridicos-relevantes/2245377912"
   },
   {
@@ -86,7 +86,7 @@
     "basica": "TRUE",
     "ano": 2005,
     "lingua": "pt-BR",
-    "bc": "sophia.bc.ufg.br/index.php?codigo_sophia=309980",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=309980",
     "url": "https://www.saraiva.com.br/logica-de-programacao-3-edicao-177333.html"
   },
   {
@@ -96,7 +96,7 @@
     "basica": "TRUE",
     "ano": 2010,
     "lingua": "pt-BR",
-    "bc": "https://\tsophia.bc.ufg.br/index.php?codigo_sophia=292584",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=292584",
     "url": "https://www.saraiva.com.br/fundamentos-da-programacao-de-computadores-3-ed-2012-4073065.html"
   },
   {
@@ -156,7 +156,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "pt-BR",
-    "bc": "https://\tsophia.bc.ufg.br/index.php?codigo_sophia=81642",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=81642",
     "url": "https://www.submarino.com.br/produto/111052655/livro-algoritmos-teoria-e-pratica"
   },
   {
@@ -176,7 +176,7 @@
     "basica": "TRUE",
     "ano": 1994,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=94239",
     "url": "http://www.harbra.com.br/produto.php?id=4360&pg=O%20C%E1lculo%20com%20Geometria%20Anal%EDtica%20-%203.%AA%20edi%E7%E3o%20-%20Volume%201"
   },
   {
@@ -186,7 +186,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=131130",
     "url": "https://www.estantevirtual.com.br/sebodomarcao/james-stewart-calculo-volume-2-5-edicao-850338576"
   },
   {
@@ -196,7 +196,7 @@
     "basica": "FALSE",
     "ano": 1994,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=15402",
     "url": "http://www.grupogen.com.br/exatas/matematica/calculo-das-funcoes-de-uma-variavel-vol-1"
   },
   {
@@ -206,7 +206,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=129917",
     "url": "https://www.saraiva.com.br/calculo-a-funcoes-limite-derivacao-integracao-6-ed-1643001.html"
   },
   {
@@ -216,8 +216,8 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=130637",
+    "url": "https://www.saraiva.com.br/calculo-um-curso-moderno-e-suas-aplicacoes-11-ed-2015-8882793.html"
   },
   {
     "id": "B23",
@@ -226,7 +226,7 @@
     "basica": "FALSE",
     "ano": 1996,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=55644",
     "url": "https://www.saraiva.com.br/geometria-analitica-391590.html"
   },
   {
@@ -236,7 +236,7 @@
     "basica": "FALSE",
     "ano": 1987,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=52429",
     "url": "https://www.saraiva.com.br/calculo-com-geometria-analitica-vol1-330689.html?pac_id=123134&gclid=CjwKCAiA0IXQBRA2EiwAMODil2uypMuOcHkgk-qDh8zqmRuVuY9f3qsuvluykyv5KUauya7-EIyAwhoCaY0QAvD_BwE"
   },
   {
@@ -246,7 +246,7 @@
     "basica": "TRUE",
     "ano": 2004,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=109035",
     "url": "https://www.saraiva.com.br/fundamentos-matematicos-para-a-ciencia-da-computacao-5-edicao-163901.html"
   },
   {
@@ -256,7 +256,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=87576",
     "url": "https://www.estantevirtual.com.br/livros/edward-r-scheinerman/matematica-discreta-uma-introducao/1516609910"
   },
   {
@@ -266,7 +266,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=104191",
     "url": "https://www.amazon.com/Discrete-Combinatorial-Mathematics-Applied-Introduction/dp/0201726343"
   },
   {
@@ -276,7 +276,7 @@
     "basica": "FALSE",
     "ano": 2013,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=94255",
     "url": "https://loja.sbm.org.br/index.php/impa/colecao-projeto-euclides/introduc-o-a-algebra.html"
   },
   {
@@ -286,7 +286,7 @@
     "basica": "FALSE",
     "ano": 1993,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=53259",
     "url": "https://www.amazon.com/Discrete-Mathematics-Applications-H-Mattson/dp/0471606723"
   },
   {
@@ -296,7 +296,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=239295",
     "url": ""
   },
   {
@@ -306,7 +306,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=56560",
     "url": "https://www.amazon.com/Discrete-Mathematics-5th-Kenneth-Ross/dp/0130652474"
   },
   {
@@ -316,7 +316,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=87756",
     "url": "https://loja.sbm.org.br/index.php/introduc-o-a-teoria-dos-numeros.html"
   },
   {
@@ -336,7 +336,7 @@
     "basica": "TRUE",
     "ano": 2002,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=82136",
     "url": "https://www.estantevirtual.com.br/livros/william-stallings/arquitetura-e-organizacao-de-computadores/3105479420"
   },
   {
@@ -346,7 +346,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=131826",
     "url": "https://www.saraiva.com.br/organizacao-estruturada-de-computadores-5-ed-2537712.html"
   },
   {
@@ -356,8 +356,8 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=233179",
+    "url": "https://www.amazon.com/Computer-Architecture-Quantitative-Approach-4th/dp/0123704901/ref=sr_1_2?ie=UTF8&qid=1510950367&sr=8-2&keywords=Computer+Architecture%3A+A+Quantitative+Approach&dpID=51Y3JpKAx8L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B37",
@@ -366,8 +366,8 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=87047",
+    "url": "https://www.saraiva.com.br/introducao-a-organizacao-de-computadores-5-ed-2012-1967969.html"
   },
   {
     "id": "B38",
@@ -376,7 +376,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=313057",
     "url": "https://www.elsevier.com/books/computer-organization-and-design/patterson/978-0-08-050257-1"
   },
   {
@@ -386,7 +386,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=265395",
     "url": "https://www.amazon.com/Computer-Organization-Architecture-William-Stallings/dp/0134101618"
   },
   {
@@ -396,7 +396,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=86803",
     "url": "https://www.estantevirtual.com.br/livros/raul-fernando-weber/fundamentos-de-arquitetura-de-computadores/684694796"
   },
   {
@@ -406,7 +406,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=217237",
     "url": "https://www.saraiva.com.br/algoritmos-em-linguagem-c-2605166.html"
   },
   {
@@ -416,7 +416,7 @@
     "basica": "TRUE",
     "ano": 1994,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=57399",
     "url": "https://www.estantevirtual.com.br/livros/jayme-luiz-szwarcfiter-lilian-markenzon/estruturas-de-dados-e-seus-algoritmos/868202488"
   },
   {
@@ -426,7 +426,7 @@
     "basica": "TRUE",
     "ano": 1995,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=44815",
     "url": "https://www.saraiva.com.br/estruturas-de-dados-usando-c-345881.html"
   },
   {
@@ -436,7 +436,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=81642",
     "url": "https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996/ref=sr_1_1?ie=UTF8&qid=1510094930&sr=8-1&keywords=cormen"
   },
   {
@@ -446,7 +446,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=80356",
     "url": "https://www.estantevirtual.com.br/livros/dirceu-douglas-salvetti-lisbete-madsen-barbosa/algoritmos/1223177473"
   },
   {
@@ -456,7 +456,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=90491",
     "url": "https://www.amazon.com.br/Algorithms-Parts-1-4-Fundamentals-Structure-ebook/dp/B001FWIJFA"
   },
   {
@@ -466,7 +466,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=274438",
     "url": "https://www.saraiva.com.br/projeto-de-algoritmos-com-implementacoes-em-pascal-e-c-3-ed-2010-3059162.html"
   },
   {
@@ -476,7 +476,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=118561",
     "url": "https://www.saraiva.com.br/projeto-de-algoritmos-com-implementacoes-em-java-e-c-1567727.html"
   },
   {
@@ -486,7 +486,7 @@
     "basica": "TRUE",
     "ano": 2010,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=240950",
     "url": "https://www.estantevirtual.com.br/luanalivros/marcos-nascimento-magalhaes-antonio-carlos-p-nocoes-de-probabilidade-e-estatistica-704793006"
   },
   {
@@ -496,7 +496,7 @@
     "basica": "TRUE",
     "ano": 1969,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=248518",
     "url": "https://www.amazon.com.br/Probabilidade-Aplica%C3%A7%C3%B5es-estat%C3%ADstica-Paul-Meyer/dp/8521602944/ref=sr_1_1?s=books&ie=UTF8&qid=1510095756&sr=1-1&keywords=Probabilidade%3A+Aplica%C3%A7%C3%B5es+%C3%A0+Estat%C3%ADstica"
   },
   {
@@ -506,7 +506,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=306809",
     "url": "https://www.amazon.com.br/Probabilidade-Estat%C3%ADstica-Para-Engenharia-Ci%C3%AAncias/dp/8576051990/ref=sr_1_2?s=books&ie=UTF8&qid=1510095982&sr=1-2&keywords=Probabilidade+e+Estat%C3%ADstica+para+Engenharia+e+Ci%C3%AAncias."
   },
   {
@@ -516,8 +516,8 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=228905",
+    "url": "https://www.saraiva.com.br/estatistica-basica-9-ed-2017-9748081.html"
   },
   {
     "id": "B53",
@@ -526,7 +526,7 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=211038",
     "url": "https://www.amazon.com.br/Probabilidade-Introdut%C3%B3rio-Carlos-Alberto-Barbosa/dp/8531403995/ref=sr_1_1?ie=UTF8&qid=1510096596&sr=8-1&keywords=Probabilidade%3A+um+Curso+Introdut%C3%B3rio"
   },
   {
@@ -536,7 +536,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=265168",
     "url": "https://www.amazon.com.br/Estat%C3%ADstica-B%C3%A1sica-Probabilidade-Infer%C3%AAncia-Morettin/dp/8576053705/ref=sr_1_1?ie=UTF8&qid=1510096870&sr=8-1&keywords=Estat%C3%ADstica+b%C3%A1sica%3A+probabilidade+e+infer%C3%AAncia"
   },
   {
@@ -546,7 +546,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=252775",
     "url": "https://www.saraiva.com.br/probabilidade-um-curso-moderno-com-aplicacoes-8-ed-2010-3674466.html"
   },
   {
@@ -556,8 +556,8 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=131137",
+    "url": "https://www.saraiva.com.br/introducao-a-estatistica-atualizacao-da-tecnologia-12-ed-2017-9851667.html"
   },
   {
     "id": "B57",
@@ -566,7 +566,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=16667",
     "url": "https://www.saraiva.com.br/algebra-linear-364441.html"
   },
   {
@@ -576,7 +576,7 @@
     "basica": "TRUE",
     "ano": 1983,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=116888",
     "url": "https://www.saraiva.com.br/algebra-linear-e-aplicacoes-6-ed-1990-305748.html"
   },
   {
@@ -586,7 +586,7 @@
     "basica": "TRUE",
     "ano": 1974,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=15335",
     "url": "https://www.estantevirtual.com.br/livros/seymour-lipschutz/algebra-linear/4171228972"
   },
   {
@@ -596,7 +596,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=309242",
     "url": "https://www.amazon.com/Linear-Algebra-Applications-Differential-Equations/dp/0471174211"
   },
   {
@@ -606,7 +606,7 @@
     "basica": "FALSE",
     "ano": 1971,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=16878",
     "url": "https://www.amazon.com/Linear-Algebra-2nd-Kenneth-Hoffman/dp/0135367972"
   },
   {
@@ -616,8 +616,8 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=131150",
+    "url": "https://www.saraiva.com.br/algebra-linear-com-aplicacoes-10-ed-4066876.html"
   },
   {
     "id": "B63",
@@ -626,7 +626,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=87944",
     "url": "https://loja.sbm.org.br/index.php/impa/colecao-matematica-universitaria/algebra-linear.html"
   },
   {
@@ -636,7 +636,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=111393",
     "url": "https://www.amazon.com/Introdu%C3%A7%C3%A3o-%C3%81lgebra-Linear-Salahoddin-Shokranian/dp/8523007881/ref=sr_1_2?s=books&ie=UTF8&qid=1510097801&sr=1-2&keywords=introdu%C3%A7%C3%A3o+%C3%A0+algebra+linear"
   },
   {
@@ -646,8 +646,8 @@
     "basica": "TRUE",
     "ano": 2015,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=307854",
+    "url": "https://www.saraiva.com.br/logica-para-ciencia-da-computacao-2524698.html"
   },
   {
     "id": "B66",
@@ -656,8 +656,8 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=112951",
+    "url": "https://www.saraiva.com.br/logica-para-computacao-1434079.html"
   },
   {
     "id": "B67",
@@ -666,8 +666,8 @@
     "basica": "TRUE",
     "ano": 2008,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=267076",
+    "url": "https://www.extra.com.br/livros/informaticacertificacao/linguagemdeprogramacao/logica-em-ciencia-da-computacao-modelagem-e-argumentacao-254197.html"
   },
   {
     "id": "B68",
@@ -676,8 +676,8 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=64618",
+    "url": "https://www.saraiva.com.br/introducao-a-logica-462634.html"
   },
   {
     "id": "B69",
@@ -696,8 +696,8 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=85485",
+    "url": "https://www.amazon.com/Mathematical-Introduction-Logic-Second/dp/0122384520"
   },
   {
     "id": "B71",
@@ -706,8 +706,8 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=243090",
+    "url": "https://www.saraiva.com.br/logica-de-primeira-ordem-2643987.html"
   },
   {
     "id": "B72",
@@ -716,8 +716,8 @@
     "basica": "FALSE",
     "ano": 1987,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=7427",
+    "url": "http://www-di.inf.puc-rio.br/~casanova//Publications/Books/1987-PL.pdf"
   },
   {
     "id": "B73",
@@ -726,8 +726,8 @@
     "basica": "TRUE",
     "ano": 2007,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=120056",
+    "url": "https://www.saraiva.com.br/programacao-orientada-a-objetos-em-java-1977046.html"
   },
   {
     "id": "B74",
@@ -736,8 +736,8 @@
     "basica": "TRUE",
     "ano": 2002,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=63151",
+    "url": "https://www.amazon.com/Thinking-Java-Introduction-Object-Oriented-Programming/dp/0131002872/ref=sr_1_2?ie=UTF8&qid=1510260568&sr=8-2&keywords=Thinking+in+Java&dpID=51B0M4MKFYL&preST=_SX258_BO1,204,203,200_QL70_&dpSrc=srch"
   },
   {
     "id": "B75",
@@ -746,8 +746,8 @@
     "basica": "TRUE",
     "ano": 2005,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=104764",
+    "url": "https://www.saraiva.com.br/java-como-programar-6-edicao-177371.html"
   },
   {
     "id": "B76",
@@ -757,7 +757,7 @@
     "ano": 1996,
     "lingua": "en",
     "bc": "",
-    "url": ""
+    "url": "https://www.amazon.com/Introduction-Object-Oriented-Programming-Timothy-1996-08-03/dp/B01FJ2EA9K/ref=sr_1_6?ie=UTF8&qid=1510260975&sr=8-6&keywords=BUDD%2C+Introduction+Object-Oriented"
   },
   {
     "id": "B77",
@@ -766,8 +766,8 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=57328",
+    "url": "https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8/ref=sr_1_1?ie=UTF8&qid=1510261255&sr=8-1&keywords=Design+patterns+elements+of+reusable+object-oriented+software+%2F+Erich+Gamma+...+%5Bet+al.%5D.+-."
   },
   {
     "id": "B78",
@@ -776,8 +776,8 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=257183",
+    "url": "https://www.amazon.com/Core-Java-Vol-Advanced-Features/dp/0132354799/ref=sr_1_cc_3?s=aps&ie=UTF8&qid=1510261340&sr=1-3-catcorr&keywords=Core+Java+%E2%80%93+Volume+II+%E2%80%93+Advanced+Features"
   },
   {
     "id": "B79",
@@ -786,8 +786,8 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=88008",
+    "url": "https://www.submarino.com.br/produto/193597/livro-introducao-a-programacao-orientada-a-objetos?epar=102414&hl=lower&opn=COMPARADORESSUB&s_term=COMPARADORESSUB"
   },
   {
     "id": "B80",
@@ -796,8 +796,8 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=54247",
+    "url": "https://www.amazon.com/Objects-Systems-Principled-Implementations-Undergraduate/dp/0387947817/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1510261927&sr=1-1-catcorr&keywords=Objects+and+Systems%3A+Principled+Design+with+Implementations+in+C%2B%2B+and+Java"
   },
   {
     "id": "B81",
@@ -806,8 +806,8 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=217237",
+    "url": "https://www.saraiva.com.br/algoritmos-em-linguagem-c-2605166.html"
   },
   {
     "id": "B82",
@@ -816,8 +816,8 @@
     "basica": "TRUE",
     "ano": 1994,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=57399",
+    "url": "https://www.saraiva.com.br/estruturas-de-dados-e-seus-algoritmos-338706.html"
   },
   {
     "id": "B83",
@@ -826,8 +826,8 @@
     "basica": "TRUE",
     "ano": 1995,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=44815",
+    "url": "https://www.saraiva.com.br/estruturas-de-dados-usando-c-345881.html"
   },
   {
     "id": "B84",
@@ -836,8 +836,8 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=81642",
+    "url": "http://www.livrariadomedico.com.br/livros-nacionais/informatica/algoritmos.html"
   },
   {
     "id": "B85",
@@ -846,8 +846,8 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=80356",
+    "url": "https://books.google.com.br/books/about/Algoritmos.html?id=UmznGwAACAAJ"
   },
   {
     "id": "B86",
@@ -857,7 +857,7 @@
     "ano": 1998,
     "lingua": "en",
     "bc": "",
-    "url": ""
+    "url": "https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/ref=sr_1_1?ie=UTF8&qid=1510266424&sr=8-1&keywords=Algorithms+in+C%2B%2B+%28Parts+1-4%29&dpID=51lmNVDNSkL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B87",
@@ -866,8 +866,8 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=274438",
+    "url": "https://www.saraiva.com.br/projeto-de-algoritmos-com-implementacoes-em-pascal-e-c-3-ed-2010-3059162.html"
   },
   {
     "id": "B88",
@@ -876,8 +876,8 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=118561",
+    "url": "https://www.saraiva.com.br/projeto-de-algoritmos-com-implementacoes-em-java-e-c-1567727.html"
   },
   {
     "id": "B89",
@@ -886,8 +886,8 @@
     "basica": "TRUE",
     "ano": 1997,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=90425",
+    "url": "https://www.amazon.com/Programming-Language-Concepts-Carlo-Ghezzi/dp/0471104264/ref=sr_1_9?s=books&ie=UTF8&qid=1510268852&sr=1-9&keywords=Programming+Language+Concepts"
   },
   {
     "id": "B90",
@@ -896,8 +896,8 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=125508",
+    "url": "https://www.amazon.com/Programming-Language-Pragmatics-Third-Michael/dp/0123745144/ref=sr_1_1?s=books&ie=UTF8&qid=1510268997&sr=1-1&keywords=Programming+Language+Pragmatics%2C+3rd+Edition&dpID=5175XXWA0BL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B91",
@@ -906,8 +906,8 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=211022",
+    "url": "https://www.amazon.com/Concepts-Programming-Languages-Robert-Sebesta/dp/0131395319/ref=sr_1_3?s=books&ie=UTF8&qid=1510269051&sr=1-3&keywords=Concepts+of+Programming+Languages&dpID=518JeTENdLL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B92",
@@ -916,8 +916,8 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=245162",
+    "url": "https://www.amazon.com/Essentials-Programming-Languages-MIT-Press/dp/0262062798/ref=sr_1_1?s=books&ie=UTF8&qid=1510269129&sr=1-1&keywords=Essentials+of+Programming+Languages&dpID=41TmTIHk5cL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B93",
@@ -926,8 +926,8 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=22811",
+    "url": "https://www.amazon.com/Programming-Languages-Design-Implementation-4th/dp/0130276782/ref=sr_1_1?s=books&ie=UTF8&qid=1510269190&sr=1-1&keywords=Programming+Languages%3A+Design+and+Implementation&dpID=51DZSTY1XPL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B94",
@@ -936,8 +936,8 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=112980",
+    "url": "https://www.amazon.com/Concepts-Techniques-Models-Computer-Programming/dp/0262220695/ref=sr_1_1?s=books&ie=UTF8&qid=1510269241&sr=1-1&keywords=Concepts%2C+Techniques%2C+and+Models+of+Computer+Programming%2C&dpID=51y51NYs8cL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B95",
@@ -946,8 +946,8 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=249819",
+    "url": "https://www.amazon.com/Design-Concepts-Programming-Languages-Press/dp/0262201755/ref=sr_1_1?s=books&ie=UTF8&qid=1510269294&sr=1-1&keywords=Design+Concepts+in+Programming+Languages&dpID=416VRjVumWL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B96",
@@ -957,7 +957,7 @@
     "ano": 2004,
     "lingua": "pt-BR",
     "bc": "",
-    "url": ""
+    "url": "https://www.fnac.pt/Linguagens-de-programacao-VAREJAO-FLAVIO-MIGUEL/a634616"
   },
   {
     "id": "B97",
@@ -966,8 +966,8 @@
     "basica": "TRUE",
     "ano": 2014,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=248911",
+    "url": "https://www.amazon.com/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126/ref=sr_1_1?s=books&ie=UTF8&qid=1510269613&sr=1-1&keywords=Software+Engineering%3A+A+Practitioner%E2%80%99s+Approach%2C+8th+edition&dpID=51LTQpJLHjL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B98",
@@ -976,8 +976,8 @@
     "basica": "TRUE",
     "ano": 2016,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=265404",
+    "url": "https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038/ref=sr_1_1?s=books&ie=UTF8&qid=1510269761&sr=1-1&keywords=Software+Engineering%2C+10th+Edition&dpID=61GMYPmO%252BrL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B99",
@@ -1006,7 +1006,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=132062",
     "url": "https://www.saraiva.com.br/engenharia-de-software-aplicada-principios-1446310.html"
   },
   {
@@ -1046,7 +1046,7 @@
     "basica": "TRUE",
     "ano": 1996,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=55740",
     "url": "https://cerocks.files.wordpress.com/2011/03/fundamentals-of-algorithmics-brassard_ingles.pdf"
   },
   {
@@ -1056,7 +1056,7 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=286783",
     "url": "https://www.saraiva.com.br/algoritmos-teoria-e-pratica-3-ed-2012-4061865.html"
   },
   {
@@ -1066,7 +1066,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=265430",
     "url": "https://www.saraiva.com.br/algoritmos-2659730.html"
   },
   {
@@ -1076,7 +1076,7 @@
     "basica": "FALSE",
     "ano": 1974,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=50488",
     "url": "https://www.amazon.com.br/Design-Analysis-Computer-Algorithms/dp/0201000296"
   },
   {
@@ -1086,7 +1086,7 @@
     "basica": "FALSE",
     "ano": 1999,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=62174",
     "url": "https://www.amazon.com/Computer-Algorithms-Introduction-Design-Analysis/dp/0201612445"
   },
   {
@@ -1096,7 +1096,7 @@
     "basica": "FALSE",
     "ano": 1989,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=55781",
     "url": "https://www.amazon.com/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372"
   },
   {
@@ -1116,7 +1116,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=311003",
     "url": "https://www.amazon.com.br/Estruturas-dados-algoritmos-Jayme-Szwarcfiter/dp/852161750X?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=7b8073c6-661a-4459-9f24-f9b867ec4a46"
   },
   {
@@ -1126,7 +1126,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=59080",
     "url": "https://www.amazon.com/Human-Computer-Interaction-3rd-Alan-Dix/dp/0130461091"
   },
   {
@@ -1136,7 +1136,7 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=214192",
     "url": "https://www.amazon.com.br/Design-Intera%C3%A7%C3%A3o-Al%C3%A9m-Intera%C3%A7%C3%A3o-Homem-Computador/dp/8582600062"
   },
   {
@@ -1146,7 +1146,7 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=128087",
     "url": "https://www.amazon.com/Designing-Interfaces-Patterns-Effective-Interaction/dp/1449379702"
   },
   {
@@ -1156,7 +1156,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=275026",
     "url": "https://www.amazon.com.br/Intera%C3%A7%C3%A3o-Humano-Computador-Simone-Junqueira-Barbosa/dp/8535234187?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=7b8073c6-661a-4459-9f24-f9b867ec4a46"
   },
   {
@@ -1206,7 +1206,7 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=274435",
     "url": "https://www.saraiva.com.br/sistemas-de-banco-de-dados-6-ed-3371139.html"
   },
   {
@@ -1216,7 +1216,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=238855",
     "url": "https://www.amazon.com.br/Projeto-Banco-Dados-C-Heuser/dp/8577803821?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=7b8073c6-661a-4459-9f24-f9b867ec4a46"
   },
   {
@@ -1226,7 +1226,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=116531",
     "url": "https://www.saraiva.com.br/sistema-de-banco-de-dados-6-ed-4238104.html"
   },
   {
@@ -1236,7 +1236,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=242994",
     "url": "https://www.amazon.co.uk/Database-Systems-Practical-Implementation-Management/dp/0321523067"
   },
   {
@@ -1246,7 +1246,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=88152",
     "url": "https://www.saraiva.com.br/introducao-a-sistemas-de-bancos-de-dados-8-edicao-148051.html"
   },
   {
@@ -1257,7 +1257,7 @@
     "ano": 2009,
     "lingua": "en",
     "bc": "",
-    "url": ""
+    "url": "https://www.amazon.com/Database-Systems-Complete-Book-2nd/dp/0131873253/ref=sr_1_1?s=books&ie=UTF8&qid=1510270139&sr=1-1&keywords=Database+Systems%3A+The+Complete+Book&dpID=51JtltOJPVL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B127",
@@ -1266,8 +1266,8 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=265434",
+    "url": "https://www.saraiva.com.br/sistemas-de-gerenciamento-de-banco-de-dados-3-ed-2355872.html"
   },
   {
     "id": "B128",
@@ -1276,8 +1276,8 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=119799",
+    "url": "https://www.submarino.com.br/produto/5603567/livro-projeto-e-modelagem-de-bancos-de-dados?epar=102414&hl=lower&opn=COMPARADORESSUB&s_term=COMPARADORESSUB"
   },
   {
     "id": "B129",
@@ -1286,8 +1286,8 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=57329",
+    "url": "https://www.amazon.com/Software-Design-2nd-David-Budgen/dp/0201722194/ref=sr_1_1?s=books&ie=UTF8&qid=1510270720&sr=1-1&keywords=Software+Design%2C+2nd+edition"
   },
   {
     "id": "B130",
@@ -1296,8 +1296,8 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=59021",
+    "url": "https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734/ref=sr_1_1?s=books&ie=UTF8&qid=1510270825&sr=1-1&keywords=Software+Architecture+in+Practice%2C+3rd+edition&dpID=51zvT3LdPSL&preST=_SY344_BO1,204,203,200_QL70_&dpSrc=srch"
   },
   {
     "id": "B131",
@@ -1306,8 +1306,8 @@
     "basica": "TRUE",
     "ano": 2008,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=132144",
+    "url": "https://www.saraiva.com.br/utilizando-uml-e-padroes-3-edicao-2007-1568186.html"
   },
   {
     "id": "B132",
@@ -1316,8 +1316,8 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=119989",
+    "url": "https://www.saraiva.com.br/uml-guia-do-usuario-traducao-da-2-edicao-196257.html"
   },
   {
     "id": "B133",
@@ -1326,8 +1326,8 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=132287",
+    "url": "https://www.saraiva.com.br/use-a-cabeca-padroes-de-projetos-design-patterns-2-ed-revisada-1995765.html"
   },
   {
     "id": "B134",
@@ -1336,8 +1336,8 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=98754",
+    "url": "https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?ie=UTF8&qid=1510596219&sr=8-1&keywords=Patterns+of+enterprise+application+architecture&dpID=51IuDvAU1CL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B135",
@@ -1346,8 +1346,8 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=57328",
+    "url": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?ie=UTF8&qid=1510596429&sr=8-1&keywords=Design+patterns+elements+of+reusable+object-oriented+software"
   },
   {
     "id": "B136",
@@ -1356,8 +1356,8 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=245066",
+    "url": "https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1510596934&sr=1-1-fkmr0&keywords=Release+It%21%3A+Design+and+Deploy+Production%C2%ADReady+Software"
   },
   {
     "id": "B137",
@@ -1366,8 +1366,8 @@
     "basica": "TRUE",
     "ano": 1983,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=52438",
+    "url": "https://www.estantevirtual.com.br/elizartlivros/bregalda-oliveira-bornstein-introducao-a-programacao-linear-142583411"
   },
   {
     "id": "B138",
@@ -1376,8 +1376,8 @@
     "basica": "TRUE",
     "ano": 2005,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=92672",
+    "url": "https://www.submarino.com.br/produto/5480336/livro-otimizacao-combinatoria-e-programacao-linear?epar=102414&hl=lower&opn=COMPARADORESSUB&s_term=COMPARADORESSUB"
   },
   {
     "id": "B139",
@@ -1386,8 +1386,8 @@
     "basica": "TRUE",
     "ano": 2008,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=274590",
+    "url": "https://www.saraiva.com.br/pesquisa-operacional-8-ed-2226958.html"
   },
   {
     "id": "B140",
@@ -1396,8 +1396,8 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=268512",
+    "url": "https://www.amazon.com/Linear-Programming-Network-Mokhtar-Bazaraa/dp/0470462728/ref=sr_1_1?s=books&ie=UTF8&qid=1510602916&sr=1-1&keywords=Linear+programming+and+network+Flows&dpID=41fkndQvSoL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B141",
@@ -1406,8 +1406,8 @@
     "basica": "FALSE",
     "ano": 2013,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=284178",
+    "url": "https://www.saraiva.com.br/introducao-a-pesquisa-operacional-9-ed-2013-4267646.html"
   },
   {
     "id": "B142",
@@ -1416,8 +1416,8 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=122525",
+    "url": "https://www.amazon.com/Interactive-Operations-Research-Maple-Methods/dp/0817641653/ref=sr_1_1?s=books&ie=UTF8&qid=1510605049&sr=1-1&keywords=Interactive+operations+research+with+Maple%3A+methods+and+models&dpID=51IZoth5tqL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B143",
@@ -1426,8 +1426,8 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=80297",
+    "url": "https://www.estantevirtual.com.br/livros/ermes-medeiros-da-silva-e-outros/pesquisa-operacional/542352308?q=ermes+medeiros+da+silva+pesquisa+operacional"
   },
   {
     "id": "B144",
@@ -1436,8 +1436,8 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=121914",
+    "url": "https://www.amazon.com/Operations-Research-Applications-Algorithms-1994-02-01/dp/B017MYIPY4/ref=sr_1_6?s=books&ie=UTF8&qid=1510605625&sr=1-6&keywords=Operations+research+applications+and+algorithms"
   },
   {
     "id": "B145",
@@ -1446,8 +1446,8 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=56378",
+    "url": "https://www.amazon.com/Languages-Machines-Introduction-Computer-Science/dp/0321322215/ref=sr_1_1?s=books&ie=UTF8&qid=1510605738&sr=1-1&keywords=+Languages+and+machines"
   },
   {
     "id": "B146",
@@ -1456,8 +1456,8 @@
     "basica": "TRUE",
     "ano": 1997,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=67608",
+    "url": "https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/053494728X/ref=sr_1_5?s=books&ie=UTF8&qid=1510605901&sr=1-5&keywords=introduction+to+the+theory+of+computation&dpID=518FDFJF24L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B147",
@@ -1466,8 +1466,8 @@
     "basica": "TRUE",
     "ano": 2002,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=85145",
+    "url": "https://www.saraiva.com.br/introducao-a-teoria-de-automatos-linguagens-e-computacao-118937.html"
   },
   {
     "id": "B148",
@@ -1476,8 +1476,8 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=253401",
+    "url": "https://www.saraiva.com.br/linguagens-formais-2634979.html"
   },
   {
     "id": "B149",
@@ -1486,8 +1486,8 @@
     "basica": "FALSE",
     "ano": 1989,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=90448",
+    "url": "https://www.amazon.com/Theory-Finite-Automata-Introduction-Languages/dp/0139137084/ref=sr_1_1?s=books&ie=UTF8&qid=1510606433&sr=1-1&keywords=Theory+of+finite+automata"
   },
   {
     "id": "B150",
@@ -1496,8 +1496,8 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=61303",
+    "url": "https://www.amazon.com.br/Elementos-Teoria-Computa%C3%A7%C3%A3o-Harry-Lewis/dp/8573075341"
   },
   {
     "id": "B151",
@@ -1506,8 +1506,8 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=277697",
+    "url": "https://www.saraiva.com.br/linguagens-formais-e-automatos-vol-3-400084.html"
   },
   {
     "id": "B152",
@@ -1516,8 +1516,8 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=239295",
+    "url": "https://www.amazon.com.br/Matem%C3%A1tica-Discreta-Aplica%C3%A7%C3%B5es-Kenneth-Rosen/dp/8577260364"
   },
   {
     "id": "B153",
@@ -1526,8 +1526,8 @@
     "basica": "TRUE",
     "ano": 2004,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=277695",
+    "url": "https://livralivro.com.br/books/show/347319?recommender=I2I"
   },
   {
     "id": "B154",
@@ -1536,8 +1536,8 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=263984",
+    "url": "https://www.saraiva.com.br/fundamentos-de-sistemas-operacionais-8-ed-2010-2881871.html"
   },
   {
     "id": "B155",
@@ -1546,8 +1546,8 @@
     "basica": "TRUE",
     "ano": 2010,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=267916",
+    "url": "https://www.saraiva.com.br/sistemas-operacionais-modernos-3-ed-2010-2863036.html"
   },
   {
     "id": "B156",
@@ -1556,8 +1556,8 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=265408",
+    "url": "https://www.saraiva.com.br/sistemas-operacionais-3-ed-175901.html"
   },
   {
     "id": "B157",
@@ -1566,8 +1566,8 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=54244",
+    "url": "https://livralivro.com.br/books/show/429502?recommender=similar"
   },
   {
     "id": "B158",
@@ -1576,7 +1576,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=31362",
     "url": ""
   },
   {
@@ -1586,8 +1586,8 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=84594",
+    "url": "https://www.amazon.com/Operating-Systems-Linux-Cornerstones-Computing/dp/0333947452/ref=sr_1_2?s=books&ie=UTF8&qid=1510610706&sr=1-2&keywords=Operating+Systems+with+Linux+o%27gorman"
   },
   {
     "id": "B160",
@@ -1596,7 +1596,7 @@
     "basica": "FALSE",
     "ano": 1996,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=86837",
     "url": ""
   },
   {
@@ -1606,8 +1606,8 @@
     "basica": "TRUE",
     "ano": 2008,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=132162",
+    "url": "https://www.saraiva.com.br/compiladores-principios-tecnicas-e-ferramentas-8873692.html"
   },
   {
     "id": "B162",
@@ -1616,8 +1616,8 @@
     "basica": "TRUE",
     "ano": 2004,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=104294",
+    "url": "http://www.cengage.com.br/ls/compiladores-principios-e-praticas/"
   },
   {
     "id": "B163",
@@ -1627,7 +1627,7 @@
     "ano": 1997,
     "lingua": "en",
     "bc": "",
-    "url": ""
+    "url": "https://www.amazon.com/Modern-Compiler-Implementation-Basic-Techniques/dp/0521586534/ref=sr_1_fkmr1_1?s=books&ie=UTF8&qid=1510612866&sr=1-1-fkmr1&keywords=Modern+Compiler+Implementation+in+C+-+Basic+Techiniques."
   },
   {
     "id": "B164",
@@ -1636,8 +1636,8 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=85423",
+    "url": "https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/052182060X/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1510612866&sr=1-1-fkmr0&keywords=Modern+Compiler+Implementation+in+C+-+Basic+Techiniques."
   },
   {
     "id": "B165",
@@ -1656,8 +1656,8 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=61149",
+    "url": "https://www.amazon.com/Advanced-Compiler-Design-Implementation-Muchnick/dp/1558603204/ref=sr_1_1?s=books&ie=UTF8&qid=1510613236&sr=1-1&keywords=Advanced+Compiler+Design+and+Implementation"
   },
   {
     "id": "B167",
@@ -1666,8 +1666,8 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=62972",
+    "url": "https://www.amazon.com/Retargetable-Compiler-Design-Implementation/dp/0805316701/ref=sr_1_1?ie=UTF8&qid=1510683353&sr=8-1&keywords=Retargetable+C+Compiler%3A+Design+and+Implementation&dpID=5134QBH5XGL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B168",
@@ -1676,8 +1676,8 @@
     "basica": "FALSE",
     "ano": 1991,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=11802",
+    "url": "https://www.amazon.com/Crafting-Compiler-Charles-N-Fischer/dp/0805321667/ref=sr_1_1?s=books&ie=UTF8&qid=1510685273&sr=1-1&keywords=Crafting+a+Compiler+with+C&dpID=411SZ8BQC4L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B169",
@@ -1686,8 +1686,8 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=311714",
+    "url": "https://www.saraiva.com.br/redes-de-computadores-e-a-internet-uma-abordagem-top-down-9231487.html"
   },
   {
     "id": "B170",
@@ -1696,8 +1696,8 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=263498",
+    "url": "https://www.saraiva.com.br/sistemas-de-informacao-gerenciais-9-ed-2011-3535576.html"
   },
   {
     "id": "B171",
@@ -1706,8 +1706,8 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=88853",
+    "url": "https://www.amazon.com/Computer-Networks-4th-Andrew-Tanenbaum/dp/0130661023/ref=sr_1_5?s=books&ie=UTF8&qid=1510688375&sr=1-5&keywords=Computer+Networks"
   },
   {
     "id": "B172",
@@ -1716,8 +1716,8 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=238993",
+    "url": "https://www.submarino.com.br/produto/7058104/livro-redes-de-comunicacao-e-computadores-abordagem-quantitativa?epar=102414&hl=lower&opn=COMPARADORESSUB&s_term=COMPARADORESSUB"
   },
   {
     "id": "B173",
@@ -1726,8 +1726,8 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=217123",
+    "url": "https://www.fnac.pt/Redes-de-Computadores-Larry-L-Peterson/a87522"
   },
   {
     "id": "B174",
@@ -1736,8 +1736,8 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=34962",
+    "url": "https://www.ciadoslivros.com.br/redes-de-computadores-das-lans-mans-e-wans-as-redes-atm-9844-p132611"
   },
   {
     "id": "B175",
@@ -1746,8 +1746,8 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=243096",
+    "url": "https://www.amazon.com/Data-Computer-Communications-William-Stallings/dp/0132433109/ref=sr_1_3?s=books&ie=UTF8&qid=1510690515&sr=1-3&keywords=Data+and+Computer+Communications&dpID=51H6T7XFYML&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B176",
@@ -1756,8 +1756,8 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=74076",
+    "url": "https://livralivro.com.br/books/show/436220?recommender=similar"
   },
   {
     "id": "B177",
@@ -1776,8 +1776,8 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=280101",
+    "url": "https://www.saraiva.com.br/libras-conhecimento-alem-dos-sinais-3659554.html"
   },
   {
     "id": "B179",
@@ -1786,7 +1786,7 @@
     "basica": "TRUE",
     "ano": 2008,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=213778",
     "url": ""
   },
   {
@@ -1796,8 +1796,8 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=216774",
+    "url": "https://www.saraiva.com.br/atividades-ilustradas-em-sinais-da-libras-155743.html"
   },
   {
     "id": "B181",
@@ -1807,7 +1807,7 @@
     "ano": 1995,
     "lingua": "pt-BR",
     "bc": "",
-    "url": ""
+    "url": "http://www.martinsfontespaulista.com.br/por-uma-gramatica-de-linguas-de-sinais-391188.aspx/p"
   },
   {
     "id": "B182",
@@ -1816,8 +1816,8 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=267828",
+    "url": "https://www.saraiva.com.br/dicionario-enciclopedico-ilustrado-trilingue-lingua-de-sinais-brasileira-2-vols-2872925.html"
   },
   {
     "id": "B183",
@@ -1826,8 +1826,8 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=211865",
+    "url": "https://www.saraiva.com.br/enciclopedia-da-lingua-de-sinais-brasileira-vol-1-159466.html https://www.saraiva.com.br/enciclopedia-da-lingua-de-sinais-brasileira-vol-2-163515.html"
   },
   {
     "id": "B184",
@@ -1836,8 +1836,8 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=244384",
+    "url": "https://www.saraiva.com.br/libras-que-lingua-e-essa-2851965.html"
   },
   {
     "id": "B185",
@@ -1846,8 +1846,8 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=212527",
+    "url": "https://www.saraiva.com.br/lingua-de-sinais-brasileira-estudos-linguisticos-141701.html"
   },
   {
     "id": "B186",
@@ -1856,8 +1856,8 @@
     "basica": "TRUE",
     "ano": 2000,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=273064",
+    "url": "https://www.amazon.com/Foundations-Multithreaded-Parallel-Distributed-Programming/dp/B010BCJLC4/ref=sr_1_4?s=books&ie=UTF8&qid=1510696587&sr=1-4&keywords=Foundations+of+multithreaded%2C+parallel%2C+and+distributed+programming&dpID=41ekmuPTo-L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B187",
@@ -1866,8 +1866,8 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=250790",
+    "url": "https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/ref=sr_1_1?s=books&ie=UTF8&qid=1510696743&sr=1-1&keywords=Distributed+Systems%3A+Concepts+and+Design&dpID=5135K1Ln--L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B188",
@@ -1876,8 +1876,8 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=311714",
+    "url": "https://www.saraiva.com.br/redes-de-computadores-e-a-internet-uma-abordagem-top-down-9231487.html"
   },
   {
     "id": "B189",
@@ -1886,8 +1886,8 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=122039",
+    "url": "https://www.amazon.com/Reliable-Distributed-Systems-Technologies-Applications/dp/0387215093/ref=sr_1_1?s=books&ie=UTF8&qid=1510697159&sr=1-1&keywords=Reliable+distributed+systems%3A+technologies%2C+web+services%2C+and+applications&dpID=41Efda0iuqL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B190",
@@ -1896,8 +1896,8 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=89963",
+    "url": "https://www.amazon.com/Web-Services-Business-Strategies-Architectures/dp/1590591798/ref=sr_1_2?s=books&ie=UTF8&qid=1510697260&sr=1-2&keywords=Web+services+business+strategies+and+architectures&dpID=51GBj08RNpL&preST=_SX258_BO1,204,203,200_QL70_&dpSrc=srch"
   },
   {
     "id": "B191",
@@ -1906,8 +1906,8 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=257632",
+    "url": "https://www.amazon.com/SOA-Practice-Distributed-System-Design/dp/0596529554/ref=sr_1_1?ie=UTF8&qid=1510858136&sr=8-1&keywords=SOA+in+practice&dpID=51eY-hnkZ7L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B192",
@@ -1916,8 +1916,8 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=88205",
+    "url": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Distributed+algorithms"
   },
   {
     "id": "B193",
@@ -1926,8 +1926,8 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=113046",
+    "url": "https://www.amazon.com/Distributed-Systems-Principles-Paradigms-Tanenbaum/dp/B00BSZVOYC/ref=sr_1_5?s=books&ie=UTF8&qid=1510858290&sr=1-5&keywords=Distributed+Systems%3A+Principles+and+Paradigms"
   },
   {
     "id": "B194",
@@ -1936,8 +1936,8 @@
     "basica": "TRUE",
     "ano": 2001,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=268310",
+    "url": "https://www.amazon.com/Software-Engineering-Experimentation-Natalia-Juristo/dp/079237990X/ref=sr_1_1?s=books&ie=UTF8&qid=1510858420&sr=1-1&keywords=Basics+of+software+engineering+experimentation&dpID=41yktvlh9VL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B195",
@@ -1947,7 +1947,7 @@
     "ano": 2012,
     "lingua": "en",
     "bc": "",
-    "url": ""
+    "url": "https://www.amazon.com/Experimentation-Software-Engineering-Claes-Wohlin/dp/3642290434/ref=sr_1_1?s=books&ie=UTF8&qid=1510858502&sr=1-1&keywords=Experimentation+in+Software+Engineering&dpID=41T%252BMusduML&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B196",
@@ -1956,8 +1956,8 @@
     "basica": "TRUE",
     "ano": 1998,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=62971",
+    "url": "https://www.amazon.com/Experimental-Design-Techniques-Statistical-Practice/dp/1898563357/ref=sr_1_1?s=books&ie=UTF8&qid=1510858841&sr=1-1&keywords=Experimental+design+techniques+in+statistical+practice%3A+a+practical+software-based+approach.&dpID=41nFeTJh4pL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B197",
@@ -1966,8 +1966,8 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=275566",
+    "url": "https://www.saraiva.com.br/metodologia-de-pesquisa-para-ciencia-da-computacao-9227707.html"
   },
   {
     "id": "B198",
@@ -1976,8 +1976,8 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=254727",
+    "url": "https://www.amazon.com/Experimentation-Software-Engineering-Introduction-International/dp/0792386825/ref=sr_1_1?s=books&ie=UTF8&qid=1510858971&sr=1-1&keywords=Experimentation+in+software+engineering%3A+an+introduction"
   },
   {
     "id": "B199",
@@ -1986,8 +1986,8 @@
     "basica": "FALSE",
     "ano": 1987,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=60788",
+    "url": "https://www.amazon.com/Introduction-Optimization-Translations-Mathematics-Engineering/dp/0911575146/ref=sr_1_1?s=books&ie=UTF8&qid=1510859303&sr=1-1&keywords=0911575146"
   },
   {
     "id": "B200",
@@ -1996,8 +1996,8 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=68329",
+    "url": "https://www.amazon.com/Managing-Risk-Methods-Software-Development/dp/0201255928/ref=sr_1_1?s=books&ie=UTF8&qid=1510859430&sr=1-1&keywords=Managing+risk+methods+for+software+systems+development&dpID=410ZTFQDPCL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B201",
@@ -2006,7 +2006,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=59378",
     "url": ""
   },
   {
@@ -2017,7 +2017,7 @@
     "ano": 2005,
     "lingua": "en",
     "bc": "",
-    "url": ""
+    "url": "https://www.amazon.com/Return-Software-Maximizing-Your-Investment/dp/0321228758/ref=sr_1_1?s=books&ie=UTF8&qid=1510859791&sr=1-1&keywords=Return+on+Software%3A+Maximizing+the+Return+on+Your+Software+Investment&dpID=511hfCoV0vL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B203",
@@ -2027,7 +2027,7 @@
     "ano": 2015,
     "lingua": "pt-BR",
     "bc": "",
-    "url": ""
+    "url": "https://www.amazon.com/Software-Paradox-Rise-Commercial-Market/dp/1491900938/ref=sr_1_1?s=books&ie=UTF8&qid=1510859900&sr=1-1&keywords=The+software+paradox%3A+the+rise+and+fall+of+the+commercial+software+market&dpID=41YW1G7nRbL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B204",
@@ -2036,8 +2036,8 @@
     "basica": "TRUE",
     "ano": 2005,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=103553",
+    "url": "https://www.saraiva.com.br/construindo-planos-de-empreendimentos-2877465.html"
   },
   {
     "id": "B205",
@@ -2046,8 +2046,8 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=243474",
+    "url": "https://www.travessa.com.br/o-mitico-homem-mes-ensaios-sobre-engenharia-de-software/artigo/4328dbe2-42c4-44f7-838f-17c7d999c2e5"
   },
   {
     "id": "B206",
@@ -2056,8 +2056,8 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=277036",
+    "url": "https://www.livrariacultura.com.br/p/livros/informatica-e-tecnologia/software/engenharia-de-software-na-pratica-22123724"
   },
   {
     "id": "B207",
@@ -2066,7 +2066,7 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=254505",
     "url": ""
   },
   {
@@ -2076,8 +2076,8 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=84812",
+    "url": "https://www.saraiva.com.br/pirataria-de-software-193268.html"
   },
   {
     "id": "B209",
@@ -2086,8 +2086,8 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=123422",
+    "url": "http://bd.camara.gov.br/bd/handle/bdcamara/3483?show=full"
   },
   {
     "id": "B210",
@@ -2097,7 +2097,7 @@
     "ano": 2009,
     "lingua": "en",
     "bc": "",
-    "url": ""
+    "url": "http://www.wiley.com/WileyCDA/WileyTitle/productCd-0738158526.html"
   },
   {
     "id": "B211",
@@ -2107,7 +2107,7 @@
     "ano": 2012,
     "lingua": "en",
     "bc": "",
-    "url": ""
+    "url": "https://www.amazon.com.br/Incose-Systems-Engineering-Handbook-Activities/dp/1118999401/ref=sr_1_1_mimg_1_book_display_on_website?ie=UTF8&qid=1510864559&sr=8-1&keywords=Systems+Engineering+Handbook%3A+A+Guide+for+System+Life+Cycle+Processes+and+Activities%2C"
   },
   {
     "id": "B212",
@@ -2116,8 +2116,8 @@
     "basica": "TRUE",
     "ano": 2001,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=68279",
+    "url": "https://www.amazon.com.br/Managing-Software-Requirements-Unified-Approach/dp/0201615932/ref=sr_1_10?s=books&ie=UTF8&qid=1510864693&sr=1-10&keywords=Managing+software+requirements"
   },
   {
     "id": "B213",
@@ -2127,7 +2127,7 @@
     "ano": 2016,
     "lingua": "en",
     "bc": "",
-    "url": ""
+    "url": "https://www.amazon.com.br/Systems-Engineering-Principles-Software-Engineers/dp/1439844925/ref=sr_1_1?s=books&ie=UTF8&qid=1510864823&sr=1-1&keywords=Systems+Engineering+Principles+for+Software+Engineers"
   },
   {
     "id": "B214",
@@ -2136,8 +2136,8 @@
     "basica": "FALSE",
     "ano": 1968,
     "lingua": "es",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=35285",
+    "url": "http://biblioteca.casadelacultura.gob.ec/cgi-bin/koha/opac-detail.pl?biblionumber=42603"
   },
   {
     "id": "B215",
@@ -2146,8 +2146,8 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=86986",
+    "url": "https://www.saraiva.com.br/engenharia-de-sistemas-de-controle-7-ed-2017-9856954.html"
   },
   {
     "id": "B216",
@@ -2156,8 +2156,8 @@
     "basica": "FALSE",
     "ano": 1992,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=50704",
+    "url": "https://www.estantevirtual.com.br/releituralivros/bruno-maffeo-engenharia-de-software-e-especificacao-de-sistemas-396985126"
   },
   {
     "id": "B217",
@@ -2166,7 +2166,7 @@
     "basica": "FALSE",
     "ano": 1993,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=90481",
     "url": ""
   },
   {
@@ -2176,8 +2176,8 @@
     "basica": "TRUE",
     "ano": 2005,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=217120",
+    "url": "https://www.saraiva.com.br/code-complete-249055.html"
   },
   {
     "id": "B219",
@@ -2187,7 +2187,7 @@
     "ano": 2015,
     "lingua": "pt-BR",
     "bc": "",
-    "url": ""
+    "url": "https://www.saraiva.com.br/como-ser-um-programador-melhor-um-manual-para-programadores-que-se-importam-com-codigo-8628513.html"
   },
   {
     "id": "B220",
@@ -2196,8 +2196,8 @@
     "basica": "TRUE",
     "ano": 2007,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=224470",
+    "url": "https://www.amazon.com.br/Beautiful-Code-Leading-Programmers-Practice-ebook/dp/B0026OR2NG/ref=sr_1_2?s=books&ie=UTF8&qid=1510867636&sr=1-2&keywords=+Beautiful+code"
   },
   {
     "id": "B221",
@@ -2206,8 +2206,8 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=274475",
+    "url": "https://www.saraiva.com.br/refatoracao-aperfeicoando-o-projeto-de-codigo-existente-3671050.html"
   },
   {
     "id": "B222",
@@ -2216,8 +2216,8 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=59076",
+    "url": "https://www.amazon.com.br/Object-Oriented-Programming-Kip-Irvine/dp/0023598522/ref=sr_1_4?s=books&ie=UTF8&qid=1510868565&sr=1-4&keywords=C%2B%2B+and+object-oriented+programming"
   },
   {
     "id": "B223",
@@ -2226,8 +2226,8 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=250253",
+    "url": "https://www.amazon.com.br/Implementation-Patterns-Kent-Beck/dp/0321413091/ref=sr_1_1?s=books&ie=UTF8&qid=1510868650&sr=1-1&keywords=Implementation+patterns"
   },
   {
     "id": "B224",
@@ -2236,8 +2236,8 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=245128",
+    "url": "https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?s=books&ie=UTF8&qid=1510868701&sr=1-1&keywords=Clean+code%3A+a+handbook+of+agile+software+craftsmanship"
   },
   {
     "id": "B225",
@@ -2246,8 +2246,8 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=279619",
+    "url": "https://www.amazon.com.br/Debugging-Indispensable-Software-Hardware-Problems-ebook/dp/B00PDDKQV2/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1510868883&sr=1-1-fkmr0&keywords=Debugging+the+nine+indispensable+rules+for+finding+even+the+most+elusive+software+and+hardware+problems"
   },
   {
     "id": "B226",
@@ -2256,8 +2256,8 @@
     "basica": "TRUE",
     "ano": 2004,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=240917",
+    "url": "https://www.amazon.com.br/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/ref=sr_1_1?s=books&ie=UTF8&qid=1510869157&sr=1-1&keywords=Domain-driven+design%3A+tackling+complexity+in+the+heart+of+software"
   },
   {
     "id": "B227",
@@ -2266,8 +2266,8 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=239836",
+    "url": "https://www.amazon.com.br/Head-First-Object-Oriented-Analysis-Design/dp/0596800797/ref=sr_1_3?s=books&ie=UTF8&qid=1510869404&sr=1-3&keywords=Head+First+Object-Oriented+Analysis+%26+Design"
   },
   {
     "id": "B228",
@@ -2276,8 +2276,8 @@
     "basica": "TRUE",
     "ano": 2002,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=251318",
+    "url": "https://www.amazon.com.br/Agile-Modeling-Effective-Practices-Programming/dp/6610314381/ref=sr_1_1?s=books&ie=UTF8&qid=1510869472&sr=1-1&keywords=Agile+modeling%3A+effective+practices+for+eXtreme+programming+and+the+unified+process"
   },
   {
     "id": "B229",
@@ -2287,17 +2287,17 @@
     "ano": 2015,
     "lingua": "en",
     "bc": "",
-    "url": ""
+    "url": "https://www.amazon.com.br/Patterns-Principles-Practices-Domain-Driven-Design-ebook/dp/B00XLYUA0W/ref=sr_1_1?s=books&ie=UTF8&qid=1510869530&sr=1-1&keywords=Principles+and+Practices+of+Domain-Driven+Design"
   },
   {
     "id": "B230",
-    "descricao": "FOWLER, M. Analysis patternsreusable object models. Addison-Wesley, 1997. ISBN 0201895420.",
+    "descricao": "FOWLER, M. Analysis patterns reusable object models. Addison-Wesley, 1997. ISBN 0201895420.",
     "tipo": 6,
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=55314",
+    "url": "https://www.amazon.com.br/Analysis-Patterns-Reusable-Addison-Wesley-Technology-ebook/dp/B0186FU89I/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1510869775&sr=1-1-fkmr0&keywords=Analysis+patternsreusable+object+models"
   },
   {
     "id": "B231",
@@ -2306,8 +2306,8 @@
     "basica": "FALSE",
     "ano": 1990,
     "lingua": "pt-BR",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=50407",
+    "url": "https://www.estantevirtual.com.br/sebotraca/sally-shlaer-e-stephen-mellor-analise-de-sistemas-orientada-para-objetos-106599030"
   },
   {
     "id": "B232",
@@ -2316,18 +2316,18 @@
     "basica": "FALSE",
     "ano": 1992,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=90485",
+    "url": "https://www.amazon.com.br/Behavior-Models-Specifying-Users-Expectations/dp/0132927152/ref=sr_1_1?s=books&ie=UTF8&qid=1510870010&sr=1-1&keywords=Behavior+models%3A+specifying+user%27s+expectations"
   },
   {
     "id": "B233",
-    "descricao": "WAGNER, F. Modeling software with finite state machinesa practical approach. Auerbach, 2006. ISBN 9780849380860",
+    "descricao": "WAGNER, F. Modeling software with finite state machines practical approach. Auerbach, 2006. ISBN 9780849380860",
     "tipo": 6,
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=234971",
+    "url": "https://www.amazon.com.br/Modeling-Software-Finite-State-Machines-ebook/dp/B009AI8KGE/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1510870060&sr=1-1-fkmr0&keywords=Modeling+software+with+finite+state+machinesa+practical+approach"
   },
   {
     "id": "B234",
@@ -2337,7 +2337,7 @@
     "ano": 2009,
     "lingua": "en",
     "bc": "",
-    "url": ""
+    "url": "https://www.amazon.com.br/Managing-Leading-Software-Projects-Richard-ebook/dp/B005PS4HW4/ref=sr_1_1?s=books&ie=UTF8&qid=1510870166&sr=1-1&keywords=Managing+and+Leading+Software+Projects"
   },
   {
     "id": "B235",
@@ -2347,7 +2347,7 @@
     "ano": 2008,
     "lingua": "en",
     "bc": "",
-    "url": ""
+    "url": "http://ieeexplore.ieee.org/document/4475826/?arnumber=4475826"
   },
   {
     "id": "B236",
@@ -2356,8 +2356,8 @@
     "basica": "TRUE",
     "ano": 2004,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=257636",
+    "url": "https://www.amazon.com/Agile-Iterative-Development-Managers-Guide/dp/0131111558"
   },
   {
     "id": "B237",
@@ -2366,8 +2366,8 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=93511",
+    "url": "https://www.amazon.com/Interpreting-CMMI-Process-Improvement-Approach/dp/0849316545/ref=sr_1_fkmr0_2?ie=UTF8&qid=1510870593&sr=8-2-fkmr0&keywords=Interpreting+the+CMMIa+process+improvement+approach"
   },
   {
     "id": "B238",
@@ -2376,8 +2376,8 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=241575",
+    "url": "https://www.amazon.com/Agile-Software-Development-Scrum/dp/0130676349/ref=sr_1_1?s=books&ie=UTF8&qid=1510870882&sr=1-1&keywords=Agile+software+development+with+Scrum&dpID=41Np7EWbZHL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B239",
@@ -2386,8 +2386,8 @@
     "basica": "FALSE",
     "ano": 1999,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=68327",
+    "url": "https://www.amazon.com/Cleanroom-Software-Engineering-Technology-Process/dp/0201854805/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1510870970&sr=1-1-fkmr0&keywords=Cleanroom+software+engineering+technology+and+process+Reading"
   },
   {
     "id": "B240",
@@ -2396,8 +2396,8 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=58838",
+    "url": "https://www.amazon.com/CMM-Implementation-Guide-Choreographing-Improvement/dp/B01FIWN57Y/ref=sr_1_2?s=books&ie=UTF8&qid=1510871472&sr=1-2&keywords=CMM+implementation+guide+choreographing+software+process+improvement&dpID=51K0NrVPBRL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B241",
@@ -2406,8 +2406,8 @@
     "basica": "FALSE",
     "ano": 1994,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=49006",
+    "url": "https://www.amazon.com/Debugging-Development-Process-Practical-Strategies/dp/1556156502/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1510871531&sr=1-1-fkmr0&keywords=Debugging+the+development+processpractical+strategies+for+staying+focused%2C+hitting+ship+dates%2C+and+building+solid+teams"
   },
   {
     "id": "B242",
@@ -2416,8 +2416,8 @@
     "basica": "TRUE",
     "ano": 2008,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=235475",
+    "url": "https://www.amazon.com/Head-First-Software-Development-Companion/dp/0596527357/ref=sr_1_1?s=books&ie=UTF8&qid=1510871585&sr=1-1&keywords=Head-First+Software+Development&dpID=5198b7x62lL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B243",
@@ -2426,8 +2426,8 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=239836",
+    "url": "https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678/ref=sr_1_1?s=books&ie=UTF8&qid=1510871687&sr=1-1&keywords=Head+First+Object-Oriented+Analysis+%26+Design&dpID=51mE7FBCw8L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B244",
@@ -2436,8 +2436,8 @@
     "basica": "TRUE",
     "ano": 1994,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "sophia.bc.ufg.br/index.php?codigo_sophia=14942",
+    "url": "https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-2nd/dp/0805353402/ref=sr_1_2?s=books&ie=UTF8&qid=1510871731&sr=1-2&keywords=Object-oriented+analysis+and+design+with+applications&dpID=51l8wcgd-RL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B245",
@@ -2447,7 +2447,7 @@
     "ano": 2010,
     "lingua": "pt-BR",
     "bc": "",
-    "url": ""
+    "url": "https://www.saraiva.com.br/analise-e-design-orientados-a-objetos-para-sistemas-de-informacao-9211151.html"
   },
   {
     "id": "B246",
@@ -2456,8 +2456,8 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=83035",
+    "url": "https://www.amazon.com/Business-Modeling-UML-Patterns-Work/dp/0471295515/ref=sr_1_1?s=books&ie=UTF8&qid=1510871964&sr=1-1&keywords=Business+modeling+with+UML%3A+business+patterns+at+work"
   },
   {
     "id": "B247",
@@ -2466,8 +2466,8 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
-    "bc": "",
-    "url": ""
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=63457",
+    "url": "https://www.amazon.com/Advanced-Object-Oriented-Analysis-Reference-Library/dp/052164819X/ref=sr_1_1?s=books&ie=UTF8&qid=1510249713&sr=1-1&keywords=Advanced+object-oriented+analysis+and+design+using+UML&dpID=41K%252B5WK8JzL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
     "id": "B248",
@@ -2476,7 +2476,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=245075",
     "url": "https://www.amazon.com/Agile-Software-Development-Alistair-Cockburn/dp/0201699699/ref=sr_1_2?ie=UTF8&qid=1510098556&sr=8-2&keywords=agile+software+development+cockburn"
   },
   {
@@ -2486,7 +2486,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=241575",
     "url": "https://www.amazon.com/Agile-Software-Development-Scrum/dp/0130676349/ref=sr_1_1?s=books&ie=UTF8&qid=1510098477&sr=1-1&keywords=Agile+software+development+with+Scrum&dpID=41Np7EWbZHL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2506,7 +2506,7 @@
     "basica": "TRUE",
     "ano": 2004,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=240838",
     "url": "https://www.amazon.com/Software-Quality-Assurance-Theory-Implementation/dp/0201709457/ref=sr_1_1?s=books&ie=UTF8&qid=1510098407&sr=1-1&keywords=Software+Quality+Assurance%3A+From+Theory+to+Implementation&dpID=51I5xsnpifL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2516,7 +2516,7 @@
     "basica": "TRUE",
     "ano": 1996,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=56909",
     "url": "https://www.amazon.com/C-Software-Quality-Tools/dp/0134451236/ref=sr_1_8?s=books&ie=UTF8&qid=1510098368&sr=1-8&keywords=C%2FC%2B%2B+software+quality+tools"
   },
   {
@@ -2526,7 +2526,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=276296",
     "url": "https://novatec.com.br/livros/qualidade-de-software-2ed/"
   },
   {
@@ -2536,7 +2536,7 @@
     "basica": "FALSE",
     "ano": 2015,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=306554",
     "url": "http://www.academia.edu/6542351/Desenho_e_implementa%C3%A7%C3%A3o_de_instrumentos_de_pol%C3%ADticas_p%C3%BAblicas_para_o_setor_de_tecnologias_da_informa%C3%A7%C3%A3o_e_comunica%C3%A7%C3%A3o_o_caso_da_Certifica%C3%A7%C3%A3o_de_Tecnologia_e_Inova%C3%A7%C3%A3o_em_Software_no_pa%C3%ADs_-CERTICS"
   },
   {
@@ -2546,7 +2546,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=59110",
     "url": "https://www.amazon.com/Engineering-Complex-Systems-Models-Objects/dp/0070481881/ref=sr_1_1?s=books&ie=UTF8&qid=1510098015&sr=1-1&keywords=Engineering+complex+systems+with+models+and+objects&dpID=519HA1GEBJL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2556,7 +2556,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=84046",
     "url": "https://www.amazon.com/Metrics-Models-Software-Quality-Engineering/dp/0201729156/ref=sr_1_1?s=books&ie=UTF8&qid=1510097985&sr=1-1&keywords=Metrics+and+models+in+software+quality+engineering"
   },
   {
@@ -2566,7 +2566,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=128950",
     "url": "https://www.saraiva.com.br/garantia-de-qualidade-de-software-117097.html"
   },
   {
@@ -2576,7 +2576,7 @@
     "basica": "TRUE",
     "ano": 2012,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=307244",
     "url": "https://www.saraiva.com.br/um-guia-do-conhecimento-em-gerenciamento-de-projetos-guia-pmbokr-5-ed-2014-7076153.html"
   },
   {
@@ -2596,7 +2596,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=245084",
     "url": "https://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415/ref=sr_1_1?s=books&ie=UTF8&qid=1510097801&sr=1-1&keywords=Agile+estimating+and+planning&dpID=51I7-xMCQDL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2616,7 +2616,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=245078",
     "url": "https://www.amazon.com/Agile-Project-Management-Creating-Innovative/dp/0321658396/ref=sr_1_2?s=books&ie=UTF8&qid=1510097714&sr=1-2&keywords=Agile+project+management%3A+creating+innovative+products&dpID=41Np7RGJmDL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2626,7 +2626,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=241574",
     "url": "https://www.amazon.com/Agile-Project-Management-Developer-Practices/dp/073561993X/ref=sr_1_3?s=books&ie=UTF8&qid=1510097667&sr=1-3&keywords=Agile+project+management+with+Scrum&dpID=51G-Vkd-beL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2636,7 +2636,7 @@
     "basica": "FALSE",
     "ano": 1991,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=90516",
     "url": "https://books.google.com.br/books/about/Controle_de_projetos_de_software.html?id=iS6tkgEACAAJ&redir_esc=y"
   },
   {
@@ -2646,7 +2646,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=132240",
     "url": "https://www.estantevirtual.com.br/livros/jose-carlos-cordeiro-martins/gerenciando-projetos-de-desenvolvimento-de-software-com-pmi-rup-e-uml/84371505"
   },
   {
@@ -2656,7 +2656,7 @@
     "basica": "TRUE",
     "ano": 2011,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=57329",
     "url": "https://www.amazon.com/Software-Design-2nd-David-Budgen/dp/0201722194/ref=sr_1_1?s=books&ie=UTF8&qid=1510097433&sr=1-1&keywords=Software+Design+budgen"
   },
   {
@@ -2676,7 +2676,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=251370",
     "url": "https://www.amazon.com/Agile-Documentation-Producing-Lightweight-Documents/dp/0470856173/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1510097035&sr=1-1-spell&keywords=Agile+documentationa+pattern+guide+to+producing+lightweight+documents"
   },
   {
@@ -2686,7 +2686,7 @@
     "basica": "FALSE",
     "ano": 2015,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=251370",
     "url": "https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709/ref=sr_1_1?s=books&ie=UTF8&qid=1510097007&sr=1-1&keywords=Patterns%2C+Principles%2C+and+Practices+of+Domain-Driven+Design&dpID=51Mgnej8jrL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2696,7 +2696,7 @@
     "basica": "FALSE",
     "ano": 1999,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=61093",
     "url": "https://www.estantevirtual.com.br/eldoradolivros/edward-yourdon-e-carl-argila-analise-e-projeto-orientados-a-objetos-142592969"
   },
   {
@@ -2706,7 +2706,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=59104",
     "url": "https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1510096810&sr=1-1-spell&keywords=Applyng+UML+and+patternsan+introduction+to+object-oriented+analysis+and+design"
   },
   {
@@ -2716,7 +2716,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=240917",
     "url": "https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1510096756&sr=1-1-fkmr0&keywords=Domain-driven+design%3A+tackling+complexity+in+the+heart+of+software+Boston"
   },
   {
@@ -2726,7 +2726,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=105166",
     "url": "https://www.amazon.com/Object-Oriented-Design-Patterns-Cay-Horstmann/dp/0471744875/ref=sr_1_3?s=books&ie=UTF8&qid=1510096715&sr=1-3&keywords=Object-oriented+design+%26+patterns&dpID=51I7p4lniQL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2756,7 +2756,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=124665",
     "url": "http://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=196436"
   },
   {
@@ -2776,7 +2776,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=98834",
     "url": "https://www.amazon.com/Advances-Software-Engineering-Comprehension-Evaluation/dp/1441928782/ref=sr_1_1?s=books&ie=UTF8&qid=1510095700&sr=1-1&keywords=Advances+in+software+engineering+comprehension%2C+evaluation%2C+and+evolution&dpID=51dNWr0r37L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2786,7 +2786,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=245130",
     "url": "https://www.amazon.com/Configuration-Management-Principles-Practice-Jonassen/dp/0321117662/ref=sr_1_1?s=books&ie=UTF8&qid=1510095667&sr=1-1&keywords=Configuration+management+principles+and+practice&dpID=517DFCHYDAL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2796,7 +2796,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=84272",
     "url": "https://www.amazon.com/Enterprise-Modeling-UML-Designing-Successful/dp/0201433133/ref=sr_1_2?s=books&ie=UTF8&qid=1510095620&sr=1-2&keywords=Enterprise+modeling+with+UML&dpID=51Q9XD4C3NL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2806,7 +2806,7 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=206548",
     "url": "http://www.cgee.org.br/atividades/redirect.php?idProduto=1903"
   },
   {
@@ -2816,7 +2816,7 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=59021",
     "url": "https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734/ref=sr_1_1?s=books&ie=UTF8&qid=1510095511&sr=1-1&keywords=Software+Architecture+in+Practice&dpID=51zvT3LdPSL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2836,7 +2836,7 @@
     "basica": "TRUE",
     "ano": 2002,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=90498",
     "url": "https://www.estantevirtual.com.br/livros/antonio-mendes/arquitetura-de-software/4240099968"
   },
   {
@@ -2856,7 +2856,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=105257",
     "url": "https://www.amazon.com/Architecting-RM-ODP-Janis-R-Putman/dp/0130191167/ref=sr_1_1?s=books&ie=UTF8&qid=1510095325&sr=1-1&keywords=Architecting+with+RM-ODP&dpID=51K0PN3T9PL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2866,7 +2866,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=68289",
     "url": "https://www.amazon.com/Component-Based-Software-Engineering-Putting-Together/dp/0201704854/ref=sr_1_1?s=books&ie=UTF8&qid=1510095295&sr=1-1&keywords=Component-based+software+engineering%3A+putting+the+pieces+together&dpID=41HMX6P4WYL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2876,7 +2876,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=251615",
     "url": "https://www.amazon.com/Design-Use-Software-Architectures-Product-Line/dp/0201674947/ref=sr_1_1?s=books&ie=UTF8&qid=1510095261&sr=1-1&keywords=Design+and+use+of+software+architectures%3A+adopting+and+evolving+a+product-line+approach&dpID=51XSXD3KbuL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2886,7 +2886,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=113590",
     "url": "https://www.amazon.com/Expert-One-One-Development-without/dp/0764558315/ref=sr_1_1?s=books&ie=UTF8&qid=1510095233&sr=1-1&keywords=Expert+one-on-one+J2EE+development+without+EJB&dpID=51k7%252BLvggJL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2896,7 +2896,7 @@
     "basica": "TRUE",
     "ano": 2013,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=245129",
     "url": "https://www.amazon.com/Software-Requirements-Developer-Best-Practices/dp/0735679665/ref=sr_1_1?s=books&ie=UTF8&qid=1510095172&sr=1-1&keywords=Software+Requirements&dpID=5106aWpXVVL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2916,7 +2916,7 @@
     "basica": "TRUE",
     "ano": 2001,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=68585",
     "url": "https://www.amazon.com/Applying-Use-Cases-Practical-Guide/dp/0201708531/ref=sr_1_1?s=books&ie=UTF8&qid=1510095108&sr=1-1&keywords=Applying+use+cases%3A+a+practical+guide&dpID=41JGWQZ4P1L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2926,7 +2926,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=249987",
     "url": "https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258/ref=sr_1_1?s=books&ie=UTF8&qid=1510095075&sr=1-1&keywords=Writing+Effective+Use+Cases"
   },
   {
@@ -2936,7 +2936,7 @@
     "basica": "FALSE",
     "ano": 1990,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=50407",
     "url": "https://www.estantevirtual.com.br/livros/sally-shlaer-stephen-j-mellor/analise-de-sistemas-orientada-para-objetos/805636763"
   },
   {
@@ -2946,7 +2946,7 @@
     "basica": "FALSE",
     "ano": 2001,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=68249",
     "url": "https://www.amazon.com/Advanced-Use-Case-Modeling-Software/dp/0201615924/ref=sr_1_1?s=books&ie=UTF8&qid=1510094989&sr=1-1&keywords=Advanced+use+case+modeling%3A+software+systems"
   },
   {
@@ -2956,7 +2956,7 @@
     "basica": "FALSE",
     "ano": 1996,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=46605",
     "url": "https://www.estantevirtual.com.br/livros/peter-coad-edward-yourdon/analise-baseada-em-objetos/2697772926"
   },
   {
@@ -2966,7 +2966,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=251304",
     "url": "https://www.amazon.com/More-About-Software-Requirements-Practical/dp/0735622671/ref=sr_1_1?s=books&ie=UTF8&qid=1510094835&sr=1-1&keywords=More+about+software+requirements%3A+thorny+issues&dpID=51JjRN1DwDL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -2996,7 +2996,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=132284",
     "url": "https://www.saraiva.com.br/ajax-guia-de-programacao-1568542.html"
   },
   {
@@ -3016,7 +3016,7 @@
     "basica": "FALSE",
     "ano": 2010,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=268624",
     "url": "https://www.saraiva.com.br/ergonomia-e-usabilidade-conhecimentos-metodos-e-aplicacoes-3-ed-2015-9209593.html"
   },
   {
@@ -3026,7 +3026,7 @@
     "basica": "FALSE",
     "ano": 1991,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=90513",
     "url": "https://www.amazon.com/Developing-Software-User-Interface-Engineering/dp/0201510464/ref=sr_1_6?s=books&ie=UTF8&qid=1510094609&sr=1-6&keywords=Developing+software+for+the+user+interface"
   },
   {
@@ -3036,7 +3036,7 @@
     "basica": "FALSE",
     "ano": 1993,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=90706",
     "url": "https://www.amazon.com/Developing-User-Interfaces-Usability-Professional/dp/0471578134/ref=sr_1_1?s=books&ie=UTF8&qid=1510094571&sr=1-1&keywords=Developing+user+interfaces%3A+ensuring+usability+through+product&dpID=51WPV50J26L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3046,7 +3046,7 @@
     "basica": "FALSE",
     "ano": 1998,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=59773",
     "url": "https://www.amazon.com/Developing-User-Interfaces-Interactive-Technologies/dp/1558604189/ref=sr_1_1?s=books&ie=UTF8&qid=1510094540&sr=1-1&keywords=Developing+user+interfaces&dpID=41Cd%252BbnuQNL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3076,7 +3076,7 @@
     "basica": "TRUE",
     "ano": 1995,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=51080",
     "url": "https://www.amazon.com/Designing-Building-Parallel-Programs-Engineering/dp/0201575949/ref=sr_1_1?s=books&ie=UTF8&qid=1510094440&sr=1-1&keywords=Designing+and+building+parallel+programs&dpID=51t0-JjslgL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3096,7 +3096,7 @@
     "basica": "FALSE",
     "ano": 1997,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=59131",
     "url": "https://www.amazon.com/Client-Server-Beyond-Strategies-Century/dp/0135325161/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1510094329&sr=1-1-spell&keywords=Client%2Fserver+%26+beyound+strategies+for+21st+century"
   },
   {
@@ -3106,7 +3106,7 @@
     "basica": "FALSE",
     "ano": 1993,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=23546",
     "url": "https://www.amazon.com/Development-Distributed-Software-Concepts-Tools/dp/0024096113/ref=sr_1_5?s=books&ie=UTF8&qid=1510094294&sr=1-5&keywords=Development+of+distributed+software+concepts+and+tools&dpID=41qaBR2fAQL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3116,7 +3116,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=98760",
     "url": "https://www.amazon.com/Fundamentals-Object-Oriented-Design-Meilir-Page-Jones/dp/020169946X/ref=sr_1_1?s=books&ie=UTF8&qid=1510094268&sr=1-1&keywords=Fundamentals+of+object-oriented+design+in+UML&dpID=51VNXZ4EEAL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3126,7 +3126,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=132209",
     "url": "https://www.amazon.com/Introduction-Reliable-Secure-Distributed-Programming/dp/3642152597/ref=sr_1_1?s=books&ie=UTF8&qid=1510094240&sr=1-1&keywords=Introduction+to+reliable+distributed+programming&dpID=41aHrbARF0L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3136,7 +3136,7 @@
     "basica": "TRUE",
     "ano": 2002,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=98754",
     "url": "https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?s=books&ie=UTF8&qid=1510094214&sr=1-1&keywords=Patterns+of+Enterprise+Application+Architecture&dpID=51IuDvAU1CL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3156,7 +3156,7 @@
     "basica": "TRUE",
     "ano": 2001,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=98713",
     "url": "https://www.amazon.com/Pattern-Oriented-Software-Architecture-System-Patterns/dp/0471958697/ref=sr_1_1?s=books&ie=UTF8&qid=1510094155&sr=1-1&keywords=Pattern-oriented+software+architecture&dpID=514m0AzqWLL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3176,7 +3176,7 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=57328",
     "url": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1510094100&sr=1-1&keywords=Design+patterns+elements+of+reusable+object-oriented+software"
   },
   {
@@ -3186,7 +3186,7 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=117672",
     "url": "https://www.amazon.com/Design-Patterns-Explained-Perspective-Oriented/dp/0321247140/ref=sr_1_1?s=books&ie=UTF8&qid=1510094069&sr=1-1&keywords=Design+patterns+explained%3A+a+new+perspective+on+object-oriented+design&dpID=51eaSXNpF%252BL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3196,7 +3196,7 @@
     "basica": "FALSE",
     "ano": 1995,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=56622",
     "url": "https://www.amazon.com/Design-Patterns-Object-Oriented-Software-Development/dp/0201422948/ref=sr_1_1?s=books&ie=UTF8&qid=1510094033&sr=1-1&keywords=Design+patterns+pree"
   },
   {
@@ -3206,7 +3206,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=116039",
     "url": "https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=sr_1_1?s=books&ie=UTF8&qid=1510093967&sr=1-1&keywords=Head+First+design+patterns&dpID=61APhXCksuL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3236,7 +3236,7 @@
     "basica": "TRUE",
     "ano": 2001,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=68291",
     "url": "https://www.amazon.com/Practical-Guide-Testing-Object-Oriented-Software/dp/0201325640/ref=sr_1_1?s=books&ie=UTF8&qid=1510093883&sr=1-1&keywords=A+practical+guide+to+testing+object-oriented+software&dpID=51DzSwcU5KL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3246,7 +3246,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=245068",
     "url": "https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054/ref=sr_1_1?s=books&ie=UTF8&qid=1510093852&sr=1-1&keywords=xUnit+test+patterns%3A+refactoring+test+code&dpID=517GxwaFMvL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3256,7 +3256,7 @@
     "basica": "FALSE",
     "ano": 2000,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=66390",
     "url": "https://www.amazon.com/Client-Server-Software-Testing-Desktop/dp/0131838806/ref=sr_1_1?s=books&ie=UTF8&qid=1510093818&sr=1-1&keywords=Client-server+software+testing+on+the+desktop+and+the+Web&dpID=51WF79JVSSL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3266,7 +3266,7 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=105034",
     "url": "https://www.amazon.com/Component-Based-Software-Testing-Hans-Gerhard-Gross-ebook/dp/B000PY3VZC/ref=sr_1_2?s=books&ie=UTF8&qid=1510093788&sr=1-2&keywords=Component-based+software+testing+with+UML"
   },
   {
@@ -3276,7 +3276,7 @@
     "basica": "FALSE",
     "ano": 1999,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=61740",
     "url": "https://www.amazon.com/Effective-Methods-Software-Testing-Guidelines/dp/0764598376/ref=sr_1_1?s=books&ie=UTF8&qid=1510093761&sr=1-1&keywords=Effective+methods+for+software+testing&dpID=51UoDS8pMFL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3286,7 +3286,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=105163",
     "url": "https://www.amazon.com/Effective-Software-Test-Automation-Developing/dp/0782143202/ref=sr_1_1?s=books&ie=UTF8&qid=1510093728&sr=1-1&keywords=Effective+software+test+automation+developing+an+automated&dpID=516-ixYhn8L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3296,7 +3296,7 @@
     "basica": "TRUE",
     "ano": 2006,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=242285",
     "url": "https://www.amazon.com/Software-Security-Building-Gary-McGraw/dp/0321356705"
   },
   {
@@ -3316,7 +3316,7 @@
     "basica": "TRUE",
     "ano": 2001,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=84611",
     "url": "https://www.amazon.com/Introduction-Design-Small-Scale-Embedded-Systems/dp/0333929942/ref=sr_1_1?s=books&ie=UTF8&qid=1510093576&sr=1-1&keywords=An+introduction+to+the+design+of+small-scale+embedded+systems&dpID=41dMYT6KMHL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3336,7 +3336,7 @@
     "basica": "FALSE",
     "ano": 2005,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=254768",
     "url": "https://www.amazon.com/Deadly-Sins-Software-Security-Programming/dp/0072260858/ref=sr_1_1?s=books&ie=UTF8&qid=1510093513&sr=1-1&keywords=19+deadly+sins+of+software"
   },
   {
@@ -3346,7 +3346,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=305434",
     "url": "https://www.saraiva.com.br/dominando-o-desenvolvimento-no-iphone-explorando-o-sdk-do-iphone-3-ed-2014-7873704.html"
   },
   {
@@ -3356,7 +3356,7 @@
     "basica": "FALSE",
     "ano": 2002,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=286165",
     "url": "https://www.amazon.com/Embedded-System-Design-Hardware-Introduction/dp/0471386782/ref=sr_1_1?s=books&ie=UTF8&qid=1510093078&sr=1-1&keywords=Embedded+system+design%3A+a+unified+hardware%2Fsoftware+introduction&dpID=51Xj-9wyGgL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3366,7 +3366,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=248943",
     "url": "https://www.amazon.com/Foundations-Security-Every-Programmer-Experts/dp/1590597842/ref=sr_1_1?s=books&ie=UTF8&qid=1510093037&sr=1-1&keywords=Foundations+of+security%3A+what+every+programmer+needs+to+know&dpID=51it2qilGxL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3396,7 +3396,7 @@
     "basica": "TRUE",
     "ano": 2003,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=92495",
     "url": "https://www.amazon.com/Agile-Database-Techniques-Effective-Strategies/dp/0471202835/ref=sr_1_1?s=books&ie=UTF8&qid=1510092899&sr=1-1&keywords=Agile+database+techniques%3A+effective+strategies+for+the+agile+software+developer&dpID=51%252BciDz-aqL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3416,7 +3416,7 @@
     "basica": "FALSE",
     "ano": 1989,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=59514",
     "url": ""
   },
   {
@@ -3426,7 +3426,7 @@
     "basica": "FALSE",
     "ano": 1999,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=90493",
     "url": "https://www.amazon.com/Building-Distributed-Applications-William-Martiner/dp/0471317012/ref=sr_1_1?s=books&ie=UTF8&qid=1510092749&sr=1-1&keywords=building+distributed+applications+with+ado"
   },
   {
@@ -3436,7 +3436,7 @@
     "basica": "FALSE",
     "ano": 2007,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=130016",
     "url": "https://www.amazon.com.br/Java-Persistence-Hibernate-Christian-Bauer/dp/8573936142"
   },
   {
@@ -3446,7 +3446,7 @@
     "basica": "FALSE",
     "ano": 2008,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=239882",
     "url": "http://loja.grupoa.com.br/livros/fundamentos-da-computacao-e-tecnologia-da-informacao/projeto-desenvolvimento-de-aplicacoes-e-administracao-de-banco-de-dados/9788577260201"
   },
   {
@@ -3456,7 +3456,7 @@
     "basica": "TRUE",
     "ano": 2015,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=265404",
     "url": "https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038/ref=sr_1_1?s=books&ie=UTF8&qid=1510092612&sr=1-1&keywords=software+engineering+sommerville&dpID=61GMYPmO%252BrL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3466,7 +3466,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "en",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=92863",
     "url": "https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?ie=UTF8&qid=1510092349&sr=8-1&keywords=code+complete+3rd+edition&dpID=51FUYfErOXL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch"
   },
   {
@@ -3476,7 +3476,7 @@
     "basica": "TRUE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=298148",
     "url": "https://www.saraiva.com.br/engenharia-de-software-fundamentos-metodos-e-padroes-3-ed-2009-2638301.html"
   },
   {
@@ -3486,7 +3486,7 @@
     "basica": "FALSE",
     "ano": 2014,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=272214",
     "url": "https://www.saraiva.com.br/engenharia-de-software-uma-abordagem-profissional-8-ed-2016-9259039.html"
   },
   {
@@ -3496,7 +3496,7 @@
     "basica": "FALSE",
     "ano": 2009,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=240719",
     "url": "https://www.saraiva.com.br/engenharia-de-software-os-paradigmas-classico-e-orientado-a-objetos-3527948.html"
   },
   {
@@ -3506,7 +3506,7 @@
     "basica": "FALSE",
     "ano": 2004,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=88981",
     "url": "https://www.saraiva.com.br/engenharia-de-software-teoria-e-pratica-142344.html"
   },
   {
@@ -3516,7 +3516,7 @@
     "basica": "FALSE",
     "ano": 2003,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=67734",
     "url": "https://www.estantevirtual.com.br/seboelojao/james-f-peters-witold-pedrycz-engenharia-de-software-teoria-e-pratica-766964901"
   },
   {
@@ -3526,7 +3526,7 @@
     "basica": "FALSE",
     "ano": 2006,
     "lingua": "pt-BR",
-    "bc": "",
+    "bc": "https://sophia.bc.ufg.br/index.php?codigo_sophia=132062",
     "url": "https://www.saraiva.com.br/engenharia-de-software-aplicada-principios-1446310.html"
   }
 ]
